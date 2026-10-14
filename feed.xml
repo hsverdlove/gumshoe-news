@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
+<itunes:image href="https://hsverdlove.github.io/gumshoe-news/cover.jpg"/><image><url>https://hsverdlove.github.io/gumshoe-news/cover.jpg</url><title>Gumshoe News</title><link>https://hsverdlove.github.io/gumshoe-news/</link></image>
 <title>Gumshoe News Radio (Harry)</title><link>https://hsverdlove.github.io/gumshoe-news/</link><language>en-us</language>
 <atom:link href="https://hsverdlove.github.io/gumshoe-news/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Private AM-radio-style news bulletins for Londonderry, NH.</description>

@@ -13,6 +13,7 @@ for i,(k,t) in enumerate(titles.items()):
 <pubDate>{pub}</pubDate><itunes:duration>{int(round(d))}</itunes:duration><itunes:episode>{i+1}</itunes:episode><itunes:explicit>false</itunes:explicit></item>""")
 open("feed.xml","w").write(f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
+<itunes:image href="{base}/cover.jpg"/><image><url>{base}/cover.jpg</url><title>Gumshoe News</title><link>{base}/</link></image>
 <title>Gumshoe News Radio (Harry)</title><link>{base}/</link><language>en-us</language>
 <atom:link href="{base}/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Private AM-radio-style news bulletins for Londonderry, NH.</description>
