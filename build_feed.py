@@ -9,7 +9,7 @@ for i,(k,t) in enumerate(titles.items()):
     desc=open(f"txt/{k}.txt").read().strip()
     pub=email.utils.format_datetime(now+datetime.timedelta(minutes=6-i))  # earlier segments newer so app lists in order
     items.append(f"""<item><title>{escape(f"Oct 14 PM - {i+1}. {t}")}</title><description>{escape(desc)}</description>
-<enclosure url="{base}/{f}" length="{os.path.getsize(f)}" type="audio/mpeg"/><guid isPermaLink="false">gumshoe-20261014-pm-{k}</guid>
+<enclosure url="{base}/{f}?v=2" length="{os.path.getsize(f)}" type="audio/mpeg"/><guid isPermaLink="false">gumshoe-20261014-pm-{k}-ava-v2</guid>
 <pubDate>{pub}</pubDate><itunes:duration>{int(round(d))}</itunes:duration><itunes:episode>{i+1}</itunes:episode><itunes:explicit>false</itunes:explicit></item>""")
 open("feed.xml","w").write(f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
