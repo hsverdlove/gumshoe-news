@@ -6,6 +6,42 @@
 <itunes:author>Gumshoe</itunes:author><itunes:explicit>false</itunes:explicit><itunes:block>Yes</itunes:block>
 <itunes:image href="https://hsverdlove.github.io/gumshoe-news/cover.jpg"/><image><url>https://hsverdlove.github.io/gumshoe-news/cover.jpg</url><title>Gumshoe News Radio (Harry)</title><link>https://hsverdlove.github.io/gumshoe-news/</link></image>
 <itunes:category text="News"/><itunes:type>episodic</itunes:type>
+<item><title>Thursday 10 AM Update, Oct 15</title><description>The 10 AM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the 9:20 drive edition. Anchor Ava, with Andrew at the business and tech desk.
+
+Chapters:
+0:00 Open &amp; Weather
+1:33 US News
+3:00 International
+4:18 Markets In Depth
+6:36 Technology
+7:43 Artificial Intelligence
+8:24 Cybersecurity
+9:21 From Your X Feed
+10:54 Local News &amp; Events
+11:26 Uplifting Story
+
+Sources:
+- NWS api.weather.gov forecast for 42.8435,-71.3809
+- NWS api.weather.gov forecast for location.json (Londonderry, NH)
+- WSJ, "White House Press Secretary Katie Zacharia Didn't Pass Bar Exam" (Oct 15); The Hill, "Katie Zacharia says she misheard question on where she took bar exam"; Forbes Oct 15
+- NBC News Morning Rundown Oct 15 (GOP tariff breaks incl. Collins, Sununu, Rogers; Apple HomeView; Six Flags Goliath findings; sunscreen; Peshawar; Ukraine/Musk)
+- Dawn, Arab News, ARY News, AP, BBC on Peshawar school roof collapse (Oct 15)
+- The Independent Bulletin AM briefing Oct 15 (Zelensky on Starlink); Middle East Eye morning update Oct 15 (Iran, Hormuz)
+- WSJ live markets Oct 15 9:38 AM ET; Il Sole 24 Ore, "Wall Street: mixed opening"; Schwab "Stocks Slip Early After Wholesale Inflation Surges" (Oct 15, yields, FedWatch 34%, movers, Warsh); Axios, "AI tremors felt in corporate bond market" (CoreWeave)
+- Charles Schwab, PNC, and U.S. Bancorp Q3 2026 earnings releases (Oct 15)
+- Reuters via Yahoo Finance/Investing.com, "Tesla set to unveil next generation Roadster"; electronmotion.com event timing
+- Semafor via X (Meta data center tax credit)
+- Axios, CBS News, WSJ (FTC subpoenas OpenAI and Anthropic, Oct 15); AP-NORC poll via CBS
+- CSO Online, "Attackers exploit Palo Alto PAN-OS flaw" (CVE-2026-0322); CISA KEV alert Oct 14
+- The Register, Al Jazeera (X suspends 13,000 accounts)
+- Harry's X home timeline Oct 15 9:30-9:56 AM ET (@VivekGRamaswamy, @BasedMikeLee, @RapidResponse47, @kimmonismus, @BrianRoemmele, @Variety, @esaagar, @semafor)
+- londonderryhistory.org events
+- London Zoo / ZSL, BBC, Metro (Afia Birago's puddle frog breeding)</description>
+<content:encoded><![CDATA[The 10 AM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the 9:20 drive edition. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>1:33 US News<br/>3:00 International<br/>4:18 Markets In Depth<br/>6:36 Technology<br/>7:43 Artificial Intelligence<br/>8:24 Cybersecurity<br/>9:21 From Your X Feed<br/>10:54 Local News & Events<br/>11:26 Uplifting Story<br/><br/>Sources:<br/>- NWS api.weather.gov forecast for 42.8435,-71.3809<br/>- NWS api.weather.gov forecast for location.json (Londonderry, NH)<br/>- WSJ, "White House Press Secretary Katie Zacharia Didn't Pass Bar Exam" (Oct 15); The Hill, "Katie Zacharia says she misheard question on where she took bar exam"; Forbes Oct 15<br/>- NBC News Morning Rundown Oct 15 (GOP tariff breaks incl. Collins, Sununu, Rogers; Apple HomeView; Six Flags Goliath findings; sunscreen; Peshawar; Ukraine/Musk)<br/>- Dawn, Arab News, ARY News, AP, BBC on Peshawar school roof collapse (Oct 15)<br/>- The Independent Bulletin AM briefing Oct 15 (Zelensky on Starlink); Middle East Eye morning update Oct 15 (Iran, Hormuz)<br/>- WSJ live markets Oct 15 9:38 AM ET; Il Sole 24 Ore, "Wall Street: mixed opening"; Schwab "Stocks Slip Early After Wholesale Inflation Surges" (Oct 15, yields, FedWatch 34%, movers, Warsh); Axios, "AI tremors felt in corporate bond market" (CoreWeave)<br/>- Charles Schwab, PNC, and U.S. Bancorp Q3 2026 earnings releases (Oct 15)<br/>- Reuters via Yahoo Finance/Investing.com, "Tesla set to unveil next generation Roadster"; electronmotion.com event timing<br/>- Semafor via X (Meta data center tax credit)<br/>- Axios, CBS News, WSJ (FTC subpoenas OpenAI and Anthropic, Oct 15); AP-NORC poll via CBS<br/>- CSO Online, "Attackers exploit Palo Alto PAN-OS flaw" (CVE-2026-0322); CISA KEV alert Oct 14<br/>- The Register, Al Jazeera (X suspends 13,000 accounts)<br/>- Harry's X home timeline Oct 15 9:30-9:56 AM ET (@VivekGRamaswamy, @BasedMikeLee, @RapidResponse47, @kimmonismus, @BrianRoemmele, @Variety, @esaagar, @semafor)<br/>- londonderryhistory.org events<br/>- London Zoo / ZSL, BBC, Metro (Afia Birago's puddle frog breeding)]]></content:encoded>
+<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-15-10am.mp3?v=20261015T1012" length="5995477" type="audio/mpeg"/>
+<guid isPermaLink="false">gumshoe-2026-10-15-10am-20261015T1012</guid><pubDate>Thu, 15 Oct 2026 10:12:19 -0400</pubDate>
+<itunes:duration>734</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
+<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-15-10am.chapters.json?v=20261015T1012" type="application/json+chapters"/></item>
 <item><title>Thursday Drive Edition, Oct 15</title><description>A 20-minute drive-time edition of Gumshoe News Radio for Thursday, October 15, 2026, updated about 9:20 AM ET. Anchor Ava, with Andrew at the business and tech desk.
 
 Chapters:

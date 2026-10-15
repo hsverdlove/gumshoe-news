@@ -1,5 +1,13 @@
 [
  {
+  "slug": "2026-10-15-10am",
+  "title": "Thursday 10 AM Update, Oct 15",
+  "pub": "2026-10-15T10:12:19.056038-04:00",
+  "duration": 734,
+  "size": 5995477,
+  "description": "The 10 AM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the 9:20 drive edition. Anchor Ava, with Andrew at the business and tech desk.\n\nChapters:\n0:00 Open & Weather\n1:33 US News\n3:00 International\n4:18 Markets In Depth\n6:36 Technology\n7:43 Artificial Intelligence\n8:24 Cybersecurity\n9:21 From Your X Feed\n10:54 Local News & Events\n11:26 Uplifting Story\n\nSources:\n- NWS api.weather.gov forecast for 42.8435,-71.3809\n- NWS api.weather.gov forecast for location.json (Londonderry, NH)\n- WSJ, \"White House Press Secretary Katie Zacharia Didn't Pass Bar Exam\" (Oct 15); The Hill, \"Katie Zacharia says she misheard question on where she took bar exam\"; Forbes Oct 15\n- NBC News Morning Rundown Oct 15 (GOP tariff breaks incl. Collins, Sununu, Rogers; Apple HomeView; Six Flags Goliath findings; sunscreen; Peshawar; Ukraine/Musk)\n- Dawn, Arab News, ARY News, AP, BBC on Peshawar school roof collapse (Oct 15)\n- The Independent Bulletin AM briefing Oct 15 (Zelensky on Starlink); Middle East Eye morning update Oct 15 (Iran, Hormuz)\n- WSJ live markets Oct 15 9:38 AM ET; Il Sole 24 Ore, \"Wall Street: mixed opening\"; Schwab \"Stocks Slip Early After Wholesale Inflation Surges\" (Oct 15, yields, FedWatch 34%, movers, Warsh); Axios, \"AI tremors felt in corporate bond market\" (CoreWeave)\n- Charles Schwab, PNC, and U.S. Bancorp Q3 2026 earnings releases (Oct 15)\n- Reuters via Yahoo Finance/Investing.com, \"Tesla set to unveil next generation Roadster\"; electronmotion.com event timing\n- Semafor via X (Meta data center tax credit)\n- Axios, CBS News, WSJ (FTC subpoenas OpenAI and Anthropic, Oct 15); AP-NORC poll via CBS\n- CSO Online, \"Attackers exploit Palo Alto PAN-OS flaw\" (CVE-2026-0322); CISA KEV alert Oct 14\n- The Register, Al Jazeera (X suspends 13,000 accounts)\n- Harry's X home timeline Oct 15 9:30-9:56 AM ET (@VivekGRamaswamy, @BasedMikeLee, @RapidResponse47, @kimmonismus, @BrianRoemmele, @Variety, @esaagar, @semafor)\n- londonderryhistory.org events\n- London Zoo / ZSL, BBC, Metro (Afia Birago's puddle frog breeding)"
+ },
+ {
   "slug": "2026-10-15-drive",
   "title": "Thursday Drive Edition, Oct 15",
   "pub": "2026-10-15T09:33:37.268714-04:00",

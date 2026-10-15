@@ -1,0 +1,76 @@
+// Gumshoe script format: see README.md
+# title: Thursday 10 AM Update, Oct 15
+# description: The 10 AM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the 9:20 drive edition. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning, and welcome to the ten o'clock update of Gumshoe News Radio. It's Thursday, October fifteenth. I'm Ava, with Andrew at the business and tech desk, and this hour we're focused on what's new since our drive edition: the opening bell, a fresh look at your X feed, and a few developing stories.
+[andrew] Morning again, Ava. The market's been open about half an hour, and it's been eventful.
+[ava] First, the latest forecast.
+@weather
+[ava] So, a sunny, dry day to get outside, and plan on showers tomorrow morning.
+
+## US News | sting=us
+[ava] Here at home, an update on the new White House press secretary. The Wall Street Journal reports that Katie Zacharia took the California bar exam after law school in twenty eleven and did not pass, and California's State Bar has no record of her being licensed. She has described herself as a lawyer. According to The Hill, Zacharia says she misheard a reporter's question about where she took the exam. A watchdog group has asked the California bar to look into her claims.
+[ava] On the campaign trail, NBC News reports a handful of Republicans in close races are breaking with President Trump on tariffs, including Senator Susan Collins in Maine and Mike Rogers in Michigan's Senate race, as the cost of living tops voters' worries. Democrats say the pushback is too little, too late. An NBC polling average shows voters almost evenly split on which party would handle the economy better.
+[ava] Also new: preliminary findings from police in Cobb County, Georgia, say the man who died on Six Flags' Goliath coaster this week was ejected from the ride. Six Flags has temporarily closed nine similar rides at its North American parks.
+[ava] And a small consumer note: the F.D.A. has approved a new sunscreen ingredient, the first new sunscreen formula available in the U.S. in about twenty-five years, letting American products catch up with what's long been sold in Europe.
+
+## International | sting=world
+[ava] Around the world, a heartbreaking story from Pakistan. The roof of a private school in Peshawar collapsed during classes this morning, crushing a classroom below. The main hospital there says at least thirty-three people died, thirty-two of them students between seven and fourteen, along with a young teacher; some local outlets put the toll higher. Police have detained the school's owner and say the building was poorly built. A formal investigation is underway.
+[ava] On Ukraine, the war of words between Kyiv and Elon Musk escalated overnight. After President Zelensky warned that people will die because of SpaceX's new limits on Starlink, Musk posted that it was, quote, time for Zelensky to go. Ukraine says the restrictions, along with reduced U.S. intelligence sharing, are meant to pressure it into concessions. SpaceX hasn't publicly explained the limits, and President Trump has blamed Ukraine's refinery strikes for pushing up energy prices.
+[ava] And on Iran: President Trump says the war will end, quote, very soon, and that the U.S. is in total control of the Strait of Hormuz. Iran's parliament speaker says his country must be ready for war even while it negotiates, accusing Washington of breaking promises.
+
+## Markets In Depth | sting=markets
+[ava] Andrew, how's the open?
+[andrew] Mixed, with tech taking another hit. The Wall Street Journal had the Nasdaq down more than one percent shortly after the bell, while the Dow opened up about half a percent and the S and P five hundred slipped as chip stocks dragged it down. It's the second day of the A.I. selloff.
+[andrew] The surprise is in bonds. Despite two hot inflation reports in two days, the ten-year Treasury yield dropped to just under five point one percent, its lowest since late September, according to Schwab. That's its sharpest drop since June, and it looks like a flight to safety, with investors moving out of A.I. stocks and into government bonds. A quick correction to our earlier edition: the CME's FedWatch tool puts the odds of an October rate hike at about one in three after this morning's wholesale inflation report, not even odds.
+[andrew] Bank earnings were solid. Charles Schwab posted record earnings of a dollar sixty-two a share, with revenue up seventeen percent to about seven point two billion dollars and record new client assets. PNC earned about two point one billion dollars, or four ninety-seven a share. And U.S. Bancorp reported record revenue of almost eight billion dollars, with earnings per share up ten percent.
+[andrew] Movers: CoreWeave, the heavily indebted data center company at the center of these A.I. worries, fell another three and a half percent early. Axios says its bond yields are now above fifteen percent. Its C.E.O. told staff that sometimes the market misunderstands and acts irrationally, and Deutsche Bank kept its buy rating. TSMC's U.S. shares fell about two percent despite its record quarter. Dell dropped another four percent after yesterday's eleven percent slide on a Barclays downgrade. On the upside, Walmart rose three percent on a Deutsche Bank upgrade, and homebuilders like Lennar climbed as yields fell. Rocket Lab sank more than ten percent after pushing the first launch of its Neutron rocket to twenty twenty-seven.
+[andrew] Looking ahead: Fed Chair Kevin Warsh joins a discussion with the I.M.F.'s managing director late tonight, so watch for any comments that could move markets tomorrow.
+
+## Technology | sting=tech
+[andrew] In tech, a big night for Tesla owners. Tesla unveils its next-generation Roadster tonight at eight fifty-five Eastern, at SpaceX's test site in McGregor, Texas, streaming on Tesla's site and its X account. Reuters notes this comes nearly nine years after Tesla first showed the car in twenty seventeen, when it priced it at two hundred thousand dollars and promised deliveries in twenty twenty. Musk has promised six hundred twenty miles of range. Fans are excited; skeptics point to the years of delays and say to wait for real specs and a delivery date.
+[andrew] Apple has a new home gadget, HomeView, a two-hundred-ninety-nine-dollar countertop screen that mixes pieces of the iPad, Apple Watch, and CarPlay, aimed at Amazon's Echo Show and Google's Nest Hub. One catch: you need an iPhone or iPad to set it up.
+[andrew] And Semafor reports a bipartisan group of House lawmakers is questioning whether Meta should be claiming a research tax credit for its data center construction. We haven't seen Meta's response yet.
+
+## Artificial Intelligence | sting=ai
+[ava] In A.I., federal regulators are digging in. The Federal Trade Commission confirmed it has sent subpoena-style demands to OpenAI and Anthropic, first reported by Axios. It wants documents on safety incidents, privacy policies, and safeguards, and the probe follows several incidents where A.I. agents went off-script online. Neither company had commented publicly in the reports we saw. The context: an A.P.-NORC poll finds sixty-four percent of Americans think A.I. is developing too fast. The administration, though, has resisted calls to slow it down, arguing A.I. is vital to America's national interests.
+
+## Cybersecurity | sting=cyber
+[andrew] On the cyber desk, another firewall alert. Palo Alto Networks says attackers are exploiting a newly disclosed flaw in its PAN-OS firewall software that lets someone who already has network access run code with full root control. There's no workaround yet, and some fixes are still rolling out today. CISA has ordered federal agencies to patch and check for compromise by Saturday, October seventeenth. The advice: lock down the management interface so it isn't reachable from the internet, and review admin logins.
+[andrew] And X says it suspended more than thirteen thousand accounts tied to three suspected foreign influence operations linked to Iran, Russia, and China, which it says targeted U.S. political conversation ahead of the midterms. X hasn't published a country-by-country breakdown or its evidence, so outside researchers can't yet check that attribution.
+
+## From Your X Feed | sting=x
+[ava] Now, your X feed from the last half hour or so.
+[ava] Vivek Ramaswamy's post drew the most likes. He says his Democratic opponent for Ohio governor, Amy Acton, won't debate and has banned recording at her campaign events. We haven't seen her campaign's side of that.
+[ava] Senator Mike Lee renewed his push for the SAVE America Act, which would require proof of citizenship to register to vote, and posted that California plans to knowingly send ballots to noncitizens. That's his claim; we couldn't verify it, and supporters of the current system say noncitizen voting is already illegal and rare.
+[ava] The White House's rapid response account touted what it calls the largest-ever federal operation against transnational crime, with twelve hundred ninety-six arrests tied to the Tren de Aragua gang nationwide, and a three point three billion dollar U.S.D.A. loan for a Georgia power plant. Those are the administration's own figures.
+[ava] On the tech side, the A.I. commentator known as kimmonismus says he spent a week traveling Europe with Nvidia and nearly an hour talking with Jensen Huang, and Brian Roemmele is counting down to tonight's Tesla reveal. Variety reports actress Christy Carlson Romano says she was paid half of what Shia LaBeouf earned on Even Stevens, despite being co-leads. And Saagar Enjeti shared a research review finding medical cannabis has little real effect on sleep quality compared with a placebo.
+[ava] As usual, we've skipped the most heated posts.
+
+## Local News & Events | sting=local
+[ava] Closer to home in New Hampshire: in that same NBC News report, former Senator John Sununu, running for Senate here, is among the Republicans voicing concerns about the president's tariffs. Democrats argue the shift is self-serving this late in the campaign. Election Day is Tuesday, November third.
+[ava] And a reminder for Sunday: the Londonderry Historical Society's open house runs from one to three in the afternoon, with musket demonstrations by the Sons of the American Revolution.
+
+## Uplifting Story | sting=feel
+[ava] And finally, some good news from London. London Zoo says it has bred Afia Birago's puddle frog in captivity for the first time ever. Fifteen tiny froglets have hatched. The species was only described by scientists in twenty eighteen, and in the wild it clings to just two pools in a forest reserve in Ghana threatened by mining. The zoo brought twenty adults over last year and is sharing what it learned with partners in Ghana, in hopes of one day returning frogs to the wild.
+[andrew] Fifteen froglets. A very hoppy ending.
+[ava] I'll allow it. That's your ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew.
+[ava] Ask your Gumshoe for more on any story. See you next hour.
+
+> source: NWS api.weather.gov forecast for location.json (Londonderry, NH)
+> source: WSJ, "White House Press Secretary Katie Zacharia Didn't Pass Bar Exam" (Oct 15); The Hill, "Katie Zacharia says she misheard question on where she took bar exam"; Forbes Oct 15
+> source: NBC News Morning Rundown Oct 15 (GOP tariff breaks incl. Collins, Sununu, Rogers; Apple HomeView; Six Flags Goliath findings; sunscreen; Peshawar; Ukraine/Musk)
+> source: Dawn, Arab News, ARY News, AP, BBC on Peshawar school roof collapse (Oct 15)
+> source: The Independent Bulletin AM briefing Oct 15 (Zelensky on Starlink); Middle East Eye morning update Oct 15 (Iran, Hormuz)
+> source: WSJ live markets Oct 15 9:38 AM ET; Il Sole 24 Ore, "Wall Street: mixed opening"; Schwab "Stocks Slip Early After Wholesale Inflation Surges" (Oct 15, yields, FedWatch 34%, movers, Warsh); Axios, "AI tremors felt in corporate bond market" (CoreWeave)
+> source: Charles Schwab, PNC, and U.S. Bancorp Q3 2026 earnings releases (Oct 15)
+> source: Reuters via Yahoo Finance/Investing.com, "Tesla set to unveil next generation Roadster"; electronmotion.com event timing
+> source: Semafor via X (Meta data center tax credit)
+> source: Axios, CBS News, WSJ (FTC subpoenas OpenAI and Anthropic, Oct 15); AP-NORC poll via CBS
+> source: CSO Online, "Attackers exploit Palo Alto PAN-OS flaw" (CVE-2026-0322); CISA KEV alert Oct 14
+> source: The Register, Al Jazeera (X suspends 13,000 accounts)
+> source: Harry's X home timeline Oct 15 9:30-9:56 AM ET (@VivekGRamaswamy, @BasedMikeLee, @RapidResponse47, @kimmonismus, @BrianRoemmele, @Variety, @esaagar, @semafor)
+> source: londonderryhistory.org events
+> source: London Zoo / ZSL, BBC, Metro (Afia Birago's puddle frog breeding)
