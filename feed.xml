@@ -1,42 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
-<itunes:image href="https://hsverdlove.github.io/gumshoe-news/cover.jpg"/><image><url>https://hsverdlove.github.io/gumshoe-news/cover.jpg</url><title>Gumshoe News</title><link>https://hsverdlove.github.io/gumshoe-news/</link></image>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel>
 <title>Gumshoe News Radio (Harry)</title><link>https://hsverdlove.github.io/gumshoe-news/</link><language>en-us</language>
 <atom:link href="https://hsverdlove.github.io/gumshoe-news/feed.xml" rel="self" type="application/rss+xml"/>
-<description>Private AM-radio-style news bulletins for Londonderry, NH.</description>
+<description>Private AM-radio-style news bulletins for Harry.</description>
 <itunes:author>Gumshoe</itunes:author><itunes:explicit>false</itunes:explicit><itunes:block>Yes</itunes:block>
+<itunes:image href="https://hsverdlove.github.io/gumshoe-news/cover.jpg"/><image><url>https://hsverdlove.github.io/gumshoe-news/cover.jpg</url><title>Gumshoe News Radio (Harry)</title><link>https://hsverdlove.github.io/gumshoe-news/</link></image>
 <itunes:category text="News"/><itunes:type>episodic</itunes:type>
-<item><title>Oct 14 Evening - 1. Londonderry Weather</title><description>Good evening, and welcome to Gumshoe News Radio. It's Wednesday night, October fourteenth, and here's your Londonderry forecast from the National Weather Service.
-Tonight, partly cloudy, with a low around forty-six and a light northwest breeze.
-Tomorrow, Thursday, it's sunny and cooler, with a high near fifty-nine. Clouds move in Thursday night, with a low around forty.
-Looking ahead: Friday is a rain day, with a hundred percent chance and a high near sixty-two, and showers likely Friday night with gusts up to twenty-five miles an hour. Saturday clears out, but it's chilly, with a high near forty-seven, and Saturday night dips to about twenty-nine, so it may be time to bring in the plants. Sunday, sunny and fifty-three. Then a nice warm-up: Monday sixty-two, Tuesday sixty-four, and next Wednesday, sunny and sixty-two.</description>
-<enclosure url="https://hsverdlove.github.io/gumshoe-news/audio/01-weather.mp3?v=3" length="452780" type="audio/mpeg"/><guid isPermaLink="false">gumshoe-20261014-eve-01-weather-v3</guid>
-<pubDate>Wed, 14 Oct 2026 20:51:00 -0400</pubDate><itunes:duration>57</itunes:duration><itunes:episode>1</itunes:episode><itunes:explicit>false</itunes:explicit></item><item><title>Oct 14 Evening - 2. Top US News</title><description>Now, the top stories here at home.
-Inflation picked up in September, with consumer prices rising at a three point seven percent annual rate, driven largely by gasoline, according to the government report covered by the Wall Street Journal and Reuters. Stocks fell on worries the Federal Reserve may raise rates again.
-Kimberly Guilfoyle has resigned as U.S. ambassador to Greece, days after the Journal reported she asked a Republican donor to pay off a hundred-thousand-dollar credit card bill.
-On the campaign trail, President Trump flew to Alaska to help save a Republican Senate seat, according to the Washington Post, and the Associated Press reports Republicans are pulling back from several front-line House districts. In Maine, Senator Susan Collins debated her Democratic challenger, Troy Jackson.
-And in Pennsylvania, a sixth person has died of measles, as cases there top eleven hundred. The C.D.C. is sending more help.</description>
-<enclosure url="https://hsverdlove.github.io/gumshoe-news/audio/02-us-news.mp3?v=3" length="476012" type="audio/mpeg"/><guid isPermaLink="false">gumshoe-20261014-eve-02-us-news-v3</guid>
-<pubDate>Wed, 14 Oct 2026 20:50:00 -0400</pubDate><itunes:duration>59</itunes:duration><itunes:episode>2</itunes:episode><itunes:explicit>false</itunes:explicit></item><item><title>Oct 14 Evening - 3. World News</title><description>Around the world.
-The Vatican says Pope Leo the Fourteenth, who is seventy-one, has been diagnosed with lung cancer, and had successful surgery on Tuesday at Rome's Gemelli hospital to remove part of his right lung. His appointments are cancelled through October twentieth.
-In the Middle East, Yemen's Houthis attacked the headquarters of Saudi Aramco in Dhahran, causing a fire, after Saudi strikes in Yemen. Reuters reports two ships sank near the Strait of Hormuz after being hit, and Brent crude settled above a hundred and six dollars a barrel.
-In Ukraine, Russian strikes left about six hundred thousand people without power, according to President Zelensky. Separately, Ukraine says new Starlink limits are disrupting its drone missions.
-And in Congo, the Ebola outbreak has passed nine thousand confirmed cases, the largest in the country's history, while Kenya has reported a second case.</description>
-<enclosure url="https://hsverdlove.github.io/gumshoe-news/audio/03-world-news.mp3?v=3" length="456044" type="audio/mpeg"/><guid isPermaLink="false">gumshoe-20261014-eve-03-world-news-v3</guid>
-<pubDate>Wed, 14 Oct 2026 20:49:00 -0400</pubDate><itunes:duration>57</itunes:duration><itunes:episode>3</itunes:episode><itunes:explicit>false</itunes:explicit></item><item><title>Oct 14 Evening - 4. From Your X Feed</title><description>Now, a look at what's buzzing in your X feed this evening.
-The White House account promoted what it calls America's golden age of science, featuring tech leaders including Jensen Huang, Lisa Su, Satya Nadella, Michael Dell and Elon Musk. It was one of the most-liked posts in your timeline tonight.
-Midterm energy is everywhere. Senator Mike Lee, posting as at Based Mike Lee, urged Ohio voters to back Senator Jon Husted. And Vivek Ramaswamy posted from a stop in Akron, which he called the Rubber Capital of the World.
-At Tyler Bowyer says he's hearing about seventy-five thousand ballots came in today in Maricopa County, Arizona. That's his claim, and it isn't confirmed.
-On the markets side, at Trung T Phan noted that Apple's market value closed above five trillion dollars for the first time. And in entertainment, Variety reports Full House star Jodie Sweetin says her co-star Dave Coulier is doing great after his cancer battle.</description>
-<enclosure url="https://hsverdlove.github.io/gumshoe-news/audio/04-x-feed.mp3?v=3" length="477356" type="audio/mpeg"/><guid isPermaLink="false">gumshoe-20261014-eve-04-x-feed-v3</guid>
-<pubDate>Wed, 14 Oct 2026 20:48:00 -0400</pubDate><itunes:duration>60</itunes:duration><itunes:episode>4</itunes:episode><itunes:explicit>false</itunes:explicit></item><item><title>Oct 14 Evening - 5. Local News &amp; Events</title><description>Closer to home, in Londonderry.
-The Londonderry Historical Society hosts an open house this Sunday, October eighteenth, from one to three, with tours of the Morrison House, the Parmenter barn, and the Clark blacksmith shop, plus period military drills with musket firing.
-The Londonderry Times reports a busy stretch for local firefighters earlier this month, with two house fires and a medical helicopter call at the high school, and the department is reminding everyone to check their smoke alarms.
-And a civic reminder: the general election is Tuesday, November third. New Hampshire closes registration six to thirteen days before, so check with the Town Clerk, or register at your polling place on Election Day.</description>
-<enclosure url="https://hsverdlove.github.io/gumshoe-news/audio/05-local.mp3?v=3" length="357356" type="audio/mpeg"/><guid isPermaLink="false">gumshoe-20261014-eve-05-local-v3</guid>
-<pubDate>Wed, 14 Oct 2026 20:47:00 -0400</pubDate><itunes:duration>45</itunes:duration><itunes:episode>5</itunes:episode><itunes:explicit>false</itunes:explicit></item><item><title>Oct 14 Evening - 6. Uplifting Story</title><description>And finally, a little hero story, from WDIV in Detroit.
-Five-year-old Hudson Tenn was with his grandmother and his three-year-old sister when his grandmother collapsed. He tried to find her car keys, couldn't, so he ran down the street for help, while making sure his little sister stayed safe. Good samaritans and deputies stepped in, and his grandmother, Terri, recovered. Today, township officials and the county sheriff's office are honoring Hudson with an award for bravery. Terri put it simply: he's my hero.
-That's your news for now. This is Gumshoe News Radio. Just message me if you'd like more on any story.</description>
-<enclosure url="https://hsverdlove.github.io/gumshoe-news/audio/06-uplifting.mp3?v=3" length="326252" type="audio/mpeg"/><guid isPermaLink="false">gumshoe-20261014-eve-06-uplifting-v3</guid>
-<pubDate>Wed, 14 Oct 2026 20:46:00 -0400</pubDate><itunes:duration>41</itunes:duration><itunes:episode>6</itunes:episode><itunes:explicit>false</itunes:explicit></item>
+<item><title>Thursday Drive Edition, Oct 15</title><description>A 20-minute drive-time edition of Gumshoe News Radio for Thursday, October 15, 2026. Preview draft built Wednesday night; the morning run refreshes it with fresh news. Anchor Ava, with Andrew at the business and tech desk.
+
+Chapters:
+0:00 Cold Open &amp; Weather
+1:44 US News
+3:58 Surprise Factoid
+4:16 International
+6:22 Markets In Depth
+9:41 Technology
+10:53 Artificial Intelligence
+12:45 Cybersecurity
+14:23 Surprise Factoid
+14:38 From Your X Feed
+16:23 Local News &amp; Events
+17:28 Uplifting Story
+
+Sources:
+- NWS api.weather.gov forecast for 42.8435,-71.3809
+- AP, "How major US stock indexes fared Wednesday 10/14/2026"; AP Morning Wire Oct 14; AP live midterm updates Oct 14
+- Reuters via financialnewsletter.com, "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries"; theclosingprint.net and stocks.pkladog.com closing recaps Oct 14 (sectors, yields, DXY, gold, silver, BTC)
+- Newsquawk US Market Wrap Oct 14 (rate-hike odds, CoreWeave bonds)
+- Investing.com, "U.S. stock futures fall as hot inflation revives Fed hike concerns" (futures as of 8:20 PM ET Oct 14; CPI details; Fed meeting Oct 27-28)
+- Reuters via za.investing.com, oil settlement Oct 14 (Brent $106.06, WTI $95.09)
+- Nasdaq.com and Earnings Whispers earnings calendars Oct 15
+- WSJ news archive Oct 14 (CPI 3.7%, Ukraine Starlink, Guilfoyle reporting); Democracy Now headlines Oct 14 (Guilfoyle resignation, Collins-Jackson debate, measles, Yemen, Ebola, Ukraine power)
+- Washington Post via Google News, Trump Alaska trip; CNN, Six Flags Goliath; Reuters world and domestic summaries Oct 14 (devdiscourse)
+- Vatican News/AP via Trends MCP digest, Pope Leo XIV surgery
+- The CODEW daily tech briefing Oct 14 (Nvidia Europe, CXMT); The Guardian technology Oct 14 (Uber Manchester, Nvidia UK pledge, IMF/BoE cyber warning); TechCrunch Oct 2026 (Netflix layoffs, YouTube Music, Deezer); BBN tech archive Oct 14 (eight states sue OpenAI, Microsoft-Japan scam takedown, Character.AI)
+- The Verge, "The AI race is back on"; ai-news-online.com and at-pulse.com Oct 14 (Gemini 4 Argon pricing, rankings); theairankings.com (OpenAI engineer arrest); Forward Future (Anthropic distillation defenses); The Morning Build (Anthropic false tip disclosure, X subscription bundle)
+- BleepingComputer (CISA Ivanti CVE-2026-104935; Cisco SEG CVE-2026-76519); Cybernews (Ivanti unpatched flaw); The Hacker News (Collabora CODE CVE-2026-110447)
+- Harry's X home timeline (@elonmusk, @levelsio, @BasedMikeLee, @Cernovich, @VivekGRamaswamy, @prestonjbyrne, @tylerbowyer, @micsolana, @TrungTPhan), read Oct 14 evening
+- londonderryhistory.org events; Londonderry Times, "Busy Four Days Keep Local Firefighters on the Move" (Oct 11); NH Secretary of State registration deadlines; londonderrynh.gov voter registration
+- ClickOnDetroit/WDIV, Hudson Tenn (Oct 14); Good News Network newsletter Oct 14
+- Factoids: Winnie-the-Pooh first published Oct 14, 1926 (Methuen); Mars surface gravity ~0.38 g (NASA)</description>
+<content:encoded><![CDATA[A 20-minute drive-time edition of Gumshoe News Radio for Thursday, October 15, 2026. Preview draft built Wednesday night; the morning run refreshes it with fresh news. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Cold Open & Weather<br/>1:44 US News<br/>3:58 Surprise Factoid<br/>4:16 International<br/>6:22 Markets In Depth<br/>9:41 Technology<br/>10:53 Artificial Intelligence<br/>12:45 Cybersecurity<br/>14:23 Surprise Factoid<br/>14:38 From Your X Feed<br/>16:23 Local News & Events<br/>17:28 Uplifting Story<br/><br/>Sources:<br/>- NWS api.weather.gov forecast for 42.8435,-71.3809<br/>- AP, "How major US stock indexes fared Wednesday 10/14/2026"; AP Morning Wire Oct 14; AP live midterm updates Oct 14<br/>- Reuters via financialnewsletter.com, "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries"; theclosingprint.net and stocks.pkladog.com closing recaps Oct 14 (sectors, yields, DXY, gold, silver, BTC)<br/>- Newsquawk US Market Wrap Oct 14 (rate-hike odds, CoreWeave bonds)<br/>- Investing.com, "U.S. stock futures fall as hot inflation revives Fed hike concerns" (futures as of 8:20 PM ET Oct 14; CPI details; Fed meeting Oct 27-28)<br/>- Reuters via za.investing.com, oil settlement Oct 14 (Brent $106.06, WTI $95.09)<br/>- Nasdaq.com and Earnings Whispers earnings calendars Oct 15<br/>- WSJ news archive Oct 14 (CPI 3.7%, Ukraine Starlink, Guilfoyle reporting); Democracy Now headlines Oct 14 (Guilfoyle resignation, Collins-Jackson debate, measles, Yemen, Ebola, Ukraine power)<br/>- Washington Post via Google News, Trump Alaska trip; CNN, Six Flags Goliath; Reuters world and domestic summaries Oct 14 (devdiscourse)<br/>- Vatican News/AP via Trends MCP digest, Pope Leo XIV surgery<br/>- The CODEW daily tech briefing Oct 14 (Nvidia Europe, CXMT); The Guardian technology Oct 14 (Uber Manchester, Nvidia UK pledge, IMF/BoE cyber warning); TechCrunch Oct 2026 (Netflix layoffs, YouTube Music, Deezer); BBN tech archive Oct 14 (eight states sue OpenAI, Microsoft-Japan scam takedown, Character.AI)<br/>- The Verge, "The AI race is back on"; ai-news-online.com and at-pulse.com Oct 14 (Gemini 4 Argon pricing, rankings); theairankings.com (OpenAI engineer arrest); Forward Future (Anthropic distillation defenses); The Morning Build (Anthropic false tip disclosure, X subscription bundle)<br/>- BleepingComputer (CISA Ivanti CVE-2026-104935; Cisco SEG CVE-2026-76519); Cybernews (Ivanti unpatched flaw); The Hacker News (Collabora CODE CVE-2026-110447)<br/>- Harry's X home timeline (@elonmusk, @levelsio, @BasedMikeLee, @Cernovich, @VivekGRamaswamy, @prestonjbyrne, @tylerbowyer, @micsolana, @TrungTPhan), read Oct 14 evening<br/>- londonderryhistory.org events; Londonderry Times, "Busy Four Days Keep Local Firefighters on the Move" (Oct 11); NH Secretary of State registration deadlines; londonderrynh.gov voter registration<br/>- ClickOnDetroit/WDIV, Hudson Tenn (Oct 14); Good News Network newsletter Oct 14<br/>- Factoids: Winnie-the-Pooh first published Oct 14, 1926 (Methuen); Mars surface gravity ~0.38 g (NASA)]]></content:encoded>
+<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-15-drive.mp3?v=20261014T2207" length="9070491" type="audio/mpeg"/>
+<guid isPermaLink="false">gumshoe-2026-10-15-drive-20261014T2207</guid><pubDate>Wed, 14 Oct 2026 22:07:03 -0400</pubDate>
+<itunes:duration>1118</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
+<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-15-drive.chapters.json?v=20261014T2207" type="application/json+chapters"/></item>
 </channel></rss>
