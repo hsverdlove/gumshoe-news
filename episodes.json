@@ -1,5 +1,13 @@
 [
  {
+  "slug": "2026-10-15-1pm",
+  "title": "Thursday 1 PM Update, Oct 15",
+  "pub": "2026-10-15T13:21:24.699113-04:00",
+  "duration": 806,
+  "size": 6570708,
+  "description": "The 1 PM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the 11 o'clock update, with local news for the Thornton and White Mountains area. Anchor Ava, with Andrew at the business and tech desk.\n\nChapters:\n0:00 Open & Weather\n1:57 US News\n3:28 International\n4:45 Markets In Depth\n6:56 Technology\n8:02 Artificial Intelligence\n9:17 Cybersecurity\n9:52 From Your X Feed\n11:14 Local News & Events\n12:25 Uplifting Story\n\nSources:\n- NWS api.weather.gov forecast for 43.9153,-71.6503\n- NWS api.weather.gov forecast for location.json (Thornton, NH); WMUR forecast Oct 15\n- AP, \"Authorities investigate letters with 'suspicious substances' sent to congressional, election offices\" (Oct 15); NBC News, \"Suspicious white powder sent to election offices in 3 states\" (Oct 14)\n- U.S. Justice Department, \"Owner of Health Care Software Company Sentenced to 19 Years in Prison for $1B Medicare Fraud\" (Oct 15)\n- AP, \"School roof collapse in Pakistan kills at least 35\" (Oct 15); Arab News Pakistan\n- Al Jazeera Iran war live blog Oct 15 (Aden palace attack); AP Mideast developments Oct 15 (Medina); Straits Times/Reuters, Aramco HQ damage; Gulf News citing CNN (MOAB plans)\n- CNBC markets live updates (12:52 PM ET); AP, \"Wall Street steadies following jarring drops for AI stocks worldwide\" (12:15 PM ET); BLS PPI September 2026 release; CNBC PPI and retail sales report\n- The Verge/Bloomberg, \"OpenAI agrees not to use trade secrets it allegedly took from Apple\" (Oct 15); TechCrunch, \"Amazon's Bee launches two new personal AI devices, starting at $75\" (Oct 15)\n- @finkd and @alexandr_wang on X (Muse Spark Open, Oct 15 1:01-1:04 PM ET); WSJ/CNBC/Axios on Anthropic Q3 revenue; CNBC (DA Davidson's Gil Luria); Reuters, \"TSMC Q3 profit jumps 69% to record\"\n- BleepingComputer, \"Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks\" (CVE-2026-0322, Oct 14); CISA KEV\n- Harry's X home timeline Oct 15 12:38-1:03 PM ET (@kimmonismus, @SecKennedy, @50YearsAgoLive, @Variety)\n- WMUR, \"Forest Service seeks public comment on Loon Mountain expansion plans\" (Oct 14); White Mountains Foliage Tracker (Oct 13)\n- Silver Center for the Arts, \"She Kills Monsters\" (Oct 16); Visit NH, Leaf Peeper's Craft Fair\n- Good News Network newsletter, \"A teen raised $30K so low-income kids could ride bikes\" (Oct 15)"
+ },
+ {
   "slug": "2026-10-15-11am",
   "title": "Thursday 11 AM Update, Oct 15",
   "pub": "2026-10-15T11:15:04.097673-04:00",

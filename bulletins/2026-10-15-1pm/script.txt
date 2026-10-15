@@ -1,0 +1,73 @@
+// Gumshoe script format: see README.md
+# title: Thursday 1 PM Update, Oct 15
+# description: The 1 PM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the 11 o'clock update, with local news for the Thornton and White Mountains area. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon, and welcome to the one o'clock update of Gumshoe News Radio. It's Thursday, October fifteenth. I'm Ava, with Andrew at the business and tech desk. This hour: suspicious mail turning up at election offices, a hot wholesale inflation report, and Meta giving away its biggest A.I. model yet.
+[andrew] And a stock market that's split right down the middle, Ava.
+[ava] We'll get there. It looks like you're up in the White Mountains around Thornton, so here's your forecast for there.
+@weather
+[ava] Up north, WMUR is still calling for rain, gusty winds, and colder air later this weekend, with snow showers possible in the mountains. So if you're out on the roads up there, plan for a change by Sunday.
+
+## US News | sting=us
+[ava] Here at home, federal investigators are looking into a wave of suspicious letters mailed to congressional offices and state election offices, three weeks before Election Day. The F.B.I. and the Postal Inspection Service say some of the letters contained an unknown substance, and they're working to find whoever sent them. Senators were warned by the Senate Sergeant at Arms to treat these letters as potentially hazardous.
+[ava] According to NBC News, the secretary of state's offices in Louisiana and Oklahoma received envelopes with white powder on Tuesday, and postal investigators intercepted one headed for Ohio. In Louisiana, an employee who opened one was taken to the hospital as a precaution, and police say no harmful substance has been found so far. No injuries have been reported anywhere. Officials in all three states say election work hasn't been affected. This has happened before: in twenty twenty-four, election offices in at least twenty states got similar powder letters.
+[ava] Also today, the Justice Department says Kansas businessman Brett Blackman has been sentenced to nineteen years in prison for one of the largest telemedicine fraud schemes it has ever prosecuted. Prosecutors say his online platform churned out fake doctors' orders for back braces and other equipment that seniors didn't need, leading to more than a billion dollars in bills to Medicare and other federal programs, and more than four hundred fifty million dollars actually paid out. A jury convicted him in April.
+
+## International | sting=world
+[ava] Around the world, a tragedy in Pakistan. The roof of a school in Peshawar collapsed during morning classes today, killing at least thirty-five people. The A.P. says thirty-four of them were children, and one was a teacher. More than fifty were hurt. Police arrested the school's owner, and the prime minister has ordered an investigation into how the building was allowed to stay open.
+[ava] In the Iran war, the fighting has spread to Yemen and Saudi Arabia. Yemen's government says the prime minister and cabinet survived a Houthi missile attack on the presidential palace in Aden, though two guards were reportedly killed. The Saudi-led coalition says it shot down a missile aimed at the holy city of Medina. And sources tell Reuters a Houthi strike on Tuesday badly damaged an office building at Saudi Aramco's headquarters in Dhahran, though no one was hurt and oil operations kept running.
+[ava] Separately, CNN reports the Pentagon has drawn up plans that could use its largest non-nuclear bomb, nicknamed the mother of all bombs, against Iranian energy and nuclear sites if President Trump orders combat to resume. That's based on unnamed officials, and the Pentagon hasn't confirmed it. Iran, for its part, says it will keep fighting until the U.S. backs down.
+
+## Markets In Depth | sting=markets
+[ava] Andrew, how's the midday picture?
+[andrew] It's two different markets, Ava. As of about twelve fifty, CNBC had the Dow up about four hundred fifty points, almost one percent. The S and P five hundred was up about two tenths of a percent, and the Nasdaq was down about three tenths, its fourth losing day in a row. The A.P. points out the S and P is now back within reach of last week's record high.
+[andrew] What's going on is a rotation. Investors are selling A.I. and chip stocks and buying more traditional names. Walmart, Merck, and Nike are all up, with Nike up more than five percent. Crocs jumped about six percent after an upgrade from Barclays. On the downside, CoreWeave is lower again after yesterday's fifteen percent plunge, and memory chip makers Seagate and Western Digital are still falling. Rocket Lab dropped after pushing the first launch of its Neutron rocket into twenty twenty-seven.
+[andrew] The big data point this morning was wholesale inflation, and it was hot. The Labor Department says producer prices jumped one point three percent in September, more than double what economists expected, and six point three percent over the past year. That's the biggest jump since twenty twenty-two. Energy was most of it: wholesale gasoline was up about twenty percent in one month, and diesel about twenty-one. If you take out food, energy, and retail margins, prices still rose half a percent. Retail sales, on the other hand, grew a solid point eight percent.
+[andrew] So the debate continues. One strategist told CNBC this report confirms inflation is getting worse and the Fed may have to raise rates. Others argue most of this is an energy shock from the war that could fade if oil supplies recover. Also worth knowing: with Treasury yields around five percent, the highest since the early two thousands, safe bonds are giving stocks real competition.
+[andrew] On oil, Brent was about a hundred and four dollars a barrel this morning, down more than one and a half percent, and U.S. crude was around ninety-four.
+
+## Technology | sting=tech
+[andrew] In tech, OpenAI has backed down in its legal fight with Apple. Apple accuses OpenAI of taking trade secrets through fourteen employees who left Apple to join OpenAI. The Verge, citing Bloomberg, says that after the judge signaled he was highly likely to side with Apple, OpenAI voluntarily agreed not to use Apple's proprietary information while the case goes on, and to hand over copies of those employees' drives. That's not an admission, and the lawsuit itself is still going.
+[andrew] And Amazon's Bee, the A.I. wearable that listens to your conversations and turns them into notes and to-do lists, has two new devices. The Bee Frontier, which you wear on your wrist or clip on, is seventy-five dollars. The Bee Eclipse is a card-sized version that sticks magnetically to the back of your phone for a hundred dollars. TechCrunch says audio isn't stored and transcripts are encrypted. Of course, privacy advocates have long worried about devices that record everyone around you, not just the person wearing them.
+
+## Artificial Intelligence | sting=ai
+[ava] In A.I., Meta just made a big move. Just after one o'clock, Mark Zuckerberg posted that Meta is releasing the weights for Muse Spark Open, meaning anyone can download the model and run it themselves. Meta's A.I. chief Alexandr Wang says it has about eight hundred sixteen billion parameters, a one million token memory, and it's built for coding and multi-step tasks. Zuckerberg says it runs well on Apple's new Mac Studios, after work with Apple. Wang calls it the most capable American open model yet. That's Meta's own claim, and independent tests haven't come in.
+[ava] Meanwhile, the A.I. money question. Anthropic, the company behind Claude, told investors its revenue hit about sixteen point eight billion dollars last quarter, up forty-five percent, and that it was cash-flow positive. The Wall Street Journal and others reported it. Bulls say that proves A.I. labs can make money. But one analyst at D.A. Davidson said the growth was slower than the quarter before and "not what anyone wanted to see," which is part of why chip stocks are under pressure. And chipmaker T.S.M.C., which builds the chips for Nvidia and Apple, reported a record profit, up sixty-nine percent.
+
+## Cybersecurity | sting=cyber
+[andrew] On the cyber desk, a heads-up if your company uses Palo Alto Networks firewalls. Palo Alto says hackers have been exploiting a serious flaw in the management screen of its PAN-OS software. An attacker who already has a login and network access can take full control of the firewall. Palo Alto calls the attacks very limited so far, and it's released fixes. Its main advice is to make sure that management screen can only be reached from trusted internal addresses. CISA wants federal agencies patched by Saturday.
+
+## From Your X Feed | sting=x
+[ava] Now, your X feed from the past half hour.
+[ava] The tech crowd in your feed is busy with Meta's announcement, which we just covered. And the A.I. watcher who goes by kimmonismus says OpenAI is likely to release a new model within the next four weeks, timed around rival launches. That's a prediction, not something OpenAI has announced.
+[ava] Health Secretary Robert F. Kennedy Junior posted that there are six days left to comment on the health department's request for public input on possible health effects of radio waves from cell phones and Wi-Fi. Supporters say the research has gaps worth studying. Many scientists point out that major health agencies haven't found clear evidence of harm at everyday exposure levels.
+[ava] For a bit of history, the account fifty years ago live noted that on this date in nineteen seventy-six, mob boss Carlo Gambino died at his home on Long Island. And Variety posted that actress Sophia Bush says One Tree Hill executives once told her she wasn't, in their words, sexy enough for the role of Brooke, a part she went on to play for years.
+[ava] Several accounts in your feed also went after Texas Senate candidate James Talarico with some pretty serious accusations. We haven't seen those claims verified, so we're leaving them out. As usual, we skipped the most heated posts.
+
+## Local News & Events | sting=local
+[ava] Closer to you in the White Mountains. Just up the road in Lincoln, the Forest Service is asking for public comment on Loon Mountain's plan to grow. WMUR reports the proposal would add about two hundred eighty acres of ski terrain, a new peak overlooking downtown Lincoln, four new lifts, and snowmaking, mostly on White Mountain National Forest land. Local shop owners say it would bring more visitors and business. The project still needs a federal environmental review, and the Forest Service wants to hear about environmental concerns. Comments are open until October twenty-third.
+[ava] On foliage, the White Mountains visitor center says Franconia Notch and the areas north of the notches are now past peak. The best color left is around Waterville Valley, right next door to you, and in the Mount Washington Valley. They warn traffic is heavy on the Kancamagus and through the notches, so give yourself extra time.
+[ava] For the weekend: Plymouth State's Silver Center for the Arts opens the play She Kills Monsters tomorrow night, a comedy about grief and a Dungeons and Dragons notebook. And over in North Conway, the Leaf Peeper's Craft Fair runs Saturday and Sunday.
+
+## Uplifting Story | sting=feel
+[ava] And finally, a teenager who decided every kid should get to ride a bike. Jonathan Thai is a seventeen-year-old triathlete from Alpharetta, Georgia. When his local R.E.I. shut down a free kids' bike workshop, he started his own group, the Pedal Forward Foundation.
+[ava] Good News Network reports he has raised more than thirty thousand dollars, collected four hundred donated bikes, given away five hundred helmets, and run more than a dozen free clinics, each for thirty to forty-five kids. His parents grew up in rural Vietnam, and he says for a family without a car, a bike isn't just fun. It's how you get to school and to work. The group now has chapters in New York and Tennessee.
+[andrew] Seventeen. That's impressive.
+[ava] It really is. That's your one o'clock update. I'm Ava.
+[andrew] And I'm Andrew.
+[ava] Ask your Gumshoe for more on any story. See you next hour.
+
+> source: NWS api.weather.gov forecast for location.json (Thornton, NH); WMUR forecast Oct 15
+> source: AP, "Authorities investigate letters with 'suspicious substances' sent to congressional, election offices" (Oct 15); NBC News, "Suspicious white powder sent to election offices in 3 states" (Oct 14)
+> source: U.S. Justice Department, "Owner of Health Care Software Company Sentenced to 19 Years in Prison for $1B Medicare Fraud" (Oct 15)
+> source: AP, "School roof collapse in Pakistan kills at least 35" (Oct 15); Arab News Pakistan
+> source: Al Jazeera Iran war live blog Oct 15 (Aden palace attack); AP Mideast developments Oct 15 (Medina); Straits Times/Reuters, Aramco HQ damage; Gulf News citing CNN (MOAB plans)
+> source: CNBC markets live updates (12:52 PM ET); AP, "Wall Street steadies following jarring drops for AI stocks worldwide" (12:15 PM ET); BLS PPI September 2026 release; CNBC PPI and retail sales report
+> source: The Verge/Bloomberg, "OpenAI agrees not to use trade secrets it allegedly took from Apple" (Oct 15); TechCrunch, "Amazon's Bee launches two new personal AI devices, starting at $75" (Oct 15)
+> source: @finkd and @alexandr_wang on X (Muse Spark Open, Oct 15 1:01-1:04 PM ET); WSJ/CNBC/Axios on Anthropic Q3 revenue; CNBC (DA Davidson's Gil Luria); Reuters, "TSMC Q3 profit jumps 69% to record"
+> source: BleepingComputer, "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks" (CVE-2026-0322, Oct 14); CISA KEV
+> source: Harry's X home timeline Oct 15 12:38-1:03 PM ET (@kimmonismus, @SecKennedy, @50YearsAgoLive, @Variety)
+> source: WMUR, "Forest Service seeks public comment on Loon Mountain expansion plans" (Oct 14); White Mountains Foliage Tracker (Oct 13)
+> source: Silver Center for the Arts, "She Kills Monsters" (Oct 16); Visit NH, Leaf Peeper's Craft Fair
+> source: Good News Network newsletter, "A teen raised $30K so low-income kids could ride bikes" (Oct 15)

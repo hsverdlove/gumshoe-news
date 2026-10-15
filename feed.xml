@@ -6,6 +6,40 @@
 <itunes:author>Gumshoe</itunes:author><itunes:explicit>false</itunes:explicit><itunes:block>Yes</itunes:block>
 <itunes:image href="https://hsverdlove.github.io/gumshoe-news/cover.jpg"/><image><url>https://hsverdlove.github.io/gumshoe-news/cover.jpg</url><title>Gumshoe News Radio (Harry)</title><link>https://hsverdlove.github.io/gumshoe-news/</link></image>
 <itunes:category text="News"/><itunes:type>episodic</itunes:type>
+<item><title>Thursday 1 PM Update, Oct 15</title><description>The 1 PM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the 11 o'clock update, with local news for the Thornton and White Mountains area. Anchor Ava, with Andrew at the business and tech desk.
+
+Chapters:
+0:00 Open &amp; Weather
+1:57 US News
+3:28 International
+4:45 Markets In Depth
+6:56 Technology
+8:02 Artificial Intelligence
+9:17 Cybersecurity
+9:52 From Your X Feed
+11:14 Local News &amp; Events
+12:25 Uplifting Story
+
+Sources:
+- NWS api.weather.gov forecast for 43.9153,-71.6503
+- NWS api.weather.gov forecast for location.json (Thornton, NH); WMUR forecast Oct 15
+- AP, "Authorities investigate letters with 'suspicious substances' sent to congressional, election offices" (Oct 15); NBC News, "Suspicious white powder sent to election offices in 3 states" (Oct 14)
+- U.S. Justice Department, "Owner of Health Care Software Company Sentenced to 19 Years in Prison for $1B Medicare Fraud" (Oct 15)
+- AP, "School roof collapse in Pakistan kills at least 35" (Oct 15); Arab News Pakistan
+- Al Jazeera Iran war live blog Oct 15 (Aden palace attack); AP Mideast developments Oct 15 (Medina); Straits Times/Reuters, Aramco HQ damage; Gulf News citing CNN (MOAB plans)
+- CNBC markets live updates (12:52 PM ET); AP, "Wall Street steadies following jarring drops for AI stocks worldwide" (12:15 PM ET); BLS PPI September 2026 release; CNBC PPI and retail sales report
+- The Verge/Bloomberg, "OpenAI agrees not to use trade secrets it allegedly took from Apple" (Oct 15); TechCrunch, "Amazon's Bee launches two new personal AI devices, starting at $75" (Oct 15)
+- @finkd and @alexandr_wang on X (Muse Spark Open, Oct 15 1:01-1:04 PM ET); WSJ/CNBC/Axios on Anthropic Q3 revenue; CNBC (DA Davidson's Gil Luria); Reuters, "TSMC Q3 profit jumps 69% to record"
+- BleepingComputer, "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks" (CVE-2026-0322, Oct 14); CISA KEV
+- Harry's X home timeline Oct 15 12:38-1:03 PM ET (@kimmonismus, @SecKennedy, @50YearsAgoLive, @Variety)
+- WMUR, "Forest Service seeks public comment on Loon Mountain expansion plans" (Oct 14); White Mountains Foliage Tracker (Oct 13)
+- Silver Center for the Arts, "She Kills Monsters" (Oct 16); Visit NH, Leaf Peeper's Craft Fair
+- Good News Network newsletter, "A teen raised $30K so low-income kids could ride bikes" (Oct 15)</description>
+<content:encoded><![CDATA[The 1 PM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the 11 o'clock update, with local news for the Thornton and White Mountains area. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>1:57 US News<br/>3:28 International<br/>4:45 Markets In Depth<br/>6:56 Technology<br/>8:02 Artificial Intelligence<br/>9:17 Cybersecurity<br/>9:52 From Your X Feed<br/>11:14 Local News & Events<br/>12:25 Uplifting Story<br/><br/>Sources:<br/>- NWS api.weather.gov forecast for 43.9153,-71.6503<br/>- NWS api.weather.gov forecast for location.json (Thornton, NH); WMUR forecast Oct 15<br/>- AP, "Authorities investigate letters with 'suspicious substances' sent to congressional, election offices" (Oct 15); NBC News, "Suspicious white powder sent to election offices in 3 states" (Oct 14)<br/>- U.S. Justice Department, "Owner of Health Care Software Company Sentenced to 19 Years in Prison for $1B Medicare Fraud" (Oct 15)<br/>- AP, "School roof collapse in Pakistan kills at least 35" (Oct 15); Arab News Pakistan<br/>- Al Jazeera Iran war live blog Oct 15 (Aden palace attack); AP Mideast developments Oct 15 (Medina); Straits Times/Reuters, Aramco HQ damage; Gulf News citing CNN (MOAB plans)<br/>- CNBC markets live updates (12:52 PM ET); AP, "Wall Street steadies following jarring drops for AI stocks worldwide" (12:15 PM ET); BLS PPI September 2026 release; CNBC PPI and retail sales report<br/>- The Verge/Bloomberg, "OpenAI agrees not to use trade secrets it allegedly took from Apple" (Oct 15); TechCrunch, "Amazon's Bee launches two new personal AI devices, starting at $75" (Oct 15)<br/>- @finkd and @alexandr_wang on X (Muse Spark Open, Oct 15 1:01-1:04 PM ET); WSJ/CNBC/Axios on Anthropic Q3 revenue; CNBC (DA Davidson's Gil Luria); Reuters, "TSMC Q3 profit jumps 69% to record"<br/>- BleepingComputer, "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks" (CVE-2026-0322, Oct 14); CISA KEV<br/>- Harry's X home timeline Oct 15 12:38-1:03 PM ET (@kimmonismus, @SecKennedy, @50YearsAgoLive, @Variety)<br/>- WMUR, "Forest Service seeks public comment on Loon Mountain expansion plans" (Oct 14); White Mountains Foliage Tracker (Oct 13)<br/>- Silver Center for the Arts, "She Kills Monsters" (Oct 16); Visit NH, Leaf Peeper's Craft Fair<br/>- Good News Network newsletter, "A teen raised $30K so low-income kids could ride bikes" (Oct 15)]]></content:encoded>
+<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-15-1pm.mp3?v=20261015T1321" length="6570708" type="audio/mpeg"/>
+<guid isPermaLink="false">gumshoe-2026-10-15-1pm-20261015T1321</guid><pubDate>Thu, 15 Oct 2026 13:21:24 -0400</pubDate>
+<itunes:duration>806</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
+<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-15-1pm.chapters.json?v=20261015T1321" type="application/json+chapters"/></item>
 <item><title>Thursday 11 AM Update, Oct 15</title><description>The 11 AM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the 10 o'clock update. Anchor Ava, with Andrew at the business and tech desk.
 
 Chapters:
