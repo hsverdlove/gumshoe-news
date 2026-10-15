@@ -1,5 +1,13 @@
 [
  {
+  "slug": "2026-10-15-4pm",
+  "title": "Thursday 4 PM Update, Oct 15",
+  "pub": "2026-10-15T16:11:58.517005-04:00",
+  "duration": 653,
+  "size": 5353812,
+  "description": "The 4 PM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the three o'clock update, with local news for Londonderry and southern New Hampshire. Anchor Ava, with Andrew at the business and tech desk.\n\nChapters:\n0:00 Open & Weather\n1:57 US News\n3:15 International\n4:03 Markets In Depth\n5:30 Technology\n6:16 Artificial Intelligence\n7:00 Cybersecurity\n7:58 From Your X Feed\n8:49 Local News & Events\n9:50 Uplifting Story\n\nSources:\n- NWS api.weather.gov forecast for 42.8458,-71.3987\n- NWS api.weather.gov forecast for location.json (Londonderry, NH); WMUR forecast context (Oct 15)\n- Guardian live blog / AP, Trump cancels Nidal Hasan execution livestream; Pentagon Sean Parnell statement; ABC/WaPo poll; FBI/Postal Inspection Service suspicious mail to election offices (Oct 15)\n- AP / BBC / FT via NBC, Zelenskyy resumes Russian oil-refinery strikes; Kremlin Ryazan claim; Wes Streeting Washington remarks (Oct 15)\n- Yahoo Finance ^DJI history close 52,170.77 Oct 15; Yahoo Markets live (S&P ~+0.4%, Nasdaq edged higher, 10y ~5.10%); Investopedia/WSJ live (PPI hot, sector rotation); MarketBeat/Investing.com J.B. Hunt after-bell preview\n- The Verge / Windows Experience Blog, Windows 11 responsiveness up to 20% (Oct 15); Hypebeast Roadster demo caveat (prior)\n- TechCrunch, Amazon Bee Frontier and Bee Eclipse personal AI devices (Oct 15)\n- SecurityWeek / Cisco PSIRT / CISA KEV, CVE-2026-76519 Secure Email Gateway exploitation (Oct 15); U.S. Courts, BAE Systems BNC cyber incident (Oct 15)\n- Harry's X home timeline Oct 15 ~3:40-4:00 PM ET (@esaagar, @RapidResponse47, @Variety, Cloudflare/agentic-web discussion)\n- Union Leader, Londonderry High Range Road water extension / Saint-Gobain PFAS (Oct 6); Manchester Ink Link Weekender events\n- Good News Network, Jonathan Thai Pedal Forward Foundation bike clinics (Oct 15)"
+ },
+ {
   "slug": "2026-10-15-3pm",
   "title": "Thursday 3 PM Update, Oct 15",
   "pub": "2026-10-15T15:20:54.930534-04:00",

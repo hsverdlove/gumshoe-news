@@ -1,0 +1,64 @@
+// Gumshoe script format: see README.md
+# title: Thursday 4 PM Update, Oct 15
+# description: The 4 PM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the three o'clock update, with local news for Londonderry and southern New Hampshire. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon, and welcome to the four o'clock update of Gumshoe News Radio. It's Thursday, October fifteenth. I'm Ava, with Andrew at the business and tech desk. This hour: Trump cancels the livestream of a military execution, Ukraine resumes oil-refinery strikes, and the Dow closes higher by about five hundred fifty points.
+[andrew] Markets just rang the closing bell, Ava. We'll break down the numbers in a minute.
+[ava] First, your Londonderry forecast.
+@weather
+[ava] Reminder: Friday's showers look heaviest in the morning. Saturday turns much colder, with highs only in the forties and gusty winds. Sunday looks drier and a bit milder.
+
+## US News | sting=us
+[ava] President Trump has canceled plans to livestream the firing-squad execution of Nidal Hasan, the Army doctor who killed thirteen people at Fort Hood in two thousand nine. Defense Secretary Pete Hegseth had said the December third execution would be broadcast online. Trump wrote on Truth Social that many good people would rather not watch him die, and that Hasan will still be executed as scheduled, but not streamed. The Pentagon says Trump and Hegseth spoke beforehand and are completely aligned. Lawmakers in both parties welcomed the change. An A.B.C. News Washington Post poll found about eight in ten Americans opposed livestreaming it. Critics had warned a public broadcast could look like authoritarian spectacle and risk turning Hasan into a martyr; some of Hegseth's religious allies had favored public executions.
+[ava] Separately, the F.B.I. and Postal Inspection Service are investigating letters with an unknown powdery substance sent to election offices and secretaries of state, including in Louisiana, Oklahoma, and Ohio. Some offices evacuated. Officials urge anyone who receives suspicious mail to treat it as potentially hazardous. They have not identified what the substance is or who sent it.
+
+## International | sting=world
+[ava] In Ukraine, President Volodymyr Zelenskyy says Kyiv is done holding back from strikes on Russian oil refineries. He told the Financial Times he briefly paused those attacks to show readiness for talks, then resumed after Russia kept hitting Ukrainian energy sites and after limits on Western intelligence and Starlink access. Russia says Ukraine struck a refinery in the Ryazan region overnight, causing a fire. The Kremlin calls that a breach of the spirit of U.S. peace efforts. President Trump had unilaterally declared an energy ceasefire that neither side fully signed onto. Zelenskyy also says Ukraine is short of Patriot interceptor missiles. Britain's defense secretary, Wes Streeting, is in Washington stressing support for Ukraine.
+
+## Markets In Depth | sting=markets
+[ava] Andrew, the closing bell just rang. How did we finish?
+[andrew] Stronger than this morning, Ava. The Dow closed up about five hundred fifty points, a little over one percent, near fifty-two thousand one hundred seventy. The S and P five hundred finished up about four-tenths of a percent. The Nasdaq clawed back from a drop of more than one percent earlier and closed modestly higher, so it avoided a fourth straight losing day.
+[andrew] Bonds helped. The ten-year Treasury yield settled near five point one percent, well below yesterday's spike. Money rotated into safer names — health care and consumer stocks led — while chips and A.I.-tied names stayed under pressure. Taiwan Semiconductor fell about two percent even after a strong earnings beat, as Korea's Kospi sank overnight. Wholesale inflation for September came in hot, the fastest monthly pace since twenty twenty-two, so the Fed path stays in focus. Fed Chair Kevin Warsh still speaks tonight from Bangkok at eleven thirty Eastern.
+[andrew] After the bell: J.B. Hunt reports third-quarter results, with a conference call at five Eastern. Analysts expect roughly one eighty-one a share on about three point six billion in revenue, after management warned of a sequential earnings drop from higher driver and diesel costs. We'll have the numbers next hour if they're out.
+
+## Technology | sting=tech
+[andrew] In tech, Microsoft says Windows eleven is now up to twenty percent more responsive after memory and performance fixes, especially on machines with eight gigabytes of RAM. The company says Start, File Explorer, Search, and Settings feel snappier, with better memory management that can keep more active data in RAM and delay loading widgets. It's pitched as a quality-of-life update for everyday PCs, not a new feature splash.
+[andrew] And a quick note on tonight's Tesla Roadster demo at eight fifty-five Eastern: still no official confirmation of the Hypebeast report that it may be a short remote-control hover rather than a full street-legal reveal. We'll cover whatever Tesla actually shows.
+
+## Artificial Intelligence | sting=ai
+[ava] In A.I., Amazon's Bee brand launched two new personal note-taking devices. The Bee Frontier is about seventy-five dollars and clips to a wrist or clothes. The Bee Eclipse is about a hundred dollars and magnets onto the back of a phone. Both listen to conversations, transcribe them, and turn them into summaries, calendar items, and to-dos. Amazon says raw audio is processed and deleted, with transcripts encrypted under keys the device controls. A paid Bee Pro plan unlocks Alexa and Amazon shopping hooks. Privacy advocates will watch how often people actually leave a mic on all day. Frontier is available now; Eclipse is coming soon.
+
+## Cybersecurity | sting=cyber
+[andrew] On cyber, Cisco says attackers are actively exploiting a critical flaw in Secure Email Gateway, tracked as C-V-E two thousand twenty-six dash seventy-six five one nine, with a nine-point-eight severity score. If the file-reputation service is on and the scanner tools are outdated, a crafted email attachment can let an unauthenticated attacker write files and run commands as root. Patches shipped in mid-September. CISA added it to the Known Exploited Vulnerabilities list and wants federal agencies to patch by October seventeenth. Check logs beyond the appliance itself — attackers may try to cover their tracks.
+[andrew] Also today: the Administrative Office of the U.S. Courts says a cyber incident at BAE Systems has taken down the Bankruptcy Noticing Center. Federal bankruptcy notices nationwide are halted until systems are restored. BAE is investigating.
+
+## From Your X Feed | sting=x
+[ava] From your X feed since about three o'clock.
+[ava] Saagar Enjeti criticized sports media for framing a scary player injury around protecting gamblers, calling the N.F.L., sports press, and betting houses enablers.
+[ava] The White House rapid response account pushed back on a Newsweek cover styling left-wing figures under a red flag as the Socialist Republic of America. Separately, that cover is circulating widely in your timeline.
+[ava] Variety reported that The Mummy four with Brendan Fraser and Rachel Weisz is now titled The Mummy: The Book of the Dead, set for theaters October fifteenth, twenty twenty-seven.
+[ava] And several accounts in your feed are buzzing about Cloudflare's pitch as a defender against automated A.I. agents hitting websites — a market some traders like for the years ahead.
+
+## Local News & Events | sting=local
+[ava] Closer to home, good infrastructure news in Londonderry. Public Works says the High Range Road water-main extension is installed through to Alexander Road, with pressure testing and service connections starting. About three hundred fifty more homes get access to public water as an alternative to P-F-A-S-contaminated wells. Saint-Gobain is covering more than one point seven million dollars of the roughly four point three million dollar project under its cleanup agreement. Pennichuck Water Works will bid out more neighborhood service connections soon. Paving should finish by year-end, aside from a short stretch waiting on Eversource work.
+[ava] Weekend reminder: Saturday is cold and windy for outdoor plans. Mount Uncanoonuc Brewfest in Goffstown is one to five, the Mall of New Hampshire author fair is noon to four, and Nashua's Boo Bash at Greeley Park is three to six. Sunday's last Nashua Farmers Market of the season is ten to one on the Riverwalk.
+
+## Uplifting Story | sting=feel
+[ava] And finally, a seventeen-year-old who decided kids deserve bikes. Jonathan Thai of Alpharetta, Georgia, was training for triathlons when his local R.E.I. closed a community bike workshop that served low-income families. He founded the Pedal Forward Foundation, raised more than thirty thousand dollars, secured four hundred donated bikes, handed out five hundred helmets, and runs free clinics for thirty to forty-five kids at a time.
+[ava] His parents grew up in rural postwar Vietnam, and he says a bike isn't just recreation — for a family without a car, it's how you get to school, the grocery store, and work. The foundation now has chapters in New York and Tennessee. Points of Light has already honored him. He's seventeen.
+[andrew] That's the kind of local fix that scales, Ava.
+[ava] Exactly. That's your four o'clock update. I'm Ava.
+[andrew] And I'm Andrew.
+[ava] Ask your Gumshoe for more on any story. See you next hour.
+
+> source: NWS api.weather.gov forecast for location.json (Londonderry, NH); WMUR forecast context (Oct 15)
+> source: Guardian live blog / AP, Trump cancels Nidal Hasan execution livestream; Pentagon Sean Parnell statement; ABC/WaPo poll; FBI/Postal Inspection Service suspicious mail to election offices (Oct 15)
+> source: AP / BBC / FT via NBC, Zelenskyy resumes Russian oil-refinery strikes; Kremlin Ryazan claim; Wes Streeting Washington remarks (Oct 15)
+> source: Yahoo Finance ^DJI history close 52,170.77 Oct 15; Yahoo Markets live (S&P ~+0.4%, Nasdaq edged higher, 10y ~5.10%); Investopedia/WSJ live (PPI hot, sector rotation); MarketBeat/Investing.com J.B. Hunt after-bell preview
+> source: The Verge / Windows Experience Blog, Windows 11 responsiveness up to 20% (Oct 15); Hypebeast Roadster demo caveat (prior)
+> source: TechCrunch, Amazon Bee Frontier and Bee Eclipse personal AI devices (Oct 15)
+> source: SecurityWeek / Cisco PSIRT / CISA KEV, CVE-2026-76519 Secure Email Gateway exploitation (Oct 15); U.S. Courts, BAE Systems BNC cyber incident (Oct 15)
+> source: Harry's X home timeline Oct 15 ~3:40-4:00 PM ET (@esaagar, @RapidResponse47, @Variety, Cloudflare/agentic-web discussion)
+> source: Union Leader, Londonderry High Range Road water extension / Saint-Gobain PFAS (Oct 6); Manchester Ink Link Weekender events
+> source: Good News Network, Jonathan Thai Pedal Forward Foundation bike clinics (Oct 15)

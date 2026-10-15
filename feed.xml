@@ -6,6 +6,37 @@
 <itunes:author>Gumshoe</itunes:author><itunes:explicit>false</itunes:explicit><itunes:block>Yes</itunes:block>
 <itunes:image href="https://hsverdlove.github.io/gumshoe-news/cover.jpg"/><image><url>https://hsverdlove.github.io/gumshoe-news/cover.jpg</url><title>Gumshoe News Radio (Harry)</title><link>https://hsverdlove.github.io/gumshoe-news/</link></image>
 <itunes:category text="News"/><itunes:type>episodic</itunes:type>
+<item><title>Thursday 4 PM Update, Oct 15</title><description>The 4 PM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the three o'clock update, with local news for Londonderry and southern New Hampshire. Anchor Ava, with Andrew at the business and tech desk.
+
+Chapters:
+0:00 Open &amp; Weather
+1:57 US News
+3:15 International
+4:03 Markets In Depth
+5:30 Technology
+6:16 Artificial Intelligence
+7:00 Cybersecurity
+7:58 From Your X Feed
+8:49 Local News &amp; Events
+9:50 Uplifting Story
+
+Sources:
+- NWS api.weather.gov forecast for 42.8458,-71.3987
+- NWS api.weather.gov forecast for location.json (Londonderry, NH); WMUR forecast context (Oct 15)
+- Guardian live blog / AP, Trump cancels Nidal Hasan execution livestream; Pentagon Sean Parnell statement; ABC/WaPo poll; FBI/Postal Inspection Service suspicious mail to election offices (Oct 15)
+- AP / BBC / FT via NBC, Zelenskyy resumes Russian oil-refinery strikes; Kremlin Ryazan claim; Wes Streeting Washington remarks (Oct 15)
+- Yahoo Finance ^DJI history close 52,170.77 Oct 15; Yahoo Markets live (S&amp;P ~+0.4%, Nasdaq edged higher, 10y ~5.10%); Investopedia/WSJ live (PPI hot, sector rotation); MarketBeat/Investing.com J.B. Hunt after-bell preview
+- The Verge / Windows Experience Blog, Windows 11 responsiveness up to 20% (Oct 15); Hypebeast Roadster demo caveat (prior)
+- TechCrunch, Amazon Bee Frontier and Bee Eclipse personal AI devices (Oct 15)
+- SecurityWeek / Cisco PSIRT / CISA KEV, CVE-2026-76519 Secure Email Gateway exploitation (Oct 15); U.S. Courts, BAE Systems BNC cyber incident (Oct 15)
+- Harry's X home timeline Oct 15 ~3:40-4:00 PM ET (@esaagar, @RapidResponse47, @Variety, Cloudflare/agentic-web discussion)
+- Union Leader, Londonderry High Range Road water extension / Saint-Gobain PFAS (Oct 6); Manchester Ink Link Weekender events
+- Good News Network, Jonathan Thai Pedal Forward Foundation bike clinics (Oct 15)</description>
+<content:encoded><![CDATA[The 4 PM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the three o'clock update, with local news for Londonderry and southern New Hampshire. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>1:57 US News<br/>3:15 International<br/>4:03 Markets In Depth<br/>5:30 Technology<br/>6:16 Artificial Intelligence<br/>7:00 Cybersecurity<br/>7:58 From Your X Feed<br/>8:49 Local News & Events<br/>9:50 Uplifting Story<br/><br/>Sources:<br/>- NWS api.weather.gov forecast for 42.8458,-71.3987<br/>- NWS api.weather.gov forecast for location.json (Londonderry, NH); WMUR forecast context (Oct 15)<br/>- Guardian live blog / AP, Trump cancels Nidal Hasan execution livestream; Pentagon Sean Parnell statement; ABC/WaPo poll; FBI/Postal Inspection Service suspicious mail to election offices (Oct 15)<br/>- AP / BBC / FT via NBC, Zelenskyy resumes Russian oil-refinery strikes; Kremlin Ryazan claim; Wes Streeting Washington remarks (Oct 15)<br/>- Yahoo Finance ^DJI history close 52,170.77 Oct 15; Yahoo Markets live (S&P ~+0.4%, Nasdaq edged higher, 10y ~5.10%); Investopedia/WSJ live (PPI hot, sector rotation); MarketBeat/Investing.com J.B. Hunt after-bell preview<br/>- The Verge / Windows Experience Blog, Windows 11 responsiveness up to 20% (Oct 15); Hypebeast Roadster demo caveat (prior)<br/>- TechCrunch, Amazon Bee Frontier and Bee Eclipse personal AI devices (Oct 15)<br/>- SecurityWeek / Cisco PSIRT / CISA KEV, CVE-2026-76519 Secure Email Gateway exploitation (Oct 15); U.S. Courts, BAE Systems BNC cyber incident (Oct 15)<br/>- Harry's X home timeline Oct 15 ~3:40-4:00 PM ET (@esaagar, @RapidResponse47, @Variety, Cloudflare/agentic-web discussion)<br/>- Union Leader, Londonderry High Range Road water extension / Saint-Gobain PFAS (Oct 6); Manchester Ink Link Weekender events<br/>- Good News Network, Jonathan Thai Pedal Forward Foundation bike clinics (Oct 15)]]></content:encoded>
+<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-15-4pm.mp3?v=20261015T1611" length="5353812" type="audio/mpeg"/>
+<guid isPermaLink="false">gumshoe-2026-10-15-4pm-20261015T1611</guid><pubDate>Thu, 15 Oct 2026 16:11:58 -0400</pubDate>
+<itunes:duration>653</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
+<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-15-4pm.chapters.json?v=20261015T1611" type="application/json+chapters"/></item>
 <item><title>Thursday 3 PM Update, Oct 15</title><description>The 3 PM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the two o'clock update, with local news for Londonderry and southern New Hampshire. Anchor Ava, with Andrew at the business and tech desk.
 
 Chapters:
