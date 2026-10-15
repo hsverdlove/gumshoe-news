@@ -152,7 +152,7 @@ def publish(msg):
     for _ in range(40):
         try:
             feed = urllib.request.urlopen(BASE + "/feed.xml?nocache=%d" % time.time(), timeout=20).read().decode()
-            if f"gumshoe-{reg[0]['slug']}-" in feed:
+            if f"gumshoe-{reg[0]['slug']}-{reg[0]['pub'][:16].replace(':', '').replace('-', '')}" in feed:
                 break
         except Exception: pass
         time.sleep(10)
