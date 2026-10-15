@@ -1,0 +1,73 @@
+// Gumshoe script format: see README.md
+# title: Thursday 3 PM Update, Oct 15
+# description: The 3 PM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the two o'clock update, with local news for Londonderry and southern New Hampshire. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon, and welcome to the three o'clock update of Gumshoe News Radio. It's Thursday, October fifteenth. I'm Ava, with Andrew at the business and tech desk. This hour: the Justice Department sues California over mail ballots, France sends help to protect Saudi oil, and a surprise endorsement in New Hampshire's Senate race.
+[andrew] And the Dow is up more than five hundred points with an hour of trading left, Ava.
+[ava] We'll get there. You're back home in Londonderry, so here's your forecast.
+@weather
+[ava] WMUR says Friday's showers are heaviest in the morning. Then comes a much colder Saturday, with highs only in the forties in southern New Hampshire and gusts of thirty to forty miles an hour. Sunday looks drier and milder.
+
+## US News | sting=us
+[ava] The Trump administration sued California election officials this afternoon. The Justice Department wants a federal judge to stop the state from counting mail ballots from about twenty thousand people it says are likely noncitizens, until their citizenship is confirmed. The department says it gave the state that list with a forty-eight-hour deadline, and the state didn't act. Attorney General Todd Blanche said state-facilitated voter fraud is unacceptable.
+[ava] California sees it very differently. Secretary of State Shirley Weber says the federal government demanded action within two days on data it hasn't verified, without sharing its methods or evidence, and without clear legal authority. Los Angeles County says it got a password-protected thumb drive and didn't open it, citing data-security and privacy rules. Ballots went out October first, so a judge now has to sort this out with the election less than three weeks away.
+[ava] Also tonight: debates. Maine Senator Susan Collins and Democrat Troy Jackson meet for their fourth and final debate. Jackson has tried to tie Collins to President Trump, and Collins has stressed her independence.
+
+## International | sting=world
+[ava] In the Iran war, more trouble near Hormuz. Iran's navy says an oil tanker caught fire in what it calls a restricted zone just east of the strait, after the ship turned off its tracking system. Iran didn't name the ship or say what caused the fire, and there's no word on the crew. That's Iran's account, and we haven't seen it confirmed independently.
+[ava] Washington added financial pressure. The Treasury Department sanctioned an Iraqi bank it says gives Iran access to U.S. dollars, along with two Iranian offshore banks, a Dubai-based Iranian oil middleman, and a network of money changers. Treasury Secretary Scott Bessent said the noose is tightening around Iran's economy.
+[ava] And Europe is being pulled in. France says it has started deploying military assets to help protect Saudi oil sites, especially the Red Sea port of Yanbu, after Houthi attacks on the kingdom. It didn't say what it sent. Britain already has a refueling plane flying missions for Saudi operations in Yemen. European governments are wary of getting drawn deeper in, but energy prices are part of the calculation.
+[ava] Elsewhere, Brazil's Senate voted seventy-five to one to end the six-day work week. The maximum week drops from forty-four hours to forty, in two steps over about fourteen months, with no pay cut. It's a win for President Lula.
+
+## Markets In Depth | sting=markets
+[ava] Andrew, an hour to the bell. How's it looking?
+[andrew] Better than this morning, Ava. As of about three o'clock, the Dow was up about five hundred thirty points, a little over one percent, near fifty-two thousand one hundred fifty. The S and P five hundred was up about a quarter percent. The Nasdaq has climbed back to roughly flat after falling more than one percent at the open, so it may avoid a fourth straight losing day.
+[andrew] Bonds are doing the heavy lifting. The ten-year Treasury yield is around five point oh eight percent, down from five point three six at one point yesterday. Money is still flowing into safer corners. Reuters had health care up more than two and a half percent this afternoon, led by Eli Lilly and UnitedHealth, and AbbVie hit a record. Chips are still the weak spot, with Nvidia down about two percent. Jensen Huang said Nvidia doesn't need to rescue CoreWeave, and that CoreWeave's borrowing costs are falling. Bond buyers are skeptical. Bloomberg says some CoreWeave bonds have traded at yields as high as fifteen percent.
+[andrew] Oil is split. U.S. crude is up about two and a half percent, near ninety-six dollars, on the Gulf attacks. Brent is flat, near a hundred six, after Reuters reported Washington is weighing easing sanctions on some shadow-fleet tankers carrying oil that isn't sanctioned, to bring down record shipping rates. Gold is up almost two percent, near forty-one eighty. And Tesla is down about one and a half percent, near three sixty-two, ahead of tonight.
+[andrew] Still to come: J.B. Hunt earnings after the bell, a read on how diesel prices are hitting truckers. And Fed Chair Kevin Warsh speaks at eleven thirty tonight Eastern, from Bangkok. Traders expect a tough tone after two hot inflation reports.
+
+## Technology | sting=tech
+[andrew] In tech, the Roadster countdown, with one new twist. Hypebeast reports tonight's outdoor demo may be scaled back to a short hover by a remote-controlled car that isn't street-legal, using SpaceX cold-gas thrusters. Tesla hasn't confirmed that. Musk posted that the demo will be a banger, quote, probably metaphorically, though some chance literally. The stream is at eight fifty-five Eastern. Hypebeast says production is now targeted for twenty twenty-seven or twenty twenty-eight.
+[andrew] A fun bit of history from tech writer Trung Phan: the original Roadster was unveiled in July two thousand six, just four days after Twitter, then spelled T-W-T-T-R, launched.
+
+## Artificial Intelligence | sting=ai
+[ava] In A.I., Google is responding to complaints from news publishers. It says links in A.I. Mode and A.I. Overviews will now show up higher and more often, and it's testing putting key sources at the top of some answers. Google also says more than four hundred publishers are now in its paid News A.I. licensing program, including newly signed Axios, C.N.N., and the Financial Times. Critics say A.I. answers still keep readers on Google and cut traffic to the outlets doing the reporting. Google says these changes are meant to send more of those clicks back.
+[ava] We told you at one about Meta's free-to-download Muse Spark Open model. The new angle is Apple. Apple's C.E.O., John Ternus, publicly praised it running on two Mac Studios, and Meta's A.I. chief Alexandr Wang told Axios, quote, we're excited for mommy and daddy to be playing nice again. Axios calls it the end of a long feud between the two companies.
+
+## Cybersecurity | sting=cyber
+[andrew] On cyber, a new kind of attack. Researchers at Citizen Lab and the ad-security firm Confiant say an Israeli ad company called Discover-Tech helped spyware makers infect devices just by showing someone an online ad. No click needed. They call it the first technical proof of a zero-click attack delivered through targeted ads. One partner was Candiru, a spyware firm the U.S. has blacklisted, and at least forty-five devices at Al Jazeera were targeted in twenty twenty-four and twenty twenty-five. Google has dropped Discover-Tech from its ad platform. For people at high risk, the advice is an ad blocker, limited ad tracking, and resetting your phone's advertising I.D. now and then.
+[andrew] And for developers, new reporting on a GitHub attack called GhostAction. About nineteen hundred accounts were hijacked and more than thirty thousand code repositories targeted with a fake workflow file named security-audit dot Y-M-L that steals passwords and cloud keys. GitHub began blocking it on October ninth. If that file showed up in your repos, rotate your secrets.
+
+## From Your X Feed | sting=x
+[ava] From your X feed since about two o'clock.
+[ava] The history account twenty-five years ago live had an eerie echo of today's suspicious letters. On this date in two thousand one, anthrax scares hit a post office outside Chicago, Fort Lauderdale, and the mailroom for A.B.C. in New York.
+[ava] The White House rapid response account said oil flow through the Strait of Hormuz is up to twelve million barrels a day despite Iranian attacks. That's the administration's figure, and we haven't seen it confirmed independently.
+[ava] Variety reported Comcast gave seven and a half million dollars toward President Trump's new White House ballroom, one of fifty-seven corporate donors. The White House says the project is privately funded. Critics question companies with business before the government paying for it.
+[ava] And accounts in your feed passed along E.S.P.N. reporter Pete Thamel's report that the College Football Playoff is close to expanding to twenty-four teams starting in twenty twenty-seven. It's not final.
+
+## Local News & Events | sting=local
+[ava] Closer to home, a surprise in the Senate race. Don Bolduc, the Trump-endorsed Republican Senate nominee in twenty twenty-two, is endorsing Democrat Chris Pappas over Republican John Sununu. Bolduc told the Union Leader that Pappas stands out for his work on veterans' issues and his bipartisan record. Bolduc has a long-running feud with Sununu's brother, former Governor Chris Sununu. Sununu's campaign says Pappas voted with Nancy Pelosi two hundred twenty-two out of two hundred twenty-three times, and criticized him for campaigning with California Governor Gavin Newsom this weekend.
+[ava] Here in Londonderry, school officials warn a tax-cap question on the November ballot could leave the district about two million dollars short. Superintendent Dan Black told WMUR that bus routes, some courses, sports, and tech upgrades could be cut, and jobs can't be ruled out. Backers of tax caps say they protect homeowners from rising property taxes. Voters could override the cap in March, but that would take sixty percent.
+[ava] For the weekend: Saturday brings the Mount Uncanoonuc Brewfest in Goffstown from one to five, and more than seventy-five New England authors at the Mall of New Hampshire from noon to four. Nashua's free Halloween Boo Bash is three to six at Greeley Park. And Sunday morning is the last Nashua Farmers Market of the season, ten to one on the Riverwalk. Bundle up Saturday.
+
+## Uplifting Story | sting=feel
+[ava] And finally, a pumpkin too big for the porch. Guinness World Records confirmed a new heaviest pumpkin ever: Bagheera, named after the panther in The Jungle Book, at two thousand eight hundred fifty-six pounds.
+[ava] Sixty-five-year-old Ian Paton of Lymington, England, has grown giant vegetables for about fifty years. He and his brother set the record together last year. This year he went solo, with up to six hours a day of care and about a hundred thirty gallons of water a day. He called it, quote, bloody hard work. Bagheera beat last year's record by about forty-five pounds. Its next job: cattle feed.
+[andrew] That's a lot of pie, Ava.
+[ava] Or a very happy herd of cows. That's your three o'clock update. I'm Ava.
+[andrew] And I'm Andrew.
+[ava] Ask your Gumshoe for more on any story. See you next hour.
+
+> source: NWS api.weather.gov forecast for location.json (Londonderry, NH); WMUR, "NH forecast: Partly sunny and dry ahead of showers" (Oct 15)
+> source: AP, "Trump administration sues California to block state from counting alleged noncitizen mail-in ballots" (Oct 15); DOJ press release "Justice Department Sues State of California over Voter List"; California Secretary of State statement; LA County Registrar statement (Oct 14)
+> source: NBC News politics live blog Oct 15 (Maine, Alaska, Michigan debates)
+> source: Euronews / Anadolu / Dawn, Iranian navy reports tanker fire east of Hormuz (Oct 15); U.S. Treasury, "Operation Economic Outcast Targets Iran's International Financial Networks" (Oct 15)
+> source: The National, "France begins deploying military means" to Saudi Arabia (Oct 15); BBC and Brazilian Senate, end of 6x1 work week (PEC 221/2019)
+> source: Yahoo Finance quotes ~3:04 PM ET; Reuters via Financial Newsletter (sector moves); CoinDesk live (Warsh speech, Huang on CoreWeave, FedWatch); Reuters via RTE/Yahoo (shadow-fleet sanctions, Brent)
+> source: Hypebeast, "Tesla Schedules an October 15 Roadster Demonstration" (Oct 14); Engadget Roadster live blog; @TrungTPhan on X
+> source: The Verge, "Google is making inline links more prominent in AI responses" (Oct 15); The Verge / Axios / CNBC, Meta and Apple Muse Spark Open on Mac (Oct 15)
+> source: Citizen Lab & Confiant "AdFection" report; The Verge / NBC News, Discover-Tech zero-click ads spyware (Oct 15); The Hacker News / GitGuardian, GhostAction GitHub compromise
+> source: Harry's X home timeline Oct 15 ~2:08-3:02 PM ET (@25YearsAgoLive, @RapidResponse47, @Variety, @TheCalvinCooli1 citing @PeteThamel)
+> source: Union Leader, "Don Bolduc endorses Democrat Chris Pappas over John E. Sununu" (Oct 15); WMUR, "Londonderry School District warns it could face $2 million shortfall" (Oct 13); Manchester Ink Link, The Weekender Oct 15-18
+> source: Guinness World Records and BBC, Ian Paton's record pumpkin Bagheera; Good News Network (Oct 15)

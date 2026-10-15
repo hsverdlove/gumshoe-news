@@ -6,6 +6,39 @@
 <itunes:author>Gumshoe</itunes:author><itunes:explicit>false</itunes:explicit><itunes:block>Yes</itunes:block>
 <itunes:image href="https://hsverdlove.github.io/gumshoe-news/cover.jpg"/><image><url>https://hsverdlove.github.io/gumshoe-news/cover.jpg</url><title>Gumshoe News Radio (Harry)</title><link>https://hsverdlove.github.io/gumshoe-news/</link></image>
 <itunes:category text="News"/><itunes:type>episodic</itunes:type>
+<item><title>Thursday 3 PM Update, Oct 15</title><description>The 3 PM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the two o'clock update, with local news for Londonderry and southern New Hampshire. Anchor Ava, with Andrew at the business and tech desk.
+
+Chapters:
+0:00 Open &amp; Weather
+2:01 US News
+3:12 International
+4:35 Markets In Depth
+6:30 Technology
+7:14 Artificial Intelligence
+8:14 Cybersecurity
+9:23 From Your X Feed
+10:26 Local News &amp; Events
+11:52 Uplifting Story
+
+Sources:
+- NWS api.weather.gov forecast for 42.8458,-71.3987
+- NWS api.weather.gov forecast for location.json (Londonderry, NH); WMUR, "NH forecast: Partly sunny and dry ahead of showers" (Oct 15)
+- AP, "Trump administration sues California to block state from counting alleged noncitizen mail-in ballots" (Oct 15); DOJ press release "Justice Department Sues State of California over Voter List"; California Secretary of State statement; LA County Registrar statement (Oct 14)
+- NBC News politics live blog Oct 15 (Maine, Alaska, Michigan debates)
+- Euronews / Anadolu / Dawn, Iranian navy reports tanker fire east of Hormuz (Oct 15); U.S. Treasury, "Operation Economic Outcast Targets Iran's International Financial Networks" (Oct 15)
+- The National, "France begins deploying military means" to Saudi Arabia (Oct 15); BBC and Brazilian Senate, end of 6x1 work week (PEC 221/2019)
+- Yahoo Finance quotes ~3:04 PM ET; Reuters via Financial Newsletter (sector moves); CoinDesk live (Warsh speech, Huang on CoreWeave, FedWatch); Reuters via RTE/Yahoo (shadow-fleet sanctions, Brent)
+- Hypebeast, "Tesla Schedules an October 15 Roadster Demonstration" (Oct 14); Engadget Roadster live blog; @TrungTPhan on X
+- The Verge, "Google is making inline links more prominent in AI responses" (Oct 15); The Verge / Axios / CNBC, Meta and Apple Muse Spark Open on Mac (Oct 15)
+- Citizen Lab &amp; Confiant "AdFection" report; The Verge / NBC News, Discover-Tech zero-click ads spyware (Oct 15); The Hacker News / GitGuardian, GhostAction GitHub compromise
+- Harry's X home timeline Oct 15 ~2:08-3:02 PM ET (@25YearsAgoLive, @RapidResponse47, @Variety, @TheCalvinCooli1 citing @PeteThamel)
+- Union Leader, "Don Bolduc endorses Democrat Chris Pappas over John E. Sununu" (Oct 15); WMUR, "Londonderry School District warns it could face $2 million shortfall" (Oct 13); Manchester Ink Link, The Weekender Oct 15-18
+- Guinness World Records and BBC, Ian Paton's record pumpkin Bagheera; Good News Network (Oct 15)</description>
+<content:encoded><![CDATA[The 3 PM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the two o'clock update, with local news for Londonderry and southern New Hampshire. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>2:01 US News<br/>3:12 International<br/>4:35 Markets In Depth<br/>6:30 Technology<br/>7:14 Artificial Intelligence<br/>8:14 Cybersecurity<br/>9:23 From Your X Feed<br/>10:26 Local News & Events<br/>11:52 Uplifting Story<br/><br/>Sources:<br/>- NWS api.weather.gov forecast for 42.8458,-71.3987<br/>- NWS api.weather.gov forecast for location.json (Londonderry, NH); WMUR, "NH forecast: Partly sunny and dry ahead of showers" (Oct 15)<br/>- AP, "Trump administration sues California to block state from counting alleged noncitizen mail-in ballots" (Oct 15); DOJ press release "Justice Department Sues State of California over Voter List"; California Secretary of State statement; LA County Registrar statement (Oct 14)<br/>- NBC News politics live blog Oct 15 (Maine, Alaska, Michigan debates)<br/>- Euronews / Anadolu / Dawn, Iranian navy reports tanker fire east of Hormuz (Oct 15); U.S. Treasury, "Operation Economic Outcast Targets Iran's International Financial Networks" (Oct 15)<br/>- The National, "France begins deploying military means" to Saudi Arabia (Oct 15); BBC and Brazilian Senate, end of 6x1 work week (PEC 221/2019)<br/>- Yahoo Finance quotes ~3:04 PM ET; Reuters via Financial Newsletter (sector moves); CoinDesk live (Warsh speech, Huang on CoreWeave, FedWatch); Reuters via RTE/Yahoo (shadow-fleet sanctions, Brent)<br/>- Hypebeast, "Tesla Schedules an October 15 Roadster Demonstration" (Oct 14); Engadget Roadster live blog; @TrungTPhan on X<br/>- The Verge, "Google is making inline links more prominent in AI responses" (Oct 15); The Verge / Axios / CNBC, Meta and Apple Muse Spark Open on Mac (Oct 15)<br/>- Citizen Lab & Confiant "AdFection" report; The Verge / NBC News, Discover-Tech zero-click ads spyware (Oct 15); The Hacker News / GitGuardian, GhostAction GitHub compromise<br/>- Harry's X home timeline Oct 15 ~2:08-3:02 PM ET (@25YearsAgoLive, @RapidResponse47, @Variety, @TheCalvinCooli1 citing @PeteThamel)<br/>- Union Leader, "Don Bolduc endorses Democrat Chris Pappas over John E. Sununu" (Oct 15); WMUR, "Londonderry School District warns it could face $2 million shortfall" (Oct 13); Manchester Ink Link, The Weekender Oct 15-18<br/>- Guinness World Records and BBC, Ian Paton's record pumpkin Bagheera; Good News Network (Oct 15)]]></content:encoded>
+<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-15-3pm.mp3?v=20261015T1520" length="6295380" type="audio/mpeg"/>
+<guid isPermaLink="false">gumshoe-2026-10-15-3pm-20261015T1520</guid><pubDate>Thu, 15 Oct 2026 15:20:54 -0400</pubDate>
+<itunes:duration>771</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
+<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-15-3pm.chapters.json?v=20261015T1520" type="application/json+chapters"/></item>
 <item><title>Thursday 2 PM Update, Oct 15</title><description>The 2 PM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the one o'clock update, with local news for the Thornton and White Mountains area. Anchor Ava, with Andrew at the business and tech desk.
 
 Chapters:
