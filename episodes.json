@@ -1,5 +1,13 @@
 [
  {
+  "slug": "2026-10-15-2pm",
+  "title": "Thursday 2 PM Update, Oct 15",
+  "pub": "2026-10-15T14:08:13.914960-04:00",
+  "duration": 690,
+  "size": 5645268,
+  "description": "The 2 PM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the one o'clock update, with local news for the Thornton and White Mountains area. Anchor Ava, with Andrew at the business and tech desk.\n\nChapters:\n0:00 Open & Weather\n1:56 US News\n3:00 International\n4:27 Markets In Depth\n6:03 Technology\n7:08 Artificial Intelligence\n8:00 Cybersecurity\n8:45 From Your X Feed\n9:42 Local News & Events\n10:31 Uplifting Story\n\nSources:\n- NWS api.weather.gov forecast for 43.9153,-71.6503\n- NWS api.weather.gov forecast for location.json (Thornton, NH); WMUR forecast Oct 15\n- WMUR, \"New Hampshire offices among those receiving envelopes containing 'suspicious substance'\" (updated 1:30 PM ET Oct 15); AP suspicious-letters coverage Oct 15\n- WMUR, \"Judge: NH voters can use a student ID for voting verification\" (Oct 14); 1st Circuit denial of emergency appeal\n- AP/PBS NewsHour, \"Ukraine resumes attacks on Russian oil refineries as relations with Trump sour\" (Oct 15); Financial Times / Piers Morgan interviews with Zelenskyy\n- Reuters, \"Two ships sink near Hormuz after being hit by projectiles amid surge in attacks\" (Oct 14-15); Singapore MPA statement on GFS Pride\n- Yahoo Finance markets live (updated 1:34 PM ET); AP Wall Street steadies Oct 15 (~1:19 PM ET); Investopedia/CME FedWatch; 5paisa/CNBC oil quotes Oct 15\n- Electrek, \"Tesla sets Roadster event for Thursday after nearly 9 years of delays\" (Oct 13); Tesla/@Tesla livestream posts Oct 15; X trending on iPhone Duo pre-orders\n- @elonmusk on X (Star Mind / Nvidia, Oct 15 ~1:48 PM ET); @AndrewCurran_ on X (METR Anthropic access, Oct 15)\n- SecurityWeek, \"Cisco Warns of Exploited Secure Email Gateway Vulnerability\" (CVE-2026-76519, Oct 15); CISA KEV (patch by Oct 17)\n- Harry's X home timeline Oct 15 ~1:00-1:56 PM ET (@elonmusk, @Tesla, @BrianRoemmele, @TheJusticeDept, @Variety, @50YearsAgoLive)\n- WMUR NH offices suspicious letters; Gunstock Campground Halloween Weekend Oct 17-18 (Gilford); Visit NH, Great New England Fall Craft & Artisan Show (Milford)\n- NPR/KCUR, \"Group that plants fruit trees in vacant lots grows to cities nationwide\" (The Giving Grove, Oct 15)"
+ },
+ {
   "slug": "2026-10-15-1pm",
   "title": "Thursday 1 PM Update, Oct 15",
   "pub": "2026-10-15T13:21:24.699113-04:00",

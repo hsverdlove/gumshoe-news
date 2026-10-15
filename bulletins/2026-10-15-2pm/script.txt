@@ -1,0 +1,66 @@
+// Gumshoe script format: see README.md
+# title: Thursday 2 PM Update, Oct 15
+# description: The 2 PM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the one o'clock update, with local news for the Thornton and White Mountains area. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon, and welcome to the two o'clock update of Gumshoe News Radio. It's Thursday, October fifteenth. I'm Ava, with Andrew at the business and tech desk. This hour: Ukraine striking Russian oil again, ships going down near Hormuz, and Tesla's long-delayed Roadster reveal tonight.
+[andrew] And a market that's still split, Ava, with the Dow up and the Nasdaq still in the red.
+[ava] We'll get there. You're still showing up in the White Mountains around Thornton, so here's your forecast for there.
+@weather
+[ava] WMUR still has partly sunny and dry today, then showers Friday, and gusty colder air for the weekend, with snow showers possible up north Saturday. Plan ahead if you're on the road.
+
+## US News | sting=us
+[ava] A local angle on a story we flagged at one. WMUR reports the New Hampshire Attorney General's office confirmed this afternoon that some offices in the state received those suspicious letters federal investigators are chasing nationwide. The A.G. did not name which offices. The F.B.I. still says no harmful substance has been confirmed in the sampled letters, and election work has not been stopped. Officials treat every envelope as potentially hazardous until proven otherwise.
+[ava] Separately, a voting-I.D. fight in New Hampshire. A federal appeals court on Wednesday refused the state's bid to overturn a ruling that lets poll workers consider a student I.D. as backup when a voter doesn't have an accepted form of I.D. Student I.D.s still cannot stand alone to get a ballot. Supporters of the law say it protects election integrity. Civil rights groups that sued say the secretary of state's earlier blanket ban went further than the statute allowed. The First Circuit left the district judge's compromise in place for the November election.
+
+## International | sting=world
+[ava] Overseas, the Ukraine war heated up again overnight. Ukrainian drones hit an oil refinery in Russia's Ryazan region, about a hundred eighty miles southeast of Moscow, and started a fire. A senior Ukrainian official confirmed the strike to the A.P. President Zelenskyy told the Financial Times Ukraine's pause on refinery attacks is over, saying, quote, we're done. He told Piers Morgan he felt betrayed by President Trump after a brief energy truce, limits on Starlink, and what Kyiv says was a cut in Western intelligence sharing. Trump has said the U.S. has not stopped sharing intelligence. Russia, for its part, says Ukraine never really stopped hitting refineries. Overnight, Zelenskyy said Russia launched more than eight hundred fifty drones at Ukraine.
+[ava] In the Iran war, shipping risk is climbing. Reuters reports two commercial ships sank near the Strait of Hormuz after being hit by projectiles. The Singapore-flagged container ship G.F.S. Pride went down with all twenty-one crew safely evacuated. The Antigua and Barbuda-flagged Cape Dao also sank; one crew member was killed earlier when it was struck. Iran says one vessel hit a mine on an unauthorized route. Singapore's port authority called the attacks a breach of international law. About a fifth of the world's oil used to move through that strait before this war.
+
+## Markets In Depth | sting=markets
+[ava] Andrew, what's the two o'clock picture?
+[andrew] Still two markets, Ava, but a little calmer than the open. As of about one thirty-four, Yahoo Finance had the Dow up more than four hundred points, about eight tenths of a percent. The S and P was roughly flat after erasing an early loss. The Nasdaq was down about four tenths, after being down more than one percent earlier. So tech trimmed its losses, but it's still the Nasdaq's fourth down day in a row.
+[andrew] The ten-year Treasury yield sank to about five point one percent as investors parked money in bonds. Overnight, South Korea's Kospi plunged about seven and a half percent on a chip selloff, and that weighed on U.S. semiconductors at the open. T.S.M.C. was down about two percent even after another record profit. CoreWeave stayed under pressure after yesterday's fifteen percent drop on debt worries. On the upside, Nike, UnitedHealth, and Salesforce helped the Dow. Nike was still up several percent in the rotation out of A.I. names into more traditional stocks.
+[andrew] Traders are still digesting that hot wholesale inflation print from this morning. According to CME FedWatch, the odds of a rate hike at the Fed's meeting in about two weeks were around twenty-seven percent, with about a ninety percent chance of at least a quarter-point hike by December. On oil, Brent was trading around a hundred four to a hundred five dollars a barrel early afternoon, and U.S. crude near ninety-five, still elevated on the Hormuz risk we just covered.
+
+## Technology | sting=tech
+[andrew] In tech, eyes turn to Texas tonight. Tesla says it will finally stream the next-generation Roadster event at seven fifty-five Central, that's eight fifty-five Eastern, from a SpaceX test site. Electrek notes the car was first shown in twenty seventeen with production promised for twenty twenty, and this unveil itself has slipped through a long list of dates. Tesla blamed weather for canceling an October first outdoor show. Expect a redesign and talk of SpaceX cold-gas thrusters; Musk has claimed zero to sixty in under a second with them. Reservation holders will be listening for a real price and a real production start, not just a demo.
+[andrew] Separately, Apple's first foldable iPhone, the Duo, starts pre-orders tomorrow morning Pacific time. Reports put the starting price at about two thousand dollars for two hundred fifty-six gigabytes, with a steep repair bill on the inner display if you skip AppleCare. Excitement over the foldable form factor is running into sticker shock.
+
+## Artificial Intelligence | sting=ai
+[ava] In A.I., Elon Musk posted this afternoon that SpaceX and Nvidia are co-engineering a computer he calls Star Mind, saying it will reach volume production next year and is, in his words, far better than almost anyone expects. He credited Nvidia's Jensen Huang as an old friend. That's Musk's claim; independent specs and benchmarks are not out yet. It lands in the same debate that has been hitting chip stocks: how much more A.I. hardware the world can absorb, and who pays for the debt to build it.
+[ava] Meanwhile, the A.I. safety group METR says it now has employee-level access to Anthropic's frontier models. Watchers on X called that the kind of note you see before a big model drop. Anthropic has not announced a launch tied to that access, so treat the timing talk as speculation for now.
+
+## Cybersecurity | sting=cyber
+[andrew] On cyber, a new one for email admins. Cisco warned that hackers are actively exploiting a critical flaw in its Secure Email Gateway, tracked as C.V.E. twenty twenty-six dash seventy-six five nineteen. An unauthenticated attacker can send a crafted attachment and, under the right settings, write files and run commands as root. CISA added it to the known-exploited list and wants federal agencies patched by October seventeenth. Cisco has published indicators of compromise and says it has already contacted some cloud customers where signs of intrusion showed up. If you run that appliance, this is a patch-now item, separate from the Palo Alto firewall issue we flagged earlier.
+
+## From Your X Feed | sting=x
+[ava] From your X feed since about one o'clock.
+[ava] Elon Musk and the official Tesla account dominated the tech slice, teasing tonight's Roadster livestream and that Star Mind computer we just covered. Brian Roemmele said he'll simulcast the event with commentary at five fifty-five Pacific.
+[ava] The Justice Department posted that a man was arrested and charged after officers found about thirty pounds of suspected fentanyl and more methamphetamine. Variety noted Ben Affleck pushing back on what he called high-school bullying of Tom Cruise's movie Digger, warning that celebrating bombs only leads studios to make safer, worse films. And the history account fifty years ago live marked this date in nineteen seventy-six, when Walter Mondale and Bob Dole held the first televised vice-presidential debate.
+[ava] As usual, we skipped the most heated political pile-ons and anything we couldn't verify.
+
+## Local News & Events | sting=local
+[ava] Closer to home. Beyond those suspicious letters reaching some New Hampshire offices, the student-I.D. appeals ruling we mentioned is the live election story for the Granite State with three weeks to go. Poll workers may consider a student I.D. as supporting evidence when a voter lacks an accepted I.D., but it is not enough by itself.
+[ava] For the weekend up your way: over in Gilford, Gunstock Campground runs a Halloween weekend Friday through Sunday, with trick-or-treating, crafts, games, and an outdoor movie. And if you're heading south, the Great New England Fall Craft and Artisan Show is Saturday and Sunday in Milford, with more than a hundred seventy artisans and live music. Leaf-peeping traffic is still heavy on the Kanc and through the notches, so leave extra time.
+
+## Uplifting Story | sting=feel
+[ava] And finally, fruit trees where vacant lots used to sit. N.P.R. reports a Kansas City nonprofit called The Giving Grove has helped plant about fourteen thousand fruit and nut trees across nearly eight hundred fifty orchards in seventeen cities, from Seattle to Atlanta.
+[ava] Volunteers do almost all the work. The orchards now produce more than two and a half million pounds of free organic fruit and nuts a year. Founder Kevin Birzir says the group shares know-how and seed money so local garden organizations can tend the trees for the long haul. Corporate donations cover most of the budget, and cities keep inviting them in. Unused land becomes a little neighborhood park, and dinner grows on it.
+[andrew] That's a harvest worth talking about.
+[ava] It is. That's your two o'clock update. I'm Ava.
+[andrew] And I'm Andrew.
+[ava] Ask your Gumshoe for more on any story. See you next hour.
+
+> source: NWS api.weather.gov forecast for location.json (Thornton, NH); WMUR forecast Oct 15
+> source: WMUR, "New Hampshire offices among those receiving envelopes containing 'suspicious substance'" (updated 1:30 PM ET Oct 15); AP suspicious-letters coverage Oct 15
+> source: WMUR, "Judge: NH voters can use a student ID for voting verification" (Oct 14); 1st Circuit denial of emergency appeal
+> source: AP/PBS NewsHour, "Ukraine resumes attacks on Russian oil refineries as relations with Trump sour" (Oct 15); Financial Times / Piers Morgan interviews with Zelenskyy
+> source: Reuters, "Two ships sink near Hormuz after being hit by projectiles amid surge in attacks" (Oct 14-15); Singapore MPA statement on GFS Pride
+> source: Yahoo Finance markets live (updated 1:34 PM ET); AP Wall Street steadies Oct 15 (~1:19 PM ET); Investopedia/CME FedWatch; 5paisa/CNBC oil quotes Oct 15
+> source: Electrek, "Tesla sets Roadster event for Thursday after nearly 9 years of delays" (Oct 13); Tesla/@Tesla livestream posts Oct 15; X trending on iPhone Duo pre-orders
+> source: @elonmusk on X (Star Mind / Nvidia, Oct 15 ~1:48 PM ET); @AndrewCurran_ on X (METR Anthropic access, Oct 15)
+> source: SecurityWeek, "Cisco Warns of Exploited Secure Email Gateway Vulnerability" (CVE-2026-76519, Oct 15); CISA KEV (patch by Oct 17)
+> source: Harry's X home timeline Oct 15 ~1:00-1:56 PM ET (@elonmusk, @Tesla, @BrianRoemmele, @TheJusticeDept, @Variety, @50YearsAgoLive)
+> source: WMUR NH offices suspicious letters; Gunstock Campground Halloween Weekend Oct 17-18 (Gilford); Visit NH, Great New England Fall Craft & Artisan Show (Milford)
+> source: NPR/KCUR, "Group that plants fruit trees in vacant lots grows to cities nationwide" (The Giving Grove, Oct 15)

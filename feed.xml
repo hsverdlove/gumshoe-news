@@ -6,6 +6,39 @@
 <itunes:author>Gumshoe</itunes:author><itunes:explicit>false</itunes:explicit><itunes:block>Yes</itunes:block>
 <itunes:image href="https://hsverdlove.github.io/gumshoe-news/cover.jpg"/><image><url>https://hsverdlove.github.io/gumshoe-news/cover.jpg</url><title>Gumshoe News Radio (Harry)</title><link>https://hsverdlove.github.io/gumshoe-news/</link></image>
 <itunes:category text="News"/><itunes:type>episodic</itunes:type>
+<item><title>Thursday 2 PM Update, Oct 15</title><description>The 2 PM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the one o'clock update, with local news for the Thornton and White Mountains area. Anchor Ava, with Andrew at the business and tech desk.
+
+Chapters:
+0:00 Open &amp; Weather
+1:56 US News
+3:00 International
+4:27 Markets In Depth
+6:03 Technology
+7:08 Artificial Intelligence
+8:00 Cybersecurity
+8:45 From Your X Feed
+9:42 Local News &amp; Events
+10:31 Uplifting Story
+
+Sources:
+- NWS api.weather.gov forecast for 43.9153,-71.6503
+- NWS api.weather.gov forecast for location.json (Thornton, NH); WMUR forecast Oct 15
+- WMUR, "New Hampshire offices among those receiving envelopes containing 'suspicious substance'" (updated 1:30 PM ET Oct 15); AP suspicious-letters coverage Oct 15
+- WMUR, "Judge: NH voters can use a student ID for voting verification" (Oct 14); 1st Circuit denial of emergency appeal
+- AP/PBS NewsHour, "Ukraine resumes attacks on Russian oil refineries as relations with Trump sour" (Oct 15); Financial Times / Piers Morgan interviews with Zelenskyy
+- Reuters, "Two ships sink near Hormuz after being hit by projectiles amid surge in attacks" (Oct 14-15); Singapore MPA statement on GFS Pride
+- Yahoo Finance markets live (updated 1:34 PM ET); AP Wall Street steadies Oct 15 (~1:19 PM ET); Investopedia/CME FedWatch; 5paisa/CNBC oil quotes Oct 15
+- Electrek, "Tesla sets Roadster event for Thursday after nearly 9 years of delays" (Oct 13); Tesla/@Tesla livestream posts Oct 15; X trending on iPhone Duo pre-orders
+- @elonmusk on X (Star Mind / Nvidia, Oct 15 ~1:48 PM ET); @AndrewCurran_ on X (METR Anthropic access, Oct 15)
+- SecurityWeek, "Cisco Warns of Exploited Secure Email Gateway Vulnerability" (CVE-2026-76519, Oct 15); CISA KEV (patch by Oct 17)
+- Harry's X home timeline Oct 15 ~1:00-1:56 PM ET (@elonmusk, @Tesla, @BrianRoemmele, @TheJusticeDept, @Variety, @50YearsAgoLive)
+- WMUR NH offices suspicious letters; Gunstock Campground Halloween Weekend Oct 17-18 (Gilford); Visit NH, Great New England Fall Craft &amp; Artisan Show (Milford)
+- NPR/KCUR, "Group that plants fruit trees in vacant lots grows to cities nationwide" (The Giving Grove, Oct 15)</description>
+<content:encoded><![CDATA[The 2 PM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the one o'clock update, with local news for the Thornton and White Mountains area. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>1:56 US News<br/>3:00 International<br/>4:27 Markets In Depth<br/>6:03 Technology<br/>7:08 Artificial Intelligence<br/>8:00 Cybersecurity<br/>8:45 From Your X Feed<br/>9:42 Local News & Events<br/>10:31 Uplifting Story<br/><br/>Sources:<br/>- NWS api.weather.gov forecast for 43.9153,-71.6503<br/>- NWS api.weather.gov forecast for location.json (Thornton, NH); WMUR forecast Oct 15<br/>- WMUR, "New Hampshire offices among those receiving envelopes containing 'suspicious substance'" (updated 1:30 PM ET Oct 15); AP suspicious-letters coverage Oct 15<br/>- WMUR, "Judge: NH voters can use a student ID for voting verification" (Oct 14); 1st Circuit denial of emergency appeal<br/>- AP/PBS NewsHour, "Ukraine resumes attacks on Russian oil refineries as relations with Trump sour" (Oct 15); Financial Times / Piers Morgan interviews with Zelenskyy<br/>- Reuters, "Two ships sink near Hormuz after being hit by projectiles amid surge in attacks" (Oct 14-15); Singapore MPA statement on GFS Pride<br/>- Yahoo Finance markets live (updated 1:34 PM ET); AP Wall Street steadies Oct 15 (~1:19 PM ET); Investopedia/CME FedWatch; 5paisa/CNBC oil quotes Oct 15<br/>- Electrek, "Tesla sets Roadster event for Thursday after nearly 9 years of delays" (Oct 13); Tesla/@Tesla livestream posts Oct 15; X trending on iPhone Duo pre-orders<br/>- @elonmusk on X (Star Mind / Nvidia, Oct 15 ~1:48 PM ET); @AndrewCurran_ on X (METR Anthropic access, Oct 15)<br/>- SecurityWeek, "Cisco Warns of Exploited Secure Email Gateway Vulnerability" (CVE-2026-76519, Oct 15); CISA KEV (patch by Oct 17)<br/>- Harry's X home timeline Oct 15 ~1:00-1:56 PM ET (@elonmusk, @Tesla, @BrianRoemmele, @TheJusticeDept, @Variety, @50YearsAgoLive)<br/>- WMUR NH offices suspicious letters; Gunstock Campground Halloween Weekend Oct 17-18 (Gilford); Visit NH, Great New England Fall Craft & Artisan Show (Milford)<br/>- NPR/KCUR, "Group that plants fruit trees in vacant lots grows to cities nationwide" (The Giving Grove, Oct 15)]]></content:encoded>
+<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-15-2pm.mp3?v=20261015T1408" length="5645268" type="audio/mpeg"/>
+<guid isPermaLink="false">gumshoe-2026-10-15-2pm-20261015T1408</guid><pubDate>Thu, 15 Oct 2026 14:08:13 -0400</pubDate>
+<itunes:duration>690</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
+<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-15-2pm.chapters.json?v=20261015T1408" type="application/json+chapters"/></item>
 <item><title>Thursday 1 PM Update, Oct 15</title><description>The 1 PM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the 11 o'clock update, with local news for the Thornton and White Mountains area. Anchor Ava, with Andrew at the business and tech desk.
 
 Chapters:
