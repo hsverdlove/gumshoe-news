@@ -1,0 +1,74 @@
+// Gumshoe script format: see README.md
+# title: Thursday 11 AM Update, Oct 15
+# description: The 11 AM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the 10 o'clock update. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning, and welcome to the eleven o'clock update of Gumshoe News Radio. It's Thursday, October fifteenth. I'm Ava, with Andrew at the business and tech desk. This hour: a reversal from the White House, more danger for ships near Iran, and a market that's clawing back some of its early losses.
+[andrew] Good to be here, Ava. It's been a busy first ninety minutes of trading.
+[ava] First, your forecast.
+@weather
+[ava] Enjoy the dry weather while it lasts. WMUR says rain, gusty winds, and colder air arrive later this weekend, with snow showers possible up north.
+
+## US News | sting=us
+[ava] Here at home, President Trump has called off the Pentagon's plan to livestream the execution of Nidal Hasan, the former Army psychiatrist who killed thirteen people in the twenty oh-nine Fort Hood shooting. Defense Secretary Pete Hegseth had announced the execution, set for December third by firing squad, would be streamed for the public. That drew criticism from both parties, and Vice President JD Vance said he wouldn't watch it.
+[ava] This morning, the president said many well-meaning people would rather not watch, though he still believes streaming it could have been a strong deterrent. He says the execution will go ahead as scheduled, and victims' families can watch in person. According to the BBC, it would be the first U.S. military execution in more than sixty years. Supporters of the original plan argued transparency would send a message; critics warned it could turn into propaganda for extremists.
+
+## International | sting=world
+[ava] Around the world, shipping near Iran is getting more dangerous. Two cargo ships have sunk near the Strait of Hormuz in the past day or so. The Singapore-flagged container ship G F S Pride caught fire and sank after being hit by unknown projectiles on Tuesday. Singapore says all its crew got off safely. A second ship, the Cape Dao, also went down after being hit back in September; one Indian crew member was killed in that attack.
+[ava] Iranian state media says the G F S Pride hit a sea mine on an unauthorized route. Experts quoted by CNN doubt that and say a drone strike is more likely. A Greek maritime monitor warned today that ships face what it called indiscriminate attacks there, even if they switch off their trackers. Data firm Kpler says oil moving through the strait on Monday was less than a quarter of pre-war levels.
+[ava] In Ukraine's war, Ukraine's military says it damaged six Russian Su-thirty-four bombers in an overnight missile strike on an airfield in Russia's Voronezh region. Russia hasn't confirmed that. The Kremlin, meanwhile, says Ukraine's latest strikes on Russian refineries go against the spirit of U.S. peace efforts. Ukraine says it never agreed to the energy truce President Trump announced on Sunday, and Russia never publicly committed to it either.
+
+## Markets In Depth | sting=markets
+[ava] Andrew, are things calming down?
+[andrew] A little. Early on, the Nasdaq was down about one and a half percent. By ten thirty, CoinDesk had it down about point eight percent, with the S and P five hundred off about a quarter of a percent. The Dow is the outlier. The A.P. had it up close to three hundred points around ten fifteen, and most U.S. stocks are actually rising today. The S and P is on track for its sixth loss in seven sessions since its record high last week.
+[andrew] Money is moving into safe sectors. Reuters says health care and consumer staples were each up more than two percent, propping up the Dow, while the Volatility Index, Wall Street's fear gauge, hit a two-week high.
+[andrew] Chips are still taking the beating. Micron, Intel, and A.M.D. were each down more than four percent early, and Dell, Arista Networks, and SanDisk were down around seven. CoreWeave, the debt-heavy A.I. cloud company, fell another eight percent after a fifteen percent plunge yesterday.
+[andrew] Elsewhere: Bitcoin briefly dropped under eighty thousand dollars for the first time in a month, then bounced back above eighty-one thousand. Gold is up more than one percent to about four thousand one hundred fifty-six dollars an ounce, and silver is up about two percent. The dollar is down about half a percent, and Brent crude is slightly lower, around a hundred and five dollars a barrel.
+[andrew] On the Fed: CNBC says traders now see roughly a thirty percent chance of a rate hike at the end of the month. San Francisco Fed President Mary Daly and Fed Vice Chair Michelle Bowman both suggested an immediate hike might not be needed. The other side of that argument is that two hot inflation reports in a row make it harder for the Fed to wait.
+
+## Technology | sting=tech
+[andrew] In tech, Google's Universal Cart is now live in the U.S. It lets you save products you find in Google Search or the Gemini app, from any retailer, in one place. It can alert you when prices drop or when sold-out items come back, and it can suggest promo codes and which credit card perks to use.
+[andrew] Nvidia says its new RTX Spark laptop chip is three to five times faster than any Windows chip ever made. The Verge's early take: impressive for thin-and-light laptops, but Nvidia is comparing it to Intel and A.M.D. chips, not Apple's, and those numbers use frame generation. Full reviews are coming.
+[andrew] And if your Windows eleven P C has had black screens or File Explorer crashes since the August updates, BleepingComputer says Microsoft has fixed it in updates released October thirteenth or later.
+
+## Artificial Intelligence | sting=ai
+[ava] In A.I., a European push. In Stockholm, Spotify founder Daniel Ek sat down with Nvidia C.E.O. Jensen Huang and argued Europe should focus on open-source A.I. models rather than trying to copy the U.S. giants. At the same time, a group of Swedish companies, including Ericsson, AstraZeneca, Saab, and SEB, launched Sferical One, a shared supercomputer with more than eleven hundred Nvidia chips, so they can build their own A.I. at home.
+
+## Cybersecurity | sting=cyber
+[andrew] On the cyber desk, the F.B.I. has raided laptop farms in Texas tied to North Korea's fake I.T. worker schemes. In an operation called Lonestar Roundup, agents searched forty homes and seized about a hundred eighty-seven laptops. These were company laptops that North Koreans, posing as remote U.S. workers, used to get hired at American firms. Two Americans were arrested, and the Justice Department charged fourteen people in total. CrowdStrike, which tracked the group, says the raids will likely have a limited effect on their own, but calls them the start of a bigger crackdown.
+[andrew] A reminder for I.T. teams: CISA's deadline is Saturday for federal agencies to patch actively exploited flaws, including two in Ahsay's backup software that can be chained to take over a server.
+
+## From Your X Feed | sting=x
+[ava] Now, your X feed from the past half hour.
+[ava] Jonathan Turley's post drew the most likes. He shared a video where he says Abdul El-Sayed, the Democrat running for Senate in Michigan, suggests a tweak to the Constitution that Turley says would mean getting rid of the Second Amendment. That's Turley's take on the clip; we haven't seen El-Sayed's response.
+[ava] The White House rapid response account posted President Trump saying he may support suspending the federal diesel tax, and that oil and diesel prices will fall fast once Iran is defeated. CNN, though, cites analysts warning diesel could get close to record highs by November.
+[ava] Investor Gavin Baker predicts Anthropic won't publish annual revenue run-rate figures anymore, and he says investors should look at how fast the big cloud companies are growing instead.
+[ava] And lighter fare: Trung Phan posted a throwback of Elon Musk showing Jay Leno the first production Tesla Roadster back in two thousand eight, ahead of tonight's new Roadster reveal. Variety reports the big Hollywood talent agencies, C A A, W M E, and U T A, are pushing for a law that would make streamers spend half their budgets on independent productions.
+[ava] As usual, we skipped the most heated posts.
+
+## Local News & Events | sting=local
+[ava] Closer to home around Hooksett. A house fire on Dover Road in Epsom this morning brought crews from several towns and closed part of Route Four. WMUR says it was contained by about nine, no one was home, and no injuries were reported.
+[ava] For voters: a federal appeals court has rejected New Hampshire's bid to overturn a ruling on student I.D.s. Student I.D.s still can't be used on their own to get a ballot, but if a voter has no accepted I.D., poll workers may look at a student I.D. to help confirm who they are. The state had argued poll workers weren't trained for that.
+[ava] In the Senate race, the U.S. Chamber of Commerce endorsed Republican John Sununu at an event in Auburn yesterday. WMUR notes the Chamber backed his Democratic opponent, Chris Pappas, when he ran for re-election to the House in twenty twenty-four.
+[ava] And for the weekend: Hocus Pocus Two is showing free at Derryfield Park in Manchester tomorrow night at eight fifteen. On Saturday, there's the Howl-O-Ween five K at Delta Dental Stadium at ten, where dogs and costumes are welcome. Mactoberfest runs from noon to five at McIntyre Ski Area. It's free, and it raises money for the Muscular Dystrophy Association with the Manchester Fire Department.
+
+## Uplifting Story | sting=feel
+[ava] And finally, a simple invention that came out of a loss. In twenty twenty-two, Julie Roth was killed in a forty-seven-car pileup on the Ohio Turnpike during a winter storm. Her two young children survived in their car seats, but in the chaos, no one could tell who they were or what medical needs they had, and it was hours before their father was reached.
+[ava] Julie's sister created the Roth I.D. Tag, a sticker that goes on a child's car seat with emergency and medical information written on the back. In a crash, first responders peel it off and it becomes a hospital wristband. Good News Network reports it's been approved by child passenger safety technicians, endorsed by police and fire departments in a number of states, and is sold at major stores like Target and Walmart.
+[andrew] Small idea, big difference.
+[ava] Exactly. That's your eleven o'clock update. I'm Ava.
+[andrew] And I'm Andrew.
+[ava] Ask your Gumshoe for more on any story. See you next hour.
+
+> source: NWS api.weather.gov forecast for location.json (Hooksett, NH); WMUR forecast Oct 15
+> source: BBC, "Trump calls off livestream for Fort Hood shooter's execution by firing squad"; AP live updates Oct 15 10:38 AM ET; NBC News; The Hill
+> source: CNN, "Two cargo ships sunk in Strait of Hormuz as Iran ramps up attacks" (Oct 15); CBS News Iran war live updates Oct 15 10:40 AM ET (Marisks)
+> source: Reuters World News Summary via devdiscourse Oct 15 (Kremlin on refinery strikes, Su-34 airfield strike)
+> source: AP, "More drops for AI stocks drag Wall Street lower" (10:15 AM ET); Reuters via devdiscourse, "Nasdaq slides to near one-month low" (9:50 AM ET); CoinDesk live updates Oct 15 (to 10:35 AM ET); CNBC, "Gold rebounds on weaker dollar, yields" (Oct 15); Yahoo Finance Brent quote
+> source: TechCrunch, "Google's Universal Cart shopping tool launches in the US" (Oct 15); The Verge, Nvidia RTX Spark (Oct 15); BleepingComputer, Microsoft Windows black screen fix
+> source: NVIDIA blog, "The Nordics and NVIDIA" (Oct 14, Sferical One); @kimmonismus on X (Ek and Huang in Stockholm)
+> source: BleepingComputer, "FBI raids DPRK IT worker laptop farms in Texas" (Oct 14); CISA KEV alert Oct 14 (AhsayCBS CVE-2026-105133/105134)
+> source: Harry's X home timeline Oct 15 10:32-10:58 AM ET (@JonathanTurley, @RapidResponse47, @GavinSBaker, @TrungTPhan, @Variety)
+> source: WMUR, Epsom Dover Road fire (Oct 15); WMUR, "Judge: NH voters can use a student ID for voting verification" (Oct 14); WMUR and U.S. Chamber, Sununu endorsement (Oct 14)
+> source: Manchester Ink Link, "The Weekender, Oct. 15-18"
+> source: Good News Network, "Woman Who Lost Her Sister Invents a Child's Car Seat Sticker That Doubles as Hospital Bracelet" (Oct 15)
