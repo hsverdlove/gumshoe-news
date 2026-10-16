@@ -1,5 +1,13 @@
 [
  {
+  "slug": "2026-10-16-morning",
+  "title": "Friday Morning, Oct 16",
+  "pub": "2026-10-16T07:09:09.286857-04:00",
+  "duration": 731,
+  "size": 5976846,
+  "description": "The Friday morning edition of Gumshoe News Radio for October 16, 2026, with overnight developments including the Bend, Oregon school shooting, pre-market futures, and local news for Londonderry and southern New Hampshire. Anchor Ava, with Andrew at the business and tech desk.\n\nChapters:\n0:00 Open & Weather\n2:13 US News\n3:56 International\n5:00 Markets In Depth\n6:26 Technology\n7:43 Artificial Intelligence\n8:32 Cybersecurity\n9:28 From Your X Feed\n10:33 Local News & Events\n11:19 Uplifting Story\n\nSources:\n- NWS api.weather.gov forecast for 42.8436,-71.3808\n- NWS api.weather.gov forecast for location.json (Londonderry, NH)\n- AP / ABC / BBC / Bend Bulletin / OPB, Silver Rail Elementary shooting, Bend OR (Oct 15-16)\n- Anadolu / Newsmax interview coverage, Trump rules out nuclear weapons and ground troops vs Iran; U.S. Treasury Iran sanctions (Oct 15-16)\n- AP / FBI-Postal Inspection Service, suspicious powder letters to election offices (Oct 15)\n- Axios / 10 Things Global News, Ukraine Starlink restored, Ryazan refinery strike, Patriot shortage, White House Starshield order (Oct 15-16)\n- Iran International / Jerusalem Post live updates, Hormuz shipping attacks, Hezbollah-Lebanon (Oct 16)\n- Markets Insider / TipRanks / Investing.com / Investopedia, Oct 16 premarket futures and Oct 15 closes; Earnings Whispers bank earnings Oct 16\n- The Verge / CBS / TechCrunch, Tesla next-gen Roadster Waco demo (Oct 15-16)\n- TechCrunch / Meta AI Research / Reuters, Muse Spark Open (Oct 15)\n- CISA KEV alert Oct 15, CVE-2026-21589 Atlassian; CISA/SecurityWeek Cisco CVE-2026-76519 (Oct 14-15)\n- Harry's X home timeline overnight Oct 15-16 (@FilmLadd, @JamesSpillaneNH, @BasedMikeLee, @dhh, @engineers_feed, Roadster discussion)\n- Londonderry Historical Society / Eventbrite, Open House and SAR drill Oct 18; town calendar Meetinghouse/CAP Oct 22; prior Union Leader High Range Road water project\n- Pittsburgh Water / WESA / Good News Network, arrearage forgiveness program"
+ },
+ {
   "slug": "2026-10-15-4pm",
   "title": "Thursday 4 PM Update, Oct 15",
   "pub": "2026-10-15T16:11:58.517005-04:00",

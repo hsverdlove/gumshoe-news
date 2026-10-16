@@ -1,0 +1,71 @@
+// Gumshoe script format: see README.md
+# title: Friday Morning, Oct 16
+# description: The Friday morning edition of Gumshoe News Radio for October 16, 2026, with overnight developments including the Bend, Oregon school shooting, pre-market futures, and local news for Londonderry and southern New Hampshire. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning, and welcome to Gumshoe News Radio. It's Friday, October sixteenth. I'm Ava, with Andrew at the business and tech desk. Overnight: a teenage gunman killed three children and a teacher at an elementary school in Bend, Oregon; Ukraine again hit a Russian refinery as Starlink service was restored; and Tesla finally showed a Roadster that can fly, for a few seconds.
+[andrew] Futures are gently higher into the open, Ava. Banks report this morning. We'll dig in after the weather.
+[ava] First, your Londonderry forecast.
+@weather
+[ava] Weekend heads-up: Saturday looks colder and windier across southern New Hampshire. Sunday should be a bit milder for outdoor plans.
+
+## US News | sting=us
+[ava] Our top story is a school shooting in Bend, Oregon. Police say a sixteen-year-old forced his way into Silver Rail Elementary Thursday afternoon by shooting through locked doors, then opened fire with what officers described as a long gun. Three children — ages five, eight, and eleven — and one teacher were killed. A seven-year-old student and a fifty-four-year-old teacher were taken to the hospital in critical condition. A bystander who saw the teen enter the school pursued him inside and shot him dead before police arrived, about three minutes after the first alert. Bend-La Pine Schools called it an unthinkable tragedy; schools in Bend are closed today. Gun-rights voices emphasize that the bystander stopped the attack before officers got there; gun-control advocates say another school massacre shows access and security still fail kids. Motive and any link between the shooter and the school have not been confirmed.
+[ava] Separately, President Trump told Newsmax he would not use nuclear weapons against Iran, saying the so-called mother of all bombs under discussion is a conventional weapon, not nuclear, and that he has no plans to put U.S. ground troops in Iran. Fresh Treasury sanctions hit more Iranian-linked individuals and entities. Supporters say ruling out nukes and ground troops draws a clearer line; critics warn any large conventional strike still risks a wider regional war.
+[ava] And the F.B.I. and Postal Inspection Service are still investigating letters with an unknown powdery substance sent to election offices in several states. Some offices evacuated. Officials have not identified the substance or a suspect.
+
+## International | sting=world
+[ava] In Ukraine, Starlink and Starshield satellite services that were throttled this week have been restored, a Ukrainian official told Axios. Overnight, Kyiv again struck a Russian oil refinery, defying President Trump's demand to stop those attacks. Zelenskyy has said Ukraine briefly paused refinery strikes to show readiness for talks, then resumed after Russia kept hitting Ukrainian energy sites. U.S. officials say the White House ordered the Starshield slowdown while pressing Kyiv on energy targets. Relations are strained, and Ukraine remains critically short of Patriot interceptor missiles. The Kremlin calls the refinery hits a breach of U.S. peace efforts; Kyiv says Moscow never honored any energy pause.
+[ava] In the Middle East, Trump also said he has no plan for U.S. ground troops in Iran, while Israeli forces continue operations against Hezbollah targets in Lebanon and tensions remain high around the Strait of Hormuz, where commercial shipping has faced repeated attacks this week.
+
+## Markets In Depth | sting=markets
+[ava] Andrew, walk us into the cash open.
+[andrew] Coming off Thursday's rebound, Ava. The Dow closed up about five hundred fifty points, a little over one percent, near fifty-two thousand one hundred seventy. The S and P finished up about three-tenths of a percent. The Nasdaq barely edged higher after clawing back a deeper morning drop, ending a three-day losing streak.
+[andrew] This morning, Dow futures are up about a third of a percent near fifty-two thousand six hundred. S and P futures are modestly higher. Nasdaq one hundreds are roughly flat. The ten-year Treasury yield is near five point oh nine percent after retreating from recent highs, which takes some pressure off valuations. Oil is softer: W.T.I. near ninety-seven, Brent near one oh five, with Middle East supply worries still in the mix.
+[andrew] Drivers: Thursday's rotation into health care and consumer names, cooler yields, and still-cautious A.I. spending and chip valuations. On the tape today: Travelers, Truist, M and T Bank, Citizens Financial, and Regions report before the open — a bank-heavy Friday that can set the tone for regional credit and net interest margins. Watch those prints and any guidance on loan quality.
+[ava] Thanks, Andrew.
+
+## Technology | sting=tech
+[andrew] Tesla's long-promised next-gen Roadster finally took the stage Thursday at a SpaceX test site in Waco, Texas. The demo was less product reveal and more stunt show: the car drove upside down on a tall ramp using suction downforce, used cold-gas thrusters to flip and briefly fly, jumped over other Teslas, and claimed oh-to-sixty in about point eight one seconds. Musk floated twenty twenty-eight production. Tesla later outlined three tiers — Performance, Thrust, and Rocket — and said the top Rocket trim is invite-only and not approved for public roads. Fans call it the flying-car moment; skeptics note nine years of delays, no price, and that the most dramatic tricks may never be street-legal.
+[andrew] Also overnight: Meta released Muse Spark Open, an open-weight multimodal model Meta pitches as its most capable U.S. open-weight release yet — eight hundred sixteen billion parameters, about forty-two billion active per token, and a one-million-token context window, tuned for coding and agents. It can run locally on paired M-five Ultra Mac Studios, which need a terabyte of memory, so this is a lab-and-power-user play, not a laptop download.
+
+## Artificial Intelligence | sting=ai
+[ava] Staying with A.I., Muse Spark Open ships with Muse Code, Meta's coding terminal. The company says it used the stack for bug fixes and features on a Mastodon client and even to review and crop footage in DaVinci Resolve. Weights are on Hugging Face and other platforms. Open-weight fans welcome the transparency and local-run option; closed-model providers will argue frontier quality still lives behind A.P.I.s. Either way, it's another signal that big labs are competing hard on both open and closed tracks.
+[andrew] Separately, OpenAI is rolling out updates to ChatGPT Voice, and Microsoft reportedly finished pre-training a large mixture-of-experts base model — details still thin, so treat that as developing.
+
+## Cybersecurity | sting=cyber
+[andrew] On cyber, CISA yesterday added C-V-E two thousand twenty-six dash two one five eight nine to the Known Exploited Vulnerabilities catalog. It's an arbitrary file-access flaw affecting multiple Atlassian Data Center products — Bitbucket, Confluence, Jira, Bamboo, Crowd, and others. An unauthenticated attacker can reach certain files under the web root in affected versions. Federal agencies have a remediation deadline of October eighteenth. Patch per Atlassian's advisory, and check whether systems were probed before you patched.
+[andrew] Reminder from earlier this week: Cisco Secure Email Gateway C-V-E two thousand twenty-six dash seventy-six five one nine is still actively exploited, with a federal fix-by date of October seventeenth. If you haven't patched that appliance, do it today.
+
+## From Your X Feed | sting=x
+[ava] From your X home timeline overnight.
+[ava] Your feed is buzzing about that Tesla Roadster demo — posts describing the upside-down climb, the thruster flip, and Musk's flying-car line. FilmLadd said the Roadster impressed him, but he's even more excited about using Grok as a personal programmer.
+[ava] New Hampshire state representative James Spillane flagged sad news about Ruger discontinuing a classic Blackhawk revolver line — he's a local voice in your follows and called the Blackhawk a legend.
+[ava] Mike Lee posted that Trump's earlier Ukraine-themed impeachment charges were a massive scam, which drew the usual polarized replies.
+[ava] And D.H.H. argued that X frustrates European regulators not only over immigration debate, but because it beams American tech progress into European politics — a take your timeline is amplifying this morning.
+[ava] On the lighter science side, World of Engineering shared that astronomers tied relativistic jets from black holes to the same trigger mechanism across very different black-hole masses.
+
+## Local News & Events | sting=local
+[ava] Closer to home in Londonderry. This Sunday, October eighteenth, from one to three, the Londonderry Historical Society holds an open house and Sons of the American Revolution drill at the Morrison House Museum on Pillsbury Road. Period-costume drills and musket firing, plus tours of the Parmenter Barn and Clark Blacksmith Shop — a solid family stop if the weekend weather cooperates.
+[ava] Looking ahead, the town calendar also lists a Save the Meetinghouse public info session and a Civil Air Patrol open house on October twenty-second. And for anyone still watching the High Range Road water-main project: service connections and paving continue as more homes get an alternative to P-F-A-S-affected wells.
+
+## Uplifting Story | sting=feel
+[ava] And finally, something that helps people climb out of a hole. Pittsburgh Water's updated arrearage forgiveness program is telling eligible households they can wipe past-due water bills over twenty-four months simply by paying their current bill on time each month. Each on-time payment forgives one twenty-fourth of the old debt. Residents at or below two hundred percent of the federal poverty level can qualify; many Bill Discount customers were enrolled automatically. Utilities rarely make catching up this straightforward — it's a quiet fix that keeps water on and stress down.
+[andrew] Practical help beats a speech, Ava.
+[ava] Exactly. That's your Friday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew.
+[ava] Ask your Gumshoe for more on any story. Have a good day, Harry.
+
+> source: NWS api.weather.gov forecast for location.json (Londonderry, NH)
+> source: AP / ABC / BBC / Bend Bulletin / OPB, Silver Rail Elementary shooting, Bend OR (Oct 15-16)
+> source: Anadolu / Newsmax interview coverage, Trump rules out nuclear weapons and ground troops vs Iran; U.S. Treasury Iran sanctions (Oct 15-16)
+> source: AP / FBI-Postal Inspection Service, suspicious powder letters to election offices (Oct 15)
+> source: Axios / 10 Things Global News, Ukraine Starlink restored, Ryazan refinery strike, Patriot shortage, White House Starshield order (Oct 15-16)
+> source: Iran International / Jerusalem Post live updates, Hormuz shipping attacks, Hezbollah-Lebanon (Oct 16)
+> source: Markets Insider / TipRanks / Investing.com / Investopedia, Oct 16 premarket futures and Oct 15 closes; Earnings Whispers bank earnings Oct 16
+> source: The Verge / CBS / TechCrunch, Tesla next-gen Roadster Waco demo (Oct 15-16)
+> source: TechCrunch / Meta AI Research / Reuters, Muse Spark Open (Oct 15)
+> source: CISA KEV alert Oct 15, CVE-2026-21589 Atlassian; CISA/SecurityWeek Cisco CVE-2026-76519 (Oct 14-15)
+> source: Harry's X home timeline overnight Oct 15-16 (@FilmLadd, @JamesSpillaneNH, @BasedMikeLee, @dhh, @engineers_feed, Roadster discussion)
+> source: Londonderry Historical Society / Eventbrite, Open House and SAR drill Oct 18; town calendar Meetinghouse/CAP Oct 22; prior Union Leader High Range Road water project
+> source: Pittsburgh Water / WESA / Good News Network, arrearage forgiveness program
