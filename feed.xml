@@ -6,6 +6,38 @@
 <itunes:author>Gumshoe</itunes:author><itunes:explicit>false</itunes:explicit><itunes:block>Yes</itunes:block>
 <itunes:image href="https://hsverdlove.github.io/gumshoe-news/cover.jpg"/><image><url>https://hsverdlove.github.io/gumshoe-news/cover.jpg</url><title>Gumshoe News Radio (Harry)</title><link>https://hsverdlove.github.io/gumshoe-news/</link></image>
 <itunes:category text="News"/><itunes:type>episodic</itunes:type>
+<item><title>Friday Noon Update, Oct 16</title><description>The noon update of Gumshoe News Radio for Friday, October 16, 2026, focused on what's new since eleven: beef prices on the midterm menu, the EU summit's show of support for Ukraine without new money, Indonesia's worst stock plunge since 1998, a midday market check, a Windows update glitch, ad targeting inside ChatGPT, a Burger King Japan breach and hijacked home routers, your X feed, a New Hampshire police shooting ruling, and a veteran who got his independence back. Anchor Ava, with Andrew at the business and tech desk.
+
+Chapters:
+0:00 Open &amp; Weather
+1:49 US News
+3:08 International
+5:00 Markets In Depth
+6:33 Technology
+7:02 Artificial Intelligence
+7:52 Cybersecurity
+8:47 From Your X Feed
+10:39 Local News &amp; Events
+11:25 Uplifting Story
+
+Sources:
+- NWS api.weather.gov forecast for 42.8436,-71.3808
+- NWS api.weather.gov forecast for location.json (Londonderry, NH)
+- AP, "Midterm campaigns are asking, where's the beef? And how much does it cost?" (Nicholas Riccardi, Oct 15-16); BLS average ground beef price
+- Euronews live, "Sanctions won't ease until Russia stops war, von der Leyen says"; Kyiv Independent; Brussels Signal; Reuters via The Star (Oct 16)
+- Nikkei Asia, "Indonesia stocks post largest drop in 28 years after MSCI warns of downgrade"; The Jakarta Post; MSCI consultation release; Reuters via Investing.com (Oct 16)
+- AP, "US stock indexes are mixed as tech sector weighs on market" (11 a.m. ET Oct 16); Reuters via Coinpaper; WSJ live coverage (Oct 16); Axios Technology (Oct 16); The Daily DXY; Capital Street FX commodity report
+- BleepingComputer, "Microsoft: October Windows update may break Smart App Control" (Oct 16)
+- 404 Media via The Neuron Daily, ChatGPT ad targeting (Oct 16)
+- BleepingComputer, "Burger King Japan data breach exposes 11 million customer records" (Oct 16); BleepingComputer, GreyNoise proxyjacking of D-Link and Ubiquiti devices (Oct 15)
+- Harry's X home timeline Oct 16 11:00-11:56 AM ET (@WhiteHouse, @pelositracker, @FBI_Response, @tylerbowyer, @engineers_feed); CBP "16 straight months of zero releases"; DHS release Oct 16
+- Concord Monitor, "NH AG: Troopers legally justified in fatally shooting Keene man" (Oct 15); Union Leader
+- CBS Atlanta, "After vision loss cost him his job and home, Atlanta veteran finds new independence with Meta smart glasses" (Oct 16)</description>
+<content:encoded><![CDATA[The noon update of Gumshoe News Radio for Friday, October 16, 2026, focused on what's new since eleven: beef prices on the midterm menu, the EU summit's show of support for Ukraine without new money, Indonesia's worst stock plunge since 1998, a midday market check, a Windows update glitch, ad targeting inside ChatGPT, a Burger King Japan breach and hijacked home routers, your X feed, a New Hampshire police shooting ruling, and a veteran who got his independence back. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>1:49 US News<br/>3:08 International<br/>5:00 Markets In Depth<br/>6:33 Technology<br/>7:02 Artificial Intelligence<br/>7:52 Cybersecurity<br/>8:47 From Your X Feed<br/>10:39 Local News & Events<br/>11:25 Uplifting Story<br/><br/>Sources:<br/>- NWS api.weather.gov forecast for 42.8436,-71.3808<br/>- NWS api.weather.gov forecast for location.json (Londonderry, NH)<br/>- AP, "Midterm campaigns are asking, where's the beef? And how much does it cost?" (Nicholas Riccardi, Oct 15-16); BLS average ground beef price<br/>- Euronews live, "Sanctions won't ease until Russia stops war, von der Leyen says"; Kyiv Independent; Brussels Signal; Reuters via The Star (Oct 16)<br/>- Nikkei Asia, "Indonesia stocks post largest drop in 28 years after MSCI warns of downgrade"; The Jakarta Post; MSCI consultation release; Reuters via Investing.com (Oct 16)<br/>- AP, "US stock indexes are mixed as tech sector weighs on market" (11 a.m. ET Oct 16); Reuters via Coinpaper; WSJ live coverage (Oct 16); Axios Technology (Oct 16); The Daily DXY; Capital Street FX commodity report<br/>- BleepingComputer, "Microsoft: October Windows update may break Smart App Control" (Oct 16)<br/>- 404 Media via The Neuron Daily, ChatGPT ad targeting (Oct 16)<br/>- BleepingComputer, "Burger King Japan data breach exposes 11 million customer records" (Oct 16); BleepingComputer, GreyNoise proxyjacking of D-Link and Ubiquiti devices (Oct 15)<br/>- Harry's X home timeline Oct 16 11:00-11:56 AM ET (@WhiteHouse, @pelositracker, @FBI_Response, @tylerbowyer, @engineers_feed); CBP "16 straight months of zero releases"; DHS release Oct 16<br/>- Concord Monitor, "NH AG: Troopers legally justified in fatally shooting Keene man" (Oct 15); Union Leader<br/>- CBS Atlanta, "After vision loss cost him his job and home, Atlanta veteran finds new independence with Meta smart glasses" (Oct 16)]]></content:encoded>
+<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-16-12pm.mp3?v=20261016T1216" length="6114130" type="audio/mpeg"/>
+<guid isPermaLink="false">gumshoe-2026-10-16-12pm-20261016T1216</guid><pubDate>Fri, 16 Oct 2026 12:16:29 -0400</pubDate>
+<itunes:duration>748</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
+<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-16-12pm.chapters.json?v=20261016T1216" type="application/json+chapters"/></item>
 <item><title>Friday 11 AM Update, Oct 16</title><description>The 11 AM update of Gumshoe News Radio for Friday, October 16, 2026, focused on what's new since ten: the government's push to restart three closed nuclear plants, Zelenskyy's pitch to EU leaders, an attack on a Washington Post photographer in the West Bank, CoreWeave's rough week, Truist earnings and a Netflix shakeup, ChatGPT in your browser, Microsoft's giant new model, the cyber patch deadline, your X feed, New Hampshire's student ID case at the Supreme Court and an early flu season, and a small act of kindness in Massachusetts. Anchor Ava, with Andrew at the business and tech desk.
 
 Chapters:
@@ -238,37 +270,4 @@ Sources:
 <guid isPermaLink="false">gumshoe-2026-10-15-1pm-20261015T1321</guid><pubDate>Thu, 15 Oct 2026 13:21:24 -0400</pubDate>
 <itunes:duration>806</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
 <podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-15-1pm.chapters.json?v=20261015T1321" type="application/json+chapters"/></item>
-<item><title>Thursday 11 AM Update, Oct 15</title><description>The 11 AM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the 10 o'clock update. Anchor Ava, with Andrew at the business and tech desk.
-
-Chapters:
-0:00 Open &amp; Weather
-1:49 US News
-2:46 International
-4:08 Markets In Depth
-5:59 Technology
-6:54 Artificial Intelligence
-7:24 Cybersecurity
-8:16 From Your X Feed
-9:36 Local News &amp; Events
-10:55 Uplifting Story
-
-Sources:
-- NWS api.weather.gov forecast for 43.0414,-71.4691
-- NWS api.weather.gov forecast for location.json (Hooksett, NH); WMUR forecast Oct 15
-- BBC, "Trump calls off livestream for Fort Hood shooter's execution by firing squad"; AP live updates Oct 15 10:38 AM ET; NBC News; The Hill
-- CNN, "Two cargo ships sunk in Strait of Hormuz as Iran ramps up attacks" (Oct 15); CBS News Iran war live updates Oct 15 10:40 AM ET (Marisks)
-- Reuters World News Summary via devdiscourse Oct 15 (Kremlin on refinery strikes, Su-34 airfield strike)
-- AP, "More drops for AI stocks drag Wall Street lower" (10:15 AM ET); Reuters via devdiscourse, "Nasdaq slides to near one-month low" (9:50 AM ET); CoinDesk live updates Oct 15 (to 10:35 AM ET); CNBC, "Gold rebounds on weaker dollar, yields" (Oct 15); Yahoo Finance Brent quote
-- TechCrunch, "Google's Universal Cart shopping tool launches in the US" (Oct 15); The Verge, Nvidia RTX Spark (Oct 15); BleepingComputer, Microsoft Windows black screen fix
-- NVIDIA blog, "The Nordics and NVIDIA" (Oct 14, Sferical One); @kimmonismus on X (Ek and Huang in Stockholm)
-- BleepingComputer, "FBI raids DPRK IT worker laptop farms in Texas" (Oct 14); CISA KEV alert Oct 14 (AhsayCBS CVE-2026-105133/105134)
-- Harry's X home timeline Oct 15 10:32-10:58 AM ET (@JonathanTurley, @RapidResponse47, @GavinSBaker, @TrungTPhan, @Variety)
-- WMUR, Epsom Dover Road fire (Oct 15); WMUR, "Judge: NH voters can use a student ID for voting verification" (Oct 14); WMUR and U.S. Chamber, Sununu endorsement (Oct 14)
-- Manchester Ink Link, "The Weekender, Oct. 15-18"
-- Good News Network, "Woman Who Lost Her Sister Invents a Child's Car Seat Sticker That Doubles as Hospital Bracelet" (Oct 15)</description>
-<content:encoded><![CDATA[The 11 AM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the 10 o'clock update. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>1:49 US News<br/>2:46 International<br/>4:08 Markets In Depth<br/>5:59 Technology<br/>6:54 Artificial Intelligence<br/>7:24 Cybersecurity<br/>8:16 From Your X Feed<br/>9:36 Local News & Events<br/>10:55 Uplifting Story<br/><br/>Sources:<br/>- NWS api.weather.gov forecast for 43.0414,-71.4691<br/>- NWS api.weather.gov forecast for location.json (Hooksett, NH); WMUR forecast Oct 15<br/>- BBC, "Trump calls off livestream for Fort Hood shooter's execution by firing squad"; AP live updates Oct 15 10:38 AM ET; NBC News; The Hill<br/>- CNN, "Two cargo ships sunk in Strait of Hormuz as Iran ramps up attacks" (Oct 15); CBS News Iran war live updates Oct 15 10:40 AM ET (Marisks)<br/>- Reuters World News Summary via devdiscourse Oct 15 (Kremlin on refinery strikes, Su-34 airfield strike)<br/>- AP, "More drops for AI stocks drag Wall Street lower" (10:15 AM ET); Reuters via devdiscourse, "Nasdaq slides to near one-month low" (9:50 AM ET); CoinDesk live updates Oct 15 (to 10:35 AM ET); CNBC, "Gold rebounds on weaker dollar, yields" (Oct 15); Yahoo Finance Brent quote<br/>- TechCrunch, "Google's Universal Cart shopping tool launches in the US" (Oct 15); The Verge, Nvidia RTX Spark (Oct 15); BleepingComputer, Microsoft Windows black screen fix<br/>- NVIDIA blog, "The Nordics and NVIDIA" (Oct 14, Sferical One); @kimmonismus on X (Ek and Huang in Stockholm)<br/>- BleepingComputer, "FBI raids DPRK IT worker laptop farms in Texas" (Oct 14); CISA KEV alert Oct 14 (AhsayCBS CVE-2026-105133/105134)<br/>- Harry's X home timeline Oct 15 10:32-10:58 AM ET (@JonathanTurley, @RapidResponse47, @GavinSBaker, @TrungTPhan, @Variety)<br/>- WMUR, Epsom Dover Road fire (Oct 15); WMUR, "Judge: NH voters can use a student ID for voting verification" (Oct 14); WMUR and U.S. Chamber, Sununu endorsement (Oct 14)<br/>- Manchester Ink Link, "The Weekender, Oct. 15-18"<br/>- Good News Network, "Woman Who Lost Her Sister Invents a Child's Car Seat Sticker That Doubles as Hospital Bracelet" (Oct 15)]]></content:encoded>
-<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-15-11am.mp3?v=20261015T1115" length="5894293" type="audio/mpeg"/>
-<guid isPermaLink="false">gumshoe-2026-10-15-11am-20261015T1115</guid><pubDate>Thu, 15 Oct 2026 11:15:04 -0400</pubDate>
-<itunes:duration>721</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
-<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-15-11am.chapters.json?v=20261015T1115" type="application/json+chapters"/></item>
 </channel></rss>

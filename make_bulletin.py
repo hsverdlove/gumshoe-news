@@ -30,7 +30,10 @@ def silence(sec, out): sh(["ffmpeg", "-loglevel", "error", "-y", "-f", "lavfi", 
 def tts(voice, text, out, rate="+0%"):
     mp3 = out + ".mp3"
     for attempt in range(3):
-        r = subprocess.run(["edge-tts", "--voice", VOICES.get(voice, voice), f"--rate={rate}", "--text", text, "--write-media", mp3], capture_output=True)
+        try:
+            r = subprocess.run(["edge-tts", "--voice", VOICES.get(voice, voice), f"--rate={rate}", "--text", text, "--write-media", mp3], capture_output=True, timeout=120)
+        except subprocess.TimeoutExpired as e:
+            r = subprocess.CompletedProcess(e.cmd, 1, b"", b"edge-tts timed out"); continue
         if r.returncode == 0: break
     else: sys.exit(f"edge-tts failed: {r.stderr.decode()[:300]}")
     sh(["ffmpeg", "-loglevel", "error", "-y", "-i", mp3, "-ar", str(SR), "-ac", "1", out])

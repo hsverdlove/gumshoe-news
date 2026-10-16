@@ -1,0 +1,70 @@
+// Gumshoe script format: see README.md
+# title: Friday Noon Update, Oct 16
+# description: The noon update of Gumshoe News Radio for Friday, October 16, 2026, focused on what's new since eleven: beef prices on the midterm menu, the EU summit's show of support for Ukraine without new money, Indonesia's worst stock plunge since 1998, a midday market check, a Windows update glitch, ad targeting inside ChatGPT, a Burger King Japan breach and hijacked home routers, your X feed, a New Hampshire police shooting ruling, and a veteran who got his independence back. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's noon on Friday, October sixteenth, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk. This hour: why steak has become a campaign issue, Europe closes ranks behind Ukraine, and a veteran who says there's no box anymore.
+[andrew] Plus a market on the other side of the world that just had its worst day in twenty-eight years. Afternoon, Ava.
+[ava] First, the forecast.
+@weather
+
+## US News | sting=us
+[ava] In the midterms, meat is on the menu. The Associated Press reports that beef has turned into a surprising campaign battleground. Bureau of Labor Statistics figures show a pound of ground beef averaged six dollars and seventy-nine cents last month, up from five fifty-five in January of last year, when President Trump returned to office.
+[ava] Democrats are mostly using beef as a symbol of rising costs. In Mississippi, Democratic Senate candidate Scott Colom is running an ad built around a clip of Republican Senator Cindy Hyde-Smith saying shoppers have, quote, so many proteins to choose from. Her campaign counters that Colom backs the Biden-era policies it says drove up inflation.
+[ava] Republicans, for their part, are painting some Democrats as anti-meat. In Texas they've seized on an old interview in which Senate nominee James Talarico said a past campaign was going vegan, and in Colorado they're targeting House candidate Manny Rutinel over his past activism against factory farming. Rutinel, who's been photographed eating steak tacos, says voters care more about being able to afford what's on their plates. The A.P. also notes the president's push to import more beef, especially from Argentina, hasn't brought prices down and has angered some American ranchers.
+
+## International | sting=world
+[ava] Overseas, the European Union summit in Brussels wrapped its Ukraine session with strong words but no new money. Commission President Ursula von der Leyen said the bloc will not lift any sanctions on Russia unless it stops the war, and that work is under way on a twenty-second sanctions package. Summit Chair António Costa told President Zelenskyy, quote, this is no time to withdraw support.
+[ava] According to draft conclusions reported by Euronews, leaders formally regret the U.S. decision to temporarily lift sanctions on Russian diesel. But Brussels Signal and the Kyiv Independent report there were no new funding decisions, and using frozen Russian assets wasn't on the formal agenda. That matters, because Ukraine's finance minister says Kyiv still faces a budget gap of more than thirty-two billion dollars next year. The Trump administration's view is that the diesel arrangement and its energy ceasefire were steps toward ending the war, and it blames Ukraine's refinery strikes for higher oil prices.
+[andrew] And in Asia, a market shock. Indonesian stocks plunged about eleven and a half percent today, their worst single day since nineteen ninety-eight, according to Nikkei Asia and The Jakarta Post. The trigger: index provider M.S.C.I. proposed reclassifying Indonesia from an emerging market to a so-called standalone market, which would drop its shares from the big emerging-market indexes that trillions of dollars in funds track.
+[andrew] M.S.C.I. cites slow progress on transparency around who owns Indonesian shares, and concerns about suspected coordinated trading. Nothing is final yet. The consultation runs until the end of next April, with a decision due by June thirtieth, which gives Jakarta time to respond. Reuters quotes observers calling it a wake-up call.
+
+## Markets In Depth | sting=markets
+[ava] Andrew, back here at home?
+[andrew] Still split, Ava. As of eleven o'clock, the A.P. had the Dow up about two hundred twenty-five points, or four-tenths of a percent, the S and P five hundred down a tenth, and the Nasdaq down seven-tenths, headed for its first weekly loss in five weeks.
+[andrew] The Dow is getting its lift from the banks. JPMorgan was up around two percent and Goldman Sachs about two percent, together worth roughly a hundred fifty Dow points at one point this morning. The drag is chips. Reuters says the Philadelphia semiconductor index was off close to two percent, with A.M.D. and Micron among the decliners, and Alphabet and Meta down about one percent.
+[andrew] The big worry, as Axios puts it, is the debt behind the A.I. buildout. Bond investors are asking whether all the borrowed money for data centers can pay off. The counterpoint came from Anthropic this week, which told investors it turned cash-flow positive last quarter, a sign that at least some A.I. businesses are making real money.
+[andrew] Elsewhere: the ten-year Treasury yield is around five point one percent, and the Wall Street Journal says Treasurys are on track for their best week since February as traders pare back bets on an October rate hike. The dollar is slipping. Brent crude is hovering near a hundred five dollars a barrel, with U.S. crude in the mid-nineties. Gold is around forty-one hundred eighty dollars an ounce, and Bitcoin is near eighty-two thousand seven hundred.
+
+## Technology | sting=tech
+[andrew] Tech desk. If you're on Windows eleven, a heads-up from BleepingComputer. Microsoft says this month's security update, K.B. five one two seven six four eight, can leave the Smart App Control switch grayed out, so if you'd turned that protection off, you may not be able to turn it back on. If it's already on, you're fine and still protected. There's no fix yet, but Microsoft has published registry and group policy workarounds for I.T. admins.
+
+## Artificial Intelligence | sting=ai
+[ava] In A.I., a look at how ads inside ChatGPT actually work. 404 Media bought ads in ChatGPT to test the system and reports that advertisers can aim at you two ways: by what you're asking about, and by uploading lists of email addresses or phone numbers that OpenAI then matches to real accounts. OpenAI says topic hints guide matching but aren't exact targeting rules, that small lists can only be used to exclude people, and that uploaded files are usually deleted within a day.
+[ava] The catch, according to 404 Media: turning off ads personalization in settings doesn't stop ads or all tracking. OpenAI's position is that ads help keep a free tier available to hundreds of millions of people. If privacy matters to you, it's worth checking that setting and knowing what it does and doesn't do.
+
+## Cybersecurity | sting=cyber
+[andrew] Cyber desk, two quick ones. Burger King Japan says attackers got into a server holding records on eleven point one eight million app users, with names, birth dates, email addresses, phone numbers and order history, which were later leaked online. The company says no card numbers were stored there and it found no sign passwords were taken. Expect phishing that impersonates the brand.
+[andrew] And GreyNoise found a campaign hijacking at least a hundred forty-three internet-connected devices in thirty-four countries, including D-Link storage boxes and old Ubiquiti video recorders, using known, years-old flaws. The attackers quietly installed a legitimate bandwidth-sharing app and pocketed the earnings, so your internet connection becomes their product. The fix is the boring one: update or retire old gear that faces the internet.
+
+## From Your X Feed | sting=x
+[ava] Now, your X feed over the past hour.
+[ava] The White House posted that this was the first fiscal year ever with zero Border Patrol releases at the border. Customs and Border Protection's own figures show zero releases every month through August, sixteen straight months, and Homeland Security announced today what it calls the lowest fiscal-year border crossings in history. Immigrant advocates argue the numbers reflect sharply restricted access to asylum and expanded detention, which they say comes at a cost to due process.
+[ava] The Pelosi Tracker account posted a list of what it says are thirty-five companies the U.S. government now owns a piece of, through cash, swapped grants or warrants, led by Intel's roughly ten percent stake. We haven't checked every name on that list. Supporters see the stakes as protecting strategic industries like chips. Critics on both left and right worry about Washington picking corporate winners.
+[ava] The F.B.I.'s rapid response account touted Operation Blackout against global scam networks: nine arrests, fifty-three devices seized, and about eleven million dollars in funds that could be frozen, working with Nigeria and other countries. It says operations are ongoing.
+[ava] Tyler Bowyer posted early-vote numbers from Arizona's Maricopa County showing returns about thirty-eight percent Republican and thirty-nine percent Democratic, and argued Republicans are gaining ground. Those are party registrations of people returning ballots, not votes for any candidate, so read them with caution.
+[ava] And for the history buffs: the engineers feed reminded everyone that in eighteen forty-three, Isambard Kingdom Brunel launched the S.S. Great Britain, the first ocean-going ship with both an iron hull and a propeller. Every big ship since uses both.
+
+## Local News & Events | sting=local
+[ava] Closer to home. New Hampshire Attorney General John Formella's office has ruled that five state troopers were legally justified when they shot and killed fifty-seven-year-old David Ward in Keene in August of last year. The Concord Monitor reports Ward was armed with a loaded handgun during a six-hour standoff after a traffic stop on a drug-trafficking warrant, and that he told officers he would make them shoot him before lunging from his car with the gun in hand. No charges will be filed.
+[ava] The Monitor also notes that of the nine people shot by police in New Hampshire last year, the attorney general found the use of force justified in every case, a record that police-accountability advocates have long questioned, while law enforcement says it reflects how dangerous these encounters are.
+
+## Uplifting Story | sting=feel
+[ava] And finally. Dennis Darnes of Atlanta started losing his sight at fifty to glaucoma and cataracts. CBS Atlanta reports he lost his job, then his home, and was afraid to cross the street. A chance conversation on a bus led him to the Center for the Visually Impaired in Midtown, where he learned to navigate by touch and sound.
+[ava] This week, on White Cane Awareness Day, he and more than fifty other veterans received free Meta smart glasses and training. Paired with the Be My Eyes app, the glasses read signs aloud and describe what's around him. Now seventy, he says he can ask them to find the lemon pepper seasoning at the grocery store, or a quarter he dropped on the floor. His words: there's no box. You can almost do anything.
+[andrew] That's the kind of A.I. story I like.
+[ava] Me too. That's your noon update. I'm Ava.
+[andrew] And I'm Andrew.
+[ava] Ask your Gumshoe for more on any story. See you next hour.
+
+> source: NWS api.weather.gov forecast for location.json (Londonderry, NH)
+> source: AP, "Midterm campaigns are asking, where's the beef? And how much does it cost?" (Nicholas Riccardi, Oct 15-16); BLS average ground beef price
+> source: Euronews live, "Sanctions won't ease until Russia stops war, von der Leyen says"; Kyiv Independent; Brussels Signal; Reuters via The Star (Oct 16)
+> source: Nikkei Asia, "Indonesia stocks post largest drop in 28 years after MSCI warns of downgrade"; The Jakarta Post; MSCI consultation release; Reuters via Investing.com (Oct 16)
+> source: AP, "US stock indexes are mixed as tech sector weighs on market" (11 a.m. ET Oct 16); Reuters via Coinpaper; WSJ live coverage (Oct 16); Axios Technology (Oct 16); The Daily DXY; Capital Street FX commodity report
+> source: BleepingComputer, "Microsoft: October Windows update may break Smart App Control" (Oct 16)
+> source: 404 Media via The Neuron Daily, ChatGPT ad targeting (Oct 16)
+> source: BleepingComputer, "Burger King Japan data breach exposes 11 million customer records" (Oct 16); BleepingComputer, GreyNoise proxyjacking of D-Link and Ubiquiti devices (Oct 15)
+> source: Harry's X home timeline Oct 16 11:00-11:56 AM ET (@WhiteHouse, @pelositracker, @FBI_Response, @tylerbowyer, @engineers_feed); CBP "16 straight months of zero releases"; DHS release Oct 16
+> source: Concord Monitor, "NH AG: Troopers legally justified in fatally shooting Keene man" (Oct 15); Union Leader
+> source: CBS Atlanta, "After vision loss cost him his job and home, Atlanta veteran finds new independence with Meta smart glasses" (Oct 16)
