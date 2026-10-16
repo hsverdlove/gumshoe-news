@@ -6,6 +6,37 @@
 <itunes:author>Gumshoe</itunes:author><itunes:explicit>false</itunes:explicit><itunes:block>Yes</itunes:block>
 <itunes:image href="https://hsverdlove.github.io/gumshoe-news/cover.jpg"/><image><url>https://hsverdlove.github.io/gumshoe-news/cover.jpg</url><title>Gumshoe News Radio (Harry)</title><link>https://hsverdlove.github.io/gumshoe-news/</link></image>
 <itunes:category text="News"/><itunes:type>episodic</itunes:type>
+<item><title>Friday 4 PM Update, Oct 16</title><description>The four o'clock update of Gumshoe News Radio for Friday, October 16, 2026, focused on what's new since three: new details on the Bend, Oregon, school shooting and the father who stopped it, the press secretary job still open, a report that the Pentagon will hold its Minab school-strike findings until after the midterms, Iran's president saying he's ready to talk, Senator Jeanne Shaheen leading a bipartisan call to investigate Ukraine's Starlink slowdown, the closing bell on the Nasdaq's worst week since June, Microsoft's next A.I. chip, Bill Gates gearing up for an A.I. safety fight, a stealthy Fortinet firewall implant, your X feed, what New Hampshire voters need to bring on November third, weekend events, and a toddler's second chance at life. Anchor Ava, with Andrew at the business and tech desk.
+
+Chapters:
+0:00 Open &amp; Weather
+1:53 US News
+4:08 International
+5:46 Markets In Depth
+7:29 Technology
+8:19 Artificial Intelligence
+9:12 Cybersecurity
+10:13 From Your X Feed
+11:49 Local News &amp; Events
+13:33 Uplifting Story
+
+Sources:
+- NWS api.weather.gov forecast for 42.8436,-71.3808
+- NWS api.weather.gov forecast for location.json (Londonderry, NH)
+- NBC News, "Oregon school shooter identified as 16-year-old John Griffin II whose mother purchased gun, sources say" (Oct 16, 3:27 PM); CBS News (Oct 16, 2:43 PM); ABC News on bystander Kaylub Giamanco (Oct 16); AP, Zacharia leaving post (Oct 16); The Guardian US politics live blog (Oct 16), citing Bloomberg on the Minab report
+- CBS News live updates, "Iran's president denies nuclear ambitions" (Oct 16); BBC News, "Houthi missile attack on Yemeni presidential palace kills five" (Oct 15); BBC News, "US senators call for investigation into Ukraine Starlink restrictions" (Oct 16); Senate Foreign Relations Committee release (Oct 15); The Guardian citing Reuters and The Telegraph
+- Yahoo Finance live, "Tech selloff weighs on stocks to end volatile week" (Oct 16, 4:01 PM ET); Bloomberg via swissinfo, Markets Wrap (Oct 16); Quartz citing WSJ on Warsh (Oct 16); Axios, Neil Irwin, "That Y2K feeling" (Oct 16)
+- TechRepublic, "This Week in Tech" (Oct 16) on Microsoft Maia 300 and Google Play AI Studio installs
+- Axios, "Scoop: Bill Gates gears up for massive AI safety push" (Bradley Olson, Oct 15)
+- CISA, "CISA Adds Two Known Exploited Vulnerabilities to Catalog" (Oct 16); The Hacker News, PEERSTITCH via FortiOS flaw (Ravie Lakshmanan, Oct 16); Palo Alto Networks Unit 42
+- Harry's X home timeline Oct 16 ~3:20-4:00 PM ET (@JackPosobiec, @TheCalvinCooli1, @Prisonmitch, @KeenanPeachy, @RapidResponse47, @TheJusticeDept, @Variety, @interesting_aIl, @BrianRoemmele, @jeremykauffman)
+- Granite Post, "Republicans made NH among the hardest states to vote" (Colin Booth, Oct 16); Manchester Ink Link, "The Weekender, Oct. 15-18" (Oct 14)
+- BBC News, "Toddler's 'second chance at life' after stem cell transplant" (Angela Ferguson, Oct 16)</description>
+<content:encoded><![CDATA[The four o'clock update of Gumshoe News Radio for Friday, October 16, 2026, focused on what's new since three: new details on the Bend, Oregon, school shooting and the father who stopped it, the press secretary job still open, a report that the Pentagon will hold its Minab school-strike findings until after the midterms, Iran's president saying he's ready to talk, Senator Jeanne Shaheen leading a bipartisan call to investigate Ukraine's Starlink slowdown, the closing bell on the Nasdaq's worst week since June, Microsoft's next A.I. chip, Bill Gates gearing up for an A.I. safety fight, a stealthy Fortinet firewall implant, your X feed, what New Hampshire voters need to bring on November third, weekend events, and a toddler's second chance at life. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>1:53 US News<br/>4:08 International<br/>5:46 Markets In Depth<br/>7:29 Technology<br/>8:19 Artificial Intelligence<br/>9:12 Cybersecurity<br/>10:13 From Your X Feed<br/>11:49 Local News & Events<br/>13:33 Uplifting Story<br/><br/>Sources:<br/>- NWS api.weather.gov forecast for 42.8436,-71.3808<br/>- NWS api.weather.gov forecast for location.json (Londonderry, NH)<br/>- NBC News, "Oregon school shooter identified as 16-year-old John Griffin II whose mother purchased gun, sources say" (Oct 16, 3:27 PM); CBS News (Oct 16, 2:43 PM); ABC News on bystander Kaylub Giamanco (Oct 16); AP, Zacharia leaving post (Oct 16); The Guardian US politics live blog (Oct 16), citing Bloomberg on the Minab report<br/>- CBS News live updates, "Iran's president denies nuclear ambitions" (Oct 16); BBC News, "Houthi missile attack on Yemeni presidential palace kills five" (Oct 15); BBC News, "US senators call for investigation into Ukraine Starlink restrictions" (Oct 16); Senate Foreign Relations Committee release (Oct 15); The Guardian citing Reuters and The Telegraph<br/>- Yahoo Finance live, "Tech selloff weighs on stocks to end volatile week" (Oct 16, 4:01 PM ET); Bloomberg via swissinfo, Markets Wrap (Oct 16); Quartz citing WSJ on Warsh (Oct 16); Axios, Neil Irwin, "That Y2K feeling" (Oct 16)<br/>- TechRepublic, "This Week in Tech" (Oct 16) on Microsoft Maia 300 and Google Play AI Studio installs<br/>- Axios, "Scoop: Bill Gates gears up for massive AI safety push" (Bradley Olson, Oct 15)<br/>- CISA, "CISA Adds Two Known Exploited Vulnerabilities to Catalog" (Oct 16); The Hacker News, PEERSTITCH via FortiOS flaw (Ravie Lakshmanan, Oct 16); Palo Alto Networks Unit 42<br/>- Harry's X home timeline Oct 16 ~3:20-4:00 PM ET (@JackPosobiec, @TheCalvinCooli1, @Prisonmitch, @KeenanPeachy, @RapidResponse47, @TheJusticeDept, @Variety, @interesting_aIl, @BrianRoemmele, @jeremykauffman)<br/>- Granite Post, "Republicans made NH among the hardest states to vote" (Colin Booth, Oct 16); Manchester Ink Link, "The Weekender, Oct. 15-18" (Oct 14)<br/>- BBC News, "Toddler's 'second chance at life' after stem cell transplant" (Angela Ferguson, Oct 16)]]></content:encoded>
+<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-16-4pm.mp3?v=20261016T1621" length="7236178" type="audio/mpeg"/>
+<guid isPermaLink="false">gumshoe-2026-10-16-4pm-20261016T1621</guid><pubDate>Fri, 16 Oct 2026 16:21:52 -0400</pubDate>
+<itunes:duration>889</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
+<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-16-4pm.chapters.json?v=20261016T1621" type="application/json+chapters"/></item>
 <item><title>Friday 3 PM Update, Oct 16</title><description>The three o'clock update of Gumshoe News Radio for Friday, October 16, 2026, focused on what's new since two: where Katie Zacharia lands after leaving the press secretary job, back-to-back Senate debates in Minnesota and Alaska, Iran's widening attacks on shipping around Hormuz, Alberta's referendum on Monday, Brent crude touching a hundred ten dollars and a Nasdaq headed for its worst week since June, Nvidia's open-source robot-learning kit, a fifteen-million-dollar effort to help mathematicians sort out A.I.-generated proofs, a Booz Allen test where A.I. took over a robotic arm in sixteen minutes, your X feed, Don Bolduc crossing party lines in New Hampshire's Senate race, the Loon Mountain comment deadline, and a little boy's lost ball of strings. Anchor Ava, with Andrew at the business and tech desk.
 
 Chapters:
@@ -234,68 +265,4 @@ Sources:
 <guid isPermaLink="false">gumshoe-2026-10-16-morning-20261016T0709</guid><pubDate>Fri, 16 Oct 2026 07:09:09 -0400</pubDate>
 <itunes:duration>731</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
 <podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-16-morning.chapters.json?v=20261016T0709" type="application/json+chapters"/></item>
-<item><title>Thursday 4 PM Update, Oct 15</title><description>The 4 PM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the three o'clock update, with local news for Londonderry and southern New Hampshire. Anchor Ava, with Andrew at the business and tech desk.
-
-Chapters:
-0:00 Open &amp; Weather
-1:57 US News
-3:15 International
-4:03 Markets In Depth
-5:30 Technology
-6:16 Artificial Intelligence
-7:00 Cybersecurity
-7:58 From Your X Feed
-8:49 Local News &amp; Events
-9:50 Uplifting Story
-
-Sources:
-- NWS api.weather.gov forecast for 42.8458,-71.3987
-- NWS api.weather.gov forecast for location.json (Londonderry, NH); WMUR forecast context (Oct 15)
-- Guardian live blog / AP, Trump cancels Nidal Hasan execution livestream; Pentagon Sean Parnell statement; ABC/WaPo poll; FBI/Postal Inspection Service suspicious mail to election offices (Oct 15)
-- AP / BBC / FT via NBC, Zelenskyy resumes Russian oil-refinery strikes; Kremlin Ryazan claim; Wes Streeting Washington remarks (Oct 15)
-- Yahoo Finance ^DJI history close 52,170.77 Oct 15; Yahoo Markets live (S&amp;P ~+0.4%, Nasdaq edged higher, 10y ~5.10%); Investopedia/WSJ live (PPI hot, sector rotation); MarketBeat/Investing.com J.B. Hunt after-bell preview
-- The Verge / Windows Experience Blog, Windows 11 responsiveness up to 20% (Oct 15); Hypebeast Roadster demo caveat (prior)
-- TechCrunch, Amazon Bee Frontier and Bee Eclipse personal AI devices (Oct 15)
-- SecurityWeek / Cisco PSIRT / CISA KEV, CVE-2026-76519 Secure Email Gateway exploitation (Oct 15); U.S. Courts, BAE Systems BNC cyber incident (Oct 15)
-- Harry's X home timeline Oct 15 ~3:40-4:00 PM ET (@esaagar, @RapidResponse47, @Variety, Cloudflare/agentic-web discussion)
-- Union Leader, Londonderry High Range Road water extension / Saint-Gobain PFAS (Oct 6); Manchester Ink Link Weekender events
-- Good News Network, Jonathan Thai Pedal Forward Foundation bike clinics (Oct 15)</description>
-<content:encoded><![CDATA[The 4 PM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the three o'clock update, with local news for Londonderry and southern New Hampshire. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>1:57 US News<br/>3:15 International<br/>4:03 Markets In Depth<br/>5:30 Technology<br/>6:16 Artificial Intelligence<br/>7:00 Cybersecurity<br/>7:58 From Your X Feed<br/>8:49 Local News & Events<br/>9:50 Uplifting Story<br/><br/>Sources:<br/>- NWS api.weather.gov forecast for 42.8458,-71.3987<br/>- NWS api.weather.gov forecast for location.json (Londonderry, NH); WMUR forecast context (Oct 15)<br/>- Guardian live blog / AP, Trump cancels Nidal Hasan execution livestream; Pentagon Sean Parnell statement; ABC/WaPo poll; FBI/Postal Inspection Service suspicious mail to election offices (Oct 15)<br/>- AP / BBC / FT via NBC, Zelenskyy resumes Russian oil-refinery strikes; Kremlin Ryazan claim; Wes Streeting Washington remarks (Oct 15)<br/>- Yahoo Finance ^DJI history close 52,170.77 Oct 15; Yahoo Markets live (S&P ~+0.4%, Nasdaq edged higher, 10y ~5.10%); Investopedia/WSJ live (PPI hot, sector rotation); MarketBeat/Investing.com J.B. Hunt after-bell preview<br/>- The Verge / Windows Experience Blog, Windows 11 responsiveness up to 20% (Oct 15); Hypebeast Roadster demo caveat (prior)<br/>- TechCrunch, Amazon Bee Frontier and Bee Eclipse personal AI devices (Oct 15)<br/>- SecurityWeek / Cisco PSIRT / CISA KEV, CVE-2026-76519 Secure Email Gateway exploitation (Oct 15); U.S. Courts, BAE Systems BNC cyber incident (Oct 15)<br/>- Harry's X home timeline Oct 15 ~3:40-4:00 PM ET (@esaagar, @RapidResponse47, @Variety, Cloudflare/agentic-web discussion)<br/>- Union Leader, Londonderry High Range Road water extension / Saint-Gobain PFAS (Oct 6); Manchester Ink Link Weekender events<br/>- Good News Network, Jonathan Thai Pedal Forward Foundation bike clinics (Oct 15)]]></content:encoded>
-<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-15-4pm.mp3?v=20261015T1611" length="5353812" type="audio/mpeg"/>
-<guid isPermaLink="false">gumshoe-2026-10-15-4pm-20261015T1611</guid><pubDate>Thu, 15 Oct 2026 16:11:58 -0400</pubDate>
-<itunes:duration>653</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
-<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-15-4pm.chapters.json?v=20261015T1611" type="application/json+chapters"/></item>
-<item><title>Thursday 3 PM Update, Oct 15</title><description>The 3 PM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the two o'clock update, with local news for Londonderry and southern New Hampshire. Anchor Ava, with Andrew at the business and tech desk.
-
-Chapters:
-0:00 Open &amp; Weather
-2:01 US News
-3:12 International
-4:35 Markets In Depth
-6:30 Technology
-7:14 Artificial Intelligence
-8:14 Cybersecurity
-9:23 From Your X Feed
-10:26 Local News &amp; Events
-11:52 Uplifting Story
-
-Sources:
-- NWS api.weather.gov forecast for 42.8458,-71.3987
-- NWS api.weather.gov forecast for location.json (Londonderry, NH); WMUR, "NH forecast: Partly sunny and dry ahead of showers" (Oct 15)
-- AP, "Trump administration sues California to block state from counting alleged noncitizen mail-in ballots" (Oct 15); DOJ press release "Justice Department Sues State of California over Voter List"; California Secretary of State statement; LA County Registrar statement (Oct 14)
-- NBC News politics live blog Oct 15 (Maine, Alaska, Michigan debates)
-- Euronews / Anadolu / Dawn, Iranian navy reports tanker fire east of Hormuz (Oct 15); U.S. Treasury, "Operation Economic Outcast Targets Iran's International Financial Networks" (Oct 15)
-- The National, "France begins deploying military means" to Saudi Arabia (Oct 15); BBC and Brazilian Senate, end of 6x1 work week (PEC 221/2019)
-- Yahoo Finance quotes ~3:04 PM ET; Reuters via Financial Newsletter (sector moves); CoinDesk live (Warsh speech, Huang on CoreWeave, FedWatch); Reuters via RTE/Yahoo (shadow-fleet sanctions, Brent)
-- Hypebeast, "Tesla Schedules an October 15 Roadster Demonstration" (Oct 14); Engadget Roadster live blog; @TrungTPhan on X
-- The Verge, "Google is making inline links more prominent in AI responses" (Oct 15); The Verge / Axios / CNBC, Meta and Apple Muse Spark Open on Mac (Oct 15)
-- Citizen Lab &amp; Confiant "AdFection" report; The Verge / NBC News, Discover-Tech zero-click ads spyware (Oct 15); The Hacker News / GitGuardian, GhostAction GitHub compromise
-- Harry's X home timeline Oct 15 ~2:08-3:02 PM ET (@25YearsAgoLive, @RapidResponse47, @Variety, @TheCalvinCooli1 citing @PeteThamel)
-- Union Leader, "Don Bolduc endorses Democrat Chris Pappas over John E. Sununu" (Oct 15); WMUR, "Londonderry School District warns it could face $2 million shortfall" (Oct 13); Manchester Ink Link, The Weekender Oct 15-18
-- Guinness World Records and BBC, Ian Paton's record pumpkin Bagheera; Good News Network (Oct 15)</description>
-<content:encoded><![CDATA[The 3 PM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the two o'clock update, with local news for Londonderry and southern New Hampshire. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>2:01 US News<br/>3:12 International<br/>4:35 Markets In Depth<br/>6:30 Technology<br/>7:14 Artificial Intelligence<br/>8:14 Cybersecurity<br/>9:23 From Your X Feed<br/>10:26 Local News & Events<br/>11:52 Uplifting Story<br/><br/>Sources:<br/>- NWS api.weather.gov forecast for 42.8458,-71.3987<br/>- NWS api.weather.gov forecast for location.json (Londonderry, NH); WMUR, "NH forecast: Partly sunny and dry ahead of showers" (Oct 15)<br/>- AP, "Trump administration sues California to block state from counting alleged noncitizen mail-in ballots" (Oct 15); DOJ press release "Justice Department Sues State of California over Voter List"; California Secretary of State statement; LA County Registrar statement (Oct 14)<br/>- NBC News politics live blog Oct 15 (Maine, Alaska, Michigan debates)<br/>- Euronews / Anadolu / Dawn, Iranian navy reports tanker fire east of Hormuz (Oct 15); U.S. Treasury, "Operation Economic Outcast Targets Iran's International Financial Networks" (Oct 15)<br/>- The National, "France begins deploying military means" to Saudi Arabia (Oct 15); BBC and Brazilian Senate, end of 6x1 work week (PEC 221/2019)<br/>- Yahoo Finance quotes ~3:04 PM ET; Reuters via Financial Newsletter (sector moves); CoinDesk live (Warsh speech, Huang on CoreWeave, FedWatch); Reuters via RTE/Yahoo (shadow-fleet sanctions, Brent)<br/>- Hypebeast, "Tesla Schedules an October 15 Roadster Demonstration" (Oct 14); Engadget Roadster live blog; @TrungTPhan on X<br/>- The Verge, "Google is making inline links more prominent in AI responses" (Oct 15); The Verge / Axios / CNBC, Meta and Apple Muse Spark Open on Mac (Oct 15)<br/>- Citizen Lab & Confiant "AdFection" report; The Verge / NBC News, Discover-Tech zero-click ads spyware (Oct 15); The Hacker News / GitGuardian, GhostAction GitHub compromise<br/>- Harry's X home timeline Oct 15 ~2:08-3:02 PM ET (@25YearsAgoLive, @RapidResponse47, @Variety, @TheCalvinCooli1 citing @PeteThamel)<br/>- Union Leader, "Don Bolduc endorses Democrat Chris Pappas over John E. Sununu" (Oct 15); WMUR, "Londonderry School District warns it could face $2 million shortfall" (Oct 13); Manchester Ink Link, The Weekender Oct 15-18<br/>- Guinness World Records and BBC, Ian Paton's record pumpkin Bagheera; Good News Network (Oct 15)]]></content:encoded>
-<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-15-3pm.mp3?v=20261015T1520" length="6295380" type="audio/mpeg"/>
-<guid isPermaLink="false">gumshoe-2026-10-15-3pm-20261015T1520</guid><pubDate>Thu, 15 Oct 2026 15:20:54 -0400</pubDate>
-<itunes:duration>771</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
-<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-15-3pm.chapters.json?v=20261015T1520" type="application/json+chapters"/></item>
 </channel></rss>
