@@ -1,0 +1,74 @@
+// Gumshoe script format: see README.md
+# title: Friday 11 AM Update, Oct 16
+# description: The 11 AM update of Gumshoe News Radio for Friday, October 16, 2026, focused on what's new since ten: the government's push to restart three closed nuclear plants, Zelenskyy's pitch to EU leaders, an attack on a Washington Post photographer in the West Bank, CoreWeave's rough week, Truist earnings and a Netflix shakeup, ChatGPT in your browser, Microsoft's giant new model, the cyber patch deadline, your X feed, New Hampshire's student ID case at the Supreme Court and an early flu season, and a small act of kindness in Massachusetts. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's eleven o'clock on Friday, October sixteenth, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk. This hour: Washington bets billions on bringing old nuclear plants back to life, Ukraine's president makes his case in Brussels, and some teenagers who made one little boy's day.
+[andrew] And a stock that's having a very bad week. Morning, Ava.
+[ava] First, the forecast.
+@weather
+[ava] WMUR says the rain and gusty wind stick around through today, with colder air for the weekend and even a chance of snow showers up north on Saturday.
+
+## US News | sting=us
+[ava] The Associated Press reports the U.S. is making an unprecedented attempt to bring three shuttered nuclear plants back online, driven by soaring electricity demand, much of it from data centers. The Energy Department is lending as much as four point four billion dollars to restart Palisades in Michigan, the Crane Clean Energy Center at Pennsylvania's Three Mile Island, and Duane Arnold in Iowa. Together they'd restore about two and a quarter gigawatts of power.
+[ava] The timelines are long. Crane is aiming for twenty twenty-seven, and Duane Arnold, whose loan of up to one point nine billion dollars closed last month, is targeting early twenty twenty-nine, pending federal regulators' approval. Supporters see reliable, carbon-free power for a grid under strain. Skeptics question whether taxpayer-backed loans to revive aging plants are the best use of the money compared with building new capacity.
+[ava] In Washington, the new White House press secretary, Katie Zacharia, is defending herself after a rocky first week. The A.P. says she told an interviewer she didn't have time to fully prepare for Tuesday's first briefing, and that keeping it short was always the plan because the president was taking questions himself later that morning. And President Trump's rally with Georgia Republicans is set for Dalton later today.
+
+## International | sting=world
+[ava] Overseas. At a European Union summit in Brussels this morning, Ukrainian President Volodymyr Zelenskyy asked European leaders for at least seventy billion euros more next year for defense, weapons and resilience, according to Reuters. He criticized President Trump's deal to buy Russian diesel, saying it puts money, quote, straight into Putin's pocket, and called Moscow's stance on talks a parody of peace negotiations. He also said the Starshield satellite service Ukraine relies on is better, but not fully restored.
+[ava] The other side: Trump has blamed Ukraine's strikes on Russian refineries for pushing up world oil prices, calling them a disgrace in a Newsmax interview, and a U.S. official denied that the White House ordered any slowdown of Starshield.
+[ava] In the occupied West Bank, Reuters witnesses say about eighty masked Israeli settlers attacked Palestinian villagers harvesting olives in Abu Falah, near Ramallah, burning trees and throwing rocks. Among the injured was Heidi Levine, an American photojournalist working for The Washington Post. She told reporters from her hospital bed that she was knocked down and kicked repeatedly, and that her flak jacket and helmet probably saved her life. She's in stable condition. The Israeli military had not commented as of the Reuters report. Prime Minister Netanyahu has criticized settler violence in the past, but critics, including some of Israel's allies, say his government has done little to stop it.
+
+## Markets In Depth | sting=markets
+[ava] Andrew, where do things stand?
+[andrew] Still a split market, Ava. As of about ten o'clock, the A.P. had the Dow up close to four hundred points, or eight-tenths of a percent, the S and P five hundred just below flat, and the Nasdaq down about six-tenths. The Nasdaq is headed for its first weekly loss in a while, and the S and P is on track for a losing week too, though it's still near last week's record high.
+[andrew] The stock everyone's watching is CoreWeave, the A.I. cloud company that rents out Nvidia chips. The Wall Street Journal had it down nearly eight percent this morning and on pace to lose more than twenty-one percent this week, its worst week since November of last year. The worry is debt. CoreWeave borrowed heavily to build data centers, and with inflation running hot and rates rising, Investing dot com reports yields on its twenty thirty-one bonds have climbed toward sixteen percent, and its credit default swaps imply the market sees a real chance of default.
+[andrew] Not everyone agrees. Cantor Fitzgerald's analyst called the selloff, quote, a lot of fearmongering, and sees a buying opportunity. Bank of America projects years of negative free cash flow but still expects operating profit to cover interest costs by twenty twenty-eight.
+[andrew] One more bank report we owed you from last hour: Truist. Its headline earnings were fifty-six cents a share, down from a dollar four a year ago, because it took a one point four five billion dollar loss selling off older, low-yielding securities. Stripping that out, adjusted earnings were a dollar sixteen, up twelve percent and ahead of estimates. Shares slipped early on the revenue miss.
+[andrew] And in media, Netflix says its chief content officer, Bela Bajaria, is leaving after nearly ten years. Peter Rice, the former Disney and Fox television executive, takes over October twenty-sixth. The Journal notes shares fell more than two percent premarket, a day after Netflix outlined plans to cut about six percent of its staff.
+
+## Technology | sting=tech
+[andrew] On the tech desk: OpenAI updated its ChatGPT extension for Chrome. The Verge and Engadget report it can now read your open tabs, and in a mode called Work, it can act in them: fill out forms, send messages, download files and organize tabs.
+[andrew] It's handy, but security folks have a fair caution. An agent that can act inside your logged-in accounts can also be tricked by instructions hidden in a web page it reads. A sensible start is a separate browser profile, with banking and email kept out of it.
+
+## Artificial Intelligence | sting=ai
+[ava] In A.I., Microsoft wants a frontier model of its own. Microsoft A.I. says it has finished pre-training a model called MAI Base Two, with two point eight trillion total parameters, trained on sixteen thousand of Nvidia's top G.B. two hundred chips over thirty-eight days. Microsoft claims it's four to twelve times more compute-efficient than DeepSeek's latest base model.
+[ava] Those efficiency numbers are Microsoft's own, there are no independent benchmarks yet, and the model is still being fine-tuned, so nothing ships today. But it's a signal that Microsoft doesn't intend to rely on OpenAI alone.
+
+## Cybersecurity | sting=cyber
+[andrew] Cyber desk, and a deadline. Federal agencies have until tomorrow to fix four actively exploited flaws CISA added to its must-patch list: one in Palo Alto Networks firewalls, one in Cisco's Secure Email Gateway that lets attackers run code as root, and two in the AhsayCBS backup server. Huntress says attackers chained the Ahsay bugs to install crypto-mining software. If your company runs any of these, the deadline isn't just for the government.
+
+## From Your X Feed | sting=x
+[ava] Now, your X feed over the past hour.
+[ava] The Tesla Roadster is still the talk of your timeline. One account you follow summed up the demo: a car that climbs a vertical loop, flies down and jumps some trucks, and, Tesla says, breaks the one-second zero-to-sixty barrier. Tesla's performance figures haven't been independently tested.
+[ava] Stephen Miller, the White House deputy chief of staff, posted that America would have been lost had the border not been sealed, and blamed Democrats, judges and advocacy groups for fighting the administration at every step. Democrats and immigrant advocates counter that the crackdown has swept up long-time residents and run afoul of due process, which is why so much of it has ended up in court.
+[ava] Breanna Morello posted that former special counsel Jack Smith should be arrested, saying his office collected the personal data of six hundred thirty-nine thousand Americans. That's her characterization, and we couldn't verify that figure this hour. Smith has not been charged with anything.
+[ava] Kimmonismus reads OpenAI's hints about its Codex coding tool as a sign that one or two new model releases are coming within weeks. That's speculation, not an announcement.
+[ava] And for fun: Trung Phan noticed that Samsung hired a New Zealand real estate agent whose name happens to be Tim Cook to promote its new Galaxy foldable.
+
+## Local News & Events | sting=local
+[ava] Closer to home. New Hampshire has asked the U.S. Supreme Court to pause a judge's ruling on student IDs before the November third election. Federal Judge Joseph Laplante left in place the state law dropping student IDs from the list of accepted voter identification, but ruled that election officials may still consider a student ID along with other evidence of who someone is. Secretary of State David Scanlan and Attorney General John Formella argue that changing instructions this close to Election Day will confuse voters and poll workers. The group that sued says the ruling simply removes a barrier for eligible voters. Justice Ketanji Brown Jackson asked for a response by Monday morning.
+[ava] Flu season is here early. N.H.P.R. reports flu cases started showing up in September instead of October or November, and Southern New Hampshire Medical Center has already seen nineteen cases at its urgent care sites. Doctors say get the shot now, since it takes about two weeks to build protection.
+
+## Uplifting Story | sting=feel
+[ava] And finally, from just down the road in Massachusetts. Christina Caron of Foxboro took her seven-year-old son Tristan, who has autism, to the Urban Air adventure park in Bellingham on Monday. While she waited in line for popcorn, a group of teenagers walked up and asked Tristan to play. They tossed a ball with him and pulled him into a game of hide-and-seek.
+[ava] Caron told WBZ that more often than not, her son isn't met with kindness, so this meant a lot. Quote, a small act of kindness can really turn someone's day around. She tracked the teens down on Facebook to thank their parents, and the park plans to invite everyone back for a day celebrating what they did.
+[andrew] Hide-and-seek with strangers, and they found a friend. Good kids.
+[ava] Good kids indeed. That's your eleven o'clock update. I'm Ava.
+[andrew] And I'm Andrew.
+[ava] Ask your Gumshoe for more on any story. See you next hour.
+
+> source: NWS api.weather.gov forecast for location.json (Londonderry, NH); WMUR, "Rain, breezy conditions throughout today" (Oct 16)
+> source: AP, "US is reviving shuttered nuclear plants to meet growing electricity demand" (Oct 16); U.S. Department of Energy, Duane Arnold loan (Sept 2026)
+> source: AP live updates, Trump Georgia rally and Katie Zacharia (Oct 16, 10:25 AM)
+> source: Reuters, "Zelenskiy blasts Trump's diesel deal and calls Russian peace moves a 'parody'" (Oct 16)
+> source: Reuters via NBC News, "Israeli settlers burn olive trees, injure journalist in West Bank attack" (Oct 16); The Washington Post
+> source: AP, "US stock indexes off to mixed start" (10:02 AM Oct 16); WSJ live, "CoreWeave's Very Bad Week Isn't Over Yet" (10:15 AM); Investing.com, "Why is CoreWeave stock sliding today?"
+> source: Truist Q3 2026 release and 8-K; Investing.com, "Truist shares edge down on revenue miss despite earnings beat" (Oct 16)
+> source: CNBC and Deadline, Netflix's Bela Bajaria departs, Peter Rice named CCO (Oct 15); WSJ Stocks to Watch (Oct 16)
+> source: The Verge and Engadget, ChatGPT Chrome extension update (Oct 15)
+> source: Microsoft AI, "Frontier Pre-training at Microsoft AI" (MAI-Base-2, Oct 2026); Technology.org (Oct 16)
+> source: CISA KEV additions via Root2Sec (Oct 16); SANS ISC Stormcast Oct 16
+> source: Harry's X home timeline Oct 16 10:00-10:58 AM ET (@monsterhunter45, @StephenM, @BreannaMorello, @kimmonismus, @TrungTPhan)
+> source: Six State Signal, "New Hampshire asks U.S. Supreme Court to pause student voter ID ruling" (Oct 16); NHPR, "The flu is early this year" (Oct 16)
+> source: CBS Boston (WBZ), "Massachusetts mom hopes to thank teens who invited her son with autism to play" (Oct 16)

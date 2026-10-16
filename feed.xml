@@ -6,6 +6,41 @@
 <itunes:author>Gumshoe</itunes:author><itunes:explicit>false</itunes:explicit><itunes:block>Yes</itunes:block>
 <itunes:image href="https://hsverdlove.github.io/gumshoe-news/cover.jpg"/><image><url>https://hsverdlove.github.io/gumshoe-news/cover.jpg</url><title>Gumshoe News Radio (Harry)</title><link>https://hsverdlove.github.io/gumshoe-news/</link></image>
 <itunes:category text="News"/><itunes:type>episodic</itunes:type>
+<item><title>Friday 11 AM Update, Oct 16</title><description>The 11 AM update of Gumshoe News Radio for Friday, October 16, 2026, focused on what's new since ten: the government's push to restart three closed nuclear plants, Zelenskyy's pitch to EU leaders, an attack on a Washington Post photographer in the West Bank, CoreWeave's rough week, Truist earnings and a Netflix shakeup, ChatGPT in your browser, Microsoft's giant new model, the cyber patch deadline, your X feed, New Hampshire's student ID case at the Supreme Court and an early flu season, and a small act of kindness in Massachusetts. Anchor Ava, with Andrew at the business and tech desk.
+
+Chapters:
+0:00 Open &amp; Weather
+1:58 US News
+3:19 International
+4:50 Markets In Depth
+6:55 Technology
+7:30 Artificial Intelligence
+8:09 Cybersecurity
+8:40 From Your X Feed
+10:06 Local News &amp; Events
+11:08 Uplifting Story
+
+Sources:
+- NWS api.weather.gov forecast for 42.8436,-71.3808
+- NWS api.weather.gov forecast for location.json (Londonderry, NH); WMUR, "Rain, breezy conditions throughout today" (Oct 16)
+- AP, "US is reviving shuttered nuclear plants to meet growing electricity demand" (Oct 16); U.S. Department of Energy, Duane Arnold loan (Sept 2026)
+- AP live updates, Trump Georgia rally and Katie Zacharia (Oct 16, 10:25 AM)
+- Reuters, "Zelenskiy blasts Trump's diesel deal and calls Russian peace moves a 'parody'" (Oct 16)
+- Reuters via NBC News, "Israeli settlers burn olive trees, injure journalist in West Bank attack" (Oct 16); The Washington Post
+- AP, "US stock indexes off to mixed start" (10:02 AM Oct 16); WSJ live, "CoreWeave's Very Bad Week Isn't Over Yet" (10:15 AM); Investing.com, "Why is CoreWeave stock sliding today?"
+- Truist Q3 2026 release and 8-K; Investing.com, "Truist shares edge down on revenue miss despite earnings beat" (Oct 16)
+- CNBC and Deadline, Netflix's Bela Bajaria departs, Peter Rice named CCO (Oct 15); WSJ Stocks to Watch (Oct 16)
+- The Verge and Engadget, ChatGPT Chrome extension update (Oct 15)
+- Microsoft AI, "Frontier Pre-training at Microsoft AI" (MAI-Base-2, Oct 2026); Technology.org (Oct 16)
+- CISA KEV additions via Root2Sec (Oct 16); SANS ISC Stormcast Oct 16
+- Harry's X home timeline Oct 16 10:00-10:58 AM ET (@monsterhunter45, @StephenM, @BreannaMorello, @kimmonismus, @TrungTPhan)
+- Six State Signal, "New Hampshire asks U.S. Supreme Court to pause student voter ID ruling" (Oct 16); NHPR, "The flu is early this year" (Oct 16)
+- CBS Boston (WBZ), "Massachusetts mom hopes to thank teens who invited her son with autism to play" (Oct 16)</description>
+<content:encoded><![CDATA[The 11 AM update of Gumshoe News Radio for Friday, October 16, 2026, focused on what's new since ten: the government's push to restart three closed nuclear plants, Zelenskyy's pitch to EU leaders, an attack on a Washington Post photographer in the West Bank, CoreWeave's rough week, Truist earnings and a Netflix shakeup, ChatGPT in your browser, Microsoft's giant new model, the cyber patch deadline, your X feed, New Hampshire's student ID case at the Supreme Court and an early flu season, and a small act of kindness in Massachusetts. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>1:58 US News<br/>3:19 International<br/>4:50 Markets In Depth<br/>6:55 Technology<br/>7:30 Artificial Intelligence<br/>8:09 Cybersecurity<br/>8:40 From Your X Feed<br/>10:06 Local News & Events<br/>11:08 Uplifting Story<br/><br/>Sources:<br/>- NWS api.weather.gov forecast for 42.8436,-71.3808<br/>- NWS api.weather.gov forecast for location.json (Londonderry, NH); WMUR, "Rain, breezy conditions throughout today" (Oct 16)<br/>- AP, "US is reviving shuttered nuclear plants to meet growing electricity demand" (Oct 16); U.S. Department of Energy, Duane Arnold loan (Sept 2026)<br/>- AP live updates, Trump Georgia rally and Katie Zacharia (Oct 16, 10:25 AM)<br/>- Reuters, "Zelenskiy blasts Trump's diesel deal and calls Russian peace moves a 'parody'" (Oct 16)<br/>- Reuters via NBC News, "Israeli settlers burn olive trees, injure journalist in West Bank attack" (Oct 16); The Washington Post<br/>- AP, "US stock indexes off to mixed start" (10:02 AM Oct 16); WSJ live, "CoreWeave's Very Bad Week Isn't Over Yet" (10:15 AM); Investing.com, "Why is CoreWeave stock sliding today?"<br/>- Truist Q3 2026 release and 8-K; Investing.com, "Truist shares edge down on revenue miss despite earnings beat" (Oct 16)<br/>- CNBC and Deadline, Netflix's Bela Bajaria departs, Peter Rice named CCO (Oct 15); WSJ Stocks to Watch (Oct 16)<br/>- The Verge and Engadget, ChatGPT Chrome extension update (Oct 15)<br/>- Microsoft AI, "Frontier Pre-training at Microsoft AI" (MAI-Base-2, Oct 2026); Technology.org (Oct 16)<br/>- CISA KEV additions via Root2Sec (Oct 16); SANS ISC Stormcast Oct 16<br/>- Harry's X home timeline Oct 16 10:00-10:58 AM ET (@monsterhunter45, @StephenM, @BreannaMorello, @kimmonismus, @TrungTPhan)<br/>- Six State Signal, "New Hampshire asks U.S. Supreme Court to pause student voter ID ruling" (Oct 16); NHPR, "The flu is early this year" (Oct 16)<br/>- CBS Boston (WBZ), "Massachusetts mom hopes to thank teens who invited her son with autism to play" (Oct 16)]]></content:encoded>
+<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-16-11am.mp3?v=20261016T1113" length="5961107" type="audio/mpeg"/>
+<guid isPermaLink="false">gumshoe-2026-10-16-11am-20261016T1113</guid><pubDate>Fri, 16 Oct 2026 11:13:57 -0400</pubDate>
+<itunes:duration>729</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
+<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-16-11am.chapters.json?v=20261016T1113" type="application/json+chapters"/></item>
 <item><title>Friday 10 AM Update, Oct 16</title><description>The 10 AM update of Gumshoe News Radio for Friday, October 16, 2026, focused on what's new since the morning edition: the opening bell and bank earnings, Fed Chair Warsh's comments, the latest from Bend, Oregon, a new BeyondTrust zero-day, the White House AI task force, your X feed, weekend events around southern New Hampshire, and Manhattan's new barn owls. Anchor Ava, with Andrew at the business and tech desk.
 
 Chapters:
