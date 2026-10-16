@@ -6,6 +6,38 @@
 <itunes:author>Gumshoe</itunes:author><itunes:explicit>false</itunes:explicit><itunes:block>Yes</itunes:block>
 <itunes:image href="https://hsverdlove.github.io/gumshoe-news/cover.jpg"/><image><url>https://hsverdlove.github.io/gumshoe-news/cover.jpg</url><title>Gumshoe News Radio (Harry)</title><link>https://hsverdlove.github.io/gumshoe-news/</link></image>
 <itunes:category text="News"/><itunes:type>episodic</itunes:type>
+<item><title>Friday 10 AM Update, Oct 16</title><description>The 10 AM update of Gumshoe News Radio for Friday, October 16, 2026, focused on what's new since the morning edition: the opening bell and bank earnings, Fed Chair Warsh's comments, the latest from Bend, Oregon, a new BeyondTrust zero-day, the White House AI task force, your X feed, weekend events around southern New Hampshire, and Manhattan's new barn owls. Anchor Ava, with Andrew at the business and tech desk.
+
+Chapters:
+0:00 Open &amp; Weather
+2:03 US News
+3:00 International
+3:54 Markets In Depth
+6:15 Technology
+6:38 Artificial Intelligence
+7:26 Cybersecurity
+8:35 From Your X Feed
+9:44 Local News &amp; Events
+10:52 Uplifting Story
+
+Sources:
+- NWS api.weather.gov forecast for 42.8436,-71.3808
+- NWS api.weather.gov forecast for location.json (Londonderry, NH); WMUR forecast Oct 16
+- AP News Summary 8:50 a.m. EDT Oct 16 (Bend shooting, Pope Leo, Georgia rally, AdImpact ad analysis, Peshawar, Black Sea drones); NBC News Morning Rundown Oct 16; OPB Oct 15-16
+- Reuters via Investing.com, "Wall St opens muted as tech jitters linger; Tesla gains" (Oct 16, 9:34 AM); AP, "Stocks open mostly higher on Wall Street"; Reuters premarket via Devdiscourse
+- WSJ, "Warsh Avoids Signal on October Rate Move"; Bloomberg via Straits Times, "Stocks rise as Fed bets ease after Warsh speech" (Oct 16)
+- Q3 2026 releases Oct 16: Citizens Financial, Regions, M&amp;T Bank, Travelers, Truist
+- Autoblog, "2027 BMW iX5 Drives 500 Miles on One Charge" (Oct 16)
+- Politico and Semafor, White House Super Intelligence Force first meeting (Oct 15); AP on the AI self-policing accord
+- The Record (Recorded Future News), "Suspected Chinese espionage attackers abusing BeyondTrust IT support zero-day" (Oct 16); SecurityWeek
+- Harry's X home timeline Oct 16 9:30-9:57 AM ET (@WhiteHouse, @SecKennedy, @cremieuxrecueil, @prestonjbyrne, @BrianRoemmele, @Variety, @LPNH, @RapidResponse47)
+- NHPR, "Education Secretary visits Manchester schools, supports vouchers" (Oct 15); Manchester Ink Link, The Weekender Oct 15-18
+- AP via NY1, "A rare family of barn owls moved into Manhattan's Upper West Side" (Oct 15); NPR Oct 16</description>
+<content:encoded><![CDATA[The 10 AM update of Gumshoe News Radio for Friday, October 16, 2026, focused on what's new since the morning edition: the opening bell and bank earnings, Fed Chair Warsh's comments, the latest from Bend, Oregon, a new BeyondTrust zero-day, the White House AI task force, your X feed, weekend events around southern New Hampshire, and Manhattan's new barn owls. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>2:03 US News<br/>3:00 International<br/>3:54 Markets In Depth<br/>6:15 Technology<br/>6:38 Artificial Intelligence<br/>7:26 Cybersecurity<br/>8:35 From Your X Feed<br/>9:44 Local News & Events<br/>10:52 Uplifting Story<br/><br/>Sources:<br/>- NWS api.weather.gov forecast for 42.8436,-71.3808<br/>- NWS api.weather.gov forecast for location.json (Londonderry, NH); WMUR forecast Oct 16<br/>- AP News Summary 8:50 a.m. EDT Oct 16 (Bend shooting, Pope Leo, Georgia rally, AdImpact ad analysis, Peshawar, Black Sea drones); NBC News Morning Rundown Oct 16; OPB Oct 15-16<br/>- Reuters via Investing.com, "Wall St opens muted as tech jitters linger; Tesla gains" (Oct 16, 9:34 AM); AP, "Stocks open mostly higher on Wall Street"; Reuters premarket via Devdiscourse<br/>- WSJ, "Warsh Avoids Signal on October Rate Move"; Bloomberg via Straits Times, "Stocks rise as Fed bets ease after Warsh speech" (Oct 16)<br/>- Q3 2026 releases Oct 16: Citizens Financial, Regions, M&T Bank, Travelers, Truist<br/>- Autoblog, "2027 BMW iX5 Drives 500 Miles on One Charge" (Oct 16)<br/>- Politico and Semafor, White House Super Intelligence Force first meeting (Oct 15); AP on the AI self-policing accord<br/>- The Record (Recorded Future News), "Suspected Chinese espionage attackers abusing BeyondTrust IT support zero-day" (Oct 16); SecurityWeek<br/>- Harry's X home timeline Oct 16 9:30-9:57 AM ET (@WhiteHouse, @SecKennedy, @cremieuxrecueil, @prestonjbyrne, @BrianRoemmele, @Variety, @LPNH, @RapidResponse47)<br/>- NHPR, "Education Secretary visits Manchester schools, supports vouchers" (Oct 15); Manchester Ink Link, The Weekender Oct 15-18<br/>- AP via NY1, "A rare family of barn owls moved into Manhattan's Upper West Side" (Oct 15); NPR Oct 16]]></content:encoded>
+<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-16-10am.mp3?v=20261016T1013" length="5879507" type="audio/mpeg"/>
+<guid isPermaLink="false">gumshoe-2026-10-16-10am-20261016T1013</guid><pubDate>Fri, 16 Oct 2026 10:13:55 -0400</pubDate>
+<itunes:duration>719</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
+<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-16-10am.chapters.json?v=20261016T1013" type="application/json+chapters"/></item>
 <item><title>Friday Morning, Oct 16</title><description>The Friday morning edition of Gumshoe News Radio for October 16, 2026, with overnight developments including the Bend, Oregon school shooting, pre-market futures, and local news for Londonderry and southern New Hampshire. Anchor Ava, with Andrew at the business and tech desk.
 
 Chapters:
@@ -204,84 +236,4 @@ Sources:
 <guid isPermaLink="false">gumshoe-2026-10-15-11am-20261015T1115</guid><pubDate>Thu, 15 Oct 2026 11:15:04 -0400</pubDate>
 <itunes:duration>721</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
 <podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-15-11am.chapters.json?v=20261015T1115" type="application/json+chapters"/></item>
-<item><title>Thursday 10 AM Update, Oct 15</title><description>The 10 AM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the 9:20 drive edition. Anchor Ava, with Andrew at the business and tech desk.
-
-Chapters:
-0:00 Open &amp; Weather
-1:33 US News
-3:00 International
-4:18 Markets In Depth
-6:36 Technology
-7:43 Artificial Intelligence
-8:24 Cybersecurity
-9:21 From Your X Feed
-10:54 Local News &amp; Events
-11:26 Uplifting Story
-
-Sources:
-- NWS api.weather.gov forecast for 42.8435,-71.3809
-- NWS api.weather.gov forecast for location.json (Londonderry, NH)
-- WSJ, "White House Press Secretary Katie Zacharia Didn't Pass Bar Exam" (Oct 15); The Hill, "Katie Zacharia says she misheard question on where she took bar exam"; Forbes Oct 15
-- NBC News Morning Rundown Oct 15 (GOP tariff breaks incl. Collins, Sununu, Rogers; Apple HomeView; Six Flags Goliath findings; sunscreen; Peshawar; Ukraine/Musk)
-- Dawn, Arab News, ARY News, AP, BBC on Peshawar school roof collapse (Oct 15)
-- The Independent Bulletin AM briefing Oct 15 (Zelensky on Starlink); Middle East Eye morning update Oct 15 (Iran, Hormuz)
-- WSJ live markets Oct 15 9:38 AM ET; Il Sole 24 Ore, "Wall Street: mixed opening"; Schwab "Stocks Slip Early After Wholesale Inflation Surges" (Oct 15, yields, FedWatch 34%, movers, Warsh); Axios, "AI tremors felt in corporate bond market" (CoreWeave)
-- Charles Schwab, PNC, and U.S. Bancorp Q3 2026 earnings releases (Oct 15)
-- Reuters via Yahoo Finance/Investing.com, "Tesla set to unveil next generation Roadster"; electronmotion.com event timing
-- Semafor via X (Meta data center tax credit)
-- Axios, CBS News, WSJ (FTC subpoenas OpenAI and Anthropic, Oct 15); AP-NORC poll via CBS
-- CSO Online, "Attackers exploit Palo Alto PAN-OS flaw" (CVE-2026-0322); CISA KEV alert Oct 14
-- The Register, Al Jazeera (X suspends 13,000 accounts)
-- Harry's X home timeline Oct 15 9:30-9:56 AM ET (@VivekGRamaswamy, @BasedMikeLee, @RapidResponse47, @kimmonismus, @BrianRoemmele, @Variety, @esaagar, @semafor)
-- londonderryhistory.org events
-- London Zoo / ZSL, BBC, Metro (Afia Birago's puddle frog breeding)</description>
-<content:encoded><![CDATA[The 10 AM update of Gumshoe News Radio for Thursday, October 15, 2026, focused on what's new since the 9:20 drive edition. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>1:33 US News<br/>3:00 International<br/>4:18 Markets In Depth<br/>6:36 Technology<br/>7:43 Artificial Intelligence<br/>8:24 Cybersecurity<br/>9:21 From Your X Feed<br/>10:54 Local News & Events<br/>11:26 Uplifting Story<br/><br/>Sources:<br/>- NWS api.weather.gov forecast for 42.8435,-71.3809<br/>- NWS api.weather.gov forecast for location.json (Londonderry, NH)<br/>- WSJ, "White House Press Secretary Katie Zacharia Didn't Pass Bar Exam" (Oct 15); The Hill, "Katie Zacharia says she misheard question on where she took bar exam"; Forbes Oct 15<br/>- NBC News Morning Rundown Oct 15 (GOP tariff breaks incl. Collins, Sununu, Rogers; Apple HomeView; Six Flags Goliath findings; sunscreen; Peshawar; Ukraine/Musk)<br/>- Dawn, Arab News, ARY News, AP, BBC on Peshawar school roof collapse (Oct 15)<br/>- The Independent Bulletin AM briefing Oct 15 (Zelensky on Starlink); Middle East Eye morning update Oct 15 (Iran, Hormuz)<br/>- WSJ live markets Oct 15 9:38 AM ET; Il Sole 24 Ore, "Wall Street: mixed opening"; Schwab "Stocks Slip Early After Wholesale Inflation Surges" (Oct 15, yields, FedWatch 34%, movers, Warsh); Axios, "AI tremors felt in corporate bond market" (CoreWeave)<br/>- Charles Schwab, PNC, and U.S. Bancorp Q3 2026 earnings releases (Oct 15)<br/>- Reuters via Yahoo Finance/Investing.com, "Tesla set to unveil next generation Roadster"; electronmotion.com event timing<br/>- Semafor via X (Meta data center tax credit)<br/>- Axios, CBS News, WSJ (FTC subpoenas OpenAI and Anthropic, Oct 15); AP-NORC poll via CBS<br/>- CSO Online, "Attackers exploit Palo Alto PAN-OS flaw" (CVE-2026-0322); CISA KEV alert Oct 14<br/>- The Register, Al Jazeera (X suspends 13,000 accounts)<br/>- Harry's X home timeline Oct 15 9:30-9:56 AM ET (@VivekGRamaswamy, @BasedMikeLee, @RapidResponse47, @kimmonismus, @BrianRoemmele, @Variety, @esaagar, @semafor)<br/>- londonderryhistory.org events<br/>- London Zoo / ZSL, BBC, Metro (Afia Birago's puddle frog breeding)]]></content:encoded>
-<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-15-10am.mp3?v=20261015T1012" length="5995477" type="audio/mpeg"/>
-<guid isPermaLink="false">gumshoe-2026-10-15-10am-20261015T1012</guid><pubDate>Thu, 15 Oct 2026 10:12:19 -0400</pubDate>
-<itunes:duration>734</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
-<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-15-10am.chapters.json?v=20261015T1012" type="application/json+chapters"/></item>
-<item><title>Thursday Drive Edition, Oct 15</title><description>A 20-minute drive-time edition of Gumshoe News Radio for Thursday, October 15, 2026, updated about 9:20 AM ET. Anchor Ava, with Andrew at the business and tech desk.
-
-Chapters:
-0:00 Cold Open &amp; Weather
-1:49 US News
-3:50 Surprise Factoid
-4:07 International
-5:43 Markets In Depth
-8:57 Technology
-10:08 Artificial Intelligence
-12:01 Cybersecurity
-13:38 Surprise Factoid
-13:54 From Your X Feed
-15:57 Local News &amp; Events
-17:02 Uplifting Story
-
-Sources:
-- NWS api.weather.gov forecast for 42.8435,-71.3809
-- AP, "How major US stock indexes fared Wednesday 10/14/2026"; AP Morning Wire Oct 14; AP live midterm updates Oct 14
-- Reuters via financialnewsletter.com, "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries"; theclosingprint.net and stocks.pkladog.com closing recaps Oct 14 (sectors, yields, DXY, gold, silver, BTC)
-- Newsquawk US Market Wrap Oct 14 (rate-hike odds, CoreWeave bonds)
-- Investing.com, "U.S. stock futures fall as hot inflation revives Fed hike concerns" (futures as of 8:20 PM ET Oct 14; CPI details; Fed meeting Oct 27-28)
-- Reuters via za.investing.com, oil settlement Oct 14 (Brent $106.06, WTI $95.09)
-- Nasdaq.com and Earnings Whispers earnings calendars Oct 15
-- WSJ news archive Oct 14 (CPI 3.7%, Ukraine Starlink, Guilfoyle reporting); Democracy Now headlines Oct 14 (Guilfoyle resignation, Collins-Jackson debate, measles, Yemen, Ebola, Ukraine power)
-- Washington Post via Google News, Trump Alaska trip; CNN, Six Flags Goliath; Reuters world and domestic summaries Oct 14 (devdiscourse)
-- Vatican News/AP via Trends MCP digest, Pope Leo XIV surgery
-- The CODEW daily tech briefing Oct 14 (Nvidia Europe, CXMT); The Guardian technology Oct 14 (Uber Manchester, Nvidia UK pledge, IMF/BoE cyber warning); TechCrunch Oct 2026 (Netflix layoffs, YouTube Music, Deezer); BBN tech archive Oct 14 (eight states sue OpenAI, Microsoft-Japan scam takedown, Character.AI)
-- The Verge, "The AI race is back on"; ai-news-online.com and at-pulse.com Oct 14 (Gemini 4 Argon pricing, rankings); theairankings.com (OpenAI engineer arrest); Forward Future (Anthropic distillation defenses); The Morning Build (Anthropic false tip disclosure, X subscription bundle)
-- BleepingComputer (CISA Ivanti CVE-2026-104935; Cisco SEG CVE-2026-76519); Cybernews (Ivanti unpatched flaw); The Hacker News (Collabora CODE CVE-2026-110447)
-- Harry's X home timeline (@elonmusk, @levelsio, @BasedMikeLee, @Cernovich, @VivekGRamaswamy, @prestonjbyrne, @tylerbowyer, @micsolana, @TrungTPhan), read Oct 14 evening
-- londonderryhistory.org events; Londonderry Times, "Busy Four Days Keep Local Firefighters on the Move" (Oct 11); NH Secretary of State registration deadlines; londonderrynh.gov voter registration
-- ClickOnDetroit/WDIV, Hudson Tenn (Oct 14); Good News Network newsletter Oct 14
-- Factoids: Winnie-the-Pooh first published Oct 14, 1926 (Methuen); Mars surface gravity ~0.38 g (NASA)
-- CNBC, "Wholesale prices jumped 6.3% annually in September" (PPI, retail sales, Oct 15); AP "The Latest" Oct 15 (AP-NORC poll, jobless claims); AP Morning Wire Oct 15 (press secretary); AP live updates Oct 15 (House Democrats 100-day agenda)
-- WSJ live markets Oct 15 9:09 AM ET (Nasdaq-100 futures, Kospi, Nikkei, CoreWeave, Anthropic revenue); CNBC "5 things to know" Oct 15 (premarket chips, Hammack); TipRanks Oct 15 (futures 5:40 AM ET, Brent/WTI); FXStreet (Anthropic Q3 $16.8B per FT, Kospi circuit breaker); Yahoo Finance (Bowman, Hammack speeches)
-- TSMC press release Oct 15 and investor site Q3 2026 guidance; CNBC "TSMC posts record profit for a sixth straight quarter"
-- Indian Express world live blog Oct 15 (Zelensky "done" with energy truce, refinery strike, Istanbul floods, IMF Middle East, Pope recovering)
-- Harry's X home timeline Oct 14 evening and Oct 15 7:00-9:20 AM ET (@elonmusk, @Geiger_Capital, @levelsio, @BasedMikeLee, @JonathanTurley, @WHFraudTF, @prestonjbyrne, @BillAckman, @SpaceX, @Variety)</description>
-<content:encoded><![CDATA[A 20-minute drive-time edition of Gumshoe News Radio for Thursday, October 15, 2026, updated about 9:20 AM ET. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Cold Open & Weather<br/>1:49 US News<br/>3:50 Surprise Factoid<br/>4:07 International<br/>5:43 Markets In Depth<br/>8:57 Technology<br/>10:08 Artificial Intelligence<br/>12:01 Cybersecurity<br/>13:38 Surprise Factoid<br/>13:54 From Your X Feed<br/>15:57 Local News & Events<br/>17:02 Uplifting Story<br/><br/>Sources:<br/>- NWS api.weather.gov forecast for 42.8435,-71.3809<br/>- AP, "How major US stock indexes fared Wednesday 10/14/2026"; AP Morning Wire Oct 14; AP live midterm updates Oct 14<br/>- Reuters via financialnewsletter.com, "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries"; theclosingprint.net and stocks.pkladog.com closing recaps Oct 14 (sectors, yields, DXY, gold, silver, BTC)<br/>- Newsquawk US Market Wrap Oct 14 (rate-hike odds, CoreWeave bonds)<br/>- Investing.com, "U.S. stock futures fall as hot inflation revives Fed hike concerns" (futures as of 8:20 PM ET Oct 14; CPI details; Fed meeting Oct 27-28)<br/>- Reuters via za.investing.com, oil settlement Oct 14 (Brent $106.06, WTI $95.09)<br/>- Nasdaq.com and Earnings Whispers earnings calendars Oct 15<br/>- WSJ news archive Oct 14 (CPI 3.7%, Ukraine Starlink, Guilfoyle reporting); Democracy Now headlines Oct 14 (Guilfoyle resignation, Collins-Jackson debate, measles, Yemen, Ebola, Ukraine power)<br/>- Washington Post via Google News, Trump Alaska trip; CNN, Six Flags Goliath; Reuters world and domestic summaries Oct 14 (devdiscourse)<br/>- Vatican News/AP via Trends MCP digest, Pope Leo XIV surgery<br/>- The CODEW daily tech briefing Oct 14 (Nvidia Europe, CXMT); The Guardian technology Oct 14 (Uber Manchester, Nvidia UK pledge, IMF/BoE cyber warning); TechCrunch Oct 2026 (Netflix layoffs, YouTube Music, Deezer); BBN tech archive Oct 14 (eight states sue OpenAI, Microsoft-Japan scam takedown, Character.AI)<br/>- The Verge, "The AI race is back on"; ai-news-online.com and at-pulse.com Oct 14 (Gemini 4 Argon pricing, rankings); theairankings.com (OpenAI engineer arrest); Forward Future (Anthropic distillation defenses); The Morning Build (Anthropic false tip disclosure, X subscription bundle)<br/>- BleepingComputer (CISA Ivanti CVE-2026-104935; Cisco SEG CVE-2026-76519); Cybernews (Ivanti unpatched flaw); The Hacker News (Collabora CODE CVE-2026-110447)<br/>- Harry's X home timeline (@elonmusk, @levelsio, @BasedMikeLee, @Cernovich, @VivekGRamaswamy, @prestonjbyrne, @tylerbowyer, @micsolana, @TrungTPhan), read Oct 14 evening<br/>- londonderryhistory.org events; Londonderry Times, "Busy Four Days Keep Local Firefighters on the Move" (Oct 11); NH Secretary of State registration deadlines; londonderrynh.gov voter registration<br/>- ClickOnDetroit/WDIV, Hudson Tenn (Oct 14); Good News Network newsletter Oct 14<br/>- Factoids: Winnie-the-Pooh first published Oct 14, 1926 (Methuen); Mars surface gravity ~0.38 g (NASA)<br/>- CNBC, "Wholesale prices jumped 6.3% annually in September" (PPI, retail sales, Oct 15); AP "The Latest" Oct 15 (AP-NORC poll, jobless claims); AP Morning Wire Oct 15 (press secretary); AP live updates Oct 15 (House Democrats 100-day agenda)<br/>- WSJ live markets Oct 15 9:09 AM ET (Nasdaq-100 futures, Kospi, Nikkei, CoreWeave, Anthropic revenue); CNBC "5 things to know" Oct 15 (premarket chips, Hammack); TipRanks Oct 15 (futures 5:40 AM ET, Brent/WTI); FXStreet (Anthropic Q3 $16.8B per FT, Kospi circuit breaker); Yahoo Finance (Bowman, Hammack speeches)<br/>- TSMC press release Oct 15 and investor site Q3 2026 guidance; CNBC "TSMC posts record profit for a sixth straight quarter"<br/>- Indian Express world live blog Oct 15 (Zelensky "done" with energy truce, refinery strike, Istanbul floods, IMF Middle East, Pope recovering)<br/>- Harry's X home timeline Oct 14 evening and Oct 15 7:00-9:20 AM ET (@elonmusk, @Geiger_Capital, @levelsio, @BasedMikeLee, @JonathanTurley, @WHFraudTF, @prestonjbyrne, @BillAckman, @SpaceX, @Variety)]]></content:encoded>
-<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-15-drive.mp3?v=20261015T0933" length="8869659" type="audio/mpeg"/>
-<guid isPermaLink="false">gumshoe-2026-10-15-drive-20261015T0933</guid><pubDate>Thu, 15 Oct 2026 09:33:37 -0400</pubDate>
-<itunes:duration>1093</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
-<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-15-drive.chapters.json?v=20261015T0933" type="application/json+chapters"/></item>
 </channel></rss>

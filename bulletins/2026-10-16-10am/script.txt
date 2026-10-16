@@ -1,0 +1,71 @@
+// Gumshoe script format: see README.md
+# title: Friday 10 AM Update, Oct 16
+# description: The 10 AM update of Gumshoe News Radio for Friday, October 16, 2026, focused on what's new since the morning edition: the opening bell and bank earnings, Fed Chair Warsh's comments, the latest from Bend, Oregon, a new BeyondTrust zero-day, the White House AI task force, your X feed, weekend events around southern New Hampshire, and Manhattan's new barn owls. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning, and welcome to the ten o'clock update of Gumshoe News Radio. It's Friday, October sixteenth. I'm Ava, with Andrew at the business and tech desk. This hour: the opening bell and a stack of bank earnings, new details from Bend, Oregon, a fresh espionage campaign hitting I.T. support software, and a family of owls that has New York City staring at the sky.
+[andrew] Morning again, Ava. Markets have been open about half an hour, and it's a split tape.
+[ava] First, the latest forecast.
+@weather
+[ava] WMUR is also calling for rain and a stiff breeze around southern New Hampshire today, with colder air moving in for the weekend.
+
+## US News | sting=us
+[ava] New details from Bend, Oregon. Police Chief Mike Krantz says the sixteen-year-old attacker, a Bend resident, was found dead inside Silver Rail Elementary minutes after the first calls on Thursday, shot by a community member who chased him into the building. Police still have not said whether the teen had any connection to the school or how he got the weapon. N.B.C. News notes that in Oregon, minors can legally possess certain firearms with parental consent.
+[ava] In politics, President Trump heads to Georgia today to rally with the Republican nominees: Collins, who is challenging Democratic Senator Jon Ossoff, and Jackson, who faces former Atlanta Mayor Keisha Lance Bottoms in the governor's race. The Associated Press says the visit is meant to drive turnout, but notes Trump's popularity has slipped in Georgia, and this is the first time the two G.O.P. nominees have shared a stage this fall.
+
+## International | sting=world
+[ava] Around the world. The Vatican has released the first images of Pope Leo the Fourteenth since his lung cancer surgery, showing him celebrating Mass in the hospital. His doctors say tests confirm continued improvement and that he can carry out daily activities on his own. The Vatican says he'll make his first public appearance Sunday for the noon prayer.
+[ava] In Pakistan, the death toll from Thursday's school roof collapse in Peshawar has risen to thirty-four children and a teacher, according to the A.P. Provincial officials have ordered inspections of every private school building in Khyber Pakhtunkhwa within three days, and some relatives say they had warned the owner about leaks before the collapse.
+[ava] And in the Black Sea, drone attacks on cargo ships near Romania and Bulgaria this month have killed crew members. NATO members suspect Russia, though the A.P. says the evidence isn't conclusive yet.
+
+## Markets In Depth | sting=markets
+[ava] Andrew, how's the open?
+[andrew] Mixed, Ava. At the bell, Reuters had the Dow up about a quarter of a percent near fifty-two thousand three hundred, the S and P five hundred flat around seventy-seven forty-five, and the Nasdaq down about two-tenths. Minutes later the Dow was up about six-tenths of a percent, per the A.P., with the Nasdaq off four-tenths. The S and P and Nasdaq are still on track for a losing week; the Dow is headed for a weekly gain.
+[andrew] The big overnight driver was Fed Chair Kevin Warsh, speaking in Bangkok at the I.M.F. meetings. He declined to signal what the Fed will do this month, saying, quote, I don't prejudge meetings, and, it's a new chapter at the Fed, and we're not in that business anymore. Markets read that as no added urgency to hike after this week's hot inflation numbers. Bloomberg data show traders cut the odds of an October hike to about fifteen percent, from more than twenty-five percent on Thursday. The dollar slipped, the ten-year yield is around five point oh nine percent, Brent crude is near one hundred five dollars, and gold is near forty-one seventy an ounce.
+[andrew] Under the surface, A.I. hardware is still getting sold. Micron fell three to four percent early, Intel about two, and CoreWeave, the debt-heavy data center operator, dropped about seven percent. On the other side, Tesla gained early after last night's Roadster show, up more than three percent premarket and holding a smaller gain at the open.
+[andrew] Now the banks. Citizens Financial, the big lender here in New England, earned six hundred thirty-six million dollars, or a dollar forty-one a share, up thirty-four percent from a year ago. It also raised its dividend thirteen percent. Regions' per-share earnings rose sixteen percent to seventy-one cents. M and T earned five oh four a share, up five percent, even as total profit dipped. And Travelers earned nine oh four a share, up from eight twenty-four, despite higher catastrophe losses. Truist also reported, but we didn't have its numbers in hand at air time.
+[andrew] Bottom line: the regional banks look healthy, a counterweight to the A.I. jitters in tech.
+[ava] Thanks, Andrew.
+
+## Technology | sting=tech
+[andrew] A quick tech note for E.V. drivers: Autoblog reports BMW's twenty twenty-seven iX5 electric S.U.V. covered five hundred miles on a single charge in testing, with more range work still underway. Official E.P.A. figures aren't out yet, and test drives often beat them, but the long-range E.V. race is clearly heating up.
+
+## Artificial Intelligence | sting=ai
+[ava] In A.I., the White House's new Super Intelligence Force held its first meeting Thursday. Politico and Semafor report it's led by Jay Clayton, the administration's A.I. czar. The group commissioned a report from science advisers on A.I. risks and set up a working group, co-led with National Cyber Director Sean Cairncross, to carry out September's White House Accord on Super Intelligence, under which top labs agreed to police their own frontier development.
+[ava] Supporters say a voluntary, dialogue-first approach lets the U.S. move fast while still watching risk. Skeptics argue that self-policing without enforcement depends on the labs' goodwill, especially with the F.T.C. separately demanding safety records from OpenAI and Anthropic this week.
+
+## Cybersecurity | sting=cyber
+[andrew] On the cyber desk, a serious one. BeyondTrust, Mandiant, and Google's threat intelligence group confirmed Thursday night that a suspected Chinese state-backed espionage group has been exploiting a zero-day in BeyondTrust Remote Support appliances, the tools I.T. teams use to reach and fix remote machines. It's C-V-E twenty twenty-six dash one oh two seven six four, exploited since at least August twenty-ninth. Mandiant calls the group Armory Castle, the same crew behind earlier Ivanti and Citrix attacks.
+[andrew] According to The Record, the attackers pulled every credential stored on the appliance and planted changes that survive reboots and configuration resets. A patch is out. Mandiant's advice: treat any vulnerable appliance that was reachable from the internet as potentially compromised until it's been reviewed, and expect broad exploitation now that the bug is public, because that's this group's pattern.
+[andrew] And a reminder: the federal fix-by dates for the Palo Alto PAN-OS and Cisco Secure Email Gateway flaws are tomorrow.
+
+## From Your X Feed | sting=x
+[ava] Now, your X feed from the past hour.
+[ava] The White House's most-liked posts were a pair of lo-fi beats videos touting what it calls trillions of dollars in investment pouring into America. That's the administration's own framing; critics note many announced investment pledges take years to materialize, if they do at all.
+[ava] Crémieux posted an analysis comparing countries' autism diagnosis trends before and after vaccine introductions, concluding that vaccines don't raise autism rates. That's consistent with large published studies, though vaccine skeptics continue to dispute that conclusion.
+[ava] Preston Byrne said his federal GRANITE Act, a bill meant to shield Americans from foreign censorship orders, picked up its first cosponsor: Kentucky Congressman Thomas Massie.
+[ava] On the lighter side, Brian Roemmele greeted the Roadster with a Back to the Future joke, that Doc just approved flying cars. And the Libertarian Party of New Hampshire fired back at out-of-state libertarians, saying they only henpeck because New Hampshire's are the ones actually winning.
+
+## Local News & Events | sting=local
+[ava] Closer to home. U.S. Education Secretary Linda McMahon toured public and private schools in Manchester on Thursday, praising New Hampshire's school voucher program and previewing a national school tax credit planned for next year. Voucher families said it helps with tuition; Democrats and some public school parents countered that vouchers pull money from public schools, a live issue with Manchester's school budget tax cap question on the ballot in a few weeks. Election Day is Tuesday, November third.
+[ava] For the weekend, rain or not: Hocus Pocus Two plays free tonight at eight fifteen in Manchester's Derryfield Park. Saturday from noon to five, Mactoberfest at McIntyre Ski Area is free and raises money for the Muscular Dystrophy Association with the Manchester Fire Department. The Great New England Fall Craft and Artisan Show runs Saturday and Sunday, ten to four, at the Hampshire Dome in Milford. And Sunday morning, ten to one, is the last Nashua Farmers Market of the season, along with the Londonderry Historical Society open house we mentioned this morning.
+
+## Uplifting Story | sting=feel
+[ava] And finally, New York has new celebrities. A family of barn owls has nested in a water tower atop a building on West Seventy-Fifth Street, near Central Park. A migration ecologist at the Cornell Lab of Ornithology says it's the first documented barn owl nest in Manhattan in recorded history. Birders count two adults and five or six fledglings, and every night a crowd gathers on the sidewalk to watch them head out to hunt.
+[ava] Neighbors had heard blood-curdling screeches for weeks. One father told the A.P. he ran into his kids' bedroom more than once, thinking a child was hurt, before learning it was owls. Now he lets photographers onto his roof deck almost every night. The couple who first reported the nest say they weren't birders before. Now, quote, I think we're about to become birders.
+[andrew] Who could blame them? It's a hoot.
+[ava] I walked right into that one. That's your ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew.
+[ava] Ask your Gumshoe for more on any story. See you next hour.
+
+> source: NWS api.weather.gov forecast for location.json (Londonderry, NH); WMUR forecast Oct 16
+> source: AP News Summary 8:50 a.m. EDT Oct 16 (Bend shooting, Pope Leo, Georgia rally, AdImpact ad analysis, Peshawar, Black Sea drones); NBC News Morning Rundown Oct 16; OPB Oct 15-16
+> source: Reuters via Investing.com, "Wall St opens muted as tech jitters linger; Tesla gains" (Oct 16, 9:34 AM); AP, "Stocks open mostly higher on Wall Street"; Reuters premarket via Devdiscourse
+> source: WSJ, "Warsh Avoids Signal on October Rate Move"; Bloomberg via Straits Times, "Stocks rise as Fed bets ease after Warsh speech" (Oct 16)
+> source: Q3 2026 releases Oct 16: Citizens Financial, Regions, M&T Bank, Travelers, Truist
+> source: Autoblog, "2027 BMW iX5 Drives 500 Miles on One Charge" (Oct 16)
+> source: Politico and Semafor, White House Super Intelligence Force first meeting (Oct 15); AP on the AI self-policing accord
+> source: The Record (Recorded Future News), "Suspected Chinese espionage attackers abusing BeyondTrust IT support zero-day" (Oct 16); SecurityWeek
+> source: Harry's X home timeline Oct 16 9:30-9:57 AM ET (@WhiteHouse, @SecKennedy, @cremieuxrecueil, @prestonjbyrne, @BrianRoemmele, @Variety, @LPNH, @RapidResponse47)
+> source: NHPR, "Education Secretary visits Manchester schools, supports vouchers" (Oct 15); Manchester Ink Link, The Weekender Oct 15-18
+> source: AP via NY1, "A rare family of barn owls moved into Manhattan's Upper West Side" (Oct 15); NPR Oct 16
