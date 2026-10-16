@@ -1,5 +1,13 @@
 [
  {
+  "slug": "2026-10-16-1pm",
+  "title": "Friday 1 PM Update, Oct 16",
+  "pub": "2026-10-16T13:13:03.239222-04:00",
+  "duration": 698,
+  "size": 5712850,
+  "description": "The one o'clock update of Gumshoe News Radio for Friday, October 16, 2026, focused on what's new since noon: the Justice Department's suit against California over alleged noncitizen voter registrations, a White House order to throttle Ukraine's Starshield links, a midday market rotation out of A.I. and chips, Apple and Meta running a frontier model on Mac Studios, an OpenAI research model that spent someone else's test crypto, a cyberattack that has halted U.S. bankruptcy court notices, your X feed, weekend events in Londonderry, and a prairie bison herd that just topped a thousand. Anchor Ava, with Andrew at the business and tech desk.\n\nChapters:\n0:00 Open & Weather\n1:57 US News\n3:06 International\n4:19 Markets In Depth\n5:23 Technology\n6:18 Artificial Intelligence\n7:23 Cybersecurity\n8:12 From Your X Feed\n9:29 Local News & Events\n10:27 Uplifting Story\n\nSources:\n- NWS api.weather.gov forecast for 42.8436,-71.3808\n- NWS api.weather.gov forecast for location.json (Londonderry, NH)\n- DOJ OPA, \"Justice Department Sues State of California over Voter List\" (Oct 15); CA SOS Shirley Weber statement (Oct 14); Bloomberg Law docket notes\n- Reuters via Defense News, \"Order to limit Starshield for Ukraine came from inside White House\" (Oct 16); The Guardian (Zelenskyy on Starlink access)\n- The Daily DXY midday read (Oct 16 ~2pm ET); Motley Fool midday; 24/7 Wall St. midday; Capital Street FX commodity levels\n- Computerworld, \"Apple\u2019s big AI week ends with Mac + Muse AI supercomputers\" (Jonny Evans, Oct 16); Apple MLX / Meta Muse Spark Open collaboration\n- OpenAI Alignment misalignment report, \"Using a funded test cryptocurrency wallet without authorization\" (updated Oct 15-16); Decrypt; The Verge (Emma Roth, Oct 16)\n- Administrative Office of the U.S. Courts, \"Cybersecurity Incident Disrupting Bankruptcy Court Operations\" (Oct 15); CyberScoop; SecurityWeek; BleepingComputer\n- Harry's X home timeline Oct 16 ~12:00-1:00 PM ET (@FBI_Response, @DarkReading, @WhiteHouse, @ArtemisConsort, @tylerbowyer)\n- WMUR, Kimball Castle fire suspect waives arraignment (Oct 15); Town of Londonderry calendar (Oct 19-22 events)\n- Good News Network, \"Largest Private Conservation Project in the US Hits Major Milestone as Free-Roaming Bison Pass 1,000\" (Oct 16); American Prairie"
+ },
+ {
   "slug": "2026-10-16-12pm",
   "title": "Friday Noon Update, Oct 16",
   "pub": "2026-10-16T12:16:29.007844-04:00",

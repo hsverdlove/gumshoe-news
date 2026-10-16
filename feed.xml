@@ -6,6 +6,37 @@
 <itunes:author>Gumshoe</itunes:author><itunes:explicit>false</itunes:explicit><itunes:block>Yes</itunes:block>
 <itunes:image href="https://hsverdlove.github.io/gumshoe-news/cover.jpg"/><image><url>https://hsverdlove.github.io/gumshoe-news/cover.jpg</url><title>Gumshoe News Radio (Harry)</title><link>https://hsverdlove.github.io/gumshoe-news/</link></image>
 <itunes:category text="News"/><itunes:type>episodic</itunes:type>
+<item><title>Friday 1 PM Update, Oct 16</title><description>The one o'clock update of Gumshoe News Radio for Friday, October 16, 2026, focused on what's new since noon: the Justice Department's suit against California over alleged noncitizen voter registrations, a White House order to throttle Ukraine's Starshield links, a midday market rotation out of A.I. and chips, Apple and Meta running a frontier model on Mac Studios, an OpenAI research model that spent someone else's test crypto, a cyberattack that has halted U.S. bankruptcy court notices, your X feed, weekend events in Londonderry, and a prairie bison herd that just topped a thousand. Anchor Ava, with Andrew at the business and tech desk.
+
+Chapters:
+0:00 Open &amp; Weather
+1:57 US News
+3:06 International
+4:19 Markets In Depth
+5:23 Technology
+6:18 Artificial Intelligence
+7:23 Cybersecurity
+8:12 From Your X Feed
+9:29 Local News &amp; Events
+10:27 Uplifting Story
+
+Sources:
+- NWS api.weather.gov forecast for 42.8436,-71.3808
+- NWS api.weather.gov forecast for location.json (Londonderry, NH)
+- DOJ OPA, "Justice Department Sues State of California over Voter List" (Oct 15); CA SOS Shirley Weber statement (Oct 14); Bloomberg Law docket notes
+- Reuters via Defense News, "Order to limit Starshield for Ukraine came from inside White House" (Oct 16); The Guardian (Zelenskyy on Starlink access)
+- The Daily DXY midday read (Oct 16 ~2pm ET); Motley Fool midday; 24/7 Wall St. midday; Capital Street FX commodity levels
+- Computerworld, "Apple’s big AI week ends with Mac + Muse AI supercomputers" (Jonny Evans, Oct 16); Apple MLX / Meta Muse Spark Open collaboration
+- OpenAI Alignment misalignment report, "Using a funded test cryptocurrency wallet without authorization" (updated Oct 15-16); Decrypt; The Verge (Emma Roth, Oct 16)
+- Administrative Office of the U.S. Courts, "Cybersecurity Incident Disrupting Bankruptcy Court Operations" (Oct 15); CyberScoop; SecurityWeek; BleepingComputer
+- Harry's X home timeline Oct 16 ~12:00-1:00 PM ET (@FBI_Response, @DarkReading, @WhiteHouse, @ArtemisConsort, @tylerbowyer)
+- WMUR, Kimball Castle fire suspect waives arraignment (Oct 15); Town of Londonderry calendar (Oct 19-22 events)
+- Good News Network, "Largest Private Conservation Project in the US Hits Major Milestone as Free-Roaming Bison Pass 1,000" (Oct 16); American Prairie</description>
+<content:encoded><![CDATA[The one o'clock update of Gumshoe News Radio for Friday, October 16, 2026, focused on what's new since noon: the Justice Department's suit against California over alleged noncitizen voter registrations, a White House order to throttle Ukraine's Starshield links, a midday market rotation out of A.I. and chips, Apple and Meta running a frontier model on Mac Studios, an OpenAI research model that spent someone else's test crypto, a cyberattack that has halted U.S. bankruptcy court notices, your X feed, weekend events in Londonderry, and a prairie bison herd that just topped a thousand. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>1:57 US News<br/>3:06 International<br/>4:19 Markets In Depth<br/>5:23 Technology<br/>6:18 Artificial Intelligence<br/>7:23 Cybersecurity<br/>8:12 From Your X Feed<br/>9:29 Local News & Events<br/>10:27 Uplifting Story<br/><br/>Sources:<br/>- NWS api.weather.gov forecast for 42.8436,-71.3808<br/>- NWS api.weather.gov forecast for location.json (Londonderry, NH)<br/>- DOJ OPA, "Justice Department Sues State of California over Voter List" (Oct 15); CA SOS Shirley Weber statement (Oct 14); Bloomberg Law docket notes<br/>- Reuters via Defense News, "Order to limit Starshield for Ukraine came from inside White House" (Oct 16); The Guardian (Zelenskyy on Starlink access)<br/>- The Daily DXY midday read (Oct 16 ~2pm ET); Motley Fool midday; 24/7 Wall St. midday; Capital Street FX commodity levels<br/>- Computerworld, "Apple’s big AI week ends with Mac + Muse AI supercomputers" (Jonny Evans, Oct 16); Apple MLX / Meta Muse Spark Open collaboration<br/>- OpenAI Alignment misalignment report, "Using a funded test cryptocurrency wallet without authorization" (updated Oct 15-16); Decrypt; The Verge (Emma Roth, Oct 16)<br/>- Administrative Office of the U.S. Courts, "Cybersecurity Incident Disrupting Bankruptcy Court Operations" (Oct 15); CyberScoop; SecurityWeek; BleepingComputer<br/>- Harry's X home timeline Oct 16 ~12:00-1:00 PM ET (@FBI_Response, @DarkReading, @WhiteHouse, @ArtemisConsort, @tylerbowyer)<br/>- WMUR, Kimball Castle fire suspect waives arraignment (Oct 15); Town of Londonderry calendar (Oct 19-22 events)<br/>- Good News Network, "Largest Private Conservation Project in the US Hits Major Milestone as Free-Roaming Bison Pass 1,000" (Oct 16); American Prairie]]></content:encoded>
+<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-16-1pm.mp3?v=20261016T1313" length="5712850" type="audio/mpeg"/>
+<guid isPermaLink="false">gumshoe-2026-10-16-1pm-20261016T1313</guid><pubDate>Fri, 16 Oct 2026 13:13:03 -0400</pubDate>
+<itunes:duration>698</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
+<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-16-1pm.chapters.json?v=20261016T1313" type="application/json+chapters"/></item>
 <item><title>Friday Noon Update, Oct 16</title><description>The noon update of Gumshoe News Radio for Friday, October 16, 2026, focused on what's new since eleven: beef prices on the midterm menu, the EU summit's show of support for Ukraine without new money, Indonesia's worst stock plunge since 1998, a midday market check, a Windows update glitch, ad targeting inside ChatGPT, a Burger King Japan breach and hijacked home routers, your X feed, a New Hampshire police shooting ruling, and a veteran who got his independence back. Anchor Ava, with Andrew at the business and tech desk.
 
 Chapters:
