@@ -6,6 +6,37 @@
 <itunes:author>Gumshoe</itunes:author><itunes:explicit>false</itunes:explicit><itunes:block>Yes</itunes:block>
 <itunes:image href="https://hsverdlove.github.io/gumshoe-news/cover.jpg"/><image><url>https://hsverdlove.github.io/gumshoe-news/cover.jpg</url><title>Gumshoe News Radio (Harry)</title><link>https://hsverdlove.github.io/gumshoe-news/</link></image>
 <itunes:category text="News"/><itunes:type>episodic</itunes:type>
+<item><title>Friday 3 PM Update, Oct 16</title><description>The three o'clock update of Gumshoe News Radio for Friday, October 16, 2026, focused on what's new since two: where Katie Zacharia lands after leaving the press secretary job, back-to-back Senate debates in Minnesota and Alaska, Iran's widening attacks on shipping around Hormuz, Alberta's referendum on Monday, Brent crude touching a hundred ten dollars and a Nasdaq headed for its worst week since June, Nvidia's open-source robot-learning kit, a fifteen-million-dollar effort to help mathematicians sort out A.I.-generated proofs, a Booz Allen test where A.I. took over a robotic arm in sixteen minutes, your X feed, Don Bolduc crossing party lines in New Hampshire's Senate race, the Loon Mountain comment deadline, and a little boy's lost ball of strings. Anchor Ava, with Andrew at the business and tech desk.
+
+Chapters:
+0:00 Open &amp; Weather
+1:45 US News
+4:05 International
+5:32 Markets In Depth
+7:30 Technology
+8:24 Artificial Intelligence
+9:25 Cybersecurity
+10:19 From Your X Feed
+12:11 Local News &amp; Events
+13:30 Uplifting Story
+
+Sources:
+- NWS api.weather.gov forecast for 42.8436,-71.3808
+- NWS api.weather.gov forecast for location.json (Londonderry, NH)
+- NBC News live blog, "Trump to rally for Senate candidate Mike Collins in Georgia" (Oct 16, 2:57 PM); CBS News, "Katie Zacharia out as White House press secretary" (Oct 16, 2:32 PM); NBC News, Alaska Senate debate (Casey Wooten, Oct 16)
+- CNBC, "U.S. crude oil tops $100 as Iran escalates Hormuz attacks" (Oct 16); BBC Verify, "Ship attack reports near Hormuz reach record high" (Oct 16); CBC, Carney Calgary rally (Oct 15); Xinhua world summary 1530 GMT (Gambia boat, Oct 16)
+- Yahoo Finance live, 2:48 PM ET Oct 16; Reuters via Devdiscourse, "S&amp;P 500, Nasdaq set for steep weekly losses"; MT Newswires/Bloomberg on CoreWeave co-founder sales; 24/7 Wall St. on cybersecurity stocks; Reuters exclusive on Anthropic IPO valuation (Oct 15)
+- NVIDIA GEAR, ASPIRE project page and GitHub NVlabs/ASPIRE v1.0 (Oct 2026)
+- Simons Foundation, "Simons Foundation Launches $15M Effort To Help Mathematicians Navigate AI Era" (Oct 15); The Independent (Oct 15); Terence Tao on Numberphile via X News
+- Dark Reading, "AI Takes Control of Robotic Arm in 16 Minutes Flat" (Robert Lemos, Oct 16); Booz Allen OT report
+- Harry's X home timeline Oct 16 ~2:15-3:00 PM ET (@Tesla, @Erdayastronaut, @pegobry_en, @Prisonmitch, @Realalexclark, @BreannaMorello, @WhiteHouse, @TheJusticeDept, @rachelbovard, @VivekGRamaswamy, @interesting_aIl, @25YearsAgoLive, @JamesSpillaneNH)
+- WMUR, The Hill, Axios, NH Journal on Bolduc endorsing Pappas (Oct 15-16); Union Leader, "Forest Service seeks comments on Loon Mountain expansion" (Oct 14)
+- BBC News, "Mum's tears of joy as autistic son reunited with string lost at sea" (Oct 16)</description>
+<content:encoded><![CDATA[The three o'clock update of Gumshoe News Radio for Friday, October 16, 2026, focused on what's new since two: where Katie Zacharia lands after leaving the press secretary job, back-to-back Senate debates in Minnesota and Alaska, Iran's widening attacks on shipping around Hormuz, Alberta's referendum on Monday, Brent crude touching a hundred ten dollars and a Nasdaq headed for its worst week since June, Nvidia's open-source robot-learning kit, a fifteen-million-dollar effort to help mathematicians sort out A.I.-generated proofs, a Booz Allen test where A.I. took over a robotic arm in sixteen minutes, your X feed, Don Bolduc crossing party lines in New Hampshire's Senate race, the Loon Mountain comment deadline, and a little boy's lost ball of strings. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>1:45 US News<br/>4:05 International<br/>5:32 Markets In Depth<br/>7:30 Technology<br/>8:24 Artificial Intelligence<br/>9:25 Cybersecurity<br/>10:19 From Your X Feed<br/>12:11 Local News & Events<br/>13:30 Uplifting Story<br/><br/>Sources:<br/>- NWS api.weather.gov forecast for 42.8436,-71.3808<br/>- NWS api.weather.gov forecast for location.json (Londonderry, NH)<br/>- NBC News live blog, "Trump to rally for Senate candidate Mike Collins in Georgia" (Oct 16, 2:57 PM); CBS News, "Katie Zacharia out as White House press secretary" (Oct 16, 2:32 PM); NBC News, Alaska Senate debate (Casey Wooten, Oct 16)<br/>- CNBC, "U.S. crude oil tops $100 as Iran escalates Hormuz attacks" (Oct 16); BBC Verify, "Ship attack reports near Hormuz reach record high" (Oct 16); CBC, Carney Calgary rally (Oct 15); Xinhua world summary 1530 GMT (Gambia boat, Oct 16)<br/>- Yahoo Finance live, 2:48 PM ET Oct 16; Reuters via Devdiscourse, "S&P 500, Nasdaq set for steep weekly losses"; MT Newswires/Bloomberg on CoreWeave co-founder sales; 24/7 Wall St. on cybersecurity stocks; Reuters exclusive on Anthropic IPO valuation (Oct 15)<br/>- NVIDIA GEAR, ASPIRE project page and GitHub NVlabs/ASPIRE v1.0 (Oct 2026)<br/>- Simons Foundation, "Simons Foundation Launches $15M Effort To Help Mathematicians Navigate AI Era" (Oct 15); The Independent (Oct 15); Terence Tao on Numberphile via X News<br/>- Dark Reading, "AI Takes Control of Robotic Arm in 16 Minutes Flat" (Robert Lemos, Oct 16); Booz Allen OT report<br/>- Harry's X home timeline Oct 16 ~2:15-3:00 PM ET (@Tesla, @Erdayastronaut, @pegobry_en, @Prisonmitch, @Realalexclark, @BreannaMorello, @WhiteHouse, @TheJusticeDept, @rachelbovard, @VivekGRamaswamy, @interesting_aIl, @25YearsAgoLive, @JamesSpillaneNH)<br/>- WMUR, The Hill, Axios, NH Journal on Bolduc endorsing Pappas (Oct 15-16); Union Leader, "Forest Service seeks comments on Loon Mountain expansion" (Oct 14)<br/>- BBC News, "Mum's tears of joy as autistic son reunited with string lost at sea" (Oct 16)]]></content:encoded>
+<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-16-3pm.mp3?v=20261016T1518" length="7183186" type="audio/mpeg"/>
+<guid isPermaLink="false">gumshoe-2026-10-16-3pm-20261016T1518</guid><pubDate>Fri, 16 Oct 2026 15:18:12 -0400</pubDate>
+<itunes:duration>882</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
+<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-16-3pm.chapters.json?v=20261016T1518" type="application/json+chapters"/></item>
 <item><title>Friday 2 PM Update, Oct 16</title><description>The two o'clock update of Gumshoe News Radio for Friday, October 16, 2026, focused on what's new since one: Katie Zacharia is out as White House press secretary after less than a week, new details in a foiled plot against a Hindu temple near Chicago, Pope Leo's first photos since cancer surgery and his call with Vladimir Putin, a Nasdaq headed for a weekly loss, Nvidia's RTX Spark laptops hitting shelves, Claude designing record-setting quantum circuits, a backdoored backup-software update, your X feed, Governor Ayotte's push to get the Libertarian Party of New Hampshire's X account suspended, and a Kansas grandpa who has held more than five hundred forty preemies. Anchor Ava, with Andrew at the business and tech desk.
 
 Chapters:
