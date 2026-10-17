@@ -6,6 +6,34 @@
 <itunes:author>Gumshoe</itunes:author><itunes:explicit>false</itunes:explicit><itunes:block>Yes</itunes:block>
 <itunes:image href="https://hsverdlove.github.io/gumshoe-news/cover.jpg"/><image><url>https://hsverdlove.github.io/gumshoe-news/cover.jpg</url><title>Gumshoe News Radio (Harry)</title><link>https://hsverdlove.github.io/gumshoe-news/</link></image>
 <itunes:category text="News"/><itunes:type>episodic</itunes:type>
+<item><title>Saturday Morning, Oct 17</title><description>The Saturday morning edition of Gumshoe News Radio for October 17, 2026: the president waives the new Russia sanctions law, a fuller picture of who stopped the Bend school shooter, Santa Ana winds driving fires into Southern California neighborhoods, Zelenskyy and Europe after a rough week with Washington, Alberta's referendum on Monday, Pope Leo heading home from the hospital, Apple's sold-out folding iPhone, DeepSeek's new open model, China's proposed curbs on exporting A.I., an A.I. that solved a 25-year cryptography mystery, a critical Magento flaw, your X feed, York Harvestfest and the weekend on the Seacoast, and a group of teenagers who made a little boy's day. Anchor Ava, with Andrew at the business and tech desk.
+
+Chapters:
+0:00 Open &amp; Weather
+1:36 US News
+4:44 International
+6:49 Technology
+7:42 Artificial Intelligence
+8:51 Cybersecurity
+10:19 From Your X Feed
+12:00 Local News &amp; Events
+13:11 Uplifting Story
+
+Sources:
+- NWS forecast for York, ME
+- The White House, "Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026" (Oct 16); CNBC, "Trump waives Russia-linked sanctions, citing national interest" (Oct 17); The Washington Post (Oct 17, 4:56 AM); Axios (Oct 17); AP, "How a driver, a dad and a teacher tried to stop the Oregon school shooter" (Oct 17) and AP News Summary 4:53 AM EDT; The Washington Post on the shooter as a former student (Oct 16); ABC7 Los Angeles and NBC Los Angeles on the Norte Fire (Oct 16); NBC News on the Bryson Fire (Oct 16); AP on Zacharia and the Coast Guard rescue (Oct 17)
+- Euronews, "Russia strikes nine Ukrainian regions as strain grows between Zelenskyy and Trump" and "It's easier dealing with Trump than Putin" (Oct 16); Post and Courier/Reuters, Trump on Starlink (Oct 17); AP on Carney and the Alberta referendum (Oct 17); Abacus Data, "Days Before Alberta's Referendum, Support for Remain Rises"; AP and CBS News on Pope Leo's discharge (Oct 16-17); AP, "Istanbul faces worst flooding since 1942" (Oct 16); AP Middle East developments (Oct 17)
+- The Verge and MacRumors, iPhone Duo demand (Oct 16); Business Insider and Yahoo Finance on shipping delays; Waymo blog, "Hello Toronto! Waymo is En Route" and CBC News (Oct 2026)
+- Hugging Face model card, DeepSeek-V4.1-Flash-1017 (Oct 17); The Decoder (Oct 17); Vercel changelog (Oct 17); China Ministry of Commerce and Ministry of Science and Technology Announcement 2026 No. 48; On The Wire, "China proposes export controls on 23 AI technologies"; Reuters, "Beijing seeks tighter grip on AI exports amid US rivalry"
+- Anthropic, "Claude reveals ECDSA curve origins" (Oct 16); CoinDesk (Shaurya Malwa, Oct 17); BleepingComputer, "Critical BlockStrap flaw lets hackers run code on Magento servers" (Bill Toulas, Oct 16), citing Sansec
+- Harry's X home timeline Oct 17 ~1:30-7:00 AM ET (@kimmonismus, @teortaxesTex, @AndrewCurran_, @elonmusk, @interesting_aIl, @PicturesFoIder, @Variety, @therealautoblog, @CynicalPublius); Oceanco, "Oceanco delivers Leviathan"
+- York Harvestfest (yorkharvestfest.com); Mainebiz event listing, YRCA "Party at the Point" (Oct 18); New Hampshire Film Festival and The Music Hall, Alicia Silverstone &amp; Clueless (Oct 18); Seacoastonline, "York schools eye $5.1M for high school upgrades tied to future reorganization" (Oct 14)
+- CBS Boston/WBZ, "Massachusetts mom hopes to thank teens who invited her son with autism to play" (Logan Hall, Oct 16)</description>
+<content:encoded><![CDATA[The Saturday morning edition of Gumshoe News Radio for October 17, 2026: the president waives the new Russia sanctions law, a fuller picture of who stopped the Bend school shooter, Santa Ana winds driving fires into Southern California neighborhoods, Zelenskyy and Europe after a rough week with Washington, Alberta's referendum on Monday, Pope Leo heading home from the hospital, Apple's sold-out folding iPhone, DeepSeek's new open model, China's proposed curbs on exporting A.I., an A.I. that solved a 25-year cryptography mystery, a critical Magento flaw, your X feed, York Harvestfest and the weekend on the Seacoast, and a group of teenagers who made a little boy's day. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>1:36 US News<br/>4:44 International<br/>6:49 Technology<br/>7:42 Artificial Intelligence<br/>8:51 Cybersecurity<br/>10:19 From Your X Feed<br/>12:00 Local News & Events<br/>13:11 Uplifting Story<br/><br/>Sources:<br/>- NWS forecast for York, ME<br/>- The White House, "Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026" (Oct 16); CNBC, "Trump waives Russia-linked sanctions, citing national interest" (Oct 17); The Washington Post (Oct 17, 4:56 AM); Axios (Oct 17); AP, "How a driver, a dad and a teacher tried to stop the Oregon school shooter" (Oct 17) and AP News Summary 4:53 AM EDT; The Washington Post on the shooter as a former student (Oct 16); ABC7 Los Angeles and NBC Los Angeles on the Norte Fire (Oct 16); NBC News on the Bryson Fire (Oct 16); AP on Zacharia and the Coast Guard rescue (Oct 17)<br/>- Euronews, "Russia strikes nine Ukrainian regions as strain grows between Zelenskyy and Trump" and "It's easier dealing with Trump than Putin" (Oct 16); Post and Courier/Reuters, Trump on Starlink (Oct 17); AP on Carney and the Alberta referendum (Oct 17); Abacus Data, "Days Before Alberta's Referendum, Support for Remain Rises"; AP and CBS News on Pope Leo's discharge (Oct 16-17); AP, "Istanbul faces worst flooding since 1942" (Oct 16); AP Middle East developments (Oct 17)<br/>- The Verge and MacRumors, iPhone Duo demand (Oct 16); Business Insider and Yahoo Finance on shipping delays; Waymo blog, "Hello Toronto! Waymo is En Route" and CBC News (Oct 2026)<br/>- Hugging Face model card, DeepSeek-V4.1-Flash-1017 (Oct 17); The Decoder (Oct 17); Vercel changelog (Oct 17); China Ministry of Commerce and Ministry of Science and Technology Announcement 2026 No. 48; On The Wire, "China proposes export controls on 23 AI technologies"; Reuters, "Beijing seeks tighter grip on AI exports amid US rivalry"<br/>- Anthropic, "Claude reveals ECDSA curve origins" (Oct 16); CoinDesk (Shaurya Malwa, Oct 17); BleepingComputer, "Critical BlockStrap flaw lets hackers run code on Magento servers" (Bill Toulas, Oct 16), citing Sansec<br/>- Harry's X home timeline Oct 17 ~1:30-7:00 AM ET (@kimmonismus, @teortaxesTex, @AndrewCurran_, @elonmusk, @interesting_aIl, @PicturesFoIder, @Variety, @therealautoblog, @CynicalPublius); Oceanco, "Oceanco delivers Leviathan"<br/>- York Harvestfest (yorkharvestfest.com); Mainebiz event listing, YRCA "Party at the Point" (Oct 18); New Hampshire Film Festival and The Music Hall, Alicia Silverstone & Clueless (Oct 18); Seacoastonline, "York schools eye $5.1M for high school upgrades tied to future reorganization" (Oct 14)<br/>- CBS Boston/WBZ, "Massachusetts mom hopes to thank teens who invited her son with autism to play" (Logan Hall, Oct 16)]]></content:encoded>
+<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-17-morning.mp3?v=20261017T0718" length="6975954" type="audio/mpeg"/>
+<guid isPermaLink="false">gumshoe-2026-10-17-morning-20261017T0718</guid><pubDate>Sat, 17 Oct 2026 07:18:59 -0400</pubDate>
+<itunes:duration>856</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
+<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-17-morning.chapters.json?v=20261017T0718" type="application/json+chapters"/></item>
 <item><title>Friday 4 PM Update, Oct 16</title><description>The four o'clock update of Gumshoe News Radio for Friday, October 16, 2026, focused on what's new since three: new details on the Bend, Oregon, school shooting and the father who stopped it, the press secretary job still open, a report that the Pentagon will hold its Minab school-strike findings until after the midterms, Iran's president saying he's ready to talk, Senator Jeanne Shaheen leading a bipartisan call to investigate Ukraine's Starlink slowdown, the closing bell on the Nasdaq's worst week since June, Microsoft's next A.I. chip, Bill Gates gearing up for an A.I. safety fight, a stealthy Fortinet firewall implant, your X feed, what New Hampshire voters need to bring on November third, weekend events, and a toddler's second chance at life. Anchor Ava, with Andrew at the business and tech desk.
 
 Chapters:
@@ -231,38 +259,4 @@ Sources:
 <guid isPermaLink="false">gumshoe-2026-10-16-10am-20261016T1013</guid><pubDate>Fri, 16 Oct 2026 10:13:55 -0400</pubDate>
 <itunes:duration>719</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
 <podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-16-10am.chapters.json?v=20261016T1013" type="application/json+chapters"/></item>
-<item><title>Friday Morning, Oct 16</title><description>The Friday morning edition of Gumshoe News Radio for October 16, 2026, with overnight developments including the Bend, Oregon school shooting, pre-market futures, and local news for Londonderry and southern New Hampshire. Anchor Ava, with Andrew at the business and tech desk.
-
-Chapters:
-0:00 Open &amp; Weather
-2:13 US News
-3:56 International
-5:00 Markets In Depth
-6:26 Technology
-7:43 Artificial Intelligence
-8:32 Cybersecurity
-9:28 From Your X Feed
-10:33 Local News &amp; Events
-11:19 Uplifting Story
-
-Sources:
-- NWS forecast for Londonderry, NH
-- NWS forecast for Londonderry, NH
-- AP / ABC / BBC / Bend Bulletin / OPB, Silver Rail Elementary shooting, Bend OR (Oct 15-16)
-- Anadolu / Newsmax interview coverage, Trump rules out nuclear weapons and ground troops vs Iran; U.S. Treasury Iran sanctions (Oct 15-16)
-- AP / FBI-Postal Inspection Service, suspicious powder letters to election offices (Oct 15)
-- Axios / 10 Things Global News, Ukraine Starlink restored, Ryazan refinery strike, Patriot shortage, White House Starshield order (Oct 15-16)
-- Iran International / Jerusalem Post live updates, Hormuz shipping attacks, Hezbollah-Lebanon (Oct 16)
-- Markets Insider / TipRanks / Investing.com / Investopedia, Oct 16 premarket futures and Oct 15 closes; Earnings Whispers bank earnings Oct 16
-- The Verge / CBS / TechCrunch, Tesla next-gen Roadster Waco demo (Oct 15-16)
-- TechCrunch / Meta AI Research / Reuters, Muse Spark Open (Oct 15)
-- CISA KEV alert Oct 15, CVE-2026-21589 Atlassian; CISA/SecurityWeek Cisco CVE-2026-76519 (Oct 14-15)
-- Harry's X home timeline overnight Oct 15-16 (@FilmLadd, @JamesSpillaneNH, @BasedMikeLee, @dhh, @engineers_feed, Roadster discussion)
-- Londonderry Historical Society / Eventbrite, Open House and SAR drill Oct 18; town calendar Meetinghouse/CAP Oct 22; prior Union Leader High Range Road water project
-- Pittsburgh Water / WESA / Good News Network, arrearage forgiveness program</description>
-<content:encoded><![CDATA[The Friday morning edition of Gumshoe News Radio for October 16, 2026, with overnight developments including the Bend, Oregon school shooting, pre-market futures, and local news for Londonderry and southern New Hampshire. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>2:13 US News<br/>3:56 International<br/>5:00 Markets In Depth<br/>6:26 Technology<br/>7:43 Artificial Intelligence<br/>8:32 Cybersecurity<br/>9:28 From Your X Feed<br/>10:33 Local News & Events<br/>11:19 Uplifting Story<br/><br/>Sources:<br/>- NWS forecast for Londonderry, NH<br/>- NWS forecast for Londonderry, NH<br/>- AP / ABC / BBC / Bend Bulletin / OPB, Silver Rail Elementary shooting, Bend OR (Oct 15-16)<br/>- Anadolu / Newsmax interview coverage, Trump rules out nuclear weapons and ground troops vs Iran; U.S. Treasury Iran sanctions (Oct 15-16)<br/>- AP / FBI-Postal Inspection Service, suspicious powder letters to election offices (Oct 15)<br/>- Axios / 10 Things Global News, Ukraine Starlink restored, Ryazan refinery strike, Patriot shortage, White House Starshield order (Oct 15-16)<br/>- Iran International / Jerusalem Post live updates, Hormuz shipping attacks, Hezbollah-Lebanon (Oct 16)<br/>- Markets Insider / TipRanks / Investing.com / Investopedia, Oct 16 premarket futures and Oct 15 closes; Earnings Whispers bank earnings Oct 16<br/>- The Verge / CBS / TechCrunch, Tesla next-gen Roadster Waco demo (Oct 15-16)<br/>- TechCrunch / Meta AI Research / Reuters, Muse Spark Open (Oct 15)<br/>- CISA KEV alert Oct 15, CVE-2026-21589 Atlassian; CISA/SecurityWeek Cisco CVE-2026-76519 (Oct 14-15)<br/>- Harry's X home timeline overnight Oct 15-16 (@FilmLadd, @JamesSpillaneNH, @BasedMikeLee, @dhh, @engineers_feed, Roadster discussion)<br/>- Londonderry Historical Society / Eventbrite, Open House and SAR drill Oct 18; town calendar Meetinghouse/CAP Oct 22; prior Union Leader High Range Road water project<br/>- Pittsburgh Water / WESA / Good News Network, arrearage forgiveness program]]></content:encoded>
-<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-16-morning.mp3?v=20261016T0709" length="5976846" type="audio/mpeg"/>
-<guid isPermaLink="false">gumshoe-2026-10-16-morning-20261016T0709</guid><pubDate>Fri, 16 Oct 2026 07:09:09 -0400</pubDate>
-<itunes:duration>731</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
-<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-10-16-morning.chapters.json?v=20261016T0709" type="application/json+chapters"/></item>
 </channel></rss>
