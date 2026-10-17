@@ -33,7 +33,7 @@ handles of posts that actually aired (never the full fetched list), so the follo
 ## Location & privacy
 - Precise coordinates live ONLY in `/workspace/newsfeed-private/location.json` (outside the repo; override with env
   `GUMSHOE_PRIVATE_LOC`): `{"lat","lon","place":"City, ST","country":"US","updated_at"}`. The iPhone webhook writes there.
-- make_bulletin.py falls back to Londonderry, NH (42.8435,-71.3809) if the file is missing or older than 24h.
+- make_bulletin.py falls back to Londonderry, NH (town-center coordinates) if the file is missing or older than 24h.
 - The repo's `location.json` holds only `{"place":"City, ST","updated_at"}`. Published output never contains coordinates;
   weather sources read "NWS forecast for City, ST", and build_feed refuses to write a feed.xml containing a lat,lon pair.
 - Out of country (country != "US" or coords outside the US): public place is "", and the Weather and Local News & Events
