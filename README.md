@@ -58,3 +58,6 @@ Stings (self-synthesized with ffmpeg, no licensing): open, weather, us, world, m
 Files: make_bulletin.py (pipeline), build_feed.py (legacy shim -> --feed-only), episodes.json (feed registry),
 episodes/ (MP3 + chapters JSON), bulletins/ (scripts), location.json (public: city/state only), cover.jpg, index.html.
 Requires: ffmpeg, edge-tts (`pip install --break-system-packages edge-tts`), gh/git logged in as hsverdlove.
+
+## Pronunciation
+The tts() step respells tricky names before synthesis (PRONUNCIATIONS in make_bulletin.py). Anthropic is said with an "ah" sound, as in father (an-THRAH-pic), including in any longer name containing it. Add new fixes there, not in scripts.

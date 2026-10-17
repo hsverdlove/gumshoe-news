@@ -27,7 +27,14 @@ def make_sting(kind, out):
 
 def silence(sec, out): sh(["ffmpeg", "-loglevel", "error", "-y", "-f", "lavfi", "-i", f"anullsrc=r={SR}:cl=mono", "-t", str(sec), out])
 
+PRONUNCIATIONS = [(re.compile(r"\bAnthropic", re.I), "Anthrahpic")]  # "ah" as in father, not an-THROP-ic
+
+def speakable(text):
+    for pat, rep in PRONUNCIATIONS: text = pat.sub(rep, text)
+    return text
+
 def tts(voice, text, out, rate="+0%"):
+    text = speakable(text)
     mp3 = out + ".mp3"
     for attempt in range(3):
         try:
