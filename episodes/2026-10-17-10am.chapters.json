@@ -1,0 +1,41 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Open & Weather"
+  },
+  {
+   "startTime": 82.9,
+   "title": "US News"
+  },
+  {
+   "startTime": 168.63,
+   "title": "International"
+  },
+  {
+   "startTime": 284.05,
+   "title": "Technology"
+  },
+  {
+   "startTime": 350.52,
+   "title": "Artificial Intelligence"
+  },
+  {
+   "startTime": 410.25,
+   "title": "Cybersecurity"
+  },
+  {
+   "startTime": 468.14,
+   "title": "From Your X Feed"
+  },
+  {
+   "startTime": 533.92,
+   "title": "Local News & Events"
+  },
+  {
+   "startTime": 599.64,
+   "title": "Uplifting Story"
+  }
+ ]
+}
