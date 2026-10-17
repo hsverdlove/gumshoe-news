@@ -51,7 +51,36 @@ def nws_weather(loc):
     rest = [x for x in per[3:] if x["isDaytime"]][:5]
     lines.append("Looking further ahead. " + " ".join(f"{x['name']}, {x['shortForecast'].lower()}, high near {x['temperature']}." for x in rest))
     txt = " ".join(lines).replace("mph", "miles an hour")
-    return txt, "NWS api.weather.gov forecast for %.4f,%.4f" % (loc["lat"], loc["lon"])
+    return txt, "NWS forecast for %s" % (loc.get("place") or "your location")
+
+PRIVATE_LOC = os.environ.get("GUMSHOE_PRIVATE_LOC", os.path.join(os.path.dirname(ROOT), "newsfeed-private", "location.json"))
+DEFAULT_LOC = {"lat": 42.8435, "lon": -71.3809, "place": "Londonderry, NH", "country": "US"}
+def in_us(lat, lon):  # rough boxes: CONUS, Alaska, Hawaii, Puerto Rico
+    return (24.4 <= lat <= 49.5 and -125 <= lon <= -66.8) or (51 <= lat <= 71.5 and -180 <= lon <= -129) or \
+           (18.8 <= lat <= 22.4 and -160.5 <= lon <= -154.6) or (17.8 <= lat <= 18.6 and -67.4 <= lon <= -65.2)
+def load_location():
+    """Precise coords live ONLY in the private file (outside the public repo). Fallback: Londonderry, NH."""
+    try:
+        loc = json.load(open(PRIVATE_LOC))
+        age = dt.datetime.now(TZ) - dt.datetime.fromisoformat(loc["updated_at"])
+        if age > dt.timedelta(hours=24): raise ValueError("stale")
+        loc["lat"], loc["lon"] = float(loc["lat"]), float(loc["lon"])
+    except Exception as e:
+        print(f"location: using default Londonderry, NH ({e.__class__.__name__}: {e})"); loc = dict(DEFAULT_LOC)
+    loc["abroad"] = (loc.get("country", "US").upper() != "US") or not in_us(loc["lat"], loc["lon"])
+    return loc
+def write_public_location(loc):
+    json.dump({"place": "" if loc["abroad"] else loc.get("place", ""), "updated_at": loc.get("updated_at", dt.datetime.now(TZ).isoformat())},
+              open(os.path.join(ROOT, "location.json"), "w"), indent=2)
+def drop_local(chapters):
+    """Out of country: remove Weather and Local chapters entirely (and @weather lines in combined Open & Weather)."""
+    out = []
+    for ch in chapters:
+        if ch["sting"] in ("weather", "local") or re.search(r"\blocal\b", ch["title"], re.I) or ch["title"].strip().lower() == "weather": continue
+        ch["lines"] = [x for x in ch["lines"] if x[0] != "@weather"]
+        ch["title"] = re.sub(r"\s*(&|and)\s*Weather\b", "", ch["title"], flags=re.I).strip() or "Open"
+        out.append(ch)
+    return out
 
 def parse_script(path):
     meta, chapters, cur = {"sources": []}, [], None
@@ -70,9 +99,16 @@ def parse_script(path):
         elif cur and cur["lines"]: v, t = cur["lines"][-1]; cur["lines"][-1] = (v, t + " " + line)
     return meta, chapters
 
-def render(script, slug, minutes):
+def render(script, slug, minutes, force_abroad=False, dry=False):
     meta, chapters = parse_script(script)
-    loc = json.load(open(os.path.join(ROOT, "location.json")))
+    loc = load_location()
+    if force_abroad: loc["abroad"] = True
+    if loc["abroad"]:
+        chapters = drop_local(chapters)
+        meta["sources"] = [x for x in meta["sources"] if not re.search(r"weather|NWS|location", x, re.I)]
+    if not dry: write_public_location(loc)
+    if dry:
+        print("DRY RUN abroad=%s chapters:" % loc["abroad"], [c["title"] for c in chapters]); print("sources:", meta["sources"]); return None
     work = tempfile.mkdtemp(prefix="bulletin-"); parts, marks, t = [], [], 0.0
     gap = os.path.join(work, "gap.wav"); silence(0.45, gap)
     for ci, ch in enumerate(chapters):
@@ -108,6 +144,7 @@ def render(script, slug, minutes):
     reg.append({"slug": slug, "title": meta["title"], "pub": dt.datetime.now(TZ).isoformat(), "duration": round(total), "size": os.path.getsize(out), "description": desc})
     save_reg(reg); print(f"built {out} {total/60:.2f} min, {len(marks)} chapters"); return out
 
+COORD = re.compile(r"-?\d{1,3}\.\d{3,}\s*,\s*-?\d{1,3}\.\d{3,}")
 REG = os.path.join(ROOT, "episodes.json")
 def load_reg(): return json.load(open(REG)) if os.path.exists(REG) else []
 def save_reg(r): json.dump(r, open(REG, "w"), indent=1)
@@ -143,6 +180,7 @@ def build_feed(base=BASE):
 <itunes:category text="News"/><itunes:type>episodic</itunes:type>
 {chr(10).join(items)}
 </channel></rss>"""
+    if COORD.search(xml): sys.exit("refusing to write feed.xml: coordinate-like string found")
     open(os.path.join(ROOT, "feed.xml"), "w").write(xml)
     import xml.dom.minidom; xml.dom.minidom.parse(os.path.join(ROOT, "feed.xml")); print("feed.xml written,", len(items), "episodes")
 
@@ -172,8 +210,11 @@ if __name__ == "__main__":
     ap.add_argument("--date", default=dt.datetime.now(TZ).strftime("%Y-%m-%d"))
     ap.add_argument("--feed-only", action="store_true"); ap.add_argument("--publish", action="store_true")
     ap.add_argument("--keep-hours", type=float, default=24)
+    ap.add_argument("--abroad", action="store_true", help="test: force out-of-country path (no Weather/Local)")
+    ap.add_argument("--dry-run", action="store_true", help="parse + apply rules only; no audio, no feed, no publish")
     a = ap.parse_args(); slug = f"{a.date}-{a.edition}"
     if not a.feed_only:
-        render(a.script or os.path.join(ROOT, "bulletins", slug, "script.txt"), slug, a.minutes)
+        render(a.script or os.path.join(ROOT, "bulletins", slug, "script.txt"), slug, a.minutes, a.abroad, a.dry_run)
+        if a.dry_run: sys.exit(0)
     prune(a.keep_hours); build_feed()
     if a.publish: publish(f"Bulletin {slug}")
