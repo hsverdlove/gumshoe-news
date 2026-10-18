@@ -1,0 +1,68 @@
+// Gumshoe script format: see README.md
+# title: Sunday 4 PM Update, Oct 18
+# description: The Sunday four o'clock update from Gumshoe News Radio for October 18, 2026: two killed when a pickup drove onto a youth soccer field in Wichita, an airman killed in a rappelling fall at the Alamodome, early voting opening in Texas, President Macron's address as cost-of-living unrest spreads to Milan and Lisbon, Iran restating its Hormuz offer, an MIT model that lets A.I. see crystals in 3D, Anthropic's new Public Benefit Fund, OpenCode's defenders getting refusals from the A.I. they used to fight back, your X feed with Taylor Swift's fifteenth week at number one and the weekend box office, the Patriots and New England's newest pro football team, and LouLou, the dog an AirTag helped find after an Alaska avalanche. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's four o'clock on Sunday, October eighteenth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk. Markets are closed today, so no markets segment.
+[andrew] A quieter afternoon here at home, but a big night of unrest across Europe.
+[ava] First, the latest forecast for Andover.
+@weather
+
+## US News | sting=us
+// Story 1: Wichita soccer field crash
+[ava] In Wichita, Kansas, police are still trying to work out why a pickup truck drove onto a youth soccer field during a game Saturday at the Stryker Sports Complex. Two people from McPherson were killed, six-year-old Cole Adrian and thirty-five-year-old Nicholas Schafer, and police say ten others were seriously injured.
+[ava] The driver, a thirty-four-year-old woman, had two of her own children in the truck, and another child playing on a nearby field. She was taken into custody, then released after police consulted the district attorney, pending toxicology tests and a mechanical inspection of the truck. No charges have been filed, and police haven't said what caused the crash.
+// Story 2: Alamodome airman
+[ava] In San Antonio, an Air Force airman has died after a fall during a pregame demonstration at the Alamodome. He was one of several service members rappelling from the rafters before Saturday night's game between U.T. San Antonio and Navy, part of the school's salute to the armed forces. Witnesses and a local reporter say he lost control about halfway down and hit the field hard. He died at a hospital. The Air Force says he was assigned to the Sixth Combat Training Squadron, Detachment Two, and hasn't released his name. The accident is under investigation.
+// Story 3: Texas early voting
+[ava] And with sixteen days to go before the midterms, early voting opens tomorrow in Texas, and runs through October thirtieth.
+> source: KWCH, "Driver released from custody, no charges filed after deadly incident at Stryker Sports Complex" (Angela Smith, Oct 18); Wichita Eagle (Oct 18); AP, "Truck drives through soccer field during game in Kansas, killing 2" (Oct 18); KSAT, "Airman dies after rappelling fall from ceiling before UTSA football game at Alamodome" (Oct 18); Task & Purpose (Oct 18); NBC News (Oct 18); ABC News (Oct 18); VoteTexas.gov, Texas Secretary of State
+
+## International | sting=world
+// Story 4: Macron address, unrest spreads
+[ava] Overseas, French President Emmanuel Macron went on national television this afternoon after Saturday's riots, calling for calm and order. He said, we all feel anger and shame, and drew a line between what he called the legitimate demands of protesters and those who destroyed, smashed and looted, saying nothing justifies that violence and the people responsible will face justice. He said prefects and mayors will work together to protect shops and public buildings, and promised full transparency about how police handled the crowds, after video showed officers using batons in several places.
+[ava] The B.B.C. reports about five hundred fifty thousand people marched Saturday, mostly peacefully, over fuel prices, living costs and run-down schools. About twenty-four hundred people have been arrested, and the interior ministry says about a thousand officers were hurt, seven seriously.
+[ava] The unrest is spreading. In Milan, a march against living costs and war turned violent Saturday, with masked rioters throwing paving stones and setting barricades on fire, and police using tear gas and water cannon. About fifty people were detained, many of them minors. Prime Minister Giorgia Meloni said demonstrating is a right, but setting cities ablaze is not. In Lisbon, hundreds pitched tents in Rossio Square over housing costs, and smaller protests were reported in Belgium.
+[ava] As for who's to blame, French officials point to far-left militants and looters, organizers say their grievances are about costs and services, and many voices online blame immigration. The full picture of who took part isn't clear yet.
+// Story 5: Iran Hormuz offer
+[ava] And Iran's foreign minister, Abbas Araqchi, said today Tehran's offer to reopen the Strait of Hormuz within seven days is still on the table, if Washington accepts its conditions, including lifting the U.S. blockade and oil sanctions. The U.S. has insisted that Iran's nuclear program be addressed first, and he accused Washington of not negotiating honestly.
+> source: BBC News, "Macron calls for calm in France and warns rioting must not escalate" (Jack Burgess, Oct 18); Élysée, "Adresse aux Français" (Oct 18); The Guardian, "Protests spread to Lisbon and Milan as housing and living cost tensions intensify" (Sam Jones, Oct 18); Al Jazeera (Oct 17); Hindustan Times, citing Reuters and AP (Oct 18); Reuters via Al-Monitor, "Iran urges US to accept proposal to reopen Strait of Hormuz" (Oct 18)
+
+## Technology | sting=tech
+// Story 6: MIT crystal model
+[andrew] Tech desk, and a science story from just down the road at M.I.T. Most solid materials on Earth are crystals, three-dimensional grids of atoms, but language models learn from text and struggle to picture that structure. M.I.T. researchers built a model that pairs 3D atomic structures with written descriptions, so it can effectively see how the atoms connect. Asked to find candidates for solid-state lithium battery electrolytes, its top picks included materials other researchers had already flagged as promising. Professor Ju Li compares it to AlphaFold, the protein model. It's published in Nature Communications, though like any new method, it'll need others to build on it before we know how much it speeds up discovery.
+> source: MIT News, "Giving AI a 'crystal clear' view of the materials world" (Zach Winn, Oct 18), on a paper in Nature Communications
+
+## Artificial Intelligence | sting=ai
+// Story 7: Anthropic Public Benefit Fund
+[andrew] In A.I., Anthropic announced today that it's putting five percent of its shares into a new Anthropic Public Benefit Fund, subject to stockholder approval, with another two percent possible, at the board's discretion, for every fifty percent rise in the company's value above a baseline. Anthropic says the fund could make large donations to nonprofits or direct payments to specific groups, and points to workers hurt by A.I. as one example. It says none of the stock will go to lobbying or political giving.
+[andrew] Counting its founders' pledge to give away eighty percent of their equity and an employee donation match, the company says about twenty percent of its shares would be dedicated to the public good. Some observers on X read it as a step toward a kind of private basic income. The key details, the valuation milestones and who governs the fund, are promised in the coming months, and they'll matter a lot.
+> source: Anthropic, "Investing in the public benefit" (Oct 18); Blockchain.News (Oct 18)
+
+## Cybersecurity | sting=cyber
+// Story 8: OpenCode defenders vs AI refusals
+[andrew] Cyber desk, with a follow-up to the OpenCode breach we told you about yesterday. Co-founder Dax Raad posted that attackers have been hitting the company's systems nonstop for forty-eight hours. Asked whether A.I. safety guardrails got in the way, he said yes, the frontier models helped quite a bit with the investigation and then started refusing. Things improved, he said, once his team got access to Daybreak Blue, OpenAI's program for vetted defenders. It's a real dilemma: to an automated filter, a defender tracing an attack can look a lot like an attacker. The upside is that vetted-access programs exist, but the question is whether smaller teams can get into one fast enough during an emergency.
+> source: OfficeChai, "Getting Blocked By AI Agent Cyber Safeguards While Fighting Malicious AI Agents, Says OpenCode Co-Founder Dax Raad After Hack" (Oct 18); Dax Raad on X (Oct 18); OpenAI Help Center, Daybreak
+
+## From Your X Feed | sting=x
+[ava] Your X feed this afternoon was dominated by the European riots, which we covered, and by politics we've left to the news sections. Beyond that:
+[andrew] Variety posted that Taylor Swift's The Life of a Showgirl has spent a fifteenth week at number one on the albums chart. At the box office, Street Fighter opened to thirty million dollars at home and fifty-one million worldwide, and the horror film Other Mommy took third in its second weekend, at about forty-five million domestic on an eighteen-million-dollar budget. Variety also reported that Betty McGuire, an actress from Growing Pains, has died at one hundred.
+[andrew] The account interesting_aIl shared that Quentin Tarantino has finished the script for what he says will be his tenth and final film, though he wants time off, and a play, before making it.
+[ava] The Everyday Astronaut asked followers whether they'd want a full deep dive on the Tesla Roadster, and Andrew McCarthy posted that he's mounting the biggest telescope he's ever had in his observatory, for his most detailed shots of the planets and the moon yet.
+[ava] And Andy Ellis was at the Patriots game, with some strong opinions on running the ball with a third-string back.
+> source: Harry's X home timeline Oct 18 ~2:00-4:00 PM ET (@Variety, @interesting_aIl, @Erdayastronaut, @AJamesMcCarthy, @csoandy); Variety (Oct 18)
+
+## Local News & Events | sting=local
+[ava] Around Andover, the Patriots held off the Jets twenty-six to nineteen at Gillette Stadium. Drake Maye threw touchdown passes to Romeo Doubs, DeMario Douglas and Hunter Henry, and New England is now four and two, and three and oh at home.
+[ava] And New England has a new pro football team. The United Football League today named its Rhode Island franchise the Rhode Island Breakers, at a launch party at Centreville Bank Stadium in Pawtucket. They start playing there in the spring of twenty twenty-seven.
+> source: ESPN game summary, Jets at Patriots (Oct 18); Patriots.com scoring summary; UFL, "UFL Introduces the Rhode Island Breakers as the League's Newest Team" (Oct 18); Providence Journal, "Rhode Island's new UFL team has a name. Meet the Breakers" (Oct 18)
+
+## Uplifting Story | sting=feel
+[ava] And finally, a good dog story from Alaska. LouLou, a five-year-old poodle-husky mix, was hiking with two experienced mountaineers near Pepper Peak in Chugach State Park when an avalanche swept the men about five hundred feet down a ridge. Both survived with serious injuries, but LouLou vanished.
+[ava] Her owner, Lauren Padawer, was overseas, so she organized a search online, and more than twenty volunteers turned out with helicopters, drones and even a scent dog. LouLou's AirTag helped, though its first location was nearly half a mile off. After more than fifty hours, volunteer pilots Amanda Barker and Dave Beckett spotted her standing in the snow, landed, and coaxed her aboard. Her injuries were a broken toe and a lost tooth. Padawer says she burst into tears, and joked that LouLou may have thought it was an excellent vacation.
+> source: AccuWeather, "Dog survives Alaska avalanche, 50 hours alone in snowy wilderness" (Monica Danielle); Scripps News; Alaska's News Source (Oct 15); People
+
+## Close | sting=close
+[ava] That's your Sunday four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Have a good Sunday evening.
+[ava] Ask your Gumshoe for more on any story.
