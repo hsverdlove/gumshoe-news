@@ -1,0 +1,66 @@
+// Gumshoe script format: see README.md
+# title: Sunday 1 PM Update, Oct 18
+# description: The Sunday one o'clock update from Gumshoe News Radio for October 18, 2026: President Trump endorses Benjamin Netanyahu nine days before Israel's election, a new NBC News poll sixteen days before the midterms, President Zelenskyy and Treasury Secretary Bessent trading charges on Meet the Press, a sixth day of violent protests in Albania, Canada confirming four soldiers killed at Wainwright, Apple's new App Store rules against A.I. deepfake abuse, Anthropic's first Canadian data center, an actively exploited web firewall flaw, your X feed with the Elizabeth Holmes documentary's record start, a 106-mile Ferrari F50 and a wildlife bridge over the 101, Patriots-Jets and early voting around Andover, and the Milford teens who made a little boy's day. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's one o'clock on Sunday, October eighteenth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk. Markets are closed today, so no markets segment.
+[andrew] Plenty new since ten, including a rare presidential endorsement in a foreign election.
+[ava] First, the latest forecast for Andover.
+@weather
+
+## US News | sting=us
+// Story 1: Trump endorses Netanyahu
+[ava] President Trump this morning gave Israeli Prime Minister Benjamin Netanyahu what he called his complete and total endorsement, nine days before Israel's October twenty-seventh election. In a Truth Social post, he called Netanyahu a great warrior prime minister against Iran, and wrote that if Israel picks anyone else, America will have to do this work ourselves, and he's not inclined to. Netanyahu thanked him, saying together we will complete the mission.
+[ava] It's unusual for a U.S. president to openly back a candidate abroad, and it's a turnaround from Thursday, when Trump declined to endorse anyone. Axios reports most polls show Netanyahu's coalition short of the sixty-one seats needed to govern, and that Trump has privately been frustrated with him. His main rival, Gadi Eisenkot, said he respects the president, but the election is a domestic Israeli matter, decided only by Israel's citizens.
+// Story 2: NBC News poll
+[ava] Here at home, sixteen days before the midterms, a new NBC News Decision Desk poll of registered voters puts the president's approval at thirty-nine percent, thirty-one percent on inflation, and thirty-four on Iran. He does better on immigration. Democrats lead by nine points on which party should control Congress, and forty-four percent say they're worse off than a year ago. The Cook Political Report has shifted eleven more House races toward Democrats. The White House argues prices will fall once the Iran war ends, and as always, polls are snapshots, not results.
+> source: Reuters via NBC News, "Trump endorses Benjamin Netanyahu ahead of pivotal Israeli election" (Oct 18); AP (Michelle L. Price, Oct 18); Axios, "Trump tells Axios why he endorsed Netanyahu's reelection" (Oct 18); The Jerusalem Post (Oct 18); NBC News, Meet the Press transcript, Oct 18, 2026 (Steve Kornacki, NBC News Decision Desk poll)
+
+## International | sting=world
+// Story 3: Zelenskyy and Bessent on Meet the Press
+[ava] On Meet the Press, Ukraine's President Zelenskyy said it would be a historic mistake for the U.S. to side with Russia, and said he hopes President Trump will change his decisions on pausing new sanctions. He also said slowed Starlink service, which his forces use against drones, was in his view a message from the American government. Starlink later returned to normal speed.
+[ava] Treasury Secretary Scott Bessent, on the same program, called that charge reckless, saying the president and Secretary Rubio have categorically denied any U.S. role. He said no sanctions were lifted, only the diesel embargo, and that the president wants a sixty-day pause to examine the situation. Asked three times whether Ukraine is an ally, he pointed to U.S. intelligence, Starlink and weapons sales through NATO, then said he's not the secretary of state. He also pressed European allies to send more Patriot missile systems.
+// Story 4: Albania protests
+[ava] In Albania, a sixth straight day of violent protests in the capital, Tirana. Student-led crowds angry about university conditions, tuition, jobs and corruption are demanding Prime Minister Edi Rama resign. Saturday was the worst so far, with a court, banks and a post office set on fire and police firing rubber bullets for the first time. The health ministry counts two hundred seventy-two injured since Tuesday, including a hundred sixty-nine police officers. Rama refuses to quit, blames what he calls a foreign hand, and warns the unrest threatens Albania's bid to join the European Union. He's offered talks on education costs, and the U.S. embassy is urging calm on all sides.
+// Story 5: Wainwright update
+[ava] And an update from Canada. Prime Minister Mark Carney has confirmed four service members were killed in the explosion and fire at Canadian Forces Base Wainwright in Alberta, with their families notified, and dozens more seriously wounded. Earlier reports of seven deaths came from unnamed sources and haven't been confirmed. Officials say the cause is under investigation.
+> source: NBC News, "Treasury secretary refuses to say if the U.S. sees Ukraine as an ally" (Alexandra Marquez, Oct 18); NBC News, Meet the Press, Oct 18; Al Jazeera, "Tirana sees sixth day of violent protests as Albania's PM refuses to resign" (Oct 18); Reuters via The Jerusalem Post (Oct 18); AFP via The Hindu (Oct 18); AP, "Carney says 4 service members killed and dozens injured in fire at Alberta military base" (Oct 18); CBC News (Oct 18)
+
+## Technology | sting=tech
+// Story 6: Apple App Store rules
+[andrew] Tech desk. Apple has tightened its App Store rules against A.I. image abuse. Apps that let users create or share content, including A.I. image generators, must now actively prevent and remove nonconsensual intimate images, real or A.I. generated, with filtering, reporting and blocking tools. Apple is also banning bait-and-switch apps, ones that pass review and then quietly switch on hidden features, a trick some so-called nudify apps have used. Developers who don't fix violations can be removed from the store. The open question is enforcement, since the bait-and-switch apps were built to slip past review in the first place.
+> source: Apple Developer News, "Strengthening App Review Guidelines against nonconsensual intimate imagery and bait-and-switch apps" (Oct 16); MacRumors, "New App Store Rules Target AI Deepfakes and Nudify Apps" (Oct 16); The Mac Observer
+
+## Artificial Intelligence | sting=ai
+// Story 7: Anthropic Nova Scotia
+[andrew] In A.I., Anthropic has signed its first data center deal in Canada, a twenty-year lease at EverWind's campus in Point Tupper, Nova Scotia. The first phase is ninety-five megawatts, due in late twenty twenty-seven, with an expansion to about four hundred twenty megawatts targeted for twenty twenty-eight. EverWind values the wider project, which includes wind power development, at more than ten billion Canadian dollars. After this morning's story about Microsoft walking away from a British site over grid limits, it's a reminder that A.I. companies are now picking locations by where they can get power.
+> source: Reuters via Investing.com, "Anthropic signs lease for first Canadian data center" (Oct 16); Bloomberg, "Anthropic Signs First Data-Center Deal in Canada With EverWind" (Oct 16); CBC News; The Globe and Mail
+
+## Cybersecurity | sting=cyber
+// Story 8: SiteGuard WAF exploited
+[andrew] Cyber desk. Attackers are exploiting a critical flaw in SiteGuard Server Edition, a web application firewall from Japan that the vendor says protects more than one and a half million websites. The bug is in the statistics feature, which is on by default, and lets an attacker run commands with full administrator rights on the server. Fixed versions and a patch are out. One unusual piece of advice from the vendor: save the diagnostic information first, because patching can erase signs of an attack. The irony, of course, is that the tool meant to guard the website became the way in.
+> source: BleepingComputer, "Hackers exploit SiteGuard WAF flaw to run commands as admins" (Bill Toulas, Oct 18), citing the SiteGuard advisory and JPCERT/CC
+
+## From Your X Feed | sting=x
+[ava] Your X feed over the past couple of hours was dominated again by the French riots, which we've covered, and by politics we've left to the news sections. Beyond that:
+[andrew] Variety posted that You Can See Everything, Nathan Fielder and Lance Oppenheim's film about Elizabeth Holmes, took in about fifteen million dollars on its opening weekend from just eight hundred fifty-five theaters. Variety calls it the biggest documentary opening in more than twenty years. It finished second, behind Street Fighter.
+[andrew] For the car fans, Autoblog flagged a nineteen ninety-seven Ferrari F50 with just a hundred six miles on it. It goes up at Broad Arrow's auction at Wynn Las Vegas on October thirty-first, with an estimate of more than twenty million dollars. That's an estimate, not a sale.
+[ava] Tesla owners on your timeline were busy. The account Dirty Tesla shared a new alternate suggestion destination that popped up in a Model Y above the usual auto-added one, and Mike Pat posted that if every car on the road ran the latest Full Self-Driving build, the insurance industry would fundamentally change. That's his opinion, not data.
+[ava] And the account interesting_aIl shared the Wallis Annenberg Wildlife Crossing, a two-hundred-ten-foot green bridge over ten lanes of the 101 Freeway near Los Angeles, built so mountain lions and other animals can cross safely. Organizers say it's on track to open December second, barring heavy rain.
+> source: Harry's X home timeline Oct 18 ~11:45 AM-1:05 PM ET (@Variety, @therealautoblog, @DirtyTesLa, @mikepat711, @interesting_aIl); Variety box office report (Oct 18); Broad Arrow Auctions; 101 Wildlife Crossing / Spectrum News (Oct 9)
+
+## Local News & Events | sting=local
+[ava] Around Andover, the Patriots host the Jets right about now at Gillette Stadium, a one o'clock kickoff on CBS. New England comes in three and two, and unbeaten at home. The Jets are two and three.
+[ava] Early voting for the November third election is open every day through October thirtieth at Andover's Town Offices. And on Tuesday, the two candidates for the eighteenth Essex state representative seat, Democrat Connor Murray and Republican Chris Shepley, meet in a forum at Memorial Hall Library.
+[ava] Looking ahead to Sunday the twenty-fifth, Eric Olson, whose daughter Sidney was killed in an Andover crosswalk in twenty twenty-three, is urging residents to turn out for a road safety ride and rally.
+> source: Patriots.com, "Game Preview: Patriots vs. Jets, NFL Week 6"; NFL.com schedule; Andover News, "Early Voting Begins Saturday In Andover" (Oct 17); Andover News, "Murray, Shepley To Meet In Forum In Andover Oct. 20" (Oct 14); Andover News, "Sidney Olson's Father Urges Andover Turnout For Road Safety Ride And Rally" (Oct 16)
+
+## Uplifting Story | sting=feel
+[ava] And finally, a small kindness down in Bellingham. Seven-year-old Tristan Caron, who has autism, was sitting by himself at the Urban Air Adventure Park when a group of teenagers from Milford noticed. One of them, Livy Molinari, walked over and said, that's a really nice ball you have, can I hold it for a second? A game of catch turned into forty minutes of hide-and-seek, catch and the slides.
+[ava] His mom, Christina, says it was life-changing for a boy who usually gets left out, and she tracked the teens down on Facebook to thank them. They told WBZ they had no idea Tristan had autism. They just saw a kid alone. As one of them, Kenny Leite, put it, maybe now other people will think about it when someone isn't included. The park plans to invite them all back for a day to celebrate.
+> source: CBS Boston / WBZ-TV, "Mass. teens react to attention after inviting kid with autism to play" (Paul Burton, Oct 17)
+
+## Close | sting=close
+[ava] That's your Sunday one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Enjoy the game.
+[ava] Ask your Gumshoe for more on any story.
