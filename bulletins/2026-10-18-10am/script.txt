@@ -1,0 +1,73 @@
+// Gumshoe script format: see README.md
+# title: Sunday 10 AM Update, Oct 18
+# description: The Sunday 10 AM update from Gumshoe News Radio for October 18, 2026: a record-low approval rating for President Trump in the new Post-ABC-Ipsos poll, Vice President Vance's tough CBS town hall in Michigan, a New York Times report that U.S. envoys pitched Europe on Russian gas, Iran's new defense minister, Pakistan's sudden halt to trade with Iran, a deadly resort fire in Bangladesh, Microsoft walking away from a flagship British A.I. data center, Mercedes-AMG's electric GT SUV, a Codex usage-limit mess and Google's open-source Harness squared, phishing emails aimed at your A.I. assistant and a coffee chain's vibe-coded leak, your X feed with D.H.H. in Shenzhen and an iPhone video glitch, a Whitey Bulger breakfast and an opera-inspired concert around Andover, and the chain of strangers who saved a great horned owl. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's ten o'clock on Sunday, October eighteenth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk. Markets are closed today, so no markets segment.
+[andrew] We'll focus on what's new since this morning, starting with a new poll that has both parties talking.
+[ava] First, the latest forecast for Andover.
+@weather
+
+## US News | sting=us
+// Story 1: Post-ABC-Ipsos poll
+[ava] A new Washington Post, ABC News and Ipsos poll puts President Trump's approval at thirty-three percent among adults, with sixty-six percent disapproving. That's his lowest in the outlets' polling across both terms, down from thirty-seven percent in July. Among registered voters, approval is thirty-seven percent. About three in four disapprove of his handling of inflation and the cost of living, and Democrats lead by eight points on which party voters want running the House.
+[ava] For context, this poll was taken October ninth through thirteenth, and polls are snapshots, not votes. The administration's case is that prices will ease once the Iran war ends, and Republicans note they still hold competitive Senate seats. Election Day is November third.
+// Story 2: Vance CBS town hall
+[ava] Vice President J.D. Vance made a version of that case at a CBS News town hall in Flat Rock, Michigan, that aired last night, and he faced pointed questions, some from voters who backed him in twenty twenty-four. A man who said he now plans to vote for Democrat Abdul El-Sayed asked about gas prices. Vance blamed Iran's attacks on shipping and refinery closures under President Biden, and said it's easy to criticize decisions made seven months ago. The A.P. noted he didn't mention that the disruption followed the war the U.S. launched.
+[ava] The most striking moment came from the widower of Master Sergeant Nicole Amor, one of six soldiers killed by an Iranian drone in Kuwait in March. Vance said it was the first time he'd heard the man's concerns, acknowledged it was a huge mistake where troops were located, and said that has changed.
+> source: The Washington Post, "Trump approval hits record low, handing Democrats a clear midterm edge" (Dan Balz, Oct 18); Ipsos topline, Washington Post-ABC News-Ipsos poll, Oct 9-13, 2026; USA Today (Jay Stahl, Oct 18); AP via CNBC, "Vance faces tough questions on Iran war, immigration and more in CBS town hall" (Oct 18); CBS News, "7 highlights from JD Vance's CBS News town hall" (Oct 18); Fox News (Elaine Mallon, Oct 17)
+
+## International | sting=world
+// Story 3: Russian gas proposal
+[ava] The New York Times reports that President Trump's envoys, Jared Kushner and Steve Witkoff, have urged Ukraine and Europe to consider restarting pipelines that used to carry Russian gas to Europe, as part of a peace deal. It's citing people familiar with the talks. Supporters of the idea point to transit fees for Ukraine and cheaper energy for European voters. European officials reportedly reacted negatively, since the E.U. has spent years cutting its dependence on Moscow, and critics say it rewards Russia without pressuring it. The White House says its plan offers economic incentives to both sides, aimed at a lasting peace.
+// Story 4: Iran defense minister
+[ava] Iran's parliament has confirmed Mehrdad Akhlaghi as defense minister, by two hundred thirty-seven votes to fifteen. He's a longtime missile and aerospace industry figure, under U.S. and E.U. sanctions, who pledged to rebuild Iran's military industry. He replaces Aziz Nasirzadeh, killed in the U.S.-Israeli strikes in February.
+// Story 5: Pakistan-Iran border
+[ava] Next door, Pakistan has suddenly suspended trade with Iran at its two main border crossings, citing security and smuggling. Traders say about two thousand trucks are stranded, and Dawn warns of cooking gas shortages in Karachi. Iran called it a technical issue, and both sides say they're talking and hope to reopen soon.
+// Story 6: Bangladesh resort fire
+[ava] And in Bangladesh, a fire at a wooden beach resort near Cox's Bazar killed ten people. Fire officials say it had no alarms, no extinguishers, and no fire safety license. Police have filed a case against twenty-three people, including the owner, and arrested the manager.
+> source: The New York Times via Ukrainska Pravda/Yahoo News, "Trump's team proposes that Europe buy Russian gas" (Oct 17); Reuters via StreetInsider, "Iran's parliament approves Mehrdad Akhlaqi as minister of defence" (Oct 18); Xinhua (Oct 18); Dawn, "Pakistan closes Iran border crossings for trade" (Oct 18); Arab News Pakistan (Oct 17); Geo News (Oct 18); AP, "Fire at a Bangladeshi beach resort kills 10 people" (Oct 17); The Business Standard and Prothom Alo (Oct 18)
+
+## Technology | sting=tech
+// Story 7: Microsoft and Nscale
+[andrew] Tech desk. Microsoft has pulled out of a giant A.I. data center planned at Loughton, outside London, which the British government had hailed as the country's largest sovereign A.I. data center. The reason is power. The local grid operator says enough electricity won't be available until the early to mid twenty-thirties. The builder, Nscale, loses its only announced customer for the site just as it eyes a Wall Street listing. Nscale says its relationship with Microsoft remains strong and it's exploring other power sources. In the A.I. race, the bottleneck is increasingly the grid.
+// Story 8: Mercedes-AMG GT SUV
+[andrew] And for the car fans: Mercedes-AMG revealed its first fully in-house electric SUV, the AMG GT SUV. The top version claims eleven hundred fifty-three horsepower from three motors, zero to sixty in two point four seconds, and a ten to eighty percent charge in about twelve minutes on very fast chargers. Those are the company's figures. It's due in the U.S. in summer twenty twenty-seven, with no price yet.
+> source: The Guardian, "Microsoft pulls out of AI datacentre project in Essex over power supply concerns" (Gwyn Topham, Oct 18), first reported by The Telegraph; Bloomberg (Oct 18); Mercedes-Benz Media, "The new Mercedes-AMG GT SUV"; Electrek and Motor1 (Oct 17)
+
+## Artificial Intelligence | sting=ai
+// Story 9: Codex usage limits
+[andrew] In A.I., developers using OpenAI's Codex coding agent have spent the weekend watching their weekly usage limits vanish. At least seven bug reports on GitHub describe meters jumping, in one case from twenty-four to ninety-seven percent in twelve seconds, sometimes when users say they weren't doing anything. OpenAI hasn't explained the cause, and nothing appeared on its status page. The head of Codex announced a global reset overnight. These are user reports, so the scope isn't clear, but if you rely on Codex, document your usage and hold any banked resets for now.
+// Story 10: Google Harness squared
+[andrew] And Google Research open-sourced a project called Harness squared. Instead of retraining a model, it repeatedly tests and refines everything around it, the prompts, tools and skills an agent uses, and keeps a library of lessons for future jobs. Google reports big gains on its own agent benchmarks, and it's free to try.
+> source: Lumien, "OpenAI Codex Usage Limits Spiked Without Warning on October 17" (Oct 18); openai/codex GitHub issues (Oct 17-18); OpenAI community forum; google-research/harness2 on GitHub and arXiv, "Harness2: Recursive Agent Harnessing for an Open World"
+
+## Cybersecurity | sting=cyber
+// Story 11: Phishing that targets AI assistants
+[andrew] Cyber desk. If you let an A.I. assistant summarize your inbox, attackers are now writing emails for it, too. Researchers at Barracuda found phishing messages with hidden instructions, tucked into H.T.M.L. comments, invisible text or zero-width characters, aimed at the A.I. One tried to get the summary to list a fake priority task: change a vendor's payment details. Malwarebytes' advice: don't treat a summary as verification, confirm any payment change through a separate channel you already trust, and keep your assistant's permissions narrow.
+// Story 12: Bootlegger vibe-coded leak
+[andrew] And a cautionary tale from South Africa. The coffee chain Bootlegger exposed franchise contact details and sales data for a hundred thirty-two locations through an internal dashboard built with A.I. coding tools. It had a login screen, but the data was sent with the login page itself, readable by anyone with the address. People found it because employees posted photos of their laptop screens on Instagram. The company says it was a legacy app, no customer data was involved, and it took it offline and is notifying the regulator. The lesson: A.I. can build the app quickly, but someone still has to check the security.
+> source: Malwarebytes, "Phishing emails are baiting your AI assistant" (Pieter Arntz, Oct 12); Barracuda, "Email attacks target both humans and AI in the same message" (Oct 7); MyBroadband, "CEO of top South African coffee franchise responds after vibe-coded web application exposed sensitive data" (Jan Vermeulen, Oct 16)
+
+## From Your X Feed | sting=x
+[ava] Your X feed this morning was again full of reaction to the French riots, which we covered this morning. Beyond that:
+[andrew] D.H.H., the Ruby on Rails creator, is in Shenzhen and posted that a Chinese car brand he'd never heard of drove him back to his hotel in an interior as nice as or nicer than a top-spec Mercedes S-Class, for six dollars, adding that Germany should be very worried. In fairness to the other side, he also posted that a lot of Chinese software, like WeChat and Alipay, still feels rough to him.
+[andrew] Pieter Levels, known as levelsio, posted a clip with strange visual glitches and insisted it wasn't A.I. generated. His theory is that the iPhone's A.I.-assisted video stabilization hallucinated details, though he later allowed it could just be a bug. That's his guess, not a confirmed Apple issue.
+[ava] And the account interesting_aIl shared Forest City in Malaysia, a luxury development built for seven hundred thousand people near Singapore, which the post says is home to less than one percent of that, its towers and streets eerily empty.
+> source: Harry's X home timeline Oct 18 ~7:00-9:55 AM ET (@dhh, @levelsio, @interesting_aIl)
+
+## Local News & Events | sting=local
+[ava] Around Andover, if you're up for a Sunday morning true crime story, Temple Emanuel's Brotherhood breakfast series is underway until noon. Retired F.B.I. agent Rich Teahan, who led the task force that caught Whitey Bulger, and Boston twenty-five investigative reporter Bob Ward are discussing their book, Face to Face with Whitey Bulger. It's open to the public, fifteen dollars with breakfast for non-members.
+[ava] In North Andover, about a thousand people lined up at the Market Basket on Friday to meet Ann Michael Maye, wife of Patriots quarterback Drake Maye and co-founder of the MayeDay Family Foundation, the Eagle-Tribune reports.
+[ava] And next Saturday from four to six, the chamber group Mistral brings an opera-inspired program called Sotto Voce to West Parish Church on Reservation Road, with Verdi, Rossini and Respighi and mezzo-soprano Kara Dugan. Tickets are forty-five dollars.
+> source: Andover News, "Whitey Bulger Book Authors To Speak At Temple Emanuel Breakfast" (Dave Copeland, Oct 5); Eagle-Tribune, "Ann Michael Maye draws 1,000 to North Andover Market Basket" (Terry Date, Oct 17); Mistral Music, "Sotto Voce" event page; Andover News (Sept 28)
+
+## Uplifting Story | sting=feel
+[ava] And finally, a chain of strangers in South Dakota. Scott and Sharon Jacobs were driving near their home in Spearfish when they spotted a great horned owl hanging from a barbed wire fence, one wing pierced by the wire. They calmed it by covering its head with a tote bag, then flagged down a passing driver who happened to have gloves and wire cutters. The landowner's daughter drove by and got her father on FaceTime, and he said, definitely cut the fence.
+[ava] Their vet removed the wire buried in the wing, and the Black Hills Raptor Center took over. Its director says it's the first barbed-wire owl in sixteen years she's admitted with a real chance of making it. The owl is eating well and wants to fly, and the plan is to release it right where it was found. For Sharon, it's personal. Years ago, lightning struck her roof and a great horned owl was found dead on it the next morning. She believes that owl saved her, and now, she says, she had to save this one.
+> source: The Washington Post, "An owl was tangled in barbed wire. A chain of strangers saved its life." (Sydney Page, Oct 17); first reported by Cowboy State Daily
+
+## Close | sting=close
+[ava] That's your Sunday ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Enjoy your Sunday.
+[ava] Ask your Gumshoe for more on any story.

@@ -6,36 +6,40 @@
    "title": "Open & Weather"
   },
   {
-   "startTime": 96.67,
+   "startTime": 79.35,
    "title": "US News"
   },
   {
-   "startTime": 284.82,
+   "startTime": 178.32,
    "title": "International"
   },
   {
-   "startTime": 409.02,
+   "startTime": 278.0,
    "title": "Technology"
   },
   {
-   "startTime": 462.94,
+   "startTime": 343.15,
    "title": "Artificial Intelligence"
   },
   {
-   "startTime": 531.04,
+   "startTime": 402.63,
    "title": "Cybersecurity"
   },
   {
-   "startTime": 619.62,
+   "startTime": 478.04,
    "title": "From Your X Feed"
   },
   {
-   "startTime": 720.61,
+   "startTime": 546.42,
    "title": "Local News & Events"
   },
   {
-   "startTime": 791.06,
+   "startTime": 603.45,
    "title": "Uplifting Story"
+  },
+  {
+   "startTime": 665.32,
+   "title": "Close"
   }
  ]
 }
