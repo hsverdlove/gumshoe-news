@@ -1,0 +1,81 @@
+// Gumshoe script format: see README.md
+# title: Monday Morning, Oct 19
+# description: The Monday morning bulletin from Gumshoe News Radio for October 19, 2026: a National Guard member shot breaking up a fight on Capitol Hill, a women's health executive order, and the death of NPR's Noah Adams; Putin's proposed summit with President Trump and Xi Jinping, new Russian strikes on Ukraine's grid, a second night of looting in France, an attack on an Australian lawmaker, and Alberta's vote; futures rebounding after tech's worst week since June, with Netflix, Tesla and Meta reporting; World's proof-of-human check for Zoom; Anthropic's data on junior hiring; an Exchange mail bug and an unpatched router Wi-Fi flaw; your X feed with Elon Musk's SpaceX share pledge and a new voice for Apu; Londonderry's acting town manager on council emails and Halloween events; and teens who made sure a boy didn't play alone. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Monday, October nineteenth, and this is your Gumshoe News Radio morning bulletin. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Futures are bouncing back after a rough week for tech, Ava, and it's a big week for earnings. Details after the news.
+[ava] First, the forecast for Londonderry.
+@weather
+
+## US News | sting=us
+// Story 1: DC Guard shooting
+[ava] In Washington, a National Guard member was shot in the leg late Sunday night on Capitol Hill. Police say Guard members in a van near Eastern Market saw a fight on the sidewalk a little after eleven and got out to break it up. They say one man pulled a gun, ignored orders to drop it, and fired at them. Three Guard members fired back, hitting him in the abdomen. Both men are expected to survive, and the suspect is under arrest. What started the fight is still under investigation.
+// Story 2: Women's health executive order
+[ava] At the White House, President Trump is scheduled to sign an executive order at eleven this morning that First Lady Melania Trump has championed. CNN reports it would create a women's health division at the National Institutes of Health, plus a White House task force including Health Secretary Robert F. Kennedy Junior and Doctor Mehmet Oz. Details such as funding should become clearer once the order is published.
+// Story 3: Noah Adams
+[ava] And public radio has lost one of its signature voices. Noah Adams, who hosted N.P.R.'s All Things Considered for eighteen years, died Friday at his home in Yellow Springs, Ohio. He was eighty-four.
+> source: WJLA 7News, "National Guard member shot while intervening in DC fight; suspect also wounded" (Alan Henney and Christian Flores, Oct 19); Washington Post (Juan Benn Jr., Oct 19); NBC4 Washington (Oct 19); CNN via WDBJ7, "Trump to sign women's health executive order Monday" (Oct 18); White House pool schedule (Oct 19); NPR, "Noah Adams, longtime host of NPR's All Things Considered, has died" (Oct 18)
+
+## International | sting=world
+// Story 4: Putin summit proposal, Ukraine
+[ava] Overseas, a new twist in the Ukraine story. The Wall Street Journal reports Vladimir Putin has proposed a three-way summit with President Trump and China's Xi Jinping next month, possibly at the Asia-Pacific summit in Shenzhen, to negotiate an end to the war, without Ukraine at the table. The Kremlin confirms talks but says nothing is settled, and a U.S. official says the president hasn't agreed but could be receptive. Kyiv is alarmed: Foreign Minister Andrii Sybiha said such a meeting would only encourage Putin to keep fighting.
+[ava] It follows Friday's decision by President Trump to waive Russia sanctions that were about to take effect. He says he doesn't want to drive Moscow from the bargaining table; Zelenskyy says the moves hurt Ukraine.
+[ava] Overnight, Russia hit Ukraine's grid again, damaging more than ten energy facilities and cutting power to over half a million people. A young woman was killed in Kyiv. Zelenskyy says partners gave no early warning; Secretary of State Marco Rubio insists there's been no pause in U.S. intelligence sharing.
+// Story 5: France, second night
+[ava] In France, a second night of looting hit Paris, Lyon and Marseille, with about three hundred fifty arrests in Paris alone. Prime Minister Sébastien Lecornu has asked regional prefects to impose partial, localized curfews.
+// Story 6: Australian MP attacked
+[ava] In Australia, independent lawmaker Helen Haines is in critical condition after an S.U.V. struck her outside her electoral office in Wangaratta, Victoria. Prime Minister Anthony Albanese says it was no accident. Police arrested the forty-three-year-old driver, found a knife in the vehicle, and counterterrorism investigators are involved. No motive has been given.
+// Story 7: Alberta vote
+[ava] In Canada, Albertans vote today on whether to remain in Canada or start the legal process toward a separation referendum. Final polls show remain far ahead, with results expected late tonight.
+// Story 8: Middle East briefs
+[ava] And in Yemen, Iran-backed Houthi rebels fired ballistic missiles at a government army camp in Shabwa province, killing at least twenty soldiers.
+> source: WSJ, "Putin Floats a Summit With Trump and Xi to Discuss Ukraine Deal" (Oct 18); Kyiv Independent (Oct 19); Euronews (Oct 19); Al Jazeera, AFP and Reuters, "Rubio says there was no US pause in intelligence sharing with Ukraine" (Oct 19); AP, "Zelenskyy says Ukraine got no early warning from partners as Russia hits the power grid again" (Oct 19); Europe 1, Le Parisien and RMC live coverage (Oct 19); AP, "Australian prime minister says lawmaker was apparently deliberately hit by car" (Oct 19); The Conversation (Oct 19); AP, "Albertans vote on path to independence" (Oct 19); Léger, Ipsos and Abacus Alberta polls (Oct 16); AP News Summary on the Houthi strike (Oct 19)
+
+## Markets In Depth | sting=markets
+[andrew] Markets, Ava. Buyers are back after a bruising week. S and P futures are up roughly half a percent to seven-tenths, Nasdaq one hundred futures about one percent or a bit more, and Dow futures flat to slightly higher.
+[andrew] Friday, the Dow slipped a third of a percent to just over fifty-two thousand, the S and P fell one percent to seventy-six fifty-nine, and the Nasdaq dropped two percent to twenty-six thousand one forty. For the week, the Nasdaq lost four and a half percent, its worst week since June. Tech was Friday's worst sector, down three percent; energy led as oil topped a hundred.
+[andrew] The driver is A.I. debt: worries that higher borrowing costs will squeeze the debt-funded data center build-out. CoreWeave lost about a quarter of its value last week. This morning chip stocks lead the bounce, despite social media chatter about a Black Monday crash on the anniversary of nineteen eighty-seven.
+[andrew] The ten-year Treasury yield is about five point oh nine percent, the two-year near four point seven seven. The dollar index is steady near one oh one point eight. Oil is lower after the Russia sanctions waiver, with Brent around one oh seven and a half and W.T.I. a bit under a hundred. Gold is near forty-one ninety an ounce, and bitcoin around eighty-two thousand seven hundred.
+[andrew] Overseas, China reported third-quarter growth of four and a half percent, a bit better than expected.
+[andrew] The week ahead: about fifteen percent of the S and P reports. Tomorrow, G.E. Aerospace and General Motors in the morning, Netflix and SpaceX after the close. Wednesday evening, Tesla, Meta, I.B.M. and Texas Instruments, with Meta's spending plans the big test for the A.I. trade. Data is light: housing and Thursday's jobless claims. And the Fed decides on the twenty-eighth; futures point to a hold.
+> source: Reuters via Investing.com, "Wall St futures climb as AI stocks rebound; oil, yields fall" (Oct 19); WSJ, "Stock Futures Rise as Investors Make Cautious Return to Risk" (Joe Stonor, Oct 19); Barron's live coverage (Oct 19); Investing.com, "S&P, Nasdaq futures climb as AI stocks rebound after selloff" (Oct 19); Yahoo Finance (Oct 19); AP, "How major US stock indexes fared Friday 10/16/2026"; Dispersion Brief sector data (Oct 16); Treasury, dollar and bitcoin levels via Yahoo Finance and FRED (AKSHAR market review, Oct 19); Reuters via Arab News on oil (Oct 19); CNBC on gold (Oct 19); AP on China GDP (Oct 19); CNBC earnings preview (Oct 18); Federal Reserve calendar
+
+## Technology | sting=tech
+// Story 9: World ID for Zoom
+[andrew] Tech desk. As deepfake scams get better, a company co-founded by OpenAI's Sam Altman is pitching banks a way to prove who's really on the call. World, formerly Worldcoin, launched a bundle for financial firms this weekend. Its centerpiece, World ID for Zoom, matches a live selfie and the meeting video against a person's earlier iris scan at one of World's Orb devices, then shows a verified-human badge. Bain Capital and VanEck are among the early partners. Supporters see a real answer to impersonation fraud; privacy advocates have long objected to collecting iris data, and several countries have restricted World's scans.
+> source: World, "World ID for banking and finance" and "World ID for Zoom" (Oct 18); Fortune, "Zoom and Bain Capital add 'Proof of Human' badges" (Oct 18); Biometric Update (Oct 2026)
+
+## Artificial Intelligence | sting=ai
+// Story 10: Anthropic workforce study
+[andrew] In A.I., Anthropic published a rare look at how A.I. is changing its own workforce. Junior employees' share of technical hires fell from twenty-seven percent to nine percent since early twenty twenty-five, and juniors now make up fourteen percent of technical staff, down from twenty-one. Technical hiring still grew overall, so it's a shift in the mix, not fewer engineers. Anthropic says managers now value judgment over implementation skills. It's one unusual company, but a data point for anyone worried about entry-level tech jobs.
+// Story 11: briefs
+[andrew] Also, China's DeepSeek released an updated V4.1 Flash model with open weights, and opened its web search tool to developers at a fraction of rivals' prices.
+> source: Anthropic, "How employment is changing at Anthropic" (Oct 17); TechCrunch, "Anthropic says its workforce has become less junior and is spending more time in meetings" (Oct 17); DeepSeek, "Introducing DeepSeek-V4.1-Flash"; Investing.com, "DeepSeek releases AI model update, opens search APIs to all users"; The Neuron (Oct 19)
+
+## Cybersecurity | sting=cyber
+[andrew] Cyber desk. If you run Microsoft Exchange on your own servers, check your mail flow this morning. Microsoft confirms this month's Windows Server security updates are breaking Outlook on the web sign-ins and mail delivery on some Exchange systems.
+[andrew] And a researcher disclosed an unpatched flaw in Broadcom's Wi-Fi Protected Setup code that lets someone within radio range take over Broadcom-based routers, no Wi-Fi password needed. There's no fix yet. If your router lets you switch off W.P.S., that's a reasonable precaution.
+> source: BleepingComputer, "Microsoft: October Windows Server updates break Exchange sign-in, mail flow" (Sergiu Gatlan, Oct 19); The Hacker News, "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers" (Oct 19)
+
+## From Your X Feed | sting=x
+[ava] Your X feed overnight was dominated by politics and the riots in France, which we've covered or left to the news sections. Beyond that, the big conversation:
+[andrew] Elon Musk posted just before four this morning that next year he'll give one of his own SpaceX shares to every kid in America, calling it the first of many. Axios figures that's roughly ten and a half billion dollars at Friday's close. It came a day after Anthropic's public benefit fund, which Musk answered by saying he'd give shares directly to the public. kimmonismus called it the beginning of universal high income. Still unanswered: who counts as a kid, and how minors would hold the shares.
+[ava] Variety reports The Simpsons has a new Apu. Indian-American actor Sunil Malhotra takes over from Hank Azaria, and Apu spoke for the first time in nearly a decade in this season's Treehouse of Horror.
+[andrew] And SpaceX pushed its Bandwagon-5 rideshare launch from Florida to no earlier than Tuesday, because of poor weather for booster recovery.
+> source: Harry's X home timeline Oct 18 ~8:00 PM to Oct 19 ~7:00 AM ET (@elonmusk, @kimmonismus, @Variety, @SpaceX); Axios, "Musk pledges 1 SpaceX share for every child in America" (Ben Berkowitz, Oct 19); Variety, "'The Simpsons' Brings Back Apu" (Oct 18)
+
+## Local News & Events | sting=local
+[ava] Closer to home in Londonderry. Acting Town Manager Kim Bernard, who is also the police chief, told the Town Council he's stopped a practice where residents' emails to the full council were quietly blind-copied to the town manager and staff, saying residents likely assumed those emails were private. Councilor Dan Bouchard disagreed, saying it was no secret and helps staff follow up on things like traffic complaints. Bernard also said the legal budget has run over for six or seven years, and promised to fix that in the next budget. In his words, the sky is not falling in Londonderry.
+[ava] On the calendar: the Aviation Museum of New Hampshire's Haunted Halloween Hangar is Saturday from ten to one, in the old airport terminal on Navigator Road. Kids in costume get a free Broomstick Pilot License after a ground school with the ghosts of Lindbergh and Earhart, and admission is free. And Carriage Shack Farm on Dan Hill Road has Halloween Glow Nights on Friday and Sunday evenings starting at five thirty.
+> source: Londonderry Times, "Acting Town Manager Pledges Changes to Email Practices and Legal Budgeting" (Alex Malm, Oct 17); Aviation Museum of N.H., "Haunted Halloween Hangar on Saturday, Oct. 24" (Oct 17); Carriage Shack Farm, Halloween Glow Nights listings (Oct 23 and 25)
+
+## Uplifting Story | sting=feel
+[ava] And finally, a small kindness from Massachusetts. At the Urban Air adventure park in Bellingham, seven-year-old Tristan Caron, who has autism, was sitting by himself. A group of teenagers from Milford noticed. One of them, Livy Molinari, asked if she could hold the ball he'd just won, and a game of catch turned into forty minutes of hide-and-seek and slides.
+[ava] Tristan's mom, Christina, says her son usually gets left out, and called it life-changing. She tracked the teens down on Facebook to thank them. They say they had no idea he had autism; they just didn't want him sitting alone. And the park plans to invite them all back for a day to celebrate.
+> source: CBS Boston and WBZ-TV, "Mass. teens react to mother's praise after befriending boy with autism" (Paul Burton, Oct 18)
+
+## Close | sting=close
+[ava] That's your Monday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. Have a good start to the week.
+[ava] Ask your Gumshoe for more on any story.
