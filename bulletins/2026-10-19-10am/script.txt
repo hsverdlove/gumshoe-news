@@ -1,0 +1,74 @@
+// Gumshoe script format: see README.md
+# title: Monday 10 AM Update, Oct 19
+# description: The Monday 10 AM update from Gumshoe News Radio for October 19, 2026: Florida's arrest warrant for Raúl Castro over the 1996 Brothers to the Rescue shootdown, President Trump's plan to close a historic Washington golf course, and a new poll of Asian American voters; France weighing a state of emergency after weekend riots, hoax bomb threats emailed to hundreds of schools in Northern Ireland and Scotland, and arrests over settler attacks in the West Bank; tech stocks rebounding at the open, led by Intel and CoreWeave; Disney hiring most of Character.AI's staff; MiniMax's low-cost M3.1 Flash model; fake crypto-accelerator npm packages that hijack AI coding agents; your X feed with a drone medevac in Ukraine, Chinese EVs and an iPhone motion-sickness trick; the data center backlash in New England and Londonderry events; and a Massachusetts teen's comfort kits for kids in the hospital. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning, it's ten o'clock on Monday, October nineteenth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Tech stocks are bouncing at the open, Ava. I'll have the details shortly.
+[ava] First, the latest forecast for Londonderry.
+@weather
+
+## US News | sting=us
+// Story 1: Castro warrant
+[ava] In Florida, the state has issued a no-bond arrest warrant for former Cuban leader Raúl Castro, now ninety-five. It charges him with conspiracy to commit first-degree murder in the nineteen ninety-six shootdown of two Brothers to the Rescue planes, which killed four men over international waters. A Miami-Dade judge found probable cause that the order came down a chain of command with Raúl and Fidel Castro as the final decision-makers. Attorney General James Uthmeier and Governor Ron DeSantis are announcing it this morning. Castro already faces federal murder charges filed in May. The practical catch: he lives in Cuba, beyond the reach of U.S. courts, so the warrant is largely symbolic unless he travels.
+// Story 2: East Potomac golf course
+[ava] In Washington, President Trump says the historic East Potomac Golf Course will close November fifteenth for fifteen months of renovations, and he says the finished course will stay public and host major tournaments. It's contested: a federal judge has halted further tree removal there until October twenty-sixth, and the Interior Department says the plan isn't final while the Park Service review continues.
+// Story 3: AAPI poll
+[ava] And a new A.P.-NORC and AAPI Data poll of Asian American, Native Hawaiian and Pacific Islander adults finds a quarter approve of the president's job performance and about three in four disapprove. On the economy, which nearly nine in ten call a top issue, forty-one percent trust Democrats more and twenty-one percent Republicans. Republicans would note that nearly four in ten don't pick either party on the economy, so plenty of these voters are still up for grabs.
+> source: WSVN 7News, "Florida obtains arrest warrant for Raúl Castro" (Oct 19); Fox News Digital (Oct 19); Miami Herald (Oct 19); CBS Miami (Oct 19); AP, "Trump says he'll close historic DC golf course for 15 months of renovations" (Oct 18); AP, "Judge orders halt to work on historic DC golf course until Oct. 26"; NBC4 Washington; AP, "AAPI adults lose trust in Trump and Republicans on economy, poll finds" (Oct 19); AP-NORC/AAPI Data September 2026 topline
+
+## International | sting=world
+// Story 4: France
+[ava] Overseas, France says it could declare a state of emergency if needed after a weekend of the worst rioting in years. For now, Prime Minister Sébastien Lecornu prefers local, partial curfews, starting in some cities tonight, though not a blanket curfew in Paris. Marseille has banned gatherings today. About twenty-four hundred people have been arrested, nearly a thousand officers injured, and retailers say almost three thousand shops were hit.
+[ava] Lecornu blamed part of the violence on a far-left movement he says wants to disrupt April's presidential election. Hard-left leader Jean-Luc Mélenchon told him to show evidence or apologize. President Macron refused his interior minister's offer to resign, and the centre-left mayors of Paris, Marseille and Lyon wrote that whole neighborhoods were left without protection. President Trump posted that migrants have taken over France; French officials have not linked the unrest to immigration. Unions have called new strikes for November fifth.
+// Story 5: UK school hoax threats
+[ava] In the U.K., up to three hundred schools in Northern Ireland and many across Scotland received emails this morning claiming explosives had been planted. Police in both places are treating them as hoaxes sent from outside the country, and nothing has been found, though some schools closed or sent staff home.
+// Story 6: West Bank arrests
+[ava] And in Israel, police say they've arrested ten suspects over weekend settler attacks in the West Bank, one on a delegation of European diplomats near Taybeh and one on Washington Post photographer Heidi Levine during the olive harvest. Israel's president had called the attacks despicable.
+> source: Reuters via Devdiscourse, "France wants curfews in some areas after weekend of riots" (Oct 19); AFP, "French PM says could declare state of emergency over unrest 'if needed'" (Oct 19); CBS News (Oct 19); France 24 live (Oct 19); PSNI, "Police investigating threatening e-mails to schools treating the matter as hoax" (Oct 19); BBC News (Oct 19); STV News (Oct 19); AP, "Israeli police arrest 10 in settler attacks on journalist and diplomats" (Oct 19); Times of Israel (Oct 19)
+
+## Markets In Depth | sting=markets
+[andrew] Markets, Ava. The opening bell brought the bounce the futures promised. Shortly after the open, the Nasdaq was up about one percent, the S and P five hundred up about half a percent near seventy-seven hundred, and the Dow down slightly, around fifty-two thousand.
+[andrew] Some context: last week the Nasdaq fell four and a half percent and tech stocks more than six, their worst week since April of last year. Goldman Sachs says hedge funds sold the largest share of tech on record. So this morning is dip-buying, led by chips.
+[andrew] Movers: Intel up about four to five percent after J.P. Morgan upgraded it to neutral, saying the turnaround will take years but execution has been solid. CoreWeave, which lost more than a quarter of its value last week over debt worries, is up on a Goldman Sachs upgrade to buy, even with a lower price target. A.M.D. and Micron are up about three percent. Cleveland-Cliffs is up more than ten percent on better-than-expected earnings, and Amazon is up about one percent after Morgan Stanley named it a top pick.
+[andrew] Morgan Stanley's strategists call this the mid-cycle of the A.I. trade, with money shifting from the companies building A.I. to the ones using it. The skeptics' worry hasn't gone away: whether all that debt-funded data center spending pays off.
+[andrew] Elsewhere, French bonds and European stocks are lower after the riots, and the euro has slipped. Brent crude is down about two percent near a hundred and eight dollars, the ten-year Treasury yield is around five point oh six percent, gold is up near forty-one eighty, and bitcoin is around eighty-two thousand.
+[andrew] The big tests are later this week: Netflix tomorrow afternoon, then Tesla and Meta Wednesday.
+> source: Reuters via The Economic Times, "US stocks today: S&P 500, Nasdaq open higher as AI stocks rebound ahead of major earnings" (Oct 19); CNBC live updates (Oct 19, 9:35 AM ET); WSJ live coverage (Oct 19, 9:47 AM ET); Barron's live coverage (Naomi Buchanan, Oct 19); CNBC, "Stocks making the biggest moves premarket" (Deena Zaidi, Oct 19); Investing.com, "CoreWeave jumps as Goldman Sachs upgrades stock" (Oct 19); ATFX and Centrino Capital market notes (Oct 19); CoinDesk (Oct 19)
+
+## Technology | sting=tech
+// Story 7: Disney and Character.AI
+[andrew] Tech desk. Disney is taking in most of Character.AI's staff. After the chatbot startup filed for bankruptcy last week, a court filing spotted by Bloomberg shows Disney agreed to offer jobs to at least sixty employees, the majority of the company, at about sixty million dollars a year in total pay, and most have accepted. Disney had already agreed to buy some assets for twenty million, and Character.AI's former C.E.O. is now Disney's first chief technology officer. It's a stalking-horse bid, so a higher offer could still come. The filing cites high costs and legal and regulatory exposure, including a lawsuit over a teenager's suicide and child-safety investigations.
+> source: TechCrunch, "Disney agrees to hire the majority of Character.AI's workforce" (Anthony Ha, Oct 18); Bloomberg, via TechCrunch
+
+## Artificial Intelligence | sting=ai
+// Story 8: MiniMax M3.1 Flash
+[andrew] In A.I., the price war from China keeps going. Days after DeepSeek's update, Shanghai's MiniMax launched M3.1 Flash, an agent and coding model it says runs nearly three times faster, cuts usage costs by seventy percent, and costs fifteen cents per million input tokens. MiniMax says an early version had already processed more than two hundred trillion tokens anonymously, under the name Space Bunny. The benchmark scores are MiniMax's own and haven't been independently reproduced, and the open weights are promised later. Still, it's another sign that capable A.I. keeps getting cheaper.
+> source: MiniMax, "MiniMax M3.1 Flash: Redefining Agent Performance and Cost" (Oct 19); MarkTechPost (Oct 19)
+
+## Cybersecurity | sting=cyber
+// Story 9: Apex Accelerator npm
+[andrew] Cyber desk, and a warning for anyone who uses A.I. coding agents. Elastic Security Labs exposed a fake crypto venture accelerator called Apex that courted startup founders with investment offers and free A.I. credits, then had them run its npm packages: a "copilot" and a "security scanner." The tools installed info-stealers and backdoors on Windows and Macs, produced fake audit results, and quietly rerouted the coding agent's A.I. traffic through the attackers' servers, exposing prompts and code and letting them slip in instructions. The packages are gone now, but the lesson stands: be wary of any tool a would-be investor asks you to install.
+> source: The Hacker News, "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic" (Ravie Lakshmanan, Oct 19); Elastic Security Labs, "Auditing the auditor: Unmasking Apex Accelerator"
+
+## From Your X Feed | sting=x
+[ava] Your X feed this morning was mostly politics and France, which we've covered above. Beyond that:
+[ava] visegrad24 shared video of what Ukraine's 92nd Assault Brigade calls the world's first battlefield air evacuation of a wounded soldier. Mines and Russian drones made a ground rescue impossible, so a team modified a heavy hexacopter, normally a bomber drone donated by Gurzuf Defence, to carry him out. The brigade says he survived and is in rehab. It didn't say when or where it happened.
+[andrew] D.H.H., the Ruby on Rails creator, is in China and posted that being picked up in Hangzhou in a gas-powered Mercedes felt like a real step down from the Chinese luxury E.V.s he'd been riding in.
+[ava] Variety posted Selena Gomez saying her voice changed because she vaped nicotine a lot, and her advice to critics: if you don't like it, don't listen.
+[andrew] And a tip from engineers_feed you can use today: if you get carsick reading your phone as a passenger, the iPhone has Vehicle Motion Cues, animated dots at the edges of the screen that move with the car. You'll find it under Accessibility, then Motion.
+> source: Harry's X home timeline Oct 19 ~7:00-9:55 AM ET (@visegrad24, @dhh, @Variety, @engineers_feed); Defence Blog, "Ukraine uses heavy drone to fly wounded soldier off front" (Dylan Malyasov, Oct 19)
+
+## Local News & Events | sting=local
+[ava] Closer to home, a New England News Collaborative series running on N.H.P.R. looks at why data center proposals draw such fierce opposition here, from Bow to Rochester. A UMass Amherst poll found majorities of Democrats and Republicans alike oppose data centers in their own communities. Environmental worries top the list, but distrust of A.I. and the tech industry ranked even higher than fear of rising power bills. Supporters argue the projects bring tax revenue and jobs, while Holyoke, Massachusetts banned them outright.
+[ava] On the Londonderry calendar: the Londonderry Historical Society meets tomorrow evening at six at Leach Library, and Sunstone Brewing hosts a comedy night Friday at seven.
+> source: NHPR / New England Public Media, "Behind the data center backlash, anxiety about AI" (Phil Bishop, Oct 19); Leach Library calendar, Londonderry Historical Society (Oct 20) and Comedy Night at Sunstone Brewing (Oct 23)
+
+## Uplifting Story | sting=feel
+[ava] And finally, in Braintree, Massachusetts, sixteen-year-old Tatiana Calvillo remembered feeling helpless during her sister's hospital stay. So this spring she started the Little Heroes Foundation, a student-run group that delivers monthly comfort kits, with small toys, coloring books and stickers, to kids in local hospitals. Friend Brynn Hso, whose sister was diagnosed with cancer last year, signed on right away. Since April, Little Heroes has grown to nineteen chapters across the country, plus chapters in France and Uganda, and volunteers now add handwritten cards. Tatiana's message for other kids: we can make an impact.
+> source: Boston 25 News, "Massachusetts teen creates Little Heroes Foundation to bring comfort to children in hospitals" (Kelly Sullivan, Oct 18)
+
+## Close | sting=close
+[ava] That's your ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Next update around one.
+[ava] Ask your Gumshoe for more on any story.
