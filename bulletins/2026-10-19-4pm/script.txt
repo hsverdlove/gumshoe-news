@@ -1,0 +1,75 @@
+// Gumshoe script format: see README.md
+# title: Monday 4 PM Update, Oct 19
+# description: The Monday four o'clock update from Gumshoe News Radio for October 19, 2026: a federal judge refusing to step aside in the D.C. golf course case after a courtroom clash with a top Justice Department official, and President Trump saying it may be time for someone other than President Zelenskyy to negotiate for Ukraine; overnight curfews in Paris, Lyon and Nice, and Israel reopening Gaza to commercial goods; Wall Street's tech-led rebound at the close; Apple's "Pro and tell" event and Europe's big carriers teaming up against Starlink; Gemini agents beating Minecraft on their own; a hacked remote-support tool tied to suspected Chinese spies, a report on a voting-machine request at CISA, and the ex-OpenAI engineer held without bail; your X feed with Richard Riehle, Jon Stewart, Saturn's ring spokes and an iPhone shortcut for Grok Bot; the nor'easter that's staying offshore and Halloween events around Londonderry; and teenagers who made a lonely seven-year-old's day. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon, it's four o'clock on Monday, October nineteenth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Tech led the bounce back today, Ava, though the Dow didn't join in. More in a minute.
+[ava] First, the latest forecast for Londonderry.
+@weather
+
+## US News | sting=us
+// Story 1: Judge Reyes and the golf course case
+[ava] In Washington, the fight over the East Potomac golf course moved into the courtroom. Federal Judge Ana Reyes rejected a Justice Department request that she step aside, calling it baseless in a thirteen-page opinion. Associate Attorney General Stanley Woodward had argued she showed deep-seated antipathy toward the administration at an earlier hearing. Reyes answered with transcripts in which she praised government lawyers and ruled for them at earlier stages. At today's hearing she asked the other government lawyers at the table to raise their hands if they'd sign Woodward's filing; he told them not to answer, and she ordered a brief on the dispute. Hours earlier, President Trump called Reyes a crazed lunatic online and said work on the course would start immediately. The administration's case: a judge is micromanaging routine park maintenance. Preservationists counter that the government cut down hundreds of trees with little notice to the court.
+// Story 2: Trump on Ukraine and a possible summit
+[ava] Speaking to reporters before leaving for a campaign rally near Wichita for Kansas Senator Roger Marshall, President Trump said it may be time for Ukraine's President Zelenskyy to get somebody else to negotiate, and said Zelenskyy should have settled the war long ago. Zelenskyy said earlier today that Washington is in denial about Russia's position. The president also said he would join a meeting next month in China with Vladimir Putin and Xi Jinping if it happens, though he expects it to focus on nuclear weapons and denuclearization. He said he hasn't agreed to it yet.
+> source: Bloomberg Law, "Top DOJ Official Clashes With Judge in DC Golf Course Case" (Suzanne Monyak, Oct 19); Just The News (Ben Whedon, Oct 19); AP (Oct 19); Reuters via Devdiscourse, "Trump says Zelenskiy should get somebody else to negotiate to end war with Russia" (Oct 19); AP, "The Latest" (Oct 19); The Guardian Europe live (Oct 19); KWCH, "Midterm rally in Park City" (Oct 19)
+
+## International | sting=world
+// Story 3: France curfews update
+[ava] In France, overnight curfews spread tonight. In Paris, people may not enter or stay on the Place de la République or around Les Halles from eleven p.m. to six a.m., which is five p.m. to midnight our time; residents, workers and shopkeepers are exempt, and demonstrations are banned overnight near the Élysée, the National Assembly and other sites. Lyon and Nice have curfews from nine p.m., with Nice's applying only to minors through Sunday. The justice minister says more than twenty-five hundred people have been taken into custody since the weekend. And the U.S. Embassy is telling Americans to avoid protest areas.
+[ava] On the cause, the accounts differ. President Trump again said today that France's trouble is immigration. Prime Minister Lecornu blames the ultra-left and criminals for hijacking protests, and the protests themselves began a month ago with high school students over crumbling classrooms, then grew into anger about living costs. Many analysts and French officials dispute the immigration link, while critics of France's migration policy say it's part of the picture.
+// Story 4: Gaza commercial shipments
+[ava] And in Gaza, Israel says it will resume letting commercial goods in after a days-long halt. COGAT, the Israeli agency that oversees aid, says merchants report Hamas dropped a demand for about thirty-two hundred dollars per truck; Hamas calls it a voluntary donation. Israel says it hasn't verified that, and payments must now go through documented bank transfers. Local health officials say Israeli strikes killed at least five Palestinians today; Israel's military didn't comment right away.
+> source: AP, "Paris police issue overnight curfew in 2 areas of French capital" (Oct 19); BBC News live (Oct 19); The Guardian Europe live (Lucy Campbell, Oct 19); Libération via The Guardian; U.S. Embassy Paris alert (Oct 19); Reuters via StreetInsider, "Israel to resume commercial shipments to Gaza after Hamas fee dispute" (Nidal al-Mughrabi, Oct 19)
+
+## Markets In Depth | sting=markets
+[andrew] Markets at the closing bell, Ava, with figures from the final minutes of trading. The Nasdaq was up about one and four-tenths percent and the S and P five hundred about seven-tenths, after last week's drops of four and a half and two percent. The Dow was only slightly higher.
+[andrew] Chips and memory makers led. The semiconductor index was up around two and a half percent, on track to snap its longest losing streak since two thousand eight. Sandisk, Western Digital and Micron gained as much as six percent, Nvidia about one and a half. Amazon was up five percent on a Morgan Stanley top-pick call, Datadog six, and Tesla four ahead of Wednesday's earnings. CoreWeave, though, gave up its early pop and slipped into the red.
+[andrew] The skeptic's read, which Barron's flagged: the rally wasn't as broad as the headline numbers. Only four of the S and P's eleven sectors were up this afternoon, with consumer stocks and tech doing the lifting.
+[andrew] The ten-year Treasury yield rose about six basis points to around five point one five percent. U.S. crude rose about two percent to near a hundred and three dollars, while Brent eased to about a hundred and nine. Gold slipped to around forty-one sixty, and bitcoin was near eighty-two thousand.
+[andrew] Tomorrow is busy: G.E. Aerospace and General Motors before the bell, and Netflix and SpaceX after it. Options traders are pricing a move of up to about seven and a half percent in SpaceX shares by week's end.
+> source: Investopedia live coverage, "Stock Market Today: Nasdaq, S&P 500 Surge After Rough Week as Tech Stocks Rebound" (Aaron Rennie and Aaron McDade, updated 3:42 PM ET Oct 19); Yahoo Finance live (Ines Ferré and David Hollerith, Oct 19, 3:40 PM ET); MarketScreener/Reuters, "S&P 500, Nasdaq climb as AI-linked stocks recover ahead of earnings" (Oct 19); Barron's, "Tech Rebounds—but the Rally Isn't as Strong as It Looks" (Oct 19); Investing.com earnings preview (Oct 19)
+
+## Technology | sting=tech
+// Story 5: Apple event
+[andrew] Tech desk. Apple has set a product showcase it's calling "Pro and tell" for next Wednesday, October twenty-eighth, in Los Angeles. MacRumors and others expect a MacBook Pro with an OLED touchscreen, new M6 Macs including an iMac, and an iPad mini with an OLED display. Bloomberg's Mark Gurman says they could go on sale November sixth. Apple hasn't confirmed any products.
+// Story 6: European carriers vs Starlink
+[andrew] And Europe's four biggest phone carriers, Deutsche Telekom, Orange, Telefónica and Vodafone, signed a letter of intent to explore a joint bid for European satellite spectrum, so phones can connect straight to satellites. They'd provide ground networks and pick a satellite partner rather than launch their own. It's pitched as European independence, and as competition for SpaceX's Starlink.
+> source: MacRumors, "Apple Announcing New Products Next Week: 'Pro and Tell'" (Juli Clover, Oct 19); 9to5Mac (Oct 19); Deutsche Telekom newsroom, "Four European operators sign Letter of Intent to explore a joint bid for Mobile Satellite Services spectrum" (Oct 19); Bloomberg Law (Oct 19)
+
+## Artificial Intelligence | sting=ai
+// Story 7: Gemini agents beat Minecraft
+[andrew] In A.I., Google DeepMind says four Gemini 4 Argon agents beat Minecraft, defeating the Ender Dragon, with no human help in about twenty-seven hours. They wrote more than twenty-seven hundred small programs, traded messages and died six hundred five times along the way. The researchers estimate the run would cost about sixteen hundred dollars at the model's planned price. The caveats: it was one successful run, on easy difficulty, with structured game data and pathfinding tools rather than reading the screen like a person.
+> source: arXiv, "A team of Gemini 4 Argon agents beats Minecraft" (2610.22319); Engadget (Oct 19); TEXXR roundup (Oct 19)
+
+## Cybersecurity | sting=cyber
+// Story 8: BeyondTrust
+[andrew] Cyber desk. If your company uses BeyondTrust Remote Support, patch now; federal agencies hit their deadline today. The critical flaw lets attackers into the appliance without logging in. BeyondTrust says two systems were breached as far back as late August, before the flaw was public, and Mandiant ties the attacks to a suspected Chinese espionage group. Experts say patching isn't enough: check for intruders and change any stored passwords.
+// Story 9: ProPublica on CISA
+[andrew] ProPublica reports that early in the administration, political appointees at Homeland Security asked its cyber agency, CISA, to secretly get a voting machine, hack it, report results to the White House, and not tell the manufacturer about any flaws. Two former officials say career staff called it impossible, partly because the needed specialists had been laid off, and the request was dropped. The account comes from unnamed former officials.
+// Story 10: Alfozan held
+[andrew] And an update: the former OpenAI engineer accused of planting a recording device in an executive conference room, Abdulrahman Alfozan, will stay in jail without bail. A magistrate judge called the Saudi consulate's offer to pay any bail a blank check that didn't ensure he wouldn't flee. His lawyer says he has lived here fifteen years and isn't a flight risk.
+> source: Rapid7, "CVE-2026-102764: Critical BeyondTrust Remote Support Authentication Bypass Exploited in the Wild" (Oct 19); CISA Known Exploited Vulnerabilities catalog; ProPublica, "How the Trump Administration Politicized the Cybersecurity and Infrastructure Security Agency" (Andy Mannix and Doug Bock Clark); Metacurity (Oct 19); CNBC, "OpenAI bugging suspect Alfozan ordered held without bail" (Dan Mangan and Jordan Novet, Oct 19); WIRED (Oct 19)
+
+## From Your X Feed | sting=x
+[ava] Your X feed this afternoon was heavy on politics and France. Beyond that:
+[andrew] Variety posted that Richard Riehle has died at seventy-eight. He was Tom Smykowski in Office Space, the guy with the people skills, and appeared in more than four hundred films and shows. Friends say it was natural causes.
+[ava] Variety also reports Jon Stewart signed on to keep hosting The Daily Show on Monday nights through December twenty twenty-eight.
+[andrew] Astrophotographer Andrew McCarthy shared what he calls his most detailed look yet at Saturn, including the strange dark spokes that show up on the rings.
+[ava] And the official Grok Bot account posted that you can now set Grok Bot as your iPhone's Action Button, and press it to start talking.
+> source: Harry's X home timeline Oct 19 ~1:30-3:56 PM ET (@Variety, @AJamesMcCarthy, @bot); Variety, "Richard Riehle Dead" (Oct 19); TMZ (Oct 19); Variety, "Jon Stewart to Remain 'Daily Show' Host Through 2028" (Oct 19); Deadline (Oct 19)
+
+## Local News & Events | sting=local
+[ava] Closer to home, that nor'easter off the Carolinas is staying offshore. WMUR expects a mostly dry, sunny week in New Hampshire, with more clouds and a breezy northeast wind late in the week and rough surf at the coast, so be careful around big waves and rip currents. Farther south it's serious: Hatteras Island in North Carolina is under a mandatory evacuation for visitors.
+[ava] For Halloween around Londonderry: Carriage Shack Farm's Halloween Glow Nights run this Friday through Sunday and again on the thirtieth, five-thirty to eight-thirty. Leach Library has a Jack O'Lantern Jamboree for little ones next Tuesday morning at ten, and the Granite YMCA's Halloween Spooktacular is Wednesday the twenty-eighth, with registration required.
+> source: WMUR, "Nor'easter to stay offshore, no significant impacts expected in New Hampshire" (Marissa Vigevani, Oct 19); WCTI, "N.C. 12 stays open to Ocracoke as nor'easter drives overwash risk" (Oct 19); Carriage Shack Farm, Halloween Glow Nights; Leach Library calendar, Jack O'Lantern Jamboree (Oct 27); Granite YMCA, Halloween Spooktacular (Oct 28)
+
+## Uplifting Story | sting=feel
+[ava] And finally, a story from just over the border in Massachusetts. Seven-year-old Tristan Caron, who has autism, was sitting by himself at the Urban Air Adventure Park in Bellingham when a group of teenagers from Milford noticed. One of them, Livy Molinari, simply said, that's a really nice ball you have, can I hold it? That turned into forty minutes of catch, hide-and-seek and the slides. His mom, Christina, says it was life-changing for a boy who usually gets left out, and tracked the teens down on Facebook to thank them. They say they didn't know he had autism; they just didn't want him alone. Urban Air plans to invite them all back for a day celebrating their kindness.
+> source: CBS Boston, "Mass. teens react to mother's praise after befriending boy with autism" (Paul Burton, Oct 19)
+
+## Close | sting=close
+[ava] That's your four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Next bulletin tomorrow morning.
+[ava] Ask your Gumshoe for more on any story.
