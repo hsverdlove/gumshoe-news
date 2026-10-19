@@ -1,0 +1,79 @@
+// Gumshoe script format: see README.md
+# title: Monday 1 PM Update, Oct 19
+# description: The Monday one o'clock update from Gumshoe News Radio for October 19, 2026: a federal sweep of alleged noncitizen voters in California, the Supreme Court turning away the 9/11 plea-deal appeals and taking up the home-distilling ban, and the signing of the women's health executive order; France's first curfews and a blockaded Louvre, the rising toll from a Houthi strike in Yemen, Iran's claim of a U.S. strike on a naval base, and deep food-aid cuts in Gaza; a midday market rebound led by chips, with homebuilder confidence at a 14-year low; Nvidia winning Modal for its new CPUs and a shake-up at Netflix; Washington ordering DeepSeek off federal systems; a hacker who let AI agents break into more than 100 company websites, and new allegations against an ex-OpenAI engineer; your X feed with Jalen Hurts, Christiane Amanpour and a council of Claudes; Londonderry's water-line progress and tonight's council meeting; and a 99-year-old wing walker. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon, it's one o'clock on Monday, October nineteenth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Chip stocks are bouncing back hard, Ava. Details shortly.
+[ava] First, the latest forecast for Londonderry.
+@weather
+
+## US News | sting=us
+// Story 1: California noncitizen-voter sweep
+[ava] In California, federal agents arrested more than two dozen people this morning in what the Justice Department calls Operation Protect the Vote. It says all are lawful permanent residents, not citizens, charged with crimes such as fraudulent voter registration. The administration's case: noncitizen voting is a federal crime, and every illegal vote cancels a legal one. California's Democratic leaders call the federal push an attempt to undermine the state's elections, and A.P. notes the problem is rare: before today, the department had charged about fifty people with noncitizen voting this year, against more than two hundred twenty million registered voters. It follows last week's federal lawsuit over twenty thousand mail ballots the government says went to likely noncitizens; state officials say they've seen no evidence for that list.
+// Story 2: Supreme Court orders
+[ava] At the Supreme Court, the justices turned away appeals from accused nine-eleven mastermind Khalid Sheikh Mohammed and two co-defendants seeking to revive plea deals that would have spared them the death penalty. Then-Defense Secretary Lloyd Austin threw out those deals in twenty twenty-four, and an appeals court backed him. Their military trial is set for June twenty twenty-eight. The court also agreed to decide whether an eighteen sixty-eight federal ban on distilling spirits at home is constitutional. Hobbyists call it a crime against a harmless pastime; the government says it prevents tax evasion.
+// Story 3: Women's health order signed (update)
+[ava] And an update: in the Rose Garden, with the first lady at his side, President Trump signed the women's health executive order. It creates a women's health division at the National Institutes of Health within ninety days and a White House task force co-chaired by Health Secretary Robert F. Kennedy Junior and Chief of Staff Susie Wiles, who the president noted recently beat breast cancer. No funding figure yet, and N.I.H. already has an Office of Research on Women's Health that the new division will work with.
+> source: AP, "Justice Department charges more than 2 dozen in California sweep targeting noncitizen voters" (Safiyah Riddle, Oct 19); LA Times (Oct 15 and 17); Supreme Court order list (Oct 19), No. 26-13; The Hill, "Supreme Court turns away appeal from 9/11 defendants" (Sophie Brams, Oct 19); AP, "Supreme Court agrees to review a Reconstruction-era ban on distilling spirits in private homes" (Oct 19); SCOTUSblog (Oct 19); CBS News, "Trump signs executive order creating women's health division within NIH" (Kathryn Watson, Oct 19); White House fact sheet (Oct 19)
+
+## International | sting=world
+// Story 4: France update
+[ava] Overseas, France's first curfews are set: Lille and several nearby towns, including Douai, from eight p.m. to six a.m. tonight and tomorrow. Prime Minister Sébastien Lecornu says a state of emergency remains possible but isn't planned. In Paris, protesters backing the student movement blocked the Louvre's entrances, keeping it from opening this morning, and the interior minister conceded police lost control in places over the weekend.
+// Story 5: Yemen toll
+[ava] In Yemen, the toll from the Houthi missile strike on a government training camp in Shabwa province has risen to at least fifty-three new recruits killed and more than two hundred wounded, the deadliest single attack since the civil war flared up again, according to The Guardian. And with Houthi attacks on Saudi airports, the Financial Times reports Saudi organizers may postpone next week's Davos in the desert investment conference or hold it online.
+// Story 6: Konarak claim
+[ava] Iran's navy says U.S. forces hit its Konarak naval base on the Gulf of Oman early today with two light projectiles, wounding two soldiers. The U.S. military hasn't commented, and there's no independent confirmation.
+// Story 7: WFP Gaza cuts
+[ava] And the World Food Programme says a funding shortfall is forcing it to cut food aid in Gaza by about a third, leaving roughly half a million people without help. The agency says it needs four hundred fifty million dollars through March.
+> source: France 24 live (Oct 19); The Guardian, "French prime minister calls for 'local and partial' curfews after riots" (Oct 19); BBC News (Oct 19); The Local France, "Louvre blocked as France grapples with unrest" (Oct 19); Euronews (Oct 19); AP, "Houthi rebels hit military camp in southern Yemen, killing at least 53" (Oct 19); The Guardian, "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited" (Oct 19); Asharq Al-Awsat (Oct 19); Financial Times via CoinDesk (Oct 19); Iranian navy statement via Al Jazeera and News.az (Oct 19); WFP, "Funding cuts force WFP to drastically reduce lifesaving assistance in Gaza" (Oct 19); UN News (Oct 19)
+
+## Markets In Depth | sting=markets
+[andrew] Markets at midday, Ava. The tech rebound has held. The Nasdaq is up about one and a half percent, near twenty-six thousand six hundred, the S and P five hundred up more than half a percent, around seventy-seven twenty, and the Dow roughly flat near fifty-two thousand one hundred. Small caps lag, and the VIX fear gauge has dropped to about seventeen and a half.
+[andrew] Chips lead: the Philadelphia semiconductor index is up two and a half to three percent, on track to end its longest losing streak since two thousand eight. Sandisk is up about seven percent, Intel almost six, Micron nearly five, Nvidia about two. Amazon is up about five percent after Morgan Stanley named it a top pick and raised its cloud forecasts, and Tesla is up nearly four ahead of Wednesday's report. Meta and Netflix are down more than one percent before their earnings, and CoreWeave has given back much of its early pop.
+[andrew] Last week's safe havens, energy, utilities and staples, are being sold to pay for it. The skeptic's read: this is short covering ahead of earnings, not fresh conviction, and the real test starts with Netflix tomorrow.
+[andrew] Housing is the weak spot. Homebuilder confidence fell to twenty-nine, its lowest since twenty twelve, and a record forty-three percent of builders cut prices.
+[andrew] The ten-year Treasury yield is up about three basis points to around five point one three percent, and futures put the odds of a Fed hike at next week's meeting near eighteen percent. Brent crude is down about one and a half percent near a hundred and eight dollars. Gold is slightly lower near forty-one fifty, the dollar is about flat, and bitcoin is holding near eighty-two thousand.
+[andrew] Overseas, French stocks and bonds fell after the riots, and Indonesia's main index dropped another three and a half percent after Friday's eleven and a half percent plunge, on fears M.S.C.I. could downgrade the market.
+> source: Motley Fool via finanzen.at, "Stock Market Midday, Oct. 19" (11:34 AM ET); Barron's live coverage (Naomi Buchanan, Oct 19); TradingNEWS, "Stock Market Today: Nasdaq +1.67%, S&P 500 +0.85%" (Itai Smidt, Oct 19); Yahoo Finance live (Oct 19, 12:58 PM ET); Benzinga (Oct 19); WSJ live coverage (Oct 19, 12:22 PM ET); NAHB, "Builder Sentiment Falls on Rising Rates" (Oct 19); CoinDesk live updates (Oct 19); CNBC Indonesia and Antara (Oct 19)
+
+## Technology | sting=tech
+// Story 8: Nvidia and Modal
+[andrew] Tech desk. Nvidia has won a notable customer for its new Vera central processors, not just its A.I. chips. Reuters reports that Modal, a fast-growing start-up that runs A.I. agents in the cloud, will add Vera servers after tests showed about twice the throughput of comparable Intel and AMD systems, which it will keep using too. It's an early sign Nvidia can compete beyond graphics chips.
+// Story 9: Netflix shake-up
+[andrew] And in Hollywood, Netflix has let go of film chief Dan Lin after almost three years, according to Variety and The Hollywood Reporter. Lin oversaw KPop Demon Hunters, Netflix's most-watched film ever. It follows last week's exit of content chief Bela Bajaria and about a thousand layoffs.
+> source: Reuters, "Nvidia wins fast-growing AI startup Modal for new central processors" (Oct 19); Modal blog, "NVIDIA Vera CPUs double throughput for Modal Sandboxes"; Variety, "Netflix Film Chair Dan Lin Out" (Oct 19); The Hollywood Reporter (Oct 19); Reuters via Investing.com on Bajaria and Rice
+
+## Artificial Intelligence | sting=ai
+// Story 10: DeepSeek ban
+[andrew] In A.I., the Department of Homeland Security has ordered all federal civilian agencies to remove China's DeepSeek from their systems and stop buying it, including any outside services built on DeepSeek models. The order cites the risk of sensitive data reaching China, plus malware and data collection concerns. Agencies can seek exceptions only with a compelling justification. DeepSeek hasn't commented publicly on the order.
+> source: Federal Register public inspection, "Exclusion and Removal of DeepSeek Products from Federal Civilian Executive Branch Information Technology Systems and Procurements" (Oct 19); WSJ (Oct 19); Bloomberg (Oct 19); Reuters (Oct 19); CyberScoop (Oct 19)
+
+## Cybersecurity | sting=cyber
+// Story 11: Cairn AI-agent hacking
+[andrew] Cyber desk, and a vivid example of A.I. agents doing a hacker's work. Reuters reports that a researcher at the security firm NorForge, Snorre Fagerland, watched a Chinese-speaking hacker use an open-source agent platform called Cairn to break into websites at more than a hundred companies, including Deere, SharkNinja and Cummins. The agents tried more than twelve hundred sites, with each successful break-in taking about twenty-three hours and roughly fifty dollars of A.I. usage. Deere says it found no sign sensitive data was accessed, and SharkNinja says only a standalone support site was hit. Cairn's author says it wasn't built for attacks.
+// Story 12: OpenAI bug case
+[andrew] And prosecutors, ahead of a detention hearing today, say the former OpenAI engineer accused of hiding a recording device in an executive conference room, Abdulrahman Alfozan, was in frequent contact with a Saudi royal urging him to join a Saudi A.I. effort, and was days from a one-way flight to Riyadh when arrested. These are allegations he has yet to answer in court.
+> source: Reuters exclusive via Devdiscourse, "How one hacker used AI agents and a few thousand dollars to break into scores of sites" (Oct 19); NorForge, "Inside Cairn"; The Verge (Oct 19); CBS News, "Ex-OpenAI engineer accused of planting bug in office was in contact with Saudi royal family" (Nicole Sganga, Oct 19); U.S. Justice Department release on Alfozan's arrest
+
+## From Your X Feed | sting=x
+[ava] Your X feed since mid-morning was mostly politics and France. Beyond that:
+[ava] Collin Rugg posted that Eagles quarterback Jalen Hurts is out for the season. ESPN and A.P. confirm it: tests found blood clots in his leg and in both lungs. The team says he's stable and expected to make a full recovery.
+[andrew] Variety posted that Christiane Amanpour is leaving CNN next June after forty-three years. Her parting advice to colleagues: be truthful, not neutral.
+[ava] Semafor shared Kevin Roose describing his council of Claudes: A.I. reviewers, each playing an expert like a skeptic, that critiqued drafts of his new book before his human editors did. He says he wrote every word himself, and most of the feedback wasn't useful.
+[andrew] And pitdesi reminded everyone that onion futures have been banned in the U.S. since nineteen fifty-eight, after two traders cornered the onion market and then crashed prices.
+> source: Harry's X home timeline Oct 19 ~11:15 AM-12:57 PM ET (@CollinRugg, @Variety, @semafor, @pitdesi); ESPN, "Eagles' Jalen Hurts out for season due to blood clots" (Oct 19); AP (Oct 19); CNN Business, "Christiane Amanpour announces she will leave CNN next June" (Oct 19); Semafor Mixed Signals podcast with Kevin Roose; Onion Futures Act of 1958
+
+## Local News & Events | sting=local
+[ava] Closer to home, Londonderry's water line expansion hit a milestone. Public works told the Town Council the High Range Road main is in all the way to Alexander, with testing and service hookups under way, and the South Road main is being tested. Councilor Dan Bouchard asked for speed-warning devices on the fresh pavement. And a new state law makes it easier for neighborhoods to form a water special assessment district, where homeowners repay hookup costs through their tax bills: it now takes sixty percent of affected residents, with property values no longer counted.
+[ava] On the calendar: the Town Council meets tonight at seven in the Moose Hill Council Chambers, and tomorrow at seven there's a meeting on local concerns about Phase Seven of the rail trail.
+> source: Londonderry Times, "Water Projects Advance as Special Assessment District's Changes Made" (Paul Conyers, Oct 17); Town of Londonderry calendar, Town Council (Oct 19) and Phase 7 Rail Trail Local Concerns Meeting (Oct 20)
+
+## Uplifting Story | sting=feel
+[ava] And finally, ninety-nine-year-old Helga Duffy of Wiltshire, England, is the world's oldest wing walker, after riding strapped to the top of a small plane over an airfield in Gloucestershire. She got the idea watching ninety-seven-year-old Betty Bromage do it on the news. Helga said she wasn't frightened because she was so excited, and she raised more than thirteen hundred pounds for an air ambulance charity. Betty sent congratulations, and a warning: she can't wait to turn a hundred and do it again.
+> source: BBC News, "Woman, 99, becomes world's oldest wing walker" (Andy Howard and Sophie Parker, Oct 14); Guinness World Records, Oldest wing walker (female); UPI (Oct 15)
+
+## Close | sting=close
+[ava] That's your one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Next update around four.
+[ava] Ask your Gumshoe for more on any story.
