@@ -1,0 +1,77 @@
+// Gumshoe script format: see README.md
+# title: Tuesday 4 PM Update, Oct 20
+# description: The Tuesday four o'clock update from Gumshoe News Radio for October 20, 2026: what the White House actually unveiled in its fraud whistleblower program, the Supreme Court clearing the way for Florida's 18th execution of the year, a third U.S. measles death; Iran rules out sending enriched uranium abroad as mediators shuttle through Tehran, U.S. envoys head from Oslo to St. Petersburg, and North Korea answers rumors about Kim Jong Un; a closing rally led by health care and small caps, plus Netflix's earnings beat; Chrome's new suspicious-site warnings and OpenAI buying a biotech startup; Anthropic's draft IPO filing as reported by the Wall Street Journal; ransomware gangs riding a Palo Alto VPN flaw, a backdoored OVHcloud tool and exposed Meta Muse chat links; your X feed with Keanu Reeves, Fincher's edit of Tarantino and Lioness; a Silver Alert in Manchester, hate-speech vandalism and New Hampshire towns pushing back on data centers; and Twenty One Pilots bringing the show to a four-year-old fan. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon. It's four o'clock on Tuesday, October twentieth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] The Dow closed up almost five hundred points, Ava, and Netflix just beat on earnings. Details shortly.
+[ava] First, the latest forecast for Londonderry.
+@weather
+
+## US News | sting=us
+// Story 1: Whistleblower program, what was announced
+[ava] We promised you what the White House actually announced at one-thirty. It's called the Fraud Whistleblower Incentive Program, a twenty-five-million-dollar fund run by the Justice Department. Anyone can send a tip through fraud dot gov, and if it leads to a fraud conviction or a significant federal enforcement action, the written program pays up to thirty thousand dollars. A tip alone doesn't qualify.
+[ava] In the Oval Office, though, President Trump described something bigger: a one percent commission on the fraud uncovered. He also said he'd personally act as the binding arbiter when several people claim the same reward, and promised to be "very generous." So the president's description and the written terms don't match yet. The first award, ten thousand dollars, went to YouTuber Nick Shirley, whose video last year alleged fraud at Minneapolis day cares. Supporters point to real fraud there, including a guilty plea in July from the owner of a day care in his video. Critics say the video fueled anti-Somali posts, and question a president personally deciding who gets paid.
+// Story 2: Reaves
+[ava] Following up on Florida: the U.S. Supreme Court rejected William Reaves' final appeal this afternoon without comment. His execution for the nineteen eighty-six killing of Deputy Richard Raczkowski remains set for six o'clock, which would make it Florida's eighteenth this year.
+// Story 3: Measles, campaign money
+[ava] In health news, the C.D.C. has confirmed a third measles death in the U.S. this year, with cases now past forty-four hundred. The federal count runs behind some states; Pennsylvania alone reports five deaths.
+> source: AP, "Trump and Vance announce $25M whistleblower program" (Oct 20); U.S. Department of Justice, "Justice Department Announces Innovative Whistleblower Rewards Program to Combat Fraud" (Oct 20); The Hill (Mallory Wilson, Oct 20); Fox News (Stepheny Price, Oct 20); The Guardian US politics live (Oct 20); AP via ABC30, "Florida is set to carry out 18th execution this year" (David Fischer, Oct 20); Al Jazeera and The Hill, "CDC confirms third measles death as cases pass 4,400" (Oct 20)
+
+## International | sting=world
+// Story 4: Iran
+[ava] Overseas, the Iran mediation shuttle kept moving, but the positions look as far apart as ever. Pakistan's army chief, Asim Munir, met President Pezeshkian, parliament speaker Qalibaf and security chief Mohsen Rezaei, and as he left, a Qatari delegation arrived. Rezaei said none of Iran's enriched nuclear material will leave the country, a core U.S. demand. Qatar says contact with Washington continues, but warned that Iranian threats to cut undersea internet cables would hurt the whole region. Treasury Secretary Bessent says economic pressure is working, with oil loadings at Iran's Kharg Island export terminal halted. And Iran's Revolutionary Guards now claim a supertanker carrying more than two million barrels exploded after hitting a mine south of Hormuz. That's unverified, and the U.S. called earlier mine claims today false.
+// Story 5: Ukraine
+[ava] On Ukraine, U.S. envoys Steve Witkoff and Jared Kushner wrapped up talks in Oslo with President Zelenskyy and Nordic leaders on security guarantees; Witkoff takes the proposals to St. Petersburg tomorrow. Zelenskyy says U.S. early warnings of Russian missile attacks are working again after a call with Secretary of State Rubio. Rubio says there was never a directive to withhold them, and that missed warnings on October thirteenth and eighteenth were a technical problem; Democratic Congressman Eugene Vindman calls that false. President Trump, for his part, says Russia keeps grinding forward and Zelenskyy should make a deal.
+// Story 6: North Korea
+[ava] And North Korean state media released photos of Kim Jong Un touring a Pyongyang exhibition with his wife and daughter, after viral posts claimed he'd had a brain hemorrhage and died. Seoul says nothing backed those rumors, though the photos themselves haven't been independently dated.
+> source: Iran International live blog (Oct 20); The National, "Pakistan army chief arrives in Tehran as Iran seeks leverage in US talks" (Oct 20); Reuters via Al-Monitor, Pezeshkian meets Munir (Oct 20); Times of Israel (Oct 20); The Guardian US politics live, Oslo talks, Rubio and Vindman remarks (Oct 20); AP, "US ties with Ukraine hit new low" (Oct 19-20); Anadolu Agency, "North Korean state media releases photos of Kim Jong Un amid death rumors" (Oct 20); BBC, "Why do rumours about his death keep coming back?" (Oct 20)
+
+## Markets In Depth | sting=markets
+[andrew] The closing bell, Ava. The Dow rose four hundred ninety points, about nine-tenths of a percent, to fifty-two thousand four fifty-four. The S and P five hundred gained four-tenths of a percent to seventy-seven twenty-one, and the Nasdaq added two-tenths to twenty-six thousand four eighty-four.
+[andrew] This was a value day. Health care hit a record and was the top sector, up more than two percent in the afternoon, led by Eli Lilly and Moderna. Small caps did even better, with the Russell two thousand up about one point seven percent. Big tech lagged: Meta fell about two percent and Alphabet about one ahead of earnings.
+[andrew] Bonds helped. Weak housing data, with homebuilding and permits falling sharply in September on top of that record-low pending home sales reading, pulled the ten-year Treasury yield down four basis points to about five point one percent. Futures traders now see only about a fifteen percent chance the Fed raises rates next week, down from nearly fifty-eight percent a month ago. Oil eased: U.S. crude settled near a hundred two seventy-five, and Brent near a hundred eight.
+[andrew] After the bell, Netflix earned eighty-seven cents a share, beating forecasts of eighty-two, on revenue of twelve point eight seven billion dollars, in line and up almost twelve percent. But it narrowed its full-year revenue outlook to the low end, fifty-one point one billion, and acknowledged investor worries about slowing viewing hours. SpaceX and United Airlines are still to come tonight, and Tesla and Meta report tomorrow.
+> source: Reuters via Euronext, "Stocks mostly rise as oil, US yields ease" (Caroline Valetkevitch and Shashwat Chauhan, Oct 20); Reuters via Investing.com, "Wall Street rises with investors rotating into healthcare and value stocks" (Oct 20, 2:08 PM ET); Yahoo Finance live (Oct 20); CME FedWatch via Reuters; CNBC, "Netflix posts third-quarter earnings beat" (Sarah Whitten, Oct 20)
+
+## Technology | sting=tech
+// Story 7: Chrome
+[andrew] Tech desk. Google Chrome is adding a second, softer tier of website warnings. With Enhanced Protection turned on, sites that merely look like known phishing or scam pages get a pop-up flagged "suspicious," with the page dimmed behind it and a button to mark it safe. Truly dangerous sites still get the full red screen.
+// Story 8: OpenAI Orchestra Bio
+[andrew] And OpenAI has acquired Orchestra Bio, a biotech startup, The Verge reports, another sign the A.I. labs are pushing into drug discovery and life sciences.
+> source: The Verge, "Chrome will now show a warning before you visit 'suspicious' sites" (Jess Weatherbed, Oct 20); The Verge, "OpenAI has acquired Orchestra Bio, a biotech startup" (Oct 20)
+
+## Artificial Intelligence | sting=ai
+// Story 9: Anthropic draft prospectus
+[andrew] In A.I., a story Kimmonismus flagged on your X feed: the Wall Street Journal has seen a draft of Anthropic's I.P.O. prospectus. It shows revenue of sixteen point three billion dollars in the first half of this year, up from one point one billion a year earlier. It spent nearly nine billion on computing in those six months, and has roughly four hundred fifty billion dollars in cloud commitments over the next decade with Google, Amazon and Microsoft that it largely can't cancel. The reported net loss is eighty point seven billion, but seventy-two billion of that is a non-cash accounting charge tied to its financing. Bulls see the fastest revenue growth in tech; skeptics point out that about a fifth of revenue came from just two customers, and that the filing warns damages from a catastrophic A.I. incident could exceed its insurance. The draft is confidential, and Anthropic hasn't commented.
+> source: Wall Street Journal via Investing.com, "Anthropic revenue hits $16.3 billion as preliminary S-1 outlines IPO risks" (Luke Juricic, Oct 20); Reuters via InvestmentNews, Anthropic prospectus (Sep 28-29); @kimmonismus on X (Oct 20)
+
+## Cybersecurity | sting=cyber
+// Story 10: Palo Alto GlobalProtect
+[andrew] Cyber desk. If your company's remote access runs through Palo Alto Networks' GlobalProtect, make sure it's patched. Palo Alto's Unit Forty-Two says the Qilin and INC ransomware gangs are exploiting an authentication bypass, C.V.E. twenty twenty-six dash zero two five seven, to open unauthorized V.P.N. sessions, then jumping to VMware servers to steal credentials.
+// Story 11: OVHcloud, Muse links
+[andrew] French cloud provider OVHcloud says a hijacked developer account was used to plant info-stealing malware in versions zero point eleven through zero point fifteen of its command-line tool. Anyone who ran one should treat every secret on that machine as stolen and update to version zero point sixteen. And Meta has paused sharing in its Muse A.I. app after security firm Claroc found more than sixty-eight hundred share links discoverable through public internet records, some exposing business finances and a loan application.
+> source: Cybersecurity Dive, "Ransomware groups expand targeting of Palo Alto Networks vulnerability" (David Jones, Oct 20); Palo Alto Networks Unit 42 threat brief, CVE-2026-0257 (updated Oct 19); BleepingComputer, "OVHcloud CLI releases backdoored on GitHub to steal developer secrets" (Bill Toulas, Oct 20); The Verge, "Meta pauses Muse sharing after researchers find AI chats on the web" (Emma Roth, Oct 20)
+
+## From Your X Feed | sting=x
+[ava] From your X feed this afternoon.
+[andrew] Variety reports Keanu Reeves is in talks to star in James Wan's remake of the Korean thriller The Gangster, the Cop, the Devil, at Paramount, with Don Lee returning from the original.
+[ava] Variety also has David Fincher saying Quentin Tarantino's first draft of the Cliff Booth script ran two hundred thirty pages, "essentially two movies," and that he cut sixty pages before filming.
+[andrew] And the Lioness season three finale drew nine point seven million viewers in its first week, the most-watched episode in the show's history.
+[ava] Trace Woodgrains wondered whether, now that A.I. can predict people's views pretty well, we'll see a new type of guy who acts against type just to spite it.
+> source: Harry's X home timeline Oct 20 ~3:25-4:00 PM ET (@Variety, @tracewoodgrains)
+
+## Local News & Events | sting=local
+[ava] Closer to home, New Hampshire State Police have issued a Silver Alert for eighty-two-year-old Jacqueline Dupuis, last seen Monday at eleven a.m. near two hundred Elm Street in Manchester, on foot. She has dementia and needs daily medication. She's four-foot-eleven, about a hundred pounds, with gray hair, wearing a purple sweater with Jack from The Nightmare Before Christmas on the back. If you see her, call Manchester police at six oh three, six six eight, eight seven one one.
+[ava] Also in Manchester, police are investigating fifteen vandalism incidents across three neighborhoods on Saturday, with swastikas and hate speech spray-painted on homes and cars.
+[ava] And NHPR looks at how New England towns are using local control against data centers. Nottingham voters approved a one-year moratorium after a warehouse proposal drew more than twenty-five thousand petition signatures, and in Bow, residents are pushing back on a possible data center at the shuttered Merrimack coal plant.
+> source: WMUR, "Police issue Silver Alert for missing woman last seen in Manchester" (Lauren Blois, updated 2:22 PM Oct 20); WMUR, "Manchester, NH, man 'upset, furious' after car vandalized" (Oct 20); NHPR, "In New England, towns are using a very old approach to take on data centers" (Kate Dario, Oct 20)
+
+## Uplifting Story | sting=feel
+[ava] And finally, a band that brought the show to its biggest fan. Four-year-old Remi Floro of Port Clinton, Ohio, loves Twenty One Pilots, and he and his mom had tickets for the band's hometown show at Ohio Stadium on Saturday. Then his leukemia relapsed, a bone marrow transplant was scheduled two days before the concert, and they had to sell the tickets. Word reached Josh Dun and Tyler Joseph, who surprised Remi at Nationwide Children's Hospital, each staying about an hour and a half. Remi gave Dun a necklace with his name on it, and on Saturday, at the biggest U.S. headline show of the band's career, Dun wore it on stage. Fans have been sending friendship bracelets and concert confetti to Remi's hospital room ever since.
+> source: WBNS via abc10.com, "Twenty One Pilots honor 4-year-old superfan fighting cancer in biggest US show of their career" (Carla Rogner, Oct 20)
+
+## Close | sting=close
+[ava] That's your Tuesday four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Next bulletin tomorrow morning.
+[ava] Ask your Gumshoe for more on any story.
