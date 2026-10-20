@@ -1,0 +1,77 @@
+// Gumshoe script format: see README.md
+# title: Tuesday 1 PM Update, Oct 20
+# description: The Tuesday one o'clock update from Gumshoe News Radio for October 20, 2026: a granddaughter of Robert and Ethel Kennedy has died at 42, Florida prepares for its 18th execution of the year, and the NBA season opens with LeBron James' Philadelphia debut; mediators bring a new proposal to Iran and the U.S. as the Pentagon disputes Iran's tanker-mine claim, a drone strike kills at least 153 at a market in Abyei, and charges in the attack on an Australian MP; a midday rally led by blue chips and health care as oil eases, with pending home sales at a record low; Zoom's deepfake detector and Yelp's AI that phones restaurants for you; Anthropic says it will rewrite parts of its leaked AI bill; ConnectWise's cloud backup still offline and Hannaford back online; your X feed with Krea's image model, The Prestige in IMAX, a homemade jukebox and the end of the Hartford Times; Route 101 glare crashes, an offshore nor'easter and Ciao Italia in Nashua; and an Arizona teen who gave a stranger the shoes off his feet. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon. It's one o'clock on Tuesday, October twentieth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] The Dow is up about five hundred points at midday, Ava, as oil backs off on hopes for Middle East diplomacy. Details shortly.
+[ava] First, the latest forecast for Londonderry.
+@weather
+
+## US News | sting=us
+// Story 1: Kyle Kennedy
+[ava] We begin with sad news from the Kennedy family. Kyle Kennedy, a granddaughter of Robert and Ethel Kennedy, has died at forty-two. An obituary posted by a funeral home says she died peacefully at her home in Westwood, Massachusetts, on September twenty-first; news of it spread today. She was an early-childhood educator who, after a spinal cord injury in twenty twenty left her paralyzed, became an advocate for people with disabilities. No cause of death was given, and People magazine reports her death certificate lists it as pending. She leaves two sons.
+// Story 2: Florida execution
+[ava] In Florida, the state plans to execute seventy-seven-year-old William Reaves at six this evening for the nineteen eighty-six shooting death of Indian River County sheriff's deputy Richard Raczkowski. The Florida Supreme Court rejected his final appeals last week, and a last request was pending at the U.S. Supreme Court as of this morning. It would be Florida's eighteenth execution this year, one short of last year's state record. Governor DeSantis says he's bringing justice to families who have waited decades. Reaves' lawyers argue jurors were never told the V.A. rates him fully disabled by post-traumatic stress from Vietnam, and more than a hundred veterans asked the governor to stop it.
+// Story 3: Whistleblower program, LeBron
+[ava] A reminder that the president and Vice President Vance unveil that fraud whistleblower reward program at one-thirty; we'll have what they actually announce at four. And the N.B.A. season opens today: the Celtics visit Detroit at three. Then at seven, the defending champion Knicks get their rings and host Philadelphia, as LeBron James opens his record twenty-fourth season, his first as a seventy-sixer. All on NBC and Peacock.
+> source: Burke Funeral Homes, obituary of Kyle Francis Kennedy (1984-2026); Boston Globe, "Kyle Kennedy, granddaughter of Robert F. Kennedy, dies at 42" (Oct 20); People, "Kyle Kennedy's Cause of Death Is Pending" (Oct 20); USA Today (Edward Segarra, Oct 20); AP, "Florida man faces execution for 1986 fatal shooting of deputy" (Oct 20); CBS Miami, "Florida set to execute man who killed deputy after fighting for gun; state's 18th execution this year" (Oct 20); U.S. Supreme Court docket 26A524; Death Penalty Information Center; AP, "Trump and Vance to announce a $25M whistleblower program" (Oct 20); AP, "LeBron James is set to make his 76ers' debut in his record 24th season" (Oct 20); NBC Sports, "How to watch LeBron James' Philadelphia 76ers debut" (Kurt Helin, Oct 19)
+
+## International | sting=world
+// Story 4: Mediation, Hormuz
+[ava] Overseas, a possible opening in the Iran standoff. The New Arab, citing unnamed sources, reports that Qatar and Pakistan delivered a new compromise proposal to Tehran and Washington today, carried to Iran by Pakistan's army chief, Asim Munir. As described, Iran would allow an unannounced visit by U.N. nuclear inspectors, and in return could collect the interest on six billion dollars of its money frozen in Qatar. The sources say both sides reacted positively, but neither government has confirmed the details, and the core gap remains: Washington wants Iran's nuclear program dismantled, Tehran wants all its frozen assets released. Meanwhile, U.S. Central Command calls Iran's claim that mines set two tankers ablaze false, saying it has cleared the international shipping lanes of mines. Iran's Revolutionary Guards are now threatening undersea internet cables in the Gulf.
+// Story 5: Abyei
+[ava] In Africa, a drone strike on a market in Abyei, the region disputed by Sudan and South Sudan, hit a fuel depot and killed at least one hundred fifty-three people on Monday, local officials told the A.P.; a South Sudanese radio station now puts the toll above two hundred twenty. Abyei's administration blames Sudan's military. That hasn't been independently verified, and Khartoum hasn't responded.
+// Story 6: Australia, Yemen
+[ava] In Australia, police have charged the driver who struck independent lawmaker Helen Haines outside her office in Wangaratta, Victoria, with intentionally causing serious injury. She remains in critical condition. And in Yemen, officials say the toll from a Houthi missile strike on a government army camp has risen to seventy-three, while the U.N. human rights chief warns the Houthis' encirclement of Taiz puts civilians at grave risk.
+> source: The New Arab, "Exclusive: Mediators submit new peace proposal to Iran, US" (Anwar al-Khateeb, Oct 20); Iran International (Oct 20); Newsquawk, CENTCOM spokesman statement (Oct 20, 15:00 UTC); Euronews, "IRGC mines set tankers ablaze as Tehran threatens expanded attacks" (Oct 20); AP, "Drone strike on a market in disputed African region of Abyei kills at least 153" (Deng Machol, Oct 20); Eye Radio, "Death toll from Abyei market drone strike rises to more than 220" (Oct 20); Reuters via Investing.com (Oct 20); AP News Summary, 12:21 p.m. EDT (Oct 20), on Helen Haines and Yemen
+
+## Markets In Depth | sting=markets
+[andrew] Markets, Ava. Blue chips are leading a broad midday rally. Late in the morning the Dow was up about five hundred points, roughly one percent, near fifty-two thousand four hundred; the S and P five hundred up about four-tenths of a percent near seventy-seven fifteen; and the Nasdaq up a couple of tenths.
+[andrew] The big driver is oil. Brent crude touched nearly a hundred twelve dollars a barrel this morning, then slid back to about a hundred eight on those mediation hopes. The expiring November U.S. contract is near a hundred three, well off its high above a hundred ten.
+[andrew] Health care hit a record high, led by Eli Lilly, up about five percent on its metabolic-drug pipeline. Equifax jumped nearly ten percent on a profit beat. And 3M gained about five percent after raising its outlook and expanding a data-center deal with Amazon, which includes a warrant for an Amazon unit to buy more than five hundred twenty million dollars of 3M stock. On the downside, General Motors is off five to six percent on its trimmed outlook, Meta is down about two percent, and a South Korean A.I. data-center company, Elice, plunged about thirty percent in its Seoul debut.
+[andrew] Housing took another hit. Pending home sales fell seven point three percent in September, which Reuters says is a record low for the index, as higher mortgage rates sidelined buyers. The ten-year Treasury yield eased to about five point one one percent, gold is near forty-one twenty-five, and bitcoin is around eighty-one and a half thousand.
+[andrew] After the bell: Netflix, SpaceX and United Airlines. Tesla and Meta report tomorrow.
+> source: The Motley Fool, "Stock Market Midday, Oct. 20: Blue Chips Rally, Eli Lilly Gains 5%" (Emma Newbery, 11:36 AM ET); AP, "US stocks rise after companies deliver strong profits and oil prices retreat" (11:45 AM ET Oct 20); Reuters via Yahoo Finance, "Wall Street gains as healthcare stocks rally, oil prices fall" (Oct 20); WSJ live coverage (Oct 20); CNBC, "Oil prices fall as traders hope for diplomatic progress in Middle East" (Spencer Kimball and Chloe Taylor, Oct 20); NAR, "Pending Home Sales Decreased 7.3% in September" (Oct 20); Reuters, "US pending home sales tumble to record low in September" (Oct 20); OwlChart midday bitcoin brief (Oct 20); Yahoo Finance live (Oct 20)
+
+## Technology | sting=tech
+// Story 7: Zoom
+[andrew] Tech desk. Zoom says that in December it will add a deepfake-risk detector to video calls, analyzing the audio and video for signs they were altered outside of Zoom. It's also adding A.I. tools that make presenters appear more engaged and smooth out voices and accents in real time.
+// Story 8: Yelp
+[andrew] And Yelp is rolling out "Check for Me" on iPhone: its A.I. phones a restaurant to ask about the wait, then texts you the answer. Yelp's assistant can also now book OpenTable reservations.
+> source: The Verge, "Zoom is launching a new 'deepfake risk detection' tool for video calls" (Emma Roth, Oct 20); The Verge, "Yelp's AI can call a restaurant to check wait times for you and text you the answer" (Jay Peters, Oct 20)
+
+## Artificial Intelligence | sting=ai
+// Story 9: Anthropic draft bill
+[andrew] In A.I., Anthropic is on the defensive over its own draft safety bill, which Politico published Friday. The draft would let the Commerce Department ask a federal court to block a dangerous model, but only for imminent risks above high thresholds, such as more than a billion dollars in damage or more than fifty deaths, and it would override some state A.I. rules. Safety advocates and California State Senator Scott Wiener say that's weaker than the bipartisan FRONTIER Act already in Congress. From the other side, former White House A.I. adviser David Sacks says it would sweep in too many startups. Anthropic's federal affairs lead says the preemption language was "not precise enough" and will be rewritten, and that proposals on independent evaluators are coming.
+> source: The Next Web, "Anthropic to rewrite part of its leaked AI bill after safety backlash" (Oct 20); Semafor, "Anthropic's leaked AI bill sparks backlash" (Oct 20); Politico, "Anthropic quietly pitches its own AI safety bill to lawmakers" (Oct 16); Anthony Cimino on X (Oct 18)
+
+## Cybersecurity | sting=cyber
+// Story 10: ConnectWise
+[andrew] Cyber desk. For anyone whose I.T. provider uses ConnectWise: its Cloud Backup service is still offline almost a week after attackers abused a stolen vendor credential to get into customers' Microsoft three sixty-five accounts. ConnectWise has reset accounts and replaced credentials, and says existing backups are preserved with no sign they were accessed. Security firm Huntress found a second compromised account where the intruder made itself a global administrator and planted backdoor keys. Don't reconnect until ConnectWise says so.
+// Story 11: Hannaford restored
+[andrew] And a follow-up with a local angle: Hannaford's website, app and To Go pickup and delivery are back online after a week-long outage tied to the cyberattack on its parent company. Rewards members get ten dollars off a hundred-dollar order through October twenty-eighth.
+> source: The Hacker News, "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident" (Ravie Lakshmanan, Oct 20); Dark Reading, "ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs" (Alexander Culafi, Oct 20); WMUR, "Back online: Hannaford website, app restored after outage" (Lauren Blois, Oct 20); Sun Journal (Oct 20)
+
+## From Your X Feed | sting=x
+[ava] From your X feed this past hour or so.
+[andrew] Kimmonismus flagged Krea three Ultra, from independent lab Krea, landing among the giants on the Artificial Analysis image-editing leaderboard. It's essentially tied with Microsoft's model, just behind Google's and OpenAI's.
+[ava] Variety reports Christopher Nolan's The Prestige is coming back to theaters, with its first-ever IMAX and seventy-millimeter screenings.
+[andrew] Levelsio says he vibe-coded his own Spotify with Claude Code, a jukebox that plays his own M.P.3 collection through Amazon's Alexa. In his words: it worked.
+[ava] And from Fifty Years Ago Live, a New England milestone: on this date in nineteen seventy-six, the Hartford Times, the city's evening paper since eighteen seventeen, printed its last edition.
+> source: Harry's X home timeline Oct 20 ~11:45 AM-1:00 PM ET (@kimmonismus, @Variety, @levelsio, @50YearsAgoLive); Artificial Analysis, AA-Image-Editing v2.1 leaderboard
+
+## Local News & Events | sting=local
+[ava] Closer to home, state police say blinding sun glare caused two chain-reaction crashes that shut Route one-oh-one in Raymond for an hour on Sunday. Bystanders pulled one driver from a car; that person had minor injuries.
+[ava] That nor'easter forming off the Carolinas will stay well offshore, so New Hampshire should stay mostly dry and seasonable this week, with rough surf at the coast late in the week.
+[ava] And Thursday at one, PBS Ciao Italia host Mary Ann Esposito gives a free slide show and book signing at the Nashua Senior Center on Temple Street. Seating is limited, so call ahead to reserve.
+> source: WMUR, "Officials release cause of two multi-vehicle crashes that shut down part of Route 101" (Lauren Blois, Oct 20); WMUR, "Nor'easter to stay offshore, no significant impacts expected in New Hampshire" (Oct 20); Ciao Italia, "Slide Show & Book Signing, Nashua, NH" (Oct 22)
+
+## Uplifting Story | sting=feel
+[ava] And finally, a kindness that kept going. In Maricopa, Arizona, eighteen-year-old Jordan Hope noticed an older man with a walker struggling outside a Walgreens, and gave him the size-thirteen slides off his own feet. A witness posted the moment online. What the camera didn't catch: Hope went into the store with him, helped him pick up a prescription, bought him a bag of peanut M&Ms, called him a ride and followed it home to make sure he got inside. The man, whom he calls Mr. Roy, is eighty and recently lost his wife. Now the two are friends, with plans for meals and church, and a fundraiser Hope started for Mr. Roy's groceries and medicine has passed nineteen thousand dollars.
+> source: Yahoo/Backyard Garden Lover, "Arizona Teen Gives a Stranger His Shoes and Finds a New Friend After Act Goes Viral" (Olivia Richman, Oct 20), citing FOX 10 and ABC15
+
+## Close | sting=close
+[ava] That's your Tuesday one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Next update around four.
+[ava] Ask your Gumshoe for more on any story.
