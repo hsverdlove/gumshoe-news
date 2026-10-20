@@ -1,0 +1,83 @@
+// Gumshoe script format: see README.md
+# title: Tuesday Morning, Oct 20
+# description: The Tuesday morning bulletin from Gumshoe News Radio for October 20, 2026: an eight-billion-dollar fuel relief program for farmers, a seven-hour hearing in the D.C. golf course fight, doubts about the promised five-thousand-dollar checks; Houthi strikes on Saudi oil and airports with British jets reportedly on the way, a Reuters report on Iran's midterm strategy, Russia's overnight barrage as Zelenskyy meets U.S. envoys in Oslo, a calmer night in Paris, and Alberta voting to stay in Canada; futures mixed as chip stocks slip again, with Netflix and SpaceX reporting tonight; Japan's launch to the moons of Mars and a Revolut outage; a federal DeepSeek ban and OpenAI's race to raise money; hijacked backup-software updates and a backdoored WordPress plugin; your X feed with dhh, Cremieux in Tokyo, and metals that shrug off extreme cold; New Hampshire's ballot-counter hearing, a Harris endorsement and Londonderry trick-or-treat hours; and a fifteen-year-old who used his CPR training to save a life. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Tuesday, October twentieth, and this is your Gumshoe News Radio morning bulletin. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Chip stocks are slipping again this morning, Ava, and oil is climbing. Big earnings tonight, too. More in a few minutes.
+[ava] First, the forecast for Londonderry.
+@weather
+
+## US News | sting=us
+// Story 1: Harvest Fuel Relief
+[ava] We start with farm country. The Agriculture Department announced an eight-billion-dollar Harvest Fuel Relief Program, one-time payments to help farmers with the soaring cost of diesel and other supplies this harvest. President Trump unveiled it at his Kansas rally last night. Payments will follow a formula based on planted acres and government cost and price estimates, not farmers' actual fuel bills, and rates for the major crops are due in November. Agriculture Secretary Brooke Rollins says it brings certainty to farmers at harvest. Skeptics note it lands two weeks before the midterms, and that fuel prices are high largely because of the war with Iran.
+// Story 2: Golf course hearing
+[ava] In Washington, the East Potomac golf course hearing ran seven hours. Judge Ana Reyes signaled she'll likely extend her order blocking more tree cutting, saying she doesn't buy the government's argument that the felling of over four hundred trees was unrelated to the president's renovation plan. Government lawyers told her there's no plan to close the course, and the acting Park Service director testified she first learned of a closure from the president's social media post. President Trump calls the course old and tired and says Interior can renovate it without approval.
+// Story 3: $5,000 checks
+[ava] On the campaign trail, the Associated Press finds even some Trump supporters doubt the five-thousand-dollar checks he's promised every adult citizen if Republicans keep Congress. The president says the payments will happen. Congress would have to approve the roughly one-point-two-trillion-dollar cost, and a Treasury official has acknowledged there's no funding plan yet.
+> source: USDA, "Trump Administration Announces $8 Billion Harvest Fuel Relief Program" (Oct 19); Agri-Pulse, "Trump administration to pay farmers $8 billion in relief for fuel, input costs" (Noah Wicks, Oct 19); Idaho Public Press on the payment formula; Wichita Eagle (Oct 19); NBC News, "Judge leans toward extending halt on tree clearing at DC golf course" (Oct 19); NPR (Rachel Treisman, Oct 20); AP, "Even some Trump supporters don't expect to get $5,000 checks after midterms" (Oct 20); Reuters explainer on the $5,000 dividend; Yahoo Finance on Treasury funding
+
+## International | sting=world
+// Story 5: Houthis vs Saudi Arabia
+[ava] Overseas, the war between Yemen's Houthi rebels and Saudi Arabia is widening. The Iran-backed Houthis claim six attacks in two days on Saudi targets, including Aramco oil facilities at Yanbu, the Shaybah oil field and the main airport in Riyadh. Saudi Arabia hasn't commented, and the damage claims aren't independently confirmed. The Houthis say they're retaliating for more than two hundred Saudi air strikes. The kingdom has now postponed its big Future Investment Initiative conference to next year. And Bloomberg reports Britain will send Royal Air Force Typhoon jets to help defend Saudi cities and infrastructure; the British defense ministry hasn't confirmed.
+// Story 6: Reuters on Iran's strategy
+[ava] On Iran itself, Reuters quotes three senior Iranian officials who say Tehran is deliberately dragging out talks with Washington to deny President Trump a win before the midterms, and is preparing for renewed attacks rather than a deal. The White House didn't respond. The president has said the U.S. won't bomb Iran again before November third, and that oil prices will fall after the election.
+// Story 7: Ukraine
+[ava] In Ukraine, Russia launched another overnight barrage of drones and missiles. Officials say at least seven people were killed, including three at a warehouse near Kyiv, and power went out in parts of twelve regions. Today President Zelenskyy is in Oslo meeting U.S. envoy Steve Witkoff and Nordic leaders, with Jared Kushner joining by video, ahead of a planned Witkoff trip to Moscow. Zelenskyy accuses Washington of holding up Patriot interceptors that allies paid for. The administration says its recent moves are meant to keep Russia at the bargaining table.
+// Story 8: France, Alberta
+[ava] In France, Paris had a calmer night under its first curfew, and the prime minister says the restrictions helped. Local officials decide tonight whether to renew them. A suspect has been arrested over the fire at the city hall in Limoges, according to French media.
+[ava] And in Canada, Alberta voters rejected starting down the road to independence, about seventy-six percent to twenty-four with most votes counted. Premier Danielle Smith welcomed the result.
+> source: Xinhua, "Houthis claim new attacks on Saudi Arabia as Riyadh postpones its flagship investment conference" (Oct 20); Saba (Houthi statement, Oct 19); Reuters via Jerusalem Post, "UK to defend Saudi Arabia against Houthi attacks, Bloomberg reports" (Oct 20); CNBC on oil (Oct 20); Reuters, "Iran prolongs talks in stalemate to influence US midterms, officials say" (Parisa Hafezi, Oct 20); AP, "A Russian missile and drone blitz kills 7 in Ukraine as Zelenskyy seeks help in Norway" (Oct 20); RTÉ (Oct 20); Ukrainska Pravda / Ukraine Air Force (Oct 20); TSN / Ukrenergo (Oct 20); AFP, "Zelensky, US envoys to hold Oslo talks as Ukraine claims US missile holdup" (Oct 20); Kyiv Post (Oct 20); The Independent France live (Oct 20); BBC, "Suspect arrested after Limoges town hall set alight" (Oct 20); AP, "Alberta rejects a move toward independence from Canada" (Oct 20)
+
+## Markets In Depth | sting=markets
+[andrew] Markets, Ava. Futures are mixed. Nasdaq one hundred futures are down about three- to four-tenths of a percent, S and P futures roughly flat, and Dow futures up about two-tenths.
+[andrew] Yesterday the Nasdaq closed up one point one percent and the S and P four-tenths, while the Dow ended about flat. Nvidia rose one and a half percent and Tesla nearly four.
+[andrew] This morning, the A.I. worries are back. In South Korea, a data center company called Elice fell about thirty percent in its trading debut, and the Kospi dropped nearly four percent, led by memory makers. Here, Micron and Sandisk are down two to three percent before the bell, and CoreWeave about three. In Europe, chip equipment maker A.S.M.L. is off two and a half percent.
+[andrew] Oil is the other weight. Brent touched a hundred and eleven dollars on the Houthi attacks on Saudi Arabia, up about thirteen percent this month, with U.S. crude around a hundred and four. More Russian supply is keeping a lid on prices. The ten-year Treasury yield is near five point one three percent, the dollar index around one oh one point eight, gold near forty-one twenty-five, and bitcoin about eighty-one thousand five hundred.
+[andrew] Earnings: General Motors, G.E. Aerospace and R.T.X. this morning, then Netflix and SpaceX after the close. Analysts expect SpaceX revenue near thirteen billion dollars, about half from A.I. computing, with heavy spending the big question. Netflix shares are down about a quarter this year. On the data side, there's housing starts, and the Fed meets next week; futures point to no change.
+> source: CNBC live updates, "Stock futures are mixed as chipmakers come under pressure" (Lee Ying Shan and Fred Imbert, 6:32 AM ET Oct 20); Barron's live coverage (Oct 20); TipRanks, "Stock Market Today, Oct. 20" (5:34 AM ET); FXStreet (Oct 20); WSJ live coverage (Oct 20); CNBC, "South Korea's Elice plunges 30% in market debut" (Oct 20); CNBC on the dollar (Oct 20); FXStreet on gold (Oct 20); ATFX market highlights (Oct 20); Economic Times and TokenPost SpaceX previews; Investopedia earnings preview
+
+## Technology | sting=tech
+// Story 9: MMX launch
+[andrew] Tech desk, and a space first in the making. Japan launched its Martian Moons Exploration mission before dawn on an H3 rocket. JAXA says the spacecraft separated and is on course for Mars, arriving next August. The plan is to land on Phobos, the larger moon, with a rover from France and Germany, scoop up soil and bring it home by twenty thirty-one. No one has ever sampled a Martian moon.
+// Story 10: Revolut outage
+[andrew] And if you use Revolut, the fintech app suffered a worldwide outage this morning that knocked out most of its services; the company says it's working on a fix.
+> source: JAXA, "Launch result of the Martian Moons eXploration (MMX) spacecraft aboard H3 Launch Vehicle flight No.10" (Oct 20); AP (Oct 20); NHK World (Oct 20); ESA, "MMX lifts off to Mars's moon Phobos"; BleepingComputer, "Revolut outage disrupts online banking operations worldwide" (Sergiu Gatlan, Oct 20)
+
+## Artificial Intelligence | sting=ai
+// Story 11: DeepSeek
+[andrew] In A.I., two DeepSeek stories pulling opposite ways. The Wall Street Journal reports Homeland Security has ordered federal civilian agencies to remove DeepSeek products, including outside tools built on its models, and bars agencies from buying them. Meanwhile, DeepSeek open-sourced DeepInfer, the software it uses to run its own models at scale, with support for both Nvidia and Huawei chips. Fans say that makes open models cheaper to run; security officials worry about Chinese tech inside government systems.
+// Story 12: OpenAI fundraising
+[andrew] And Reuters reports OpenAI is speeding up a roughly thirty-billion-dollar funding round that could value it at more than one point four trillion dollars, trying to lock in investors before Anthropic's expected I.P.O. next month.
+> source: WSJ, "DHS Orders Federal Civilian Agencies to Remove China's DeepSeek AI" (Oct 20); Federal Register notice 2026-21447 (Oct 20); DeepSeek open-infra-index on GitHub; IT Home (Oct 20); Blockchain.News (Oct 20); Reuters via Euronext, "OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say" (Oct 19); Business Standard (Oct 20)
+
+## Cybersecurity | sting=cyber
+// Story 13: AOMEI
+[andrew] Cyber desk. If your company uses AOMEI Backupper, Google's Mandiant and ManageEngine say attackers secretly tampered with AOMEI's own update servers between May and July, for windows of just five to ten minutes, to push a backdoor to computers checking for updates. Victims were found in the U.S. and five other countries. AOMEI says its C.T.O. is investigating. Researchers stress that securing the servers doesn't clean machines that already got the malware, so check the published indicators.
+// Story 14: Rank Math and briefs
+[andrew] And WordPress site owners: Rank Math PRO version three point oh point one twenty-three, downloaded during an eleven-hour window from last Thursday afternoon into Friday morning, carried a self-restoring backdoor. The free version isn't affected. Rank Math says to restore a clean backup, change all passwords, and update to the fixed release.
+> source: BleepingComputer, "Hackers hijack AOMEI update servers to secretly spread malware" (Lawrence Abrams, Oct 19); Google Threat Intelligence Group and ManageEngine METAL reports; Rank Math, "Rank Math PRO 3.0.123 Security Incident"; BleepingComputer, "WordPress SEO plugin Rank Math compromised to backdoor websites" (Bill Toulas, Oct 19); The Hacker News (Oct 2026)
+
+## From Your X Feed | sting=x
+[ava] Your X feed overnight was mostly France and politics. Beyond that:
+[andrew] Rails creator D.H.H. posted that Grok Bot is running his Omarchy Linux setup inside its own computer, so you can build plugins and apps for it there.
+[ava] Cremieux, traveling in Japan, said he tried to tip an especially good waiter in Tokyo by leaving cash. The waiter quietly took that amount off his credit card bill instead.
+[andrew] Engineers Feed highlighted research from U.C. Berkeley and Oxford finding niobium-titanium alloys, the kind in M.R.I. magnets, stay tough instead of brittle at minus four hundred twenty-four degrees Fahrenheit. We haven't reviewed the paper ourselves.
+[ava] And SpaceX had a Falcon 9 rideshare mission called Bandwagon five set to lift off from Florida at seven-oh-four this morning, with weather ninety-five percent favorable.
+> source: Harry's X home timeline Oct 20 ~12:40-6:55 AM ET (@dhh, @cremieuxrecueil, @engineers_feed, @SpaceX)
+
+## Local News & Events | sting=local
+[ava] Closer to home, WMUR expects a mostly dry week, with a chance of mountain showers late Thursday into Friday.
+[ava] In Concord, the state Ballot Law Commission heard claims about New Hampshire's new ballot counters. Nashua moderator John Cawthron testified his personal detector picked up radio signals from a machine during the September primary. Executives from the makers, VotingWorks and L.H.S., testified under oath that the counters have no modems and don't connect to the internet, and a cybersecurity expert said the signal likely came from another source. A voting-rights group called the hearing a distraction; the citizens who raised it want independent third-party checks.
+[ava] In the governor's race, former Vice President Kamala Harris endorsed Democrat Cinde Warmington, who's challenging Republican Governor Kelly Ayotte. Harris campaigns in New Hampshire Saturday for Senate nominee Chris Pappas.
+[ava] And mark the calendar: local listings put Londonderry trick-or-treating on Halloween, Saturday the thirty-first, from six to eight p.m.; check the town's site for the final word.
+> source: WMUR weather videocast (Oct 20); WMUR, "Ballot Law Commission hears testimony on concerns about ballot counting machines" (Oct 19); WMUR, "Kamala Harris endorses Cinde Warmington for governor ahead of New Hampshire visit" (Oct 20); SNH Vibe, NH Trick-or-Treat Times 2026; New Hampshire Magazine trick-or-treat list
+
+## Uplifting Story | sting=feel
+[ava] And finally, a teenager who was ready when it counted. Fifteen-year-old Ethan, from Mansfield Woodhouse in England, has wanted to be a paramedic from a young age, and he'd just bought three CPR practice dummies so he could teach others. Two weeks later, walking home from a gardening job, he found a seventy-five-year-old man collapsed in the road in cardiac arrest. Ethan took charge of chest compressions, with an off-duty carer and a teacher taking turns, until paramedics arrived with a defibrillator. He's now recovering, and his family says Ethan helped save his life. Ethan is already running free CPR classes for scout groups, and his head teacher wants more pupils trained.
+> source: BBC News, "My dream of being a paramedic helped me save a life at 15" (Rebecca Brice, Oct 19)
+
+## Close | sting=close
+[ava] That's your Tuesday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. Next update around ten.
+[ava] Ask your Gumshoe for more on any story.
