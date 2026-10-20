@@ -60,4 +60,4 @@ episodes/ (MP3 + chapters JSON), bulletins/ (scripts), location.json (public: ci
 Requires: ffmpeg, edge-tts (`pip install --break-system-packages edge-tts`), gh/git logged in as hsverdlove.
 
 ## Pronunciation
-The tts() step respells tricky names before synthesis (PRONUNCIATIONS in make_bulletin.py). Anthropic is said with an "ah" sound, as in father (an-THRAH-pic), including in any longer name containing it. Add new fixes there, not in scripts.
+The tts() step respells tricky names before synthesis (PRONUNCIATIONS in make_bulletin.py). Anthropic is respelled "An-thropic" (o as in hoppy) and robotaxi as "robo-taxi" (row-bow-taxi), including in any longer name containing it. Add new fixes there, not in scripts.
