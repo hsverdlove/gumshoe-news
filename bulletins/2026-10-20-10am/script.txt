@@ -1,0 +1,81 @@
+// Gumshoe script format: see README.md
+# title: Tuesday 10 AM Update, Oct 20
+# description: The Tuesday ten o'clock update from Gumshoe News Radio for October 20, 2026: a record-low Reuters/Ipsos approval rating for President Trump, a new fraud whistleblower reward program due this afternoon, 300,000 visas revoked and a Supreme Court case on magnet-school admissions; Iran claims mines set two tankers ablaze near Hormuz, Britain confirms Typhoon patrols over Saudi Arabia, and Rubio rejects Kyiv's charges as Zelenskyy meets U.S. envoys in Oslo; stocks open slightly lower with GM, RTX and GE Aerospace earnings, oil near five-month highs and weak housing starts; Waymo's fleet expansion and Spotify's AI-music purge; an AI-designed scorpion antivenom experiment and China's reply to the DeepSeek ban; the Hannaford outage and a backdoored OVHcloud tool; your X feed with SpaceX, a high-mileage Bolt, a Fields medalist on AI and a broken-glass tip; Polar Caves' fallen boulder, Manchester graffiti and Halloween weekend events; and a cancer survivor who befriended his stem cell donor. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's ten o'clock on Tuesday, October twentieth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Stocks opened a touch lower, Ava, with A.I. names slipping again and oil holding near a five-month high. Details shortly.
+[ava] First, the forecast for Londonderry.
+@weather
+
+## US News | sting=us
+// Story 1: Reuters/Ipsos poll + Bessent
+[ava] In Washington, a new Reuters/Ipsos poll puts President Trump's approval at thirty-one percent, the lowest in that survey's tracking across both of his terms. Democrats lead the generic congressional ballot by twelve points, their widest margin this cycle. Polling averages are less stark, with his approval in the high thirties. And Treasury Secretary Scott Bessent said this morning that even a Democratic House could do, in his words, "very little" to stop the administration's agenda.
+// Story 2: Fraud whistleblower program
+[ava] This afternoon at one-thirty, the president and Vice President Vance plan to unveil a twenty-five-million-dollar fraud whistleblower program, according to a White House official quoted by Fox News. Tipsters could collect up to thirty thousand dollars if their information leads to a fraud conviction or a major enforcement action, with tips going through fraud dot gov. The president also plans to hand a ten-thousand-dollar check to Nick Shirley, the independent journalist whose videos on Minnesota day care centers drew national attention. The White House credits his work with spurring federal probes; critics dispute parts of it.
+// Story 3: Visas
+[ava] The State Department says it has now revoked more than three hundred thousand visas in the president's second term, up from two hundred fifty thousand at the end of September. It cites crimes, overstays, fraud and security risks.
+// Story 4: SCOTUS magnet schools
+[ava] And the Supreme Court will hear a challenge to the lottery-based admissions at four magnet middle schools in Montgomery County, Maryland. Mostly Asian-American parents argue the policy looks neutral but was meant to reduce their children's numbers. Lower courts sided with the board, noting Asian-American students are admitted above their share of applicants.
+> source: Reuters/Ipsos mid-October survey (Oct 16-19); USA Today, "Trump approval rating hits another career low in Reuters/Ipsos poll" (Fernando Cervantes Jr., Oct 19, updated Oct 20); Reuters, "Bessent says a Democrat-led Congress could do little to stop Trump agenda" (Oct 20); Fox News, "Trump puts fraudsters on notice with $25M whistleblower program" (Stepheny Price, Oct 20); White House pool schedule (Oct 20); New York Post, "Over 300K visas revoked so far in Trump's second term, State Department announces" (Oct 20); SCOTUSblog, "Justices take up case on race and school admissions" (Oct 2026); AP, "Supreme Court to hear case on race in middle school admissions" (Oct 19)
+
+## International | sting=world
+// Story 5: Hormuz mines
+[ava] Overseas, the shipping war around Iran escalated again. Iran's Revolutionary Guards say two tankers they call non-compliant hit Iranian mines south of the Strait of Hormuz and caught fire, and that Iran shot down an American drone overnight. Neither claim has been independently confirmed, and the Guards didn't say when the tankers were hit. At least eighteen merchant ships have come under fire in the past two weeks. Iran's Foreign Ministry says it would answer any U.S. strike in equal measure or more, while Qatar says talks between Tehran and Washington are still going on.
+// Story 6: Saudi Arabia, UK
+[ava] Next door, the Saudi-led coalition says it intercepted a Houthi missile fired toward Riyadh. And Britain has now confirmed this morning's report: R.A.F. Typhoon jets will fly defensive patrols over Saudi cities and infrastructure, but won't strike the Houthis.
+// Story 7: Ukraine, Rubio
+[ava] In Oslo, President Zelenskyy sat down with U.S. envoy Steve Witkoff, with Norway's and Finland's leaders. Beforehand, Secretary of State Marco Rubio pushed back hard on Kyiv's charge that Washington is deliberately withholding missile warnings, satellite service and interceptors, calling it "scandalous" and "simply not true." He says U.S. support hasn't changed, but interceptors are in short supply and America has its own needs. Ukraine says it got no early warning before three recent ballistic missile attacks.
+> source: Reuters via Devdiscourse, "IRGC says two tankers hit mines, set ablaze south of Hormuz" (Oct 20); Rudaw (Oct 20); CNBC, "U.S. crude oil tops $105, Brent crude at five-month highs" (Oct 20); Al Jazeera live (Oct 20); Arab News, "Coalition says it intercepted Houthi missile fired toward Riyadh" (Oct 20); GOV.UK, "Operational update 20 October: UK military support to the Kingdom of Saudi Arabia"; AP on UK air patrols (Oct 20); NBC News, "Zelenskyy meets with Trump envoys as U.S. blasts 'scandalous' accusations" (Yuliya Talmazan and Abigail Williams, Oct 20); Norwegian government statement (Oct 20); CBC News (Oct 20)
+
+## Markets In Depth | sting=markets
+[andrew] Markets, Ava. Stocks opened slightly lower. At the bell the Dow was flat near fifty-one thousand nine hundred sixty, the S and P five hundred down about a tenth of a percent near seventy-six eighty, and the Nasdaq down about four-tenths.
+[andrew] The A.I. trade is on the back foot again. CoreWeave and memory makers like Micron are lower, and chip stocks lag, while energy holds up with oil. Apple slipped about one percent after Loop Capital cut it to hold, citing slowing iPhone sales and a rich valuation.
+[andrew] Earnings are moving the big names. General Motors beat on profit and announced a twenty-billion-dollar buyback, but shares fell about five percent because it trimmed the top of its full-year outlook. R.T.X., the Raytheon parent, jumped on a big beat and raised its forecast, with a record backlog of three hundred forty billion dollars. G.E. Aerospace raised guidance, but cash flow came in light and the stock slipped early.
+[andrew] Oil: Brent is near a hundred ten seventy a barrel, around a five-month high. The expiring November U.S. crude contract spiked to a hundred ten fifty before easing to about a hundred five; the December contract is just under a hundred. The ten-year Treasury yield is around five point one four percent, the dollar index near one oh two, gold down about half a percent near forty-one twenty, and bitcoin just above eighty-one thousand.
+[andrew] On the data, September housing starts fell five point two percent to an annual pace of about one point two two million, a third straight drop. After the close: Netflix, SpaceX and United Airlines. Tesla and Meta report tomorrow.
+> source: Reuters, "Wall St opens lower as AI stocks decline, oil prices rise" (Oct 20, 9:30 AM ET); Yahoo Finance live (Ines Ferré and David Hollerith, 9:38 AM ET Oct 20); Barron's live coverage (Oct 20); WSJ live coverage (Oct 20, 9:37 AM ET); CNBC, "Stocks making the biggest moves premarket: RTX, GM, NOC, STLD" (Sarah Min, Oct 20); Investing.com premarket movers (Pranav Kashyap, Oct 20); Reuters on RTX, GM and GE Aerospace (Oct 20); CNBC on oil (Oct 20, 9:02 AM ET); CNBC on gold (Oct 20); ATFX (Oct 20); CoinDesk live (Oct 20); U.S. Census Bureau, New Residential Construction, September 2026 (Oct 20); Reuters on housing starts (Oct 20)
+
+## Technology | sting=tech
+// Story 8: Waymo
+[andrew] Tech desk. Waymo plans to use the five billion dollars it just borrowed, its first-ever debt deal, to roughly quintuple its robotaxi fleet: from about four thousand vehicles to eight thousand by year-end, and twenty thousand by the end of next year, according to Semafor.
+// Story 9: Spotify
+[andrew] And Spotify says it has pulled fifty million A.I.-generated "slop" tracks from listeners' recommendations this year, on top of more than seventy-five million A.I. songs it removed from the service entirely.
+> source: Semafor, "Waymo plans to quintuple its fleet" (Oct 19); Reuters via Investing.com (Oct 19); Waymo blog, "Waymo Closes $5 Billion Debt Financing" (Oct 2026); Variety, "Spotify Removes 50 Million AI Slop Tracks from Recommendations This Year" (Oct 20)
+
+## Artificial Intelligence | sting=ai
+// Story 10: Citrini antivenom
+[andrew] In A.I., an experiment worth hearing about. Citrini Research, an investment research firm with no drug-development background, published results this morning from working with Anthropic's internal research model to design new proteins against scorpion toxins. Over sixty-four hours, the model spun up more than three hundred sub-agents, designed two hundred eleven candidates with only a handful of human messages, and sent them off to a lab. The two best bound tightly to one toxin in test-tube experiments. The authors are candid: binding is not the same as neutralizing venom, and there are no animal tests yet.
+// Story 11: China on DeepSeek ban
+[andrew] And China is hitting back at the U.S. order removing DeepSeek from federal civilian agencies. Foreign Ministry spokeswoman Mao Ning says it ignores the understanding reached by Presidents Xi and Trump and politicizes technology, and that Beijing will defend Chinese companies. U.S. officials say the point is keeping Chinese-controlled software out of government systems.
+> source: Citrini Research, "We Wanted to Use Claude to Create a New Drug. Here's What Happened." (Oct 20); Anthropic, "Claude accelerates protein design and analytical chemistry"; AP, "China hits back at US ban of DeepSeek from government systems" (Oct 20); China Ministry of Foreign Affairs, regular press conference (Oct 20); Reuters (Oct 20)
+
+## Cybersecurity | sting=cyber
+// Story 12: Ahold Delhaize / Hannaford
+[andrew] Cyber desk, with a local angle. If you shop at Hannaford, its website, app and To Go pickup and delivery are still down about a week after a cyberattack on parent company Ahold Delhaize, which also owns Stop and Shop. Stores are open, and Hannaford is pointing online shoppers to Instacart, DoorDash or Uber Eats. Ahold says U.S. online services should be back in the coming days, and so far it has found no evidence customer data was stolen, though the investigation continues.
+// Story 13: OVHcloud CLI
+[andrew] And for developers: OVHcloud says an attacker hijacked a developer's GitHub account and slipped info-stealing malware into versions zero point eleven through zero point fifteen of its command-line tool on Monday. Version zero point sixteen is clean. If you installed a bad version, clean the machine and change every secret stored on it.
+> source: BleepingComputer, "Ahold Delhaize: Cyberattack affects services across US and Europe" (Sergiu Gatlan, Oct 20); Ahold Delhaize newsroom, status update (Oct 19); WABI, "Hannaford website, app and To-Go services down" (Oct 19); Portland Press Herald (Oct 19); BleepingComputer, "OVHcloud CLI releases backdoored on GitHub to steal developer secrets" (Oct 20)
+
+## From Your X Feed | sting=x
+[ava] From your X feed this morning.
+[andrew] SpaceX's Bandwagon five rideshare lifted off on time just after seven, and the first-stage booster landed on the droneship A Shortfall of Gravitas. Photographer Asher B. Photos noted it carried thirty-two payloads and lit up the dawn sky with a jellyfish glow.
+[ava] Autoblog highlighted a Chevy Bolt E.V. that went four hundred seventy thousand miles before it needed a new battery.
+[andrew] Kimmonismus shared a clip of John Pardon, one of this year's Fields Medal winners, saying A.I. can follow even his roughest proof drafts, spot the flaws, and establish nontrivial results. We haven't seen the full interview.
+[ava] And Engineers Feed's life tip: if you break glass on the floor, turn off the lights and hold a flashlight low, parallel to the floor. The shards light up.
+> source: Harry's X home timeline Oct 20 ~6:50-9:55 AM ET (@SpaceX, @asherbphotos, @therealautoblog, @kimmonismus, @engineers_feed)
+
+## Local News & Events | sting=local
+[ava] Closer to home, a New Hampshire landmark has come down. Polar Caves Park in Rumney says its famous hanging boulder, which had hung over the Boulder Maze trail for over a century, fell on Sunday, the last day of the season. No one was hurt. The park will assess the damaged trail over the winter.
+[ava] In Manchester, police are investigating about fifteen reports of antisemitic, racist and homophobic graffiti sprayed on homes, cars and fences in three neighborhoods. No arrests yet; police want any surveillance video.
+[ava] For the weekend: the Witch of Weston Tower is back at McIntyre Ski Area in Manchester Friday through Sunday, with chairlift and tractor rides to the tower. Downtown Nashua's Main Street Monster Mash brings trick-or-treating and a pet costume parade Saturday from eleven to one. And here in Londonderry, Leach Library hosts a wool-felted pumpkin craft for adults Saturday at two.
+> source: WMUR, "Historic hanging boulder falls in Polar Caves Park in NH" (Oct 19); WCAX (Oct 20); NHPR, "Manchester police investigating offensive graffiti found across city" (Oct 18); WMUR (Oct 2026); McIntyre Ski Area, Witch of Weston Tower 2026; Downtown Nashua Association, Main Street Monster Mash; Visit NH events calendar; Leach Library calendar, Adult Craft: Wool Felted Pumpkin (Oct 24)
+
+## Uplifting Story | sting=feel
+[ava] And finally, a friendship that started with a cotton swab. David Nichols was living in New York in twenty twenty when he was diagnosed with lymphoblastic lymphoma and needed a stem cell transplant from an anonymous donor. Five years later, back home in Norfolk, England, and feeling ready, he wrote to that donor: Tobias Killie, from Germany. Killie's wife wrote back that he was overwhelmed, and arranged a meeting. They bonded over football, watched Norwich City together this weekend, and they now say they're like family. Today Nichols is urging people to join the donor register; it takes a few painless mouth swabs.
+> source: BBC News, "Stem cell donation leads to a new European football friendship" (Oct 2026); DKMS UK
+
+## Close | sting=close
+[ava] That's your Tuesday ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Next update around one.
+[ava] Ask your Gumshoe for more on any story.
