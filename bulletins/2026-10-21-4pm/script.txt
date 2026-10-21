@@ -1,0 +1,72 @@
+// Gumshoe script format: see README.md
+# title: Wednesday 4 PM Update, Oct 21
+# description: The Wednesday four o'clock update from Gumshoe News Radio for October 21, 2026: a chemical leak forces evacuations in Toledo and Senate Democrats want Elon Musk to testify on Ukraine's satellite slowdown; the U.S. readies Gulf embassy departures, Zelensky backs freezing the front line, and El Salvador launches a rescue operation in Haiti; stocks close higher on SpaceX and Super Micro ahead of Tesla and Meta earnings; Meta ordered to pay New Mexico $25 billion and EA closes BioWare; Anthropic's always-on Claude Duet; the White House cybercrime roundtable; your X feed; New England's heating-oil reserve release and an offshore nor'easter; and a beach cleaner honored for saving a life. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon. It's four o'clock on Wednesday, October twenty-first, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. We've got the closing bell, a twenty-five-billion-dollar penalty for Meta, and some heating-oil relief for New England.
+[ava] First, the latest forecast for Londonderry.
+@weather
+
+## US News | sting=us
+// Story 1: Toledo chemical leak
+[ava] In Ohio, about a thousand people in north Toledo are out of their homes after a chemical leak at an industrial site on Progress Avenue. City officials say the chemical is glycidyl methacrylate, used to make plastics and coatings, and that it escaped during a transfer error. There's a one-mile evacuation zone and a three-mile shelter-in-place zone covering more than fifty thousand people, who are being told to stay inside, seal windows and doors, and shut off outside air. The E.P.A. is monitoring the air.
+// Story 2: Musk and the Senate
+[ava] In Washington, Senate Democrats led by Adam Schiff want Elon Musk to testify under oath, after the Wall Street Journal reported he personally ordered the slowdown of Starshield, the SpaceX military satellite service Ukraine's forces rely on. Schiff says either the President or Musk hasn't told the full story; Musk had suggested any limits came from the White House, and President Trump denies that. Republicans control the Senate, so Democrats can't force a hearing on their own, and Musk's supporters call the push political targeting ahead of the midterms.
+> source: City of Toledo, "Hazardous Materials Evacuation and Shelter-in-Place Orders in Effect" (Oct 21); EPA On-Scene Coordinator, "Toledo Glycidyl Methacrylate Release"; AP, "Chemical tank leak in Ohio forces evacuations as city allows plume to vent" (Oct 21); NBC News (Oct 21); The Hill, "Democrats call for investigation into Musk over reported Starlink slowdown order" (Oct 21); WSJ, "Musk Ordered Starlink Slowdown That Blindsided Ukraine" (Oct 20); Benzinga (Oct 21)
+
+## International | sting=world
+// Story 3: Gulf embassy departures
+[ava] Overseas, Reuters reports the State Department is preparing to order some staff and families out of U.S. embassies across the Gulf, citing three U.S. officials. Two of them say it could mean evacuating everyone from the U.S. mission in Saudi Arabia. The worry is a fresh round of Houthi attacks; the U.S. embassy in Riyadh issued a new alert today after recent deadly strikes, including on Riyadh's airport. The order hasn't been issued yet, and the State Department hasn't confirmed the plan.
+// Story 4: Zelensky on a freeze
+[ava] On Ukraine, President Zelensky told Fox News that freezing the fighting along the current front line is, in his words, the real way to end this war, as a first step toward a ceasefire. He says Kyiv must be at the table and wants security guarantees from Washington and Europe. Critics say a freeze would leave Russia holding the land it has taken, and it's not clear Moscow would agree. Zelensky also says Ukraine's satellite service is still limited, though Secretary Rubio told him he'd work to unblock it.
+// Story 5: El Salvador in Haiti
+[ava] In Haiti, El Salvador has launched a military operation to rescue four of its aviation technicians, part of the U.N.-backed gang suppression force, who went missing after their armored vehicle was ambushed Sunday outside Port-au-Prince. President Bukele, in a message translated into Haitian Creole, told the gangs the men are medevac crew, not combatants, and warned that today's operation is nothing compared with what's coming if they aren't returned unharmed. The force says several suspected gang members were killed. The four have not been found.
+> source: Reuters via Al-Monitor and The Straits Times, "US preparing to issue ordered departure of some personnel from Gulf embassies" (Oct 21); ABC News (Oct 21); Euronews, "Zelenskyy backs freezing front line as first step towards Ukraine ceasefire" (Simon Ormiston, Oct 21); Infobae (Thania Urías, Oct 21); Noticias SIN (Oct 21)
+
+## Markets In Depth | sting=markets
+[andrew] The closing bell, Ava. Stocks finished higher as the A.I. trade came back. In late trading the S and P five hundred was up about half a percent near seventy-seven fifty-three, the Dow up about a hundred fifty points near fifty-two thousand six fifty, and the tech-heavy Nasdaq one hundred up about one point three percent. Tech led every sector.
+[andrew] SpaceX did the heavy lifting, up about ten percent and adding roughly two hundred billion dollars in market value in a day, after revenue jumped a hundred sixty-one percent and it guided next quarter far above Wall Street's estimates. Super Micro gained nearly ten percent on a higher sales outlook. On the losing side, AT&T fell about six percent despite beating estimates, as investors worry about Starlink as a wireless rival, Netflix slid five percent on its forecast, and Abbott dropped after trimming its outlook and announcing plans to spin off its nutrition business.
+[andrew] The ten-year Treasury yield held near five point one percent, Brent crude eased to about a hundred eight dollars even after a bigger-than-expected drop in U.S. oil stockpiles, gold was near forty-one fifty, and Bitcoin rose about two percent to around eighty-four thousand.
+[andrew] After the bell: Tesla, Meta, I.B.M., Lam Research and Texas Instruments. For Tesla, analysts polled by L.S.E.G. expect forty-three cents a share on about twenty-seven point nine billion dollars in revenue, and investors want updates on self-driving and the Cybercab. Results are coming out as we go to air. Watch Meta for word on a report from Semafor that it may create nonvoting shares to raise money for its A.I. build-out without diluting Mark Zuckerberg's control.
+> source: MarketDash, "SpaceX Rockets 10% And Restarts The AI Trade As Nasdaq 100 Climbs 1.3%" (Oct 21); Reuters via Yahoo Finance, "Nasdaq climbs over 1% as SpaceX, Super Micro boost AI sentiment" (Oct 21); AP (Oct 21); Semafor, "Meta plans nonvoting shares, eyeing more stock sales to fund its AI dreams" (Oct 21); CNBC, "Tesla earnings loom after Musk calls SpaceX merger a 'good idea'" (Lora Kolodny, Oct 21)
+
+## Technology | sting=tech
+// Story 7: Meta $25B
+[andrew] Tech. A New Mexico judge has ordered Meta to pay twenty-five billion dollars, the biggest penalty the company has ever faced. A jury found last month that Facebook misled users in the state about who could reach their data, in a case that grew out of the Cambridge Analytica scandal, and about how it handles harmful content. Judge Francis Mathew said state law would have allowed more than two hundred nineteen billion, but cut it to twenty-five, with fifteen percent yearly interest until paid. The state attorney general calls it a warning to Big Tech. Meta has argued a penalty that size violates its constitutional protections against excessive fines, and an appeal is expected.
+// Story 8: BioWare closes
+[andrew] And a sad day for gamers. Electronic Arts is closing BioWare, the studio behind Mass Effect, Dragon Age and Star Wars: Knights of the Old Republic, after thirty years, and canceling the next Mass Effect. It's part of about four hundred job cuts reported by Bloomberg, after E.A.'s fifty-five-billion-dollar sale to investors led by Saudi Arabia's sovereign fund. E.A. says it's betting on fewer, bigger games like Marvel's Iron Man and the next Star Wars Jedi.
+> source: NBC News / Reuters, "Meta ordered to pay $25 billion to New Mexico" (Oct 21); CNBC (Jonathan Vanian, Oct 21); AP (Oct 21); The Verge, "EA is shutting down BioWare" (Jay Peters, Oct 21); BioWare Blog, "BioWare Update" (Oct 21); Variety (Oct 21)
+
+## Artificial Intelligence | sting=ai
+// Story 9: Claude Duet
+[andrew] In A.I., Anthropic has joined the race for always-on assistants. It's opening a research preview of Claude Duet, a separate app you message like a person. It watches your connected email, calendar and work tools, sends a morning brief, keeps working on its own cloud computer after you close the app, and is designed to ask before it sends a message, makes a payment, signs a document or deletes anything. It's rolling out by waitlist to U.S. Pro and Max subscribers, with background work counting against usage limits. Kimmonismus on your feed noted it puts Anthropic up against similar always-on agents from OpenAI and Meta.
+> source: 9to5Mac, "Anthropic takes on ChatGPT Dots and Meta Muse with Claude Duet" (Marcus Mendes, Oct 21); Claude by Anthropic, product announcements (Oct 21)
+
+## Cybersecurity | sting=cyber
+// Story 10: White House cybercrime roundtable
+[andrew] Cyber desk. President Trump held a White House roundtable this afternoon on scams run from overseas, with the attorney general, the F.B.I. director and the Homeland Security and Defense secretaries. The administration says its Homeland Security Task Force has frozen about eight hundred thirty-three million dollars in crypto tied to foreign scam centers, seized five hundred three fake crypto-investment websites, and warned nearly nine thousand Americans who were actively being scammed. The President put the losses prevented this year at one point six billion dollars or more. Critics point to a Reuters investigation finding the Trump family has made at least two point three billion dollars from crypto ventures, and say that's a conflict as the government shapes crypto enforcement. The White House says every action is in the public's interest.
+> source: NewsNation, "President Trump to hold cybercrime roundtable" (Oct 21); CoinDesk (Jesse Hamilton, Oct 21); Reuters via StreetInsider, "Trump to tout crackdown on overseas crypto scams" (Courtney Rozen, Oct 21); UPI (Oct 21); @RapidResponse47 on X, President Trump remarks (Oct 21)
+
+## From Your X Feed | sting=x
+[ava] From your X feed since one.
+[andrew] Rhensing, who runs a small Tesla fleet, says three of his four cars are past a hundred thousand miles, one nearly at two hundred thousand, and the high-mileage batteries still hold eighty-three to eighty-five percent of their capacity.
+[ava] Variety reports Tom Cruise will get the American Film Institute's Life Achievement Award next April, and that H.B.O. is developing a Poison Ivy series with "The Penguin" showrunner Lauren LeFranc producing.
+[andrew] Brian Roemmele posted a photo of a row of glass vacuum tubes from the ENIAC computer, the switches that made it thousands of times faster than mechanical relays.
+[ava] And a nice one shared by Interesting All: in Ankara, Turkey, sanitation workers began saving books thrown in the trash, and it grew into a public library of about twenty-five thousand volumes inside a restored brick factory.
+> source: Harry's X home timeline Oct 21 ~1:00-3:55 PM ET (@rhensing, @Variety, @BrianRoemmele, @interesting_aIl, @kimmonismus)
+
+## Local News & Events | sting=local
+[ava] Closer to home, some relief on heating oil. The Energy Department will loan out up to three hundred fifteen thousand barrels, about a third of the Northeast Home Heating Oil Reserve, from storage in South Portland, Boston and New Haven, with deliveries by November thirteenth. Companies have to return the oil later, plus a premium. Maine's Senators Collins and King, who pushed for it, say it adds about thirteen percent to New England's supply; a Maine state study found heating oil prices up seventy-four percent in a year. The reserve has only been tapped twice in its twenty-six years, and never before just to lower prices.
+[ava] Offshore, that nor'easter has a fifty-fifty chance of becoming Subtropical Storm Josephine. It's expected to stay well out to sea, with gusty winds and rough surf mostly for Cape Cod and the islands, and to move away by Friday.
+[ava] And if you're out Saturday night, the Conniption Fits play the Stumble Inn here in Londonderry at eight.
+> source: Department of Energy, "Energy Department Authorizes Exchange from Northeast Home Heating Oil Reserve" (Oct 21); WABI, "DOE to release 315,000 barrels from Northeast heating oil reserve" (Oct 21); Reuters via Investing.com (Oct 21); National Hurricane Center Tropical Weather Outlook (Oct 21); USA Today (Oct 21); Spotify concert listing, The Conniption Fits at The Stumble Inn Bar & Grill (Oct 24)
+
+## Uplifting Story | sting=feel
+[ava] And finally, the right person in the right place. Peter Jones cleans the beach in Sheerness, on England's Kent coast. He was driving his seafront truck along the promenade when he saw a man, one of the regulars, collapse while chatting with two women who didn't know what to do. Jones jumped out and started C.P.R., and kept it up for ten minutes until the ambulance came. Paramedics got the man's heart going again after three shocks from a defibrillator, and he's made a full recovery. He's back riding his bike along the seafront, and he's thanked the man who saved him. Now Jones is getting a national lifesaving award from the Royal Humane Society.
+> source: BBC News, "Beach cleaner honoured for saving man's life" (Daniel Sexton, Oct 21)
+
+## Close | sting=close
+[ava] That's your Wednesday four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Tomorrow morning: what Tesla and Meta reported, and how the market takes it.
+[ava] Ask your Gumshoe for more on any story.
