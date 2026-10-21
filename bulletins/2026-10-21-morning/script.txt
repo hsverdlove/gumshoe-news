@@ -1,0 +1,77 @@
+// Gumshoe script format: see README.md
+# title: Wednesday Morning, Oct 21
+# description: The Wednesday morning bulletin from Gumshoe News Radio for October 21, 2026: Florida's 18th execution of the year, Rubio says Ukraine's Starlink access is up to Musk, a "dividend" idea for data-center towns and NBA opening night; Russia frees American Stephen Hubbard as Witkoff meets Putin, Iran's seven-day Hormuz offer, and a UN report on warming; futures climb on SpaceX's blowout quarter ahead of Tesla and Meta; Nvidia's factory-built AI data centers and the Boeing 737 Max 10 cleared to fly; Dario Amodei on holding back Mythos; emergency PHP patches due at 10 a.m.; your X feed with DHH, Eric Raymond, Ozzy Osbourne and a 1940s flying car; an Exit 4A ruling in Londonderry, a canceled Silver Alert and an early flu season; and Olly, the hedgehog with no prickles. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Wednesday, October twenty-first, and this is Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Futures are up on a huge SpaceX quarter, and Tesla and Meta report tonight.
+[ava] First, the forecast for Londonderry.
+@weather
+
+## US News | sting=us
+// Story 1: Reaves executed
+[ava] We start with a follow-up. Florida executed seventy-seven-year-old William Reaves last night. He was pronounced dead at six-twelve p.m. at Florida State Prison, for the nineteen eighty-six killing of Indian River County Deputy Richard Raczkowski. It's Florida's eighteenth execution this year, one short of last year's state record, with another scheduled for November. The sheriff called it justice for the deputy's family; more than a hundred military veterans had asked Governor DeSantis for mercy, noting the V.A. rated Reaves, a Vietnam veteran, one hundred percent disabled by P.T.S.D., something his jurors were never told.
+// Story 2: Starlink
+[ava] On Ukraine's satellite internet: the Wall Street Journal reported Tuesday that Elon Musk ordered a slowdown of the military-grade Starlink service Ukraine relies on against Russian missiles, and that Musk and President Trump discussed it. Speaking in India this morning, Secretary of State Rubio said he wasn't aware of the decision beforehand, and that access is governed by a private contract and is up to SpaceX. That's a shift from Saturday, when he said nobody ordered a slowdown. Reuters, citing U.S. and Western officials, says the decision ultimately came from the White House, which the administration denies. Musk and SpaceX haven't commented.
+// Story 3: Data center dividend
+[ava] President Trump, on Truth Social, said companies that want data centers to be popular should pay a "dividend" to the community or to residents, saying projects have flipped from unpopular to popular once a financial deal is struck. Opposition to data centers crosses party lines, including here in New Hampshire. Skeptics say cash payments don't address the core worries about power bills, water and noise.
+// Story 4: NBA opening night
+[ava] And the N.B.A. is back. The Pistons erased a twenty-two-point deficit to beat the Celtics one twenty-one to one thirteen, despite thirty-eight from Paul George in his Boston debut. And the Knicks raised their first title banner in fifty-three years, then lost to LeBron James and the Sixers, one oh six to one hundred.
+> source: AP, "Florida puts 77-year-old man to death for a deputy's killing in its 18th execution this year" (Oct 20); CBS News/AP (Oct 20); WPBF (Oct 21); Reuters via Investing.com, "Starlink access in Ukraine a decision for Musk, not White House, Rubio says" (Gram Slattery, Oct 21); Reuters via Investing.com, "Trump says companies should pay 'dividend' to communities to make data centers popular" (Oct 21); NBA.com, "Recap: Pistons, 76ers, Thunder win in NBA Tip-Off tripleheader" (Ben Lambert, Oct 21); AP, "76ers rally past Knicks 106-100" (Oct 20)
+
+## International | sting=world
+// Story 5: Hubbard, Witkoff-Putin
+[ava] Overseas, Russia has freed an American. Seventy-four-year-old Stephen Hubbard, a retired Michigan teacher living in Ukraine, was captured in twenty twenty-two and sentenced to nearly seven years on mercenary charges, which he and the U.S. deny. He was the last American in Russia the State Department had formally declared wrongfully detained. His release came as envoy Steve Witkoff met Vladimir Putin in St. Petersburg this morning. Putin said Hubbard was already at the airport, and Witkoff thanked him, saying, "Because of you, he's going home to his family." CBS says he's in poor health and headed to a military hospital in Texas.
+[ava] Witkoff handed Putin papers he described as ideas for elements of a peace deal, after Ukraine brought changes to the draft framework in Oslo. Putin suggested he and President Trump could meet in China. He said the first Russian diesel tanker for the U.S. sails within days. Supporters of the outreach call this momentum. Critics, including many in Kyiv and Europe, see Washington tilting toward Moscow, noting the diesel deal and waived sanctions, while Russia hasn't budged on its demand for all of the Donbas region.
+// Story 6: Iran
+[ava] On Iran, Foreign Minister Araghchi says talks with Washington continue through Pakistan and Qatar. He says Iran has offered a seven-day plan under which the Strait of Hormuz would fully reopen on day six, if the U.S. meets its conditions, reportedly including ending the blockade and easing oil sanctions. Secretary Rubio says the U.S. welcomes mediation but won't accept any deal leaving Iran a path to a nuclear weapon. Reports, not yet confirmed by the Pentagon, say a third U.S. aircraft carrier is heading to the region.
+// Story 7: Climate
+[ava] And a new U.N. report says the world is losing ground on climate. Under current policies, the Earth is on track for about two point eight degrees Celsius of warming this century. U.S. emissions rose the most of any major economy last year, driven by electricity demand and a rebound in coal power. The administration argues affordable, reliable power has to come first.
+> source: AP, "Russia releases detained American Stephen Hubbard during a visit by Trump administration envoy" (Oct 21); CBS News (Jennifer Jacobs, Olivia Gazis, Oct 21); NBC News (Yuliya Talmazan, Oct 21); WSJ (Oct 21); Reuters via Devdiscourse, "Putin, at talks with Witkoff, suggests he and Trump could meet in China" (Oct 21); Gulf News, "Hormuz stays shut until US accepts Iran's 7-day deal" (Jay Hilotin, Oct 21); Iran International live blog (Oct 21); Express Tribune/Reuters (Oct 21); UNEP, Emissions Gap Report 2026; AP, "World losing ground in fight to curb climate change" (Oct 21); NPR (Oct 21)
+
+## Markets In Depth | sting=markets
+[andrew] Markets, Ava. A correction on yesterday's close: final numbers had the Dow up about one percent to fifty-two thousand four ninety-six, the S and P five hundred up three-tenths to seventy-seven twelve, and the Nasdaq essentially flat. The ten-year Treasury yield ended near five point one two percent.
+[andrew] This morning, Nasdaq one hundred futures are up close to one percent, S and P futures up about three-tenths, Dow futures flat. The driver is SpaceX. In its first big quarter as a public company, it earned four point four billion dollars, more than double forecasts, on revenue of fourteen point six billion, up a hundred sixty-one percent, powered by its A.I. compute and satellite businesses. Shares jumped about ten percent after hours. Musk said Tesla and SpaceX boards have formed special committees to look at a merger, though no terms are agreed, and that next month's Starship flight will try to catch both the booster and the ship.
+[andrew] That lifted chip and A.I. infrastructure names premarket, and Super Micro jumped about sixteen percent after raising its revenue outlook. Netflix is falling after a weak fourth-quarter forecast and lower ad guidance. Citadel's Ken Griffin, though, reportedly says we're "almost certainly" in an A.I. bubble.
+[andrew] Oil is back up, with Brent around a hundred nine to a hundred ten dollars and U.S. crude near ninety-eight, as Hormuz stays shut. After the bell, Tesla, Meta and I.B.M. report. Options traders are pricing roughly seven percent moves in Tesla and Meta either way.
+> source: Reuters via Euronext, "Stocks mostly rise as oil, US yields ease" (Oct 20); Morningstar/Dow Jones, 10-year yield (Oct 20); Yahoo Finance live, "Stock market today" (Ines Ferré, David Hollerith, Oct 21); Yahoo Finance/Stocktwits, "Nasdaq Futures Rise Premarket As SpaceX AI Boom Lifts Chip Stocks" (Preeti Ayyathurai, Oct 21); SpaceX Q3 2026 earnings release (SEC); CNBC, "SpaceX pops 10% after revenue rose 161%" (Oct 21); TechCrunch, "SpaceX and Tesla boards form special committees to review merger" (Oct 20); Admiral Markets earnings preview (Oct 20)
+
+## Technology | sting=tech
+// Story 8: Nvidia DSX POD
+[andrew] Tech desk. At its G.T.C. conference in Berlin this morning, Nvidia unveiled DSX POD, a factory-built A.I. data center. Partners assemble and test the computers, networking, power and liquid cooling before shipping, so a prepared site can plug in and be running in as little as fourteen days instead of about six months. Kimmonismus on your feed called it a bigger deal than people realize. Deliveries start in early twenty twenty-seven, and it doesn't solve the bigger constraint, which is finding the power.
+// Story 9: Boeing Max 10
+[andrew] And the F.A.A. has certified Boeing's 737 Max 10, the largest version of the plane, after years of delays. The approval includes an enhanced angle-of-attack sensing system, and deliveries are expected in twenty twenty-seven.
+> source: NVIDIA newsroom, "NVIDIA Introduces DSX POD AI Factories" (Oct 21); Data Center Dynamics (Oct 21); @kimmonismus on X (Oct 21); FAA, "Federal Aviation Administration Issues Certification for Boeing 737 MAX-10" (Oct 20); AP, "FAA clears Boeing's long-delayed 737 Max 10 for airline service" (Oct 20)
+
+## Artificial Intelligence | sting=ai
+// Story 10: Amodei on Mythos
+[andrew] In A.I., Anthropic C.E.O. Dario Amodei, in a new interview Kimmonismus flagged, said the company held back broad access to its Mythos-class models for about four months to strengthen cyber safeguards, because their hacking abilities were unusually strong. Amodei says the delay cost Anthropic commercially, and he argues the government, not companies, should decide who gets such capabilities. The counterpoint, from security writer Zack Korman: the regulation Anthropic is actually backing doesn't give the government that power. We haven't been able to review the full interview, so treat the details as reported.
+> source: @kimmonismus and @ZackKorman on X (Oct 21); Blumify transcript summary of Bloomberg's The Circuit interview with Dario Amodei; Axios, "Anthropic withholds Mythos Preview model because its hacking is too powerful" (Apr 7)
+
+## Cybersecurity | sting=cyber
+// Story 11: PHP
+[andrew] Cyber desk, and this one's time-sensitive. The PHP team is releasing emergency fixes at ten a.m. Eastern today for two critical remote-code-execution flaws, after details leaked ahead of schedule. PHP runs a huge share of websites, including WordPress. Researchers at watchTowr say they've reproduced one bug and that it affects PHP versions five through eight, though PHP hasn't confirmed affected versions. No attacks seen yet. If you run PHP sites, plan to patch this morning, and if you can't, CERT-E.U. advises isolating internet-facing PHP apps.
+> source: BleepingComputer, "PHP warns admins of two critical flaws, emergency patches coming tomorrow" (Lawrence Abrams, Oct 20); The Hacker News, "PHP2Shell" (Oct 21); Infosecurity Magazine (Oct 21)
+
+## From Your X Feed | sting=x
+[ava] From your X feed this morning.
+[andrew] D.H.H. says he's lost count of the people stunned that a P.C. as nice as his Dell X.P.S. fourteen exists. And Redis creator Antirez is trying the Omarchy Linux setup on an X.P.S. D.H.H. donated, saying the OLED screen is "another world" coming from a MacBook.
+[ava] Eric Raymond posted his respect for Valve's Gabe Newell, for not mistreating customers and for his big support of Linux gaming.
+[andrew] Variety has Sharon Osbourne saying Ozzy's final concert kept him "flying high" right up until the day he died.
+[ava] And Engineers Feed reminded everyone the flying car isn't new: Convair built one, the Model one-eighteen, in the nineteen forties.
+> source: Harry's X home timeline Oct 21 ~5:30-7:00 AM ET (@dhh, @antirez, @esrtweet, @Variety, @engineers_feed)
+
+## Local News & Events | sting=local
+[ava] Closer to home, right here in Londonderry, a jury sided with the state in an Exit 4A eminent domain case. The owner of land near Folsom Road argued the I-93 interchange mainly serves a private development, at the expense of him and Derry. The state said it fixes long-standing traffic problems and any benefit to the development is incidental. Jurors deliberated about an hour after a four-day trial. The project dates to the nineteen eighties, and the state says it could be finished by twenty thirty-two.
+[ava] Good news from Manchester: the Silver Alert for eighty-two-year-old Jacqueline Dupuis was canceled. State Police say she was found.
+[ava] And doctors say flu season is arriving early this year. They're urging anyone eligible to get vaccinated as soon as possible.
+> source: WMUR, "Jury votes in favor of state in Exit 4A eminent domain case" (Initha Selvakumar, Oct 21); NH State Police, "Silver Alert Canceled - Missing Vulnerable Adult In Manchester Located" (Oct 20); WMUR, "Doctors: get your flu vaccinations as soon as possible" (Oct 21)
+
+## Uplifting Story | sting=feel
+[ava] And finally, meet Olly, a hedgehog with no prickles. Olly caught ringworm in the wild in Devon, England, and lost every one of his spines. For four months he's been at a rescue called Prickles in a Pickle, getting antifungal baths and moisturizing creams; his vet calls them spa treatments. One person said he looks like a rolled-up sock, and his rescuer says he's more like a very large potato, about two pounds. Now he's the charity's "poster hog." A healthy hedgehog has about seven thousand spines, so they're raising seven thousand pounds, about one pound per missing prickle. He can't go back to the wild without them, but as his rescuer puts it, his only real problem is that he hasn't got any clothes on.
+> source: BBC News, "Hedgehog without prickles made charity ambassador" (Chris Baker and Hattie McCann, Oct 20)
+
+## Close | sting=close
+[ava] That's your Wednesday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. We'll have the PHP patch details and the market open in the next update.
+[ava] Ask your Gumshoe for more on any story.
