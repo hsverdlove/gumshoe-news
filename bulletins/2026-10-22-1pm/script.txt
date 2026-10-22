@@ -1,0 +1,71 @@
+// Gumshoe script format: see README.md
+# title: Thursday 1 PM Update, Oct 22
+# description: The Thursday one o'clock update from Gumshoe News Radio for October 22, 2026: Blanche and Patel lay out the case against Virginia's Louise Lucas and she vows not to back down; the Pentagon clears a border test of a microwave "heat ray"; Iran's Revolutionary Guard says its doctrine is now offensive, and a look at the U.S.-Russia thaw; midday markets as the Nasdaq slides two percent on the A.I. selloff; the iPhone Duo arrives Friday; DeepSeek's fifteen billion dollar round; the PingCAP TiDB breach; your X feed; Manchester Restaurant Week and Halloween weekend events; and a couple who have rescued more than eight hundred raccoons. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon. It's one o'clock on Thursday, October twenty-second, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. The tech selloff deepened through the morning, though the Dow is holding close to even.
+[ava] First, the latest forecast for Londonderry.
+@weather
+
+## US News | sting=us
+// Story 1: Lucas case update
+[ava] We start with more on this morning's top story. At a news conference in Norfolk, Attorney General Todd Blanche and F.B.I. Director Kash Patel laid out the federal case against Virginia State Senator L. Louise Lucas. The unsealed indictment includes racketeering, marijuana distribution, money laundering and bribery-related fraud counts, and accuses Lucas, her relatives and associates of running what Patel called the Lucas Enterprise, using her chairmanship of the Senate's budget committee to shield the business and shape legislation. Blanche noted the investigation began before the current administration and said, quote, we don't do political paybacks.
+[ava] Lucas answered on social media. She didn't address the specific charges, but said she grew up under Jim Crow and, quote, I will not be intimidated, I will not be bullied, and I will not back down. Her defense fund's lawyer called it a circus. Critics point to the timing, twelve days before the midterms, and her role leading Virginia Democrats' failed redistricting push; prosecutors say the facts, not politics, drove the case. She was due in federal court this afternoon.
+// Story 2: Border heat ray
+[ava] The Pentagon has cleared Homeland Security to test a military Active Denial System, often called a heat ray, at the southern border. According to a Defense Department memo reported by Military dot com and Axios, Customs and Border Protection gets one unit for a seven-month trial, and would operate it itself. The system fires a millimeter-wave beam that causes an intense but temporary burning sensation, meant to make people move away. The memo doesn't say where or under what rules it would be used. Supporters call it a nonlethal alternative to force; critics have questioned its safety for years, and how it would be used on migrants.
+> source: AP via PBS, "Blanche and Patel announce charges for Democratic Virginia lawmaker Lucas" (Alanna Durkin Richer, Sarah Rankin, Oct 22); Virginia Mercury, "Va. Sen. Louise Lucas, six others indicted in federal cannabis corruption case" (Oct 22); Politico (Gregory Svirnovskiy, Oct 22); Military.com, "DOD Memo Greenlights DHS Use of Military 'Heat Ray' at US-Mexico Border" (Oct 2026); Axios, "Hegseth approves testing of 'heat ray' at the border" (Oct 21); Stars and Stripes (Oct 21); The Guardian (Oct 22)
+
+## International | sting=world
+// Story 3: IRGC offensive doctrine
+[ava] Overseas, Iran's Revolutionary Guard says its military doctrine has shifted from defensive to what it calls offensive and asymmetrical. Spokesman Hossein Mohebi said on state TV that if a country attacks Iran, Iran will not only respond but, quote, invade. Another Guard official warned that undersea internet cables in the Strait of Hormuz could be targeted if Iranian infrastructure is hit. Analysts note those cables mostly serve the Gulf states, which have backup land routes, so the global internet wouldn't go down. Meanwhile, U.S. media report dozens of Israeli jets ran a training exercise near Iran's western border, and Iran's foreign minister, Abbas Araghchi, says Tehran will give diplomacy another chance only with strong evidence the U.S. is sincere.
+// Story 4: US-Russia thaw analysis
+[ava] And on Russia, a New York Times analysis argues Moscow is getting closer to normal relations with Washington without giving ground in Ukraine. It points to the diesel deal that eased sanctions on Russian fuel, U.S. pressure on Kyiv to stop striking Russian refineries, and a pause in new sanctions. Ukraine and many Europeans see that as rewarding Moscow. The administration's envoys argue the opposite: that economic engagement is the way to restart talks, and lower-level talks among the U.S., Russia and Ukraine are set for next month.
+> source: Al Jazeera, "Iran war live: IRGC vows invasion as defence doctrine turns 'offensive'" (Oct 22); Iran International, "IRGC says Iran shifting to asymmetric warfare" (Oct 21); Premium Times / Al Jazeera, Araghchi remarks (Oct 22); The New York Times, Valerie Hopkins analysis (Oct 22); NPR, "U.S. and Russia tout diesel deal" (Oct 10); CNBC, "Trump-Putin diesel deal contradicts Russia sanctions law, critics say" (Oct 9)
+
+## Markets In Depth | sting=markets
+[andrew] To the midday markets. As of about noon, the S and P five hundred was down a little over one percent, the Nasdaq down about two point two percent, and the Dow roughly flat. That gap tells the story: money is leaving high-priced tech, not stocks across the board.
+[andrew] Chips took the worst of it. The big semiconductor fund was down about five percent. Lam Research warned of supply-chain limits, CoreWeave was downgraded, and Micron and Nvidia slipped. Meta is still off about five percent, now with a nearly ten billion dollar charge to settle teen mental-health lawsuits in the mix, alongside its higher spending plan of up to a hundred forty-five billion dollars.
+[andrew] On the winning side, Spotify extended its gain to more than nine percent on better margins, and Dow Inc. edged up after beating estimates. Consumer staples and utilities are leading, the classic defensive move.
+[andrew] Oil is still climbing on war worries. Brent was near a hundred eleven seventy, up about two and a half percent, and U.S. crude just under ninety-nine. Gold has fallen about two percent to around four thousand fifty-five dollars, and the ten-year Treasury yield is near five percent. Markets close at four; Alphabet, Microsoft and Amazon report next week.
+> source: 24/7 Wall St., "S&P 500 Drops 1.2% at Midday as Nasdaq Leads the Selloff" (Oct 22, 12:00 PM ET); MT Newswires via Yahoo Finance, "US Equity Indexes Mixed Amid Sliding Technology Mega-Caps, Crude Oil" (Oct 22, 12:19 PM ET); The Motley Fool, "Stock Market Midday, Oct. 22" (Emma Newbery, Oct 22); AP, "Sinking AI stocks undercut markets worldwide" (Oct 22); NBC News (Rob Wile, Oct 22)
+
+## Technology | sting=tech
+// Story 5: iPhone Duo
+[andrew] Tech. Apple's first foldable, the iPhone Duo, goes on sale tomorrow, starting at nineteen ninety-nine. Today Apple showed off apps built for it: Netflix and Prime Video on the bigger inner screen, Microsoft Word and Outlook in side-by-side Split View, a first for iPhone, and an M.L.B. app that shows the live game on the top half and stats on the bottom when it's half folded, just in time for the World Series. Optimized apps will carry a Made for iPhone Duo badge in the App Store. At two thousand dollars, the open question is whether buyers see enough benefit over a regular Pro Max.
+> source: Apple Newsroom, "Developers bring incredible new app experiences to iPhone Duo" (Oct 22)
+
+## Artificial Intelligence | sting=ai
+// Story 6: DeepSeek round
+[andrew] In A.I., China's DeepSeek is wrapping up a funding round of about fifteen billion dollars, double its original target, Bloomberg and Reuters report. Battery giant C.A.T.L. and Tencent lead it, with Meituan, Geely and Midea among new investors. That's on top of seven point four billion raised in June, and it comes days after Washington ordered federal agencies to drop DeepSeek products. The company is also preparing a Shanghai stock listing. Sources caution the final numbers could still change.
+// Story 7: Google Agent Compute Engine
+[andrew] And Google Cloud launched what it calls Agent Compute Engine, a service that runs A.I. agents inside isolated mini virtual machines, along with new controls for companies to govern what those agents can do. It's another sign the industry is racing to fence in agents, after this morning's report on rogue bots in bank accounts.
+> source: Reuters via StreetInsider, "DeepSeek wrapping up $15 billion fundraising to fuel AI race, sources say" (Kane Wu, Oct 22); Bloomberg (Lulu Yilun Chen, Haze Fan, Oct 22); WSJ (Oct 22); TechCrunch (Kate Park, Oct 22); Google Cloud Blog, "Introducing Agent Compute Engine and expanding agent governance" (Oct 22)
+
+## Cybersecurity | sting=cyber
+// Story 8: PingCAP TiDB breach
+[ava] Cyber desk. If your company uses TiDB Cloud, the database service from PingCAP, check in with your team. PingCAP says attackers used stolen service-account credentials to get into its internal systems from September ninth to October seventh, exposing account and billing details, saved SQL editor content and some source code. It says customer database data was not affected and the stolen credentials are revoked. A group calling itself FulcrumSec claims it took over ten terabytes tied to a hundred eighty thousand organizations; that's unverified. The advice: rotate TiDB Cloud API keys and review who has access.
+> source: PingCAP, "October 2026 Security Incident Report: Unauthorized Access to PingCAP Cloud Resources" (Oct 2026); Dark Reading, "TiDB Breach Exposes Flawed Cloud Security Assumptions" (Nate Nelson, Oct 22); Crypto Briefing (Oct 2026)
+
+## From Your X Feed | sting=x
+[ava] From your X feed this hour.
+[andrew] Autoblog notes Honda has confirmed a pickup based on Mitsubishi's Triton. It's for Southeast Asian markets, built in Thailand, starting in twenty twenty-eight, so don't expect it here.
+[ava] Variety reports John Mulaney hosts S.N.L. for the seventh time, with Phoebe Bridgers as musical guest.
+[andrew] Trung Phan flagged a podcast where Mercedes F1 boss Toto Wolff says the team makes about a billion dollars a year at a thirty percent margin, probably the most profitable sports team after the Dallas Cowboys.
+[ava] Rhensing spotted a Cybertruck at a tractor pull.
+[andrew] And twenty-five years ago this week, as 25 Years Ago Live reminds us, Andre Agassi and Steffi Graf married in a small private ceremony in Las Vegas.
+> source: Harry's X home timeline Oct 22 ~12:30-1:00 PM ET (@therealautoblog, @Variety, @TrungTPhan, @rhensing, @25YearsAgoLive)
+
+## Local News & Events | sting=local
+[ava] Closer to home, Greater Manchester Restaurant Week is underway through November first, pairing local restaurants with the city's performing arts.
+[ava] Halloween weekend options nearby: Saturday from ten to one, the Fisher Cats host Trick or Treat at the Ballpark at Delta Dental Stadium. Downtown Nashua's Main Street Monster Mash runs Saturday from eleven to one, with a pet costume parade. The India Association of New Hampshire's Diwali festival and Garba is Saturday at Nashua High School North, noon to ten. And McIntyre Ski Area's Witch of Weston Tower, with a chairlift ride and spooky tractor trail, runs Friday through Sunday.
+> source: Manchester Ink Link, "The Weekender, Oct. 22-25" (Jules Robidoux, Oct 22); NHPR, "Your Weekend in NH" (Oct 22); Downtown Nashua Association, "Main Street Monster Mash"
+
+## Uplifting Story | sting=feel
+[ava] And finally, the raccoon people. Nine years ago, veterinarian Paul Bookbinder and his wife Sarah took in two injured baby raccoons but couldn't find a rehabber in time, and the kits died. They vowed it wouldn't happen again. They bought fifty-three acres in Earlville, New York, opened a raccoon rehab center, and have since helped more than eight hundred. Sarah once went through two hundred bottles a day bottle-feeding kits. Before release, the raccoons forage in sheds stocked with buried nuts and crickets, and every one gets its name engraved on a rock in a garden. Sarah jokes her mother has accepted that her grandchildren are mostly raccoons. Today they release the last six of the year: Malbec, Merlot, Ginger, Kim Chee, Syrah and Wasabi.
+> source: The Washington Post, "Meet the couple dedicated to saving raccoons — hundreds of them" (Kyle Melnick, Oct 22)
+
+## Close | sting=close
+[ava] That's your Thursday one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Next update around four, with the closing bell.
+[ava] Ask your Gumshoe for more on any story.
