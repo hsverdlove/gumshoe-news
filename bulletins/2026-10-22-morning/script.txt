@@ -1,0 +1,73 @@
+// Gumshoe script format: see README.md
+# title: Thursday Morning, Oct 22
+# description: The Thursday morning bulletin from Gumshoe News Radio for October 22, 2026: a judge blocks DHS door-to-door voter checks in nine states; the U.S. orders staff out of Saudi Arabia after deadly Houthi strikes, Trump says there are no Iran talks, Iran claims seven tankers hit, and Russia strikes Kyiv; futures slide as Tesla, Meta and IBM results disappoint and oil tops $110; Fortnite returns to Australia's App Store and Walmart opens to AI shopping agents; Demis Hassabis moves up his AGI timeline; Microsoft ties the ConnectWise breach to an AI-driven Chinese campaign and CISA warns on Plex; your X feed; peak foliage, Josephine and weekend events; and a lightning strike, a rescue and a wedding. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Thursday, October twenty-second, and this is Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Tesla, Meta and I.B.M. all reported overnight, and Wall Street isn't impressed. Futures are sliding.
+[ava] First, the forecast for Londonderry.
+@weather
+
+## US News | sting=us
+// Story 1: DHS voter-check injunction
+[ava] A federal judge in San Francisco has ordered the Department of Homeland Security to pause door-to-door election checks in nine states, including California, New York, Pennsylvania and Georgia. Agents have been asking residents about their immigration status and voting history, part of a push against noncitizen voting. Judge Araceli Martínez-Olguín found the operation likely violates the Voting Rights Act's ban on intimidating people who help others vote, and pointed to a high likelihood of errors in the lists agents work from. She stressed that investigating illegal voting is lawful; her order covers visits to people officials know or should suspect are citizens. The administration says it's protecting election integrity, and the Justice Department this week charged dozens of green card holders in California with illegally registering. The order is on hold until five o'clock Friday so the government can appeal.
+> source: CBS News, "Judge rules against DHS's policy of knocking on doors to track down possible noncitizen voters" (Joe Walsh, Oct 21); Courthouse News Service, "Judge curtails DHS crackdown on 'unlawful voters' ahead of midterms" (Oct 21); Bloomberg Law (Oct 21)
+
+## International | sting=world
+// Story 3: Saudi ordered departure + attacks
+[ava] Overseas, the State Department has now ordered non-emergency staff and their families to leave the U.S. embassy in Riyadh and the consulates in Saudi Arabia. A spokesman says the order covers Saudi Arabia only, not other Gulf states. It follows escalating Houthi attacks. Saudi authorities say drone debris killed two foreign workers at Aramco's Shaybah oil field, and a separate attack on the airport in Dammam killed two more people and injured eight. That airport has reopened.
+// Story 4: Iran
+[ava] On Iran, President Trump told reporters last night there are no negotiations, and that something will happen, quote, fairly soon, while pushing back on the idea that it has to wait until after the midterms. The New York Times reports U.S. and Israeli planners have drawn up options for a short, intense strike campaign on Iranian nuclear, energy and missile sites; the President hasn't authorized it. Iran's Revolutionary Guard, meanwhile, claims seven tankers were hit, four set on fire in what it calls illegal oil transfers and three striking mines near the Strait of Hormuz. Those claims come from Iranian state media and haven't been independently confirmed.
+// Story 5: Kyiv
+[ava] And in Ukraine, hours after the Kremlin agreed to new three-way peace talks, Russia hit Kyiv overnight with missiles and drones. Ukrainian officials say one person was killed and more than twenty hurt, including children, with hypermarkets, an ambulance station and a monastery damaged. Moscow says it downed more than eight hundred Ukrainian drones over Russian cities.
+> source: CBS News, "U.S. ordering some government staff to depart Saudi Arabia" (Olivia Gazis, Oct 21); The Guardian (Oct 22); AP (Oct 22); The Straits Times, "3 killed, 8 injured in attacks on Aramco oil field, Saudi airport" (Oct 22); Arab News (Oct 22); Times of Israel liveblog, "Trump: There are no negotiations with Iran" (Oct 22); New York Times via Israel National News (Oct 2026); AP, "Iran says 7 oil tankers were attacked in the Strait of Hormuz" (Oct 22); Al-Monitor (Oct 22); Ukrainska Pravda (Oct 22); National Police of Ukraine (Oct 22); AP, "Russia pounds Kyiv with missiles as Moscow says 808 drones downed" (Oct 22)
+
+## Markets In Depth | sting=markets
+[andrew] To the markets, and it's a rough morning. S and P five hundred futures are down about one percent, Nasdaq one hundred futures down nearly two, and Dow futures off around six-tenths. The A.I. trade is cracking again, with Nvidia, Micron and SpaceX lower, and oil is climbing.
+[andrew] The earnings first. Tesla's revenue was flat at about twenty-eight billion dollars, adjusted profit of forty-eight cents a share beat estimates, and it surprised with one and a half billion in free cash flow, where Wall Street expected heavy cash burn. But that came from spending less: Tesla cut this year's capital spending plan from more than twenty-five billion to about twenty. Net income fell forty-three percent, partly on a markdown of its SpaceX stake, and Elon Musk declined to discuss a possible SpaceX merger. Shares are down around four to five percent premarket.
+[andrew] Meta's revenue jumped twenty-six percent to sixty-four point six billion, ahead of estimates, but reported profit was dragged down by a nearly ten-billion-dollar charge for its teen mental-health settlement with the states. It raised the low end of its spending outlook to a hundred thirty-five to a hundred forty-five billion dollars this year, and confirmed new nonvoting Class C shares, issued one for one in January. The stock rose after hours but has slipped premarket. I.B.M. beat on both lines but kept its full-year sales outlook, and slipped after hours. Lam Research is down about seven percent despite beating.
+[andrew] Yesterday, before all that, stocks rallied: the S and P rose six-tenths of a percent to seventy-seven fifty-seven, the Dow seven-tenths to about fifty-two eight fifty-six, and the Nasdaq one point one percent. This morning, Asia sold off hard. China's C.S.I. three hundred is now in a bear market, and Japan, South Korea and Hong Kong fell about three percent. Investors are buying Treasuries, pushing the ten-year yield down to about five point oh six percent. Brent crude is up nearly three percent near a hundred twelve dollars, its highest since May, with U.S. crude near a hundred. Gold is down more than one percent near forty-ninety, and Bitcoin is off about three percent near eighty-two thousand.
+[andrew] Today: weekly jobless claims at eight-thirty, and earnings from Procter and Gamble, Lockheed Martin, Comcast, American Airlines and Blackstone. The Fed meets next week.
+> source: Yahoo Finance, "Tesla reports Q3 earnings beat, positive free cash flow" (Oct 21); Reuters via Investing.com, "Tesla cuts spending before potential SpaceX deal" (Oct 21); AP (Oct 21); Meta, "Meta Reports Third Quarter 2026 Results" (Oct 21); Stocktwits (Oct 21); Investing.com, "Earnings call transcript: IBM beats Q3 2026 estimates" (Oct 21); Bloomberg via swissinfo, "Stocks Slide as AI Trade Falters and Oil Rallies" (Oct 22); Dow Jones via Morningstar, "North American Morning Briefing" (Oct 22); CoinDesk (James Van Straten, Oct 22); Markets Insider premarket (Oct 22); CNBC/AP closing data (Oct 21)
+
+## Technology | sting=tech
+// Story 6: Fortnite Australia
+[andrew] Tech. An Australian federal court has ruled that Apple broke competition law by blocking rival app stores and payment systems on the iPhone, and ordered Fortnite back on the App Store there. Epic says it returns Friday. Apple must also allow rival app stores and payments there by March. Apple says it will seek a stay and appeal, arguing its rules protect users' security and privacy.
+// Story 7: Walmart Agent Gateway
+[andrew] And Walmart is rolling out the welcome mat for A.I. shopping assistants. Its new Agent Gateway lets approved bots like ChatGPT, Gemini and Meta's Muse search Walmart and Sam's Club and complete purchases. You can set spending caps or require approval on every order, and agents never see your card numbers. Amazon, by contrast, has been blocking outside agents.
+> source: AAP, "Aust court orders Fortnite back into app store" (Oct 2026); The Verge, "Australia orders Apple to open the iPhone to third-party app stores" (Oct 2026); Engadget (Oct 2026); Reuters via Investing.com (Oct 2026); Walmart, "Making It Possible for Agents to Shop on Behalf of Customers" (Oct 21); TechCrunch, "While Amazon blocks AI agents, Walmart rolls out the welcome mat" (Oct 21)
+
+## Artificial Intelligence | sting=ai
+// Story 8: Hassabis AGI timeline
+[andrew] In A.I., Google DeepMind's Demis Hassabis has moved up his forecast. He told the Wall Street Journal he now expects artificial general intelligence, which he defines as a system with the full range of human thinking abilities, in two to three years, down from three to five. Plenty of researchers remain skeptical, noting that today's systems still stumble on reliability and that past A.G.I. predictions have slipped.
+> source: WSJ, "Why AI's Deepest Mind Believes the World Is About to Change Radically" (Oct 21); The Verge, "Google DeepMind's Demis Hassabis thinks AGI is two to three years away" (Oct 2026); Mint (Oct 2026)
+
+## Cybersecurity | sting=cyber
+// Story 9: ConnectWise / Storm-0940
+[ava] Cyber desk. Microsoft says a Chinese state-aligned hacking group it calls Storm-zero-nine-four-zero was behind the breach of ConnectWise's cloud backup service, and that it used an open-source A.I. agent framework to automate the attack. Using stolen ConnectWise app credentials, the group reached more than two thousand two hundred fifty Microsoft three-sixty-five customer accounts, firing thousands of sign-in attempts a minute. Kimmonismus on your feed flagged it as a sign A.I.-driven attacks are now hitting real organizations. Microsoft is telling affected customers to keep the ConnectWise connections disabled and review activity since October fifteenth.
+// Story 10: Plex2Shell
+[ava] And if you run a Plex media server at home, update it. CISA says attackers are actively chaining four Plex flaws, dubbed Plex2Shell, to take over servers. The fix has been out since August, in version one point four three point three.
+> source: Microsoft Security Blog, "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise" (Oct 21); CyberScoop (Oct 2026); Reuters via Investing.com, "Chinese-linked hackers compromise ConnectWise" (Oct 2026); BleepingComputer, "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers" (Bill Toulas, Oct 21)
+
+## From Your X Feed | sting=x
+[ava] From your X feed overnight.
+[andrew] Variety reports Spotify hit three hundred six million paying subscribers, up nine percent from a year ago. And Chris Pratt says you'll see Star-Lord again, telling Variety that, quote, hard action has been taken to bring him back to the Marvel movies, though there's no project or date yet.
+[ava] Mike Pat, a Tesla investor, joked that he sold a chunk of his shares at the bottom of this morning's drop, so, in his words, you're welcome, he's done his part to turn the tanker around.
+[andrew] And Interesting All reminds us today is National Nut Day, with a twist: peanuts aren't actually nuts. They're legumes, cousins of beans and lentils.
+> source: Harry's X home timeline Oct 22 ~12:30-7:00 AM ET (@Variety, @mikepat711, @interesting_aIl, @kimmonismus)
+
+## Local News & Events | sting=local
+[ava] Closer to home, it's peak foliage in southern New Hampshire. WMUR says the Lakes and Monadnock regions are at peak, the Seacoast is getting close, and the North Country is past it, with a dry, mostly sunny weekend to enjoy it.
+[ava] That offshore storm did become Subtropical Storm Josephine, with sixty-five-mile-an-hour winds about two hundred miles south of Nantucket. It's accelerating out to sea, so here it means a breezy day, and some rough surf on the Cape and islands.
+[ava] In Concord, residents packed a planning board meeting to oppose a proposed micro data center on Locke Road. The developer says it would be small and quiet; the board ordered an independent environmental review and will decide November eighteenth.
+[ava] And this weekend in Londonderry: Halloween Glow Nights at Carriage Shack Farm Saturday from five-thirty to eight-thirty, and Matt Jackson plays the Stumble Inn Sunday at four.
+> source: WMUR, "New Hampshire foliage map: Southern regions hit their peak" (Grace Laverriere, Oct 21); National Hurricane Center, Subtropical Storm Josephine advisory (Oct 22); WMUR, "People from Concord speak out against proposed micro data center" (Maria Wilson, Oct 22); Carriage Shack Farm, "Halloween Glow Nights" (Oct 24); Nashua Ink Link, "Weekly Entertainment Report, Oct. 22-25"
+
+## Uplifting Story | sting=feel
+[ava] And finally, a love story with a jolt. Nick and Eva Broderick were hiking in Wisconsin's Kettle Moraine State Forest, about two miles from their car, when a storm rolled in. Eva joked, what if we get struck by lightning? Moments later, lightning hit a tree right beside them. Nick stopped breathing. Eva called nine-one-one and started C.P.R., but they couldn't pinpoint where the couple was, and it took fifty minutes for rescuers to find them. In that time, Eva restarted Nick's heart twice. He pulled through after three days in the hospital and proposed as soon as he was discharged. They married almost a year to the day later. Eva jokes he can't leave her now: she brought him back, so he's kind of stuck.
+> source: Good News Network, "Man Proposes to His Girlfriend After They Were Struck by Lightning" (Andy Corbley, Oct 20), citing Action News 5
+
+## Close | sting=close
+[ava] That's your Thursday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. At ten: how the opening bell handles Tesla, Meta and hundred-ten-dollar oil.
+[ava] Ask your Gumshoe for more on any story.
