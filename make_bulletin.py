@@ -54,9 +54,18 @@ def nws_weather(loc):
     lines = [f"Here's your {loc.get('place','local')} forecast from the National Weather Service."]
     h = hourly[0]
     lines.append(f"Right now it's about {h['temperature']} degrees and {h['shortForecast'].lower()}, and over the next few hours it's {', then '.join(dict.fromkeys(x['shortForecast'].lower() for x in hourly))}.")
-    for x in per[:3]: lines.append(f"{x['name']}: {x['detailedForecast']}")
-    rest = [x for x in per[3:] if x["isDaytime"]][:5]
-    lines.append("Looking further ahead. " + " ".join(f"{x['name']}, {x['shortForecast'].lower()}, high near {x['temperature']}." for x in rest))
+    # First bulletin of the day gets the full 7-day; later ones only the next 24 hours.
+    stamp = "/workspace/newsfeed-private/last_full_forecast_date"
+    today = datetime.date.today().isoformat()
+    try: full = open(stamp).read().strip() != today
+    except FileNotFoundError: full = True
+    if full:
+        for x in per[:3]: lines.append(f"{x['name']}: {x['detailedForecast']}")
+        rest = [x for x in per[3:] if x["isDaytime"]][:5]
+        lines.append("Looking further ahead. " + " ".join(f"{x['name']}, {x['shortForecast'].lower()}, high near {x['temperature']}." for x in rest))
+        if "--dry-run" not in sys.argv: open(stamp, "w").write(today)
+    else:
+        for x in per[:2]: lines.append(f"{x['name']}: {x['detailedForecast']}")
     txt = " ".join(lines).replace("mph", "miles an hour")
     return txt, "NWS forecast for %s" % (loc.get("place") or "your location")
 
