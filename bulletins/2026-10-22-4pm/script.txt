@@ -1,0 +1,72 @@
+// Gumshoe script format: see README.md
+# title: Thursday 4 PM Update, Oct 22
+# description: The Thursday four o'clock update from Gumshoe News Radio for October 22, 2026: Louise Lucas is released after her first court appearance; Trump orders housing-cost moves and is told to sit for a deposition in his BBC suit; Iran claims seven ships hit near Hormuz while Trump calls the hits fake; Italy's trucker protests; a late-session look at the worst tech selloff in months and the biggest one-day drop in the ten-year yield in over three years; Australia orders Apple to open the iPhone; EA closes BioWare; Microsoft's Satya Nadella on A.I. as an insider threat and a "Skynet mode" agent caught in a honeypot; Chinese hackers and the ConnectWise breach; your X feed; a Gilmanton police standoff and spotted lanternflies in New Hampshire; and Finland's round-the-clock puppy cam. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon. It's four o'clock on Thursday, October twenty-second, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. The closing bell is ringing on a rough day for tech, with a big rush into bonds.
+[ava] First, the latest forecast for Londonderry.
+@weather
+
+## US News | sting=us
+// Story 1: Lucas court appearance
+[ava] We start with Virginia State Senator Louise Lucas. She made her first appearance in federal court in Norfolk this afternoon, alongside family members and others charged in the case. Prosecutors didn't ask to hold her, and she was released on her own recognizance, with conditions that include no contact with co-defendants about the case. Her arraignment is set for November sixteenth in Newport News. N.B.C. News reports the indictment quotes an intercepted call from February in which Lucas allegedly said, I've gotten too old to not be greedy. Lucas hasn't publicly addressed the specific charges, and her supporters call the timing, twelve days before the midterms, political; prosecutors say the case began before this administration.
+// Story 2: Housing executive order
+[ava] President Trump signed an executive order today aimed at lowering the cost of buying and refinancing a home. It directs the Federal Housing Finance Agency to expand pilots that let some refinances skip title insurance, to cancel mortgage insurance automatically once borrowers have enough equity, and to cut paperwork and appraisal hurdles. It also tells the Agriculture and Veterans Affairs departments to lower rates on their home loans, and sets up a task force on manufactured housing. The White House says it will save buyers money. Semafor reported earlier that some in the administration wanted to slow down, and the title insurance industry warns skipping title coverage could leave owners less protected.
+// Story 3: BBC deposition
+[ava] And in Miami, a federal magistrate judge ordered President Trump to sit for a deposition by December eleventh in his ten billion dollar defamation suit against the BBC, or face sanctions that could include dismissal. The BBC's lawyer said Trump canceled an agreed October sixteenth date for what was described as a matter of national importance, and was campaigning that day. Trump's side says the deadline can move if the trial schedule does. The suit is over a documentary that spliced parts of his January sixth speech; the BBC apologized for the edit but denies defamation.
+> source: WTVR, "What impact will Louise Lucas arrest have on Virginia politics?" (Oct 22); Fox News, Lucas initial appearance (Jake Gibson, Oct 22); NBC News (Ryan J. Reilly, Gary Grumbach, Oct 22); White House fact sheet, "President Donald J. Trump Decreases Housing Costs for Americans" (Oct 22); Semafor, "Trump administration divided over housing order" (Eleanor Mueller, Oct 22); ALTA statement on housing executive order (Oct 22); AP via PBS, "Judge orders Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11" (David Fischer, Oct 22)
+
+## International | sting=world
+// Story 4: Hormuz claims vs Trump
+[ava] Overseas, a war of words over the Strait of Hormuz. Iran's Revolutionary Guard says four ships doing oil transfers in the northern Persian Gulf were struck and set on fire, and three more hit mines. None of that has been independently confirmed, and Iran didn't name the ships. President Trump posted that Iran is, quote, making up fake hits, mines and everything else to drive up oil prices before the midterms. The full picture is murky: the British maritime monitor says many attacked ships no longer report incidents, and it logged twelve attacks in the week to October sixteenth, while earlier Iranian mine claims were rejected by U.S. Central Command. Central Command marked a hundred days of its renewed blockade of Iranian ports, which it says has kept twenty-five billion dollars of Iranian oil off the market.
+// Story 5: Italy truckers
+[ava] In Italy, truckers protesting high fuel prices have disrupted deliveries, leaving some supermarket shelves empty. Prime Minister Giorgia Meloni's government approved an aid package today for transport, farming and fishing.
+> source: gCaptain, "Iran Claims More Ships Struck Near Hormuz as Trump Accuses Tehran of 'Faking Hits'" (Mike Schuler, Oct 22); CBS News Iran war live updates (Oct 22); Al Jazeera (Oct 22); Euronews, Meloni government aid for transport, farming and fishing (Oct 22)
+
+## Markets In Depth | sting=markets
+[andrew] To the markets, as of the last hour of trading. The Nasdaq was down nearly three percent, on track for its worst day since June. The S and P five hundred was off about one and a half percent, and the Dow down only a fraction. The main chip index was down more than six percent, with Nvidia, Intel, CoreWeave and SpaceX all lower. Meta was down roughly eight percent, as investors weighed billions more in future spending against its strong revenue and a two-for-one stock split.
+[andrew] The other big story is bonds. Investors piled into Treasurys, and the ten-year yield fell below five percent for the first time in nearly a month. The Wall Street Journal says the roughly two-tenths of a point drop is on pace for the sharpest one-day fall in more than three years. MarketWatch summed up the mood with the headline, A.I. is on trial.
+[andrew] Oil went the other way. Brent hit a five-month high, around a hundred thirteen dollars, up about four percent on the Hormuz claims. That keeps pressure on gas prices even as bond yields drop. We'll have the final closing numbers in the morning.
+> source: Yahoo Finance live, "Dow, S&P 500, Nasdaq tumble as tech stocks sink, Meta plummets 8%" (Ines Ferre, David Hollerith, Oct 22, 3:10 PM ET); WSJ live coverage, "Tech Selloff Deepens as Flight Into Treasurys Drives Yields Lower" (Oct 22, 3:09 PM ET); MarketWatch, "'AI is on trial': Bond yields sink below 5%" (Oct 22); CBS News, Brent near $113 (Oct 22)
+
+## Technology | sting=tech
+// Story 6: Apple Australia
+[andrew] Tech. Australia's Federal Court has ordered Apple to allow rival app stores, app downloads from websites, and outside payment options for Australian users starting March first, twenty twenty-seven, following its finding last year that Apple misused its market power. Apple must also let Epic's Fortnite back into the Australian App Store. Apps from outside the store still have to pass a security scan. Apple says it will appeal and ask for a pause, citing security and its intellectual property. Australia joins the European Union, Japan and Brazil in forcing this kind of opening.
+// Story 7: BioWare
+[andrew] And gamers are mourning BioWare. Electronic Arts says it's closing the Edmonton studio behind Mass Effect and Dragon Age and canceling the next Mass Effect, which was in early development, as part of about four hundred layoffs.
+> source: MacRumors, "Apple Ordered to Open iPhone to Rival App Stores in Australia" (Hartley Charlton, Oct 21); AAP, "Aust court orders Fortnite back into app store" (Oct 22); AP, "Video game developer BioWare shuts down and next 'Mass Effect' is canceled" (Oct 2026); BioWare Blog, "BioWare Update" (Oct 21); Reuters via Investing.com (Oct 2026)
+
+## Artificial Intelligence | sting=ai
+// Story 8: Nadella insider threat
+[andrew] In A.I., Microsoft C.E.O. Satya Nadella told Semafor that companies should treat A.I. models like potential insider threats, saying alignment seems elusive, and even understanding how the models work is tough. It's a notable admission from one of the biggest sellers of A.I.
+// Story 9: Skynet mode agent
+[andrew] And security firm Symantec says its honeypot caught an autonomous A.I. agent its creators call Skynet mode. It hunts for A.I. models left open on the internet without passwords, hijacks them, and uses them to scan for victims, steal credentials and plant crypto miners, sticking the owner of the hijacked model with the computing bill. Symantec reports no confirmed real-world victims yet. If you run your own models, lock them down.
+> source: Semafor, Satya Nadella interview with Reed Albergotti (Oct 22); The Decoder, "An AI agent in 'Skynet mode' hijacks unprotected language models" (Oct 22); Symantec / Security.com, "Autonomous LLMjacking: 'Skynet' Agent Hijacks Exposed AI Models to Run Attacks" (Oct 2026)
+
+## Cybersecurity | sting=cyber
+// Story 10: ConnectWise / Storm-0940
+[ava] Cyber desk. Microsoft says a Chinese state-aligned group it calls Storm 0940 was behind the breach of ConnectWise's cloud backup service. Using stolen credentials that link ConnectWise to its customers' Microsoft 365 accounts, the hackers, helped by an open-source A.I. hacking tool called ARTEX, tried to get into more than twenty-two hundred organizations, at times nearly three thousand attempts a minute. Most failed, but Microsoft says the group gained lasting privileged access at numerous companies, in some cases in under three hours. It hasn't said how many, or whether data was taken. ConnectWise has paused the affected services and is restoring them in phases. If you use ConnectWise, review app sign-ins and any unexpected permission changes.
+> source: Microsoft Security Blog, "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise" (Oct 21); TechCrunch, "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise" (Zack Whittaker, Oct 22); The Register (Carly Page, Oct 22)
+
+## From Your X Feed | sting=x
+[ava] From your X feed this hour.
+[andrew] Several accounts are remembering Tom Skerritt, who died Wednesday at ninety-three. He was in Top Gun, Alien, M.A.S.H., A River Runs Through It, and won an Emmy for Picket Fences.
+[ava] Variety reports Halloweentown 5 is in early development at Disney, with no cast announced yet.
+[andrew] Autoblog says Dodge is offering a free fix for Durango taillights that can cost up to two thousand dollars to replace.
+[ava] And Interesting A.I. shared video of Unitree's new H2-X humanoid robot kicking in car doors and lifting the front of a car in a rescue demo.
+> source: Harry's X home timeline Oct 22 ~3:15-4:00 PM ET (@slater57649, @Variety, @therealautoblog, @interesting_aIl); AP, "Tom Skerritt, Emmy-winning actor ... dies at 93" (Oct 22)
+
+## Local News & Events | sting=local
+[ava] Closer to home, police in Gilmanton have asked people near Sawyer Lake to shelter in place during a SWAT situation on Province Road. W.M.U.R. reports police got a call about a man with a gun threatening to harm himself; the owners say they saw him pour gas on a building and set it on fire, and they got out safely. Police say it isn't connected to their weeks-long search for Dana Hathaway. This is developing.
+[ava] And keep an eye out for spotted lanternflies. After the first New Hampshire sighting in Salem in August, the Executive Council approved about twenty-five thousand dollars in federal money for emergency control and education near the Massachusetts line. The state asks you to report sightings at N.H. bugs dot org.
+> source: WMUR, "Call about armed person leads to shelter-in-place notice for Gilmanton neighborhood" (Oct 22, 3:53 PM ET); NHPR / New Hampshire Bulletin, "Emergency funding directed to quash spread of spotted lanternflies in NH" (Molly Rains, Oct 22)
+
+## Uplifting Story | sting=feel
+[ava] And finally, if the markets have you tense, Finland has a cure. The public broadcaster Yle is back with Pentulive, Puppy Live, streaming a litter around the clock. This season it's a Lagotto Romagnolo mom named Hilkka and her six puppies, born October tenth. Viewers watch them nap, nurse and tumble from birth until they leave for new homes in early December. It's free on Yle Areena, and yes, it's mostly napping.
+> source: AP, "Finland livestreams a litter of napping, nursing puppies around the clock" (Oct 2026); Yle, "Pentulive 2026 – live puppy broadcast from Finland"
+
+## Close | sting=close
+[ava] That's your Thursday four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Final closing numbers in the morning bulletin.
+[ava] Ask your Gumshoe for more on any story.
