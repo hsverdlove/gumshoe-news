@@ -1,0 +1,80 @@
+// Gumshoe script format: see README.md
+# title: Thursday 10 AM Update, Oct 22
+# description: The Thursday ten o'clock update from Gumshoe News Radio for October 22, 2026: Virginia's Senate leader L. Louise Lucas is indicted, a new AP-NORC poll on what voters want from Congress, the Big Bend border wall goes to the Supreme Court, and New Mexico sues Epstein's lawyer and accountant; Aramco empties its headquarters and Turkey convenes European and Mideast ministers; stocks open lower as Meta and chip stocks slide, oil tops $111 and P&G and Lockheed rise; Meta's deal to keep Zuckerberg in California; banks scramble to block unvetted AI agents; the LiteLLM supply-chain attack, eMudhra's exit and Capcom's breach; your X feed; a fatal I-93 crash in Windham, Patriots at Bears and broomstick pilot licenses; and a reporter who swam out to save a driver. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's ten o'clock on Thursday, October twenty-second, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. The opening bell didn't bring relief. Stocks opened lower, led by Meta and the chipmakers.
+[ava] First, the latest forecast for Londonderry.
+@weather
+
+## US News | sting=us
+// Story 1: Louise Lucas indictment
+[ava] Breaking this morning: one of Virginia's most powerful Democrats, State Senate President pro tempore L. Louise Lucas, has surrendered to federal authorities. An indictment accuses the eighty-two-year-old of leading a scheme since at least twenty nineteen to sell more than a hundred kilograms of illegal marijuana through the medical cannabis shop she co-owns in Portsmouth, and of using her office to shield it. Six others were charged, including two daughters and a grandson. Attorney General Todd Blanche says she put her own finances ahead of her constituents. The investigation began under the Biden administration, but critics, including Virginia Congressman Suhas Subramanyam, call the timing, twelve days before the midterms, political. Lucas, a vocal Trump critic, hasn't commented yet.
+// Story 2: AP-NORC priorities poll
+[ava] A new A.P.-NORC poll finds voters in both parties want the next Congress focused on everyday problems. About eight in ten registered voters say lowering the cost of living should be a top priority, and about seven in ten say ending the war with Iran. Only about four in ten put investigating the administration at the top, and about two in ten prioritize advancing President Trump's agenda, including just four in ten Republicans.
+// Story 3: Big Bend wall
+[ava] The administration has asked the Supreme Court to let it resume border wall construction in Texas's Big Bend region, including parts of the national park. A federal judge in El Paso paused the work, finding the area has the lowest rate of illegal crossings on the border and that Homeland Security likely lacked authority to waive environmental laws there. Solicitor General John Sauer calls that order baseless.
+// Story 4: New Mexico Epstein suit
+[ava] And New Mexico's attorney general has sued Jeffrey Epstein's longtime lawyer Darren Indyke and accountant Richard Kahn, accusing them of helping conceal abuse at Epstein's Zorro Ranch and seeking to block their payouts from his estate. Both have told Congress they knew nothing of it.
+> source: CBS News, "Feds charge L. Louise Lucas, Virginia state senator who led Democrats' redistricting push" (Jacob Rosen, Oct 22); NBC News, "Virginia State Senator L. Louise Lucas charged in public corruption case" (Oct 22); AP (Oct 22); AP, "Voters want the next Congress to focus on costs and Iran, not on Trump, a new AP-NORC poll shows" (Linley Sanders, Mike Catalini, Oct 22); SCOTUSblog, "Trump administration asks justices to allow border wall construction to continue" (Amy Howe, Oct 21); AP (Oct 21); AP via PBS, "New Mexico attorney general sues Epstein's attorney and accountant" (Oct 21)
+
+## International | sting=world
+// Story 5: Aramco HQ evacuation
+[ava] Overseas, Saudi Aramco has told the remaining essential staff at its Dhahran headquarters to evacuate and work from home, Reuters and A.F.P. report, citing people familiar with it. It's the first full evacuation of the oil giant's headquarters since the Iran war began. Bloomberg says it followed an alarm in the building; the cause isn't clear, and Aramco hasn't commented. Houthi fire damaged a tower there earlier this month, and Dhahran is only about nine miles from the Dammam airport hit last night. Sources say production is unaffected.
+// Story 6: Istanbul R4+E3
+[ava] Diplomacy is picking up. Turkey's foreign minister, Hakan Fidan, hosts a first-of-its-kind meeting in Istanbul tomorrow, bringing together Britain, France and Germany with Saudi Arabia, Egypt and Pakistan. On the agenda: Houthi attacks on Saudi Arabia, shipping through Hormuz and the Red Sea, the Palestinian issue, and Ukraine.
+> source: Reuters via Devdiscourse, "Saudi Aramco tells staff to evacuate Dhahran headquarters, sources say" (Oct 22); Bloomberg via Moneycontrol (Oct 22); AFP via Gulf News and Kurdistan24 (Oct 22); AFP via Arab News, "Top European, Mideast diplomats to meet in Istanbul Friday" (Oct 22); Anadolu Agency (Oct 22)
+
+## Markets In Depth | sting=markets
+[andrew] To the markets. Stocks opened lower. At the bell, the Dow was off about two hundred twenty points, or four-tenths of a percent, the S and P five hundred down nine-tenths, and the Nasdaq down one and a half percent.
+[andrew] The driver is the A.I. trade again. Meta is down about five percent. It beat on revenue and guidance, but investors are focused on how much it's spending and the new nonvoting shares it's issuing to fund it. Tesla is down around two to three percent; it beat estimates, but cut this year's spending plan and says limited battery supply is holding back car production. I.B.M. fell more than six percent premarket despite a beat. Chips are weak too, with A.M.D. down five, and Nvidia's Jensen Huang telling CNBC that capital is scarce for smaller A.I. cloud firms, which hit CoreWeave. On the bright side, S and P earnings growth for the quarter is tracking above thirty-two percent.
+[andrew] Some winners. Procter and Gamble is up around three percent after beating and raising its sales outlook. Lockheed Martin is up about three on a record two hundred ninety-two billion dollar backlog. Spotify jumped about six percent on a strong profit forecast. Comcast is lower as broadband losses overshadow a beat, and American Airlines now expects a full-year loss on fuel costs.
+[andrew] Oil is the other story. Brent is up nearly three percent, around a hundred eleven to a hundred twelve dollars, the highest since May, and U.S. crude near ninety-nine. Investors are buying Treasuries: the ten-year yield fell about nine basis points to roughly five point oh five percent. Gold is down more than one percent below forty-one hundred dollars, as higher oil revives inflation worries, and Bitcoin slipped below eighty-two thousand.
+[andrew] On the data, weekly jobless claims fell to a hundred ninety-four thousand, the lowest since July and better than expected, supporting the view that the Fed holds steady next week.
+> source: CNBC, "Stocks sell off as Meta and Tesla lead AI trade lower and oil rises: Live updates" (Oct 22, 9:34 AM ET); Reuters via Devdiscourse, "Wall St set for lower open as AI jitters rekindle, oil gains" (Oct 22); WSJ live coverage (Oct 22); CNBC, "Procter & Gamble earnings beat" (Amelia Lucas, Oct 22); Lockheed Martin Q3 2026 results (Oct 22); Comcast Q3 2026 results (Oct 22); Barron's (Oct 22); Anadolu Agency, gold below $4,100 (Oct 22); CoinDesk, "Bitcoin slides below $82,000" (Oct 22); CNBC, jobless claims (Jeff Cox, Oct 22)
+
+## Technology | sting=tech
+// Story 8: Zuckerberg California deal
+[andrew] Tech. Those new Meta shares have a backstory. A company filing says Mark Zuckerberg was weighing moving out of California if voters pass Proposition forty, the proposed tax on billionaires. Meta's board struck a deal: he gets nonvoting Class C shares he can sell to raise cash without diluting his control, and in return he commits to stay in California, or wherever Meta is based, for eight years. Supporters say the very wealthy should pay more; opponents warn the tax will push founders out of the state.
+> source: Fortune, "Zuckerberg weighed leaving California over the wealth tax. Meta answered with a new class of stock" (Oct 21); Reuters via Investing.com (Oct 21); WSJ (Oct 21)
+
+## Artificial Intelligence | sting=ai
+// Story 10: AI agents in bank accounts
+[andrew] In A.I., Axios reports big U.S. banks are finding unvetted A.I. agents logging into customer accounts with the customers' own passwords. Some have called customer service lines or tried things users never asked for. The core problem, as Andrew Curran put it on your feed, is that banks can't tell whether the customer authorized the agent. Banks are tightening their terms and favoring read-only access; a Morgan Stanley spokesperson said it hasn't seen rogue agents, and Reuters couldn't independently verify the report.
+// Story 11: Flapping Airplanes
+[andrew] And a year-old lab called Flapping Airplanes raised one billion dollars at a six billion dollar valuation, led by Index Ventures and Lux, with Sequoia and Nvidia in. Its pitch is efficiency: training strong models with far less data and computing power.
+> source: Axios, "Scoop: Unvetted AI agents are accessing U.S. bank accounts" (Oct 22); Reuters via Investing.com (Oct 22); @AndrewCurran_ on X (Oct 22); TechCrunch, "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation" (Oct 21); Index Ventures (Oct 2026)
+
+## Cybersecurity | sting=cyber
+// Story 12: LiteLLM
+[ava] Cyber desk. If you or your developers use LiteLLM, the popular tool for routing requests to A.I. models, check your version. Attackers hijacked its release pipeline and published a poisoned version, one point one oh seven point oh, to the Python package index and Docker for about two hours yesterday. It steals credentials and API keys. The fix: pin version one point one oh six point two, rebuild, and rotate every key that machine could reach.
+// Story 13: eMudhra
+[ava] India's eMudhra is quitting the global website-certificate business after a researcher found weak, guessable private keys in eight of its certificate authorities. Google, Mozilla, Apple and Microsoft have already blocked them. The company says nothing was breached.
+// Story 14: Capcom
+[ava] And game maker Capcom says hackers accessed more than eleven million Capcom I.D. accounts, mostly email addresses. No passwords or card numbers leaked, but watch for phishing.
+> source: LiteLLM, "Oct 21, 2026 LiteLLM release v1.107.0 Compromised" (Oct 21); Datadog Security Labs (Oct 2026); Reuters via Yahoo Finance, "Indian firm eMudhra exits global digital certificates business" (Oct 22); eMudhra statement (Oct 2026); Capcom, "Notice and Apology Regarding Customer Information" (Oct 22); The Verge (Oct 22)
+
+## From Your X Feed | sting=x
+[ava] From your X feed this morning.
+[andrew] Variety reports J.J. Watt is now CBS Sports' lead N.F.L. analyst on a multi-year deal, permanently replacing Tony Romo alongside Jim Nantz and Tracy Wolfson.
+[ava] Interesting All notes Apple Music has dropped its familiar red for a new black-and-white look.
+[andrew] Simon Sarris reports his baby opened the iPad, started an audiobook, then typed so many wrong passcodes it's locked for fifty-five minutes, with the audiobook still playing.
+[ava] And Rhensing says his wife has the gas-pickup blues: after driving electric, she's suddenly got range anxiety about making it to the gas station.
+> source: Harry's X home timeline Oct 22 ~7:30-10:05 AM ET (@Variety, @interesting_aIl, @simonsarris, @rhensing, @AndrewCurran_)
+
+## Local News & Events | sting=local
+[ava] Closer to home, a man died after a crash on Interstate ninety-three northbound in Windham around ten to six this morning, near Exit three. Three lanes were closed and traffic backed up onto Route one-eleven, but all lanes have reopened. State police are investigating.
+[ava] In Gilmanton, police are still searching for Dana Hathaway, a twenty-nine-year-old parole violator they describe as dangerous and possibly armed. If you see him, don't approach; call nine-one-one.
+[ava] Tonight, the Patriots visit the Bears on Thursday Night Football, eight-fifteen on Prime Video. Drake Maye practiced fully and is expected to play.
+[ava] And Saturday from ten to one, the Aviation Museum of New Hampshire at the airport here in Londonderry holds its Haunted Halloween Hangar. Kids in costume get a free broomstick pilot license after ground school with the ghosts of Lindbergh, Earhart and Alan Shepard. Admission is free.
+> source: WMUR, "Man dead after fatal crash on I-93 north in Windham Thursday morning" (Oct 22); Eagle-Tribune (Jill Harmacinski, Oct 22); WMUR, "Gilmanton police continue search for man considered dangerous" (Oct 21); CBS Boston, how to watch Patriots-Bears (Oct 22); Patriots.com injury report; Aviation Museum of N.H., "Haunted Halloween Hangar" (Oct 24)
+
+## Uplifting Story | sting=feel
+[ava] And finally, a reporter who became the story. A.B.C. Australia's Will Murray was covering flash floods north of Brisbane this morning, their time, when a driver sped into a flooded road in Morayfield. His four-wheel drive stalled and began to float away, then sink. Murray called emergency services, handed the phone to his camera operator, and swam out. With a passerby, Daniel Hainey, he climbed onto the car, braced his feet and yanked open a rear door, and they pulled the driver out just before the vehicle disappeared. His camera operator says the pair definitely saved the man's life. Murray deflected the hero talk, adding: you can't tell how deep it is, so please don't drive into floodwater.
+> source: ABC News (Australia), "ABC reporter and bystander rescue man from sinking car in floodwater near Brisbane" (Oct 22); Al Jazeera (Oct 22)
+
+## Close | sting=close
+[ava] That's your Thursday ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Next update around one, with the midday markets.
+[ava] Ask your Gumshoe for more on any story.

@@ -27,7 +27,7 @@ def make_sting(kind, out):
 
 def silence(sec, out): sh(["ffmpeg", "-loglevel", "error", "-y", "-f", "lavfi", "-i", f"anullsrc=r={SR}:cl=mono", "-t", str(sec), out])
 
-PRONUNCIATIONS = [(re.compile(r"\bAnthropic", re.I), "An-thropic"), (re.compile(r"\brobo-?taxi", re.I), "robo-taxi"), (re.compile(r"\bDouai\b"), "Doo-ay"), (re.compile(r"\bDelhaize\b"), "Del-haze"), (re.compile(r"\bOVHcloud\b"), "O V H cloud")]  # "ah" as in father, not an-THROP-ic
+PRONUNCIATIONS = [(re.compile(r"\bAnthropic", re.I), "An-thropic"), (re.compile(r"\brobo-?taxi", re.I), "robo-taxi"), (re.compile(r"\bDouai\b"), "Doo-ay"), (re.compile(r"\bDelhaize\b"), "Del-haze"), (re.compile(r"\bOVHcloud\b"), "O V H cloud"), (re.compile(r"\beMudhra\b"), "ee-Mudra"), (re.compile(r"\bLiteLLM\b"), "Lite L L M"), (re.compile(r"\bIndyke\b"), "In-dike")]  # "ah" as in father, not an-THROP-ic
 
 def speakable(text):
     for pat, rep in PRONUNCIATIONS: text = pat.sub(rep, text)
