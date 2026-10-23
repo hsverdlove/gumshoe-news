@@ -56,7 +56,7 @@ def nws_weather(loc):
     lines.append(f"Right now it's about {h['temperature']} degrees and {h['shortForecast'].lower()}, and over the next few hours it's {', then '.join(dict.fromkeys(x['shortForecast'].lower() for x in hourly))}.")
     # First bulletin of the day gets the full 7-day; later ones only the next 24 hours.
     stamp = "/workspace/newsfeed-private/last_full_forecast_date"
-    today = datetime.date.today().isoformat()
+    today = dt.date.today().isoformat()
     try: full = open(stamp).read().strip() != today
     except FileNotFoundError: full = True
     if full:

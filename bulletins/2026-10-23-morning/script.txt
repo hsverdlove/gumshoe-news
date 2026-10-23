@@ -1,0 +1,77 @@
+// Gumshoe script format: see README.md
+# title: Friday Morning, Oct 23
+# description: The Friday morning bulletin from Gumshoe News Radio for October 23, 2026: the DHS voter-check order nears its deadline and early voting surges; reports of U.S. strike planning on Iran after the midterms, eight foreign ministers meet in Istanbul, and a ship sinks off Romania; futures steady after Thursday's tech rout as oil tops $113 and Moderna sinks on good news; the iPhone Duo goes on sale and Arc winds down; Microsoft's diagnostic AI and flaws in OpenAI's agent monitoring; Quest Diagnostics' breach and new PHP and Node.js warnings; your X feed; the Supreme Court on New Hampshire student IDs, a Londonderry crash, the Patriots' loss and weekend events; and a Samoan island coming back to life. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Friday, October twenty-third, and this is Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. After Thursday's tech rout, futures are steadier, but oil keeps climbing.
+[ava] First, the full forecast for Londonderry, with the week ahead.
+@weather
+
+## US News | sting=us
+// Story 1: DHS voter-check order deadline (update)
+[ava] An update on the ruling limiting Homeland Security's door-to-door election checks in nine states. The judge's own pause on her order runs out at five p.m. Pacific today, eight Eastern. Unless the Ninth Circuit steps in, the limits take effect tonight and last through Election Day. The administration says the checks protect legitimate votes; the judge found they relied on error-prone data and intimidated voter-assistance groups. Separately, the Justice Department asked the same appeals court to intervene in its bid to stop California from counting more than twenty thousand mail ballots it says likely came from noncitizens.
+// Story 2: Early voting surge
+[ava] Meanwhile, early voting is running well ahead of the last midterm. An A.P. analysis counts more than thirteen million early ballots, versus nine million at this point in twenty twenty-two. Texas is up seventy-four percent, Kansas has more than doubled, and Maine, North Carolina and Ohio are up more than thirty. Caveats: some states expanded early voting or publish more data now, and early turnout doesn't predict winners. In Michigan and Georgia it's about even with twenty twenty-two, and in Iowa it's down.
+> source: Order granting preliminary injunction, California Nurses Association v. Mullin, N.D. Cal. (Oct 21); AP, "Judge orders Trump administration to halt noncitizen voting probe" (Oct 22); Reuters via NBC News, "Justice Department asks appeals court to intervene in California ballot case" (Oct 23); Los Angeles Times (Oct 22); AP, "Many states deciding control of the Senate are seeing a big boost in early voting" (Oct 22)
+
+## International | sting=world
+// Story 4: Iran strike planning
+[ava] Overseas, signs point toward renewed fighting with Iran after the midterms. The Atlantic reports President Trump is weighing several days of strikes on Iranian missile, energy and nuclear sites after November third, though officials stress no decision has been made. U.N. Ambassador Mike Waltz told the Financial Times the war could last another year, and the blockade can continue for the foreseeable future. Iran, per the Wall Street Journal, warns it could hit Gulf airports, pipelines and other civilian targets if attacks resume. Critics argue more strikes risk a wider war; supporters say the pressure is working.
+// Story 5: Istanbul meeting
+[ava] Diplomats are trying another track today. In Istanbul, Turkey hosts the first meeting of Turkey, Saudi Arabia, Egypt and Pakistan with Britain, France, Germany and Italy, focused on Hormuz, the Red Sea and the Black Sea. Germany says the group won't accept Iran and the Houthis holding trade to ransom; Turkey is expected to argue diplomacy is the only lasting answer.
+// Story 6: Black Sea ship
+[ava] And a cargo ship sank about thirteen miles off Constanța, Romania, this morning after reportedly being hit by drones. Rescuers pulled nine of the thirteen crew from the water alive and recovered one body; three are missing. Drones believed to be Russian have struck ships off Romania and Bulgaria in recent weeks, but who launched these hasn't been officially confirmed.
+> source: The Atlantic via Iran International liveblog (Oct 23); Financial Times via CBS News Iran war live updates (Oct 23); WSJ, "Iran Threatens Wider Strikes on Economic and Civilian Targets if U.S. Attacks" (Benoit Faucon, Alexander Ward, Oct 23); NPR Morning Edition (Greg Myre, Oct 23); Hurriyet Daily News, "Istanbul to host European, regional ministers for crisis talks" (Oct 23); Anadolu Agency, German foreign minister on Istanbul meeting (Oct 23); Asharq Al-Awsat (Oct 23); AGERPRES, "Major rescue operation offshore of Constanta" (Oct 23); Euronews (Gregoire Lory, Oct 23); AP (Oct 23)
+
+## Markets In Depth | sting=markets
+[andrew] To the markets. As of about six-thirty, S and P five hundred futures were down about two-tenths of a percent, Dow futures off between two- and six-tenths, and Nasdaq one hundred futures roughly flat, with chip stocks bouncing about two percent premarket.
+[andrew] Thursday's final numbers: the S and P fell one point two percent to seventy-six sixty-three, its worst day since July. The Nasdaq composite dropped two point six percent to about twenty-six thousand, its worst since June. The Dow ended flat at about fifty-two eight sixty-eight. Nvidia lost more than four percent and A.M.D. more than eight. Moderna fell about eighteen percent even though its personalized melanoma vaccine with Merck cut the risk of recurrence or death by forty-two percent in a late-stage trial; after a five-hundred-percent run this year, traders sold the news. And Nvidia's Jensen Huang told CNBC there's, quote, a scarcity of capital to fund the A.I. build-out.
+[andrew] Overnight, South Korea's Kospi erased a four percent drop to close slightly higher. Europe is down about three-tenths, with Gucci owner Kering off twelve percent and Volvo Cars down thirty. The ten-year Treasury yield is back up to about four point nine eight percent after its biggest drop in more than a year. The dollar is slightly higher. Brent crude is near a hundred fourteen dollars, the highest since early May, with U.S. crude around a hundred and one. Gold is near four thousand, headed for its worst week since June, and Bitcoin is about eighty-one seven hundred.
+[andrew] Today: earnings from American Express and S L B before the bell, plus flash purchasing managers' surveys and the University of Michigan's consumer sentiment reading this morning. The Fed meets next week.
+> source: AP, "How major US stock indexes fared Thursday 10/22/2026" (Oct 22); Barron's, closing data (Oct 22); Yahoo Finance live (Ines Ferré, David Hollerith, Oct 23, 6:20 AM ET); Stocktwits via Yahoo Finance, futures as of 6 AM ET (Aveek Bhowmik, Oct 23); Bloomberg via swissinfo, "Tech Rout Eases With Oil Strength Capping Relief" (Oct 23); Reuters via Investing.com, Merck/Moderna melanoma vaccine (Oct 22); CNBC, Moderna data leak (Oct 22); CNBC, Jensen Huang interview (Oct 22); Investing.com, Friday economic calendar (Oct 23); Digrin earnings calendar (Oct 23)
+
+## Technology | sting=tech
+// Story 7: iPhone Duo on sale
+[andrew] Tech. Apple's first foldable, the iPhone Duo, goes on sale today, starting at nineteen ninety-nine. Apple stores in the U.S. and several other countries have only limited walk-in stock, MacRumors reports, so if you want one without a long wait, an online order or reserved pickup is the safer bet.
+// Story 8: Arc shutdown
+[andrew] And if you use the Arc browser, start planning a move. The Browser Company says Arc stops working on Mac and Windows on December twenty-second, with account data deleted within thirty days after that. The company is putting everything into Dia, its A.I. browser, which can import your Arc passwords, bookmarks, history and tabs.
+> source: Apple Newsroom, "iPhone Duo arrives at Apple Store locations worldwide" (Oct 23); MacRumors, "Apple Stores Will Have 'Limited' Availability of iPhone Duo for Walk-In Customers" (Oct 21); TechCrunch, "Arc browser sunsets December 22 as The Browser Company doubles down on Dia" (Oct 22); Arc Help Center, "Arc Sunset: Key Dates and What to Expect"
+
+## Artificial Intelligence | sting=ai
+// Story 9: Microsoft diagnostic AI
+[andrew] In A.I., Microsoft says its Diagnostic Orchestrator, a system that works a case step by step like a panel of doctors, asking questions and ordering tests, got about eighty-three percent of difficult New England Journal of Medicine cases right in a study published in Science, versus thirty-six percent for general physicians. Mustafa Suleyman calls it a step toward medical superintelligence. The caveats matter: the cases were text-only, the doctors worked alone without specialists or references, and there's no data yet on real patients. TechCrunch notes much of the gain may come from the underlying A.I. models themselves.
+// Story 10: METR / OpenAI monitoring
+[andrew] And outside evaluators from METR and Redwood Research spent three weeks inside OpenAI testing the system that watches its internal A.I. agents for misbehavior. They found several holes, including a way agents could keep hundreds of recent actions unmonitored. OpenAI says the flaws affecting production are patched; the evaluators haven't verified that.
+> source: Science, "Sequential diagnosis with language models" (Oct 2026); TechCrunch, "Microsoft's Mustafa Suleyman says its AI outperforms doctors on hard cases" (Oct 22); The Verge (Oct 22); METR, "Red-Teaming OpenAI's Internal Agent Monitoring Systems" (David Rein, Adam Kaufman, Oct 22); CNBC (Oct 22); Reuters via Investing.com (Oct 22)
+
+## Cybersecurity | sting=cyber
+// Story 11: Quest Diagnostics
+[ava] Cyber desk. Quest Diagnostics, the lab company that tests roughly one in three American adults a year, says hackers got into its Quanum lab services system, which some clinics use to order tests and look up results. Quest believes patient health and identifying information was accessed, but doesn't yet know how many people are affected. It found the intrusion October twenty-first, paused the system, and says its core testing operations are running. It will notify patients as required. If you've used Quest, watch for scam messages that reference real test results.
+// Story 12: PHP2Shell and Node2Shell
+[ava] On the PHP flaws we've been following, Amazon says attackers began probing them on October seventeenth, four days before patches came out, and that exploitation attempts are now widespread, though no successful break-ins have been confirmed. And Node.js has its own critical bug, nicknamed Node2Shell, where crafted compressed data can let attackers run code. If you or your developers run Node, update to the October twenty-first releases.
+> source: Quest Diagnostics Form 8-K (Oct 21); Cybernews, "Quest Diagnostics confirms breach of lab systems" (Stefanie Schappert, Oct 23); AP (Oct 22); Washington Post (Oct 22); BleepingComputer, "Amazon says PHP2Shell exploitation began 4 days before patches" (Sergiu Gatlan, Oct 22); Node.js, "October 2026 Security Releases" (Oct 21); Imperva, "Node2Shell: From Brotli Data to Remote Code Execution"
+
+## From Your X Feed | sting=x
+[ava] From your X feed overnight.
+[andrew] Kimmonismus passed along a SemiAnalysis report that Anthropic is testing new Claude Max limits for some subscribers: about twenty percent more usage per five-hour window, but twenty percent less per week. Anthropic hasn't commented, so treat it as a report for now. He's also hearing that Moonshot's Kimi K three point one may drop today, which is still a rumor.
+[ava] Interesting All says a Valve developer let slip H L X, the rumored codename for Half-Life 3, at a conference. Valve still hasn't confirmed anything.
+[andrew] Iter Intellectus flagged a medical first, which Nature has also covered: a prime-editing therapy that rewrites DNA directly inside the body has been given to a patient, in Prime Medicine's trial for Wilson disease. First results are expected next year.
+[andrew] And Pictures Folder notes birthdays: Ryan Reynolds turns fifty today, and Michael J. Fox wished his Back to the Future co-star Christopher Lloyd a happy eighty-eighth.
+> source: Harry's X home timeline Oct 23 ~2:30-7:00 AM ET (@kimmonismus, @interesting_aIl, @IterIntellectus, @PicturesFoIder); Nature, "A first for CRISPR: powerful prime editing alters DNA directly in the human body" (Oct 2026); Prime Medicine press release (Oct 5)
+
+## Local News & Events | sting=local
+[ava] Closer to home, the U.S. Supreme Court sided with New Hampshire last night, so college students can't use student I.D.s to help prove who they are at the polls this November. An appeals court had allowed it case by case. The state attorney general calls it a victory against last-minute rule changes; the Coalition for Open Democracy, which sued, says it will deprive young voters and will keep fighting the law.
+[ava] Here in Londonderry, three people were hospitalized with non-life-threatening injuries after a three-car crash around seven last night; the cause is under investigation.
+[ava] Football: the Patriots lost in Chicago, thirty to twenty-four. Drake Maye threw for three hundred twenty-one yards and two touchdowns, but Caleb Williams and the Bears held on, recovering an onside kick at the end.
+[ava] This weekend: Concord's Halloween Howl on Main Street tonight from five-thirty to seven-thirty; Merrimack's Halloween Spooktacular Saturday from four to eight, with trunk-or-treat and an outdoor movie; and Carrie the Musical runs through Sunday at the Manchester Community Theatre Players.
+> source: WMUR, "SCOTUS: NH students cannot use student IDs at polls for 2026 midterm election" (Initha Selvakumar, Oct 22); WMUR, "Three injured Londonderry multi-vehicle car crash" (Oct 23); AP, "Caleb Williams throws 2 TD passes as the Bears beat Drake Maye and the Patriots 30-24" (Oct 22); Chicago Bears game recap (Larry Mayer, Oct 22); NHPR, "Your Weekend in NH" (Zoë Mitchell, Oct 22)
+
+## Uplifting Story | sting=feel
+[ava] And finally, an island bouncing back. Nu'utele, off Samoa, has one of the country's most pristine native forests, but invasive rats and feral pigs were eating eggs and tearing up seedlings. Samoan officials, nearby villagers and the nonprofit Island Conservation removed them, with former New Zealand rugby star Glen Osborne joining the hunt for the last pigs. A year on, seedlings carpet the forest floor, people are harvesting giant taro where crops used to fail, and researchers have found nests of the rare shy ground dove. Next up: bringing back an endangered forest bird called the mao.
+> source: Good News Network, "Samoan Island Witnesses Explosion of Native Wildlife Following Removal of Invasive Rats and Pigs" (Andy Corbley, Oct 22), citing Island Conservation and SPREP
+
+## Close | sting=close
+[ava] That's your Friday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. At ten: the opening bell, and American Express results.
+[ava] Ask your Gumshoe for more on any story.
