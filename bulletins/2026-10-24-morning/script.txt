@@ -1,0 +1,80 @@
+// Gumshoe script format: see README.md
+# title: Saturday Morning, Oct 24
+# description: The Saturday morning bulletin from Gumshoe News Radio for October 24, 2026: DHS's voter-check limits take effect, an appeals court rules Trump's Los Angeles Guard takeover unlawful, and Trump revives talk of Cuba; France braces for protests after a racist terror attack near Paris, the Oleshky ceasefire date is settled, the U.S. thins embassy staff over Iranian threats, and fire guts the Eagle's Nest; cyan lights for driverless cars and the iPhone Duo's torture test; a Claude Code departure and Moonshot's promotion controversy; exploited Collabora and VeloCloud flaws and a wider Brotli bug; the week on Wall Street; your X feed; York's ballot questions, toy chemicals in Maine and weekend events; and a Bosnian man and his bear. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Saturday, October twenty-fourth, and this is Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Markets are closed for the weekend, so we'll keep the money talk short and look at the week ahead.
+[ava] First, the full forecast for York, Maine, with the week ahead.
+@weather
+
+## US News | sting=us
+// Story 1: DHS voter-check limits in effect (update)
+[ava] We start with the update we promised. The judge's order limiting Homeland Security's door-to-door election checks in nine states took effect at eight last night, Eastern time. As of this morning we found no report of an appeals court stepping in, so through the close of polls on November third, agents in those states can't run election-related field interviews likely to involve U.S. citizens, or act solely on the government's citizenship-matching lists. The judge stressed that investigating illegal voting itself remains lawful. DHS says it targets only noncitizens who vote; the groups that sued say the lists are error-prone and the visits intimidate voter-outreach workers.
+// Story 2: Ninth Circuit National Guard ruling
+[ava] The same appeals court did rule in another big case. A divided Ninth Circuit panel held, two to one, that President Trump exceeded his authority when he federalized four thousand California National Guard troops during last year's Los Angeles protests. Judge Jennifer Sung wrote that the administration hadn't shown it met the legal conditions the Supreme Court set out last year; Judge Mark Bennett dissented. Governor Newsom and Attorney General Rob Bonta called it a win for the rule of law. Supporters of the deployment argue presidents need wide latitude to protect federal officers and property, and the administration can seek further review.
+// Story 3: Trump on Cuba
+[ava] And at a rally in Fort Myers, Florida, last night, President Trump revived the idea of pressuring Cuba militarily, saying warships coming back from the Iran war could stop about fifty yards off Cuba's coast before Secretary of State Rubio, quote, finishes up the deal. He has previously said he didn't think military intervention would be needed. Backers see pressure on a hostile government ninety miles away; critics warn against opening another front while the Iran conflict is unresolved.
+> source: Order granting preliminary injunction, California Nurses Association v. Mullin, N.D. Cal. (Oct 21); CBS News and NPR (Oct 22); The Western Watch (Oct 23); Ninth Circuit opinion, Newsom v. Trump, No. 25-3727 (filed Oct 23); Bloomberg Law (Oct 23); California Attorney General press release (Oct 23); AP, "Trump at South Florida rally revives the idea of military intervention in Cuba after Iran" (Oct 23); PBS NewsHour (Oct 23)
+
+## International | sting=world
+// Story 4: France - Trappes attack update + protests
+[ava] Overseas, France is on edge. About seventy thousand police and gendarmes are deployed today for nationwide protests over living costs and school conditions, a week after riots and looting hit cities across the country. The Louvre, the Orsay and other Paris museums are closed, Paris's march was rerouted away from the center, and police reportedly fired tear gas in Lyon this morning. The tension follows Friday's shooting in Trappes and La Verrière, west of Paris, where a gunman firing from his car killed a twenty-six-year-old martial-arts athlete and wounded five, including a twelve-year-old girl. Prosecutors are treating it as a racist terrorist attack. President Macron called it a turning point, the first planned terror attack to target people for their skin color or perceived religion. France's main Jewish umbrella group objected to the word "first," pointing to past attacks on a Jewish school and a kosher grocery. The suspect remains in custody, and three people close to him, including his mother, are being questioned.
+// Story 5: Oleshky ceasefire date settled (update)
+[ava] On the Oleshky ceasefire: the start-date mismatch is resolved. Ukraine's General Staff and Russia now both say guns fall silent at three a.m. Kyiv time on Tuesday, the twenty-seventh. The humanitarian mission itself, with demining, aid deliveries and voluntary evacuations, follows two days later, on Thursday. Ukraine's negotiator still warns it will be extremely hard to carry out.
+// Story 6: Iran - embassies + Gulf warning
+[ava] On Iran, the State Department is cutting staff at the U.S. embassies in Jordan, Lebanon, Qatar and the United Arab Emirates, citing intelligence that Iran and the Houthis are stepping up efforts to target Americans. The posts stay open. Iran's armed forces chief, Major General Ali Abdollahi, said today that U.S. warships will never be allowed back into the Persian Gulf. We haven't seen a U.S. response.
+// Story 7: Jordan update
+[ava] In Jordan, the death toll from the attack on a church funeral in Karak province has risen to eight, with forty wounded; the gunmen are still being hunted, and no group has claimed it.
+// Story 8: Eagle's Nest fire
+[ava] Finally, in Bavaria, a fire has largely destroyed the Eagle's Nest, the mountaintop house built for Hitler and now a state-owned tourist site and documentation spot. No one was hurt. Police suspect arson and detained a suspect, though they haven't confirmed a link to the blaze.
+> source: Guardian Europe live (Oct 24); AFP, "France to deploy 70,000 police" (Oct 23); BBC (Oct 24); Elysee, Macron statement in Trappes (Oct 23); franceinfo live (Oct 24); Ukrainian General Staff via UNN (Oct 24); Interfax-Ukraine (Oct 23); AP on the Oleshky ceasefire (Oct 23); AP and Washington Post, "US is reducing staffing at 4 Middle East embassies" (Oct 23); Iran International and The Straits Times on Gen. Abdollahi (Oct 24); The Guardian and Khaleej Times on the Jordan church attack (Oct 24); AP, BBC and DW on the Eagle's Nest fire (Oct 24)
+
+## Technology | sting=tech
+// Story 9: NHTSA cyan lights
+[andrew] Tech, and one for drivers. The National Highway Traffic Safety Administration has proposed letting fully driverless cars wear cyan, a blue-green light, to signal when the computer is driving with no human watching the road. The lamps would be optional, but if a carmaker uses them they'd need to be visible from the front, sides and rear, steady rather than flashing, and meet set color and brightness rules. The proposal also loosens some requirements for manual light controls in vehicles without a driver. It's set to be published in the Federal Register Monday, opening public comment.
+// Story 10: iPhone Duo durability
+[andrew] And if you're eyeing Apple's two-thousand-dollar foldable: YouTuber JerryRigEverything's torture test found that dust worked into the iPhone Duo's hinge and kept it from closing, and that bending eventually killed the inner screen. The outer screen held up well. These are deliberately extreme tests, not everyday use.
+> source: NHTSA press release, "Vehicle Lighting Updates for Automated Vehicles" (Oct 2026); Federal Register, FMVSS No. 108 modernization for ADS-equipped vehicles (scheduled Oct 26); The Verge (Oct 23); GSMDome and Kursiv on the JerryRigEverything iPhone Duo test (Oct 23-24)
+
+## Artificial Intelligence | sting=ai
+// Story 11: Thariq leaves Anthropic
+[andrew] In A.I., a notable departure from Anthropic. Thariq Shihipar, one of the best-known engineers on Claude Code, announced overnight that he's leaving after more than a year on the team. He says he'll take a break before starting something new. Posts on X suggest at least one other colleague may be leaving too, possibly to found a startup, but that's unconfirmed.
+// Story 12: Moonshot promotion controversy
+[andrew] And the launch of Moonshot's Kimi K three point one Pro hit turbulence. A creator shared what he says are campaign documents asking influencers to submit posts for approval, skip paid-partnership labels, and use scripted lines like "the Chinese version of Opus." Moonshot hasn't publicly responded that we've found. Several A.I. commentators say the model is genuinely strong, which makes the undisclosed promotion more damaging to trust.
+> source: Thariq Shihipar on X via Digg and Runtime Wire (Oct 24); Lookonchain and ABAB News on the Kimi promotion documents (Oct 24)
+
+## Cybersecurity | sting=cyber
+// Story 13: CISA KEV Collabora + VeloCloud
+[ava] Cyber desk. CISA says attackers are actively exploiting two flaws, and federal agencies have until Monday to fix them. One is a command-injection bug in Collabora Online, the document editor often paired with Nextcloud, which is being used to plant web shells. The other hits on-premises Arista VeloCloud Orchestrator, the third exploited VeloCloud flaw since July. If you run either, patch now and check for signs of intrusion.
+// Story 14: Brotli flaw widens
+[ava] The compression bug behind the Node.js flaw we told you about this week turns out to be much wider. The same Brotli decoder flaw also affects Bun, Python's Brotli packages, and the Envoy and Istio proxies when Brotli decompression is on. Fixed versions are out for all of them.
+> source: CISA, KEV catalog additions (Oct 23); Arista Security Advisory 0199; The Hacker News (Oct 24); Bun, Envoy and Istio security advisories for CVE-2026-111497; Aikido Security blog
+
+## Week in Markets | sting=markets
+[andrew] A quick look at the week on Wall Street. Oil was the story: Brent crude near a hundred seventeen dollars, the highest since spring, as attacks around the Gulf continued. For the week, the Dow eked out a gain of about four-tenths of a percent, while the S and P five hundred lost half a percent and the Nasdaq seven-tenths, their second straight weekly losses. Small companies did best, with the Russell two thousand up about two percent.
+[andrew] Next week is a big one: the Fed's rate decision Wednesday, and earnings from Alphabet, Microsoft and Amazon.
+> source: CNBC market live coverage (Oct 23); Reuters via Investing.com, "Wall Street closes lower to end rocky week" (Oct 23); investingLive (Oct 23)
+
+## From Your X Feed | sting=x
+[ava] From your X feed overnight.
+[andrew] Interesting All shared a strange find: an eleven-foot-wide metal bowl that landed in a western Minnesota cornfield. Experts say it's likely the upper stage of a Chinese rocket launched in September; officials say it poses no danger.
+[ava] Same account, happier news from Tokyo: J.R. East has hired two goats, Nagi and Pokke, to eat the weeds by Yotsuya Station through December. Commuters are stopping to watch, and the railway asks people not to feed them.
+[ava] Variety had Jay-Z bringing out his daughter Blue Ivy on keys, along with D.J. Khaled, John Legend and Scarface, at the first of two nights at SoFi Stadium in Los Angeles.
+[andrew] And Pictures Folder notes Drake turns forty today.
+> source: Harry's X home timeline Oct 24 ~12:30-7:00 AM ET (@interesting_aIl, @Variety, @PicturesFoIder); Ars Technica and MPR News on the Minnesota debris (Oct 21-22); SoraNews24 on the Yotsuya goats (Oct 20)
+
+## Local News & Events | sting=local
+[ava] Closer to where you are this morning, in York, voters on November third will decide on ambulance funding, making the town's ban on single-use plastics permanent, and banning automated license-plate readers. Supporters of the reader ban cite privacy; police generally value the cameras for finding stolen cars and missing people.
+[ava] Statewide, the Portland Press Herald reports major toy makers including Crayola and Build-A-Bear didn't disclose certain toxic chemicals in products to Maine regulators as state law requires. And state election officials say they're monitoring complaints of voters being filmed and harassed outside early voting in Lewiston.
+[ava] This weekend in York: the Old York Historical Society's After Dark at the Old Gaol tour tonight and its Dungeons and Dragons Halloween adventure Sunday are both sold out, but the York Public Library has a costume closet open through Halloween for anyone who needs a last-minute outfit.
+> source: Portland Press Herald, "Here's what's on the ballot in York" (Oct 13); Portland Press Herald on toy chemical disclosures and Lewiston voter complaints (Oct 23); Old York Historical Society events; York Public Library calendar (Oct 24)
+
+## Uplifting Story | sting=feel
+[ava] And finally, a friendship with a bear. In two thousand nineteen, Petar Tubic found a tiny abandoned bear cub on Mount Ozren in Bosnia and took her in. Today, Masa weighs about three hundred thirty pounds and still tries to climb into his lap. Tubic also cares for a second bear and a menagerie of rescued animals, and his place has become a local attraction, with visitors coming to see a man and a bear who, the A.P. says, are simply inseparable.
+> source: AP, "Bear Masa was abandoned as a cub. A Bosnian man found her and now they are inseparable" (Oct 23); The Washington Post (Oct 23)
+
+## Close | sting=close
+[ava] That's your Saturday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. Enjoy the weekend.
+[ava] Ask your Gumshoe for more on any story.
