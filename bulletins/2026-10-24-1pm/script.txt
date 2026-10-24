@@ -1,0 +1,62 @@
+// Gumshoe script format: see README.md
+# title: Saturday 1 PM Update, Oct 24
+# description: The Saturday one o'clock update from Gumshoe News Radio for October 24, 2026: voters in Colorado and Washington weigh limits on transgender girls in school sports, Halloween candy sales start slow amid high prices, and a Coast Guard swimmer recounts saving 16 people off Baja; France's second Saturday of protests brings tear gas in Lyon and Marseille and about 110,000 marchers in Paris, the U.S. widens Middle East travel warnings as Iran says U.S. warships won't enter the Gulf, and thousands march in Turkey over jailed journalists; U.S. cities weigh driverless trains; a study on how two A.I. models pick candidates; the BlackX bootkit and a Secure Boot gap; your X feed; Halloween events around York and Kittery; and superheroes rappelling down a children's hospital. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's one o'clock on Saturday, October twenty-fourth, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. Still no markets on a Saturday, so it's news all the way.
+[ava] First, conditions around York, Maine, through this time tomorrow.
+@weather
+
+## US News | sting=us
+// Story 1: Colorado and Washington trans sports measures
+[ava] With ten days to the midterms, the A.P. looks at two ballot questions in Democratic-leaning states. Colorado's Proposition one thirty-four would require school and college teams to be designated male, female or coed based on biological sex. Washington's Initiative six thirty-eight would bar students born male from girls' teams and allow sex verification, including testosterone testing. Supporters say it's about fairness and safety for female athletes. Opponents say it singles out a small group of kids and invites invasive checks on any girl whose body is questioned. Both states currently let transgender students play on teams matching their gender identity.
+// Story 2: Halloween candy sales
+[andrew] On your wallet: Halloween candy sales are off to a slow start. NielsenIQ says they fell almost seven percent in the month ending October seventeenth compared with last year. Small bags are the only size still growing. Candy and gum prices are up forty-four percent over five years, and cocoa prices started rising again this spring, partly because the Iran war disrupted fertilizer supplies to West Africa. NielsenIQ also points to gas, now averaging about four twenty-nine a gallon nationally. The candy makers' trade group says it's still optimistic, since the peak buying week is just starting.
+// Story 3: Coast Guard swimmer
+[ava] And a Coast Guard rescue swimmer has told the A.P. what it took to save sixteen people from the Pacific. Twenty-four-year-old Josh Law was lowered from a helicopter in the dark, into six- to eight-foot waves, about a hundred forty miles off Mexico's Baja coast after a boat capsized on October sixteenth. For nearly two hours he was the only rescuer in the water, towing survivors to the basket one by one. Eleven people were never found, and federal investigators are still trying to learn where the boat came from.
+> source: AP, "Voters in 2 Democratic strongholds could ban transgender girls from girls school sports" (Oct 24); Chalkbeat Colorado on Proposition 134 (Oct 2); AP, "Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns" (Oct 24); AP, "24-year-old Coast Guard swimmer says he fought waves and darkness to rescue 16 people from ocean" (Oct 23)
+
+## International | sting=world
+// Story 4: France protests afternoon
+[ava] In France, the second Saturday of cost-of-living protests turned tense this afternoon, though so far nothing like last weekend's riots. Paris police counted about a hundred ten thousand marchers and called the capital calm, helped by heavy rain. In Lyon, where much of the center is off limits, about ten thousand people moved through the streets, and police used tear gas after officers were pelted with projectiles. In Marseille, a court let a union march go ahead, and it ended with police charging and gassing crowds near the Porte d'Aix. Nantes saw a store looted and at least five arrests. Videos online claim wider looting and police retreating in some cities; those claims haven't been confirmed by authorities or major outlets. Unions say the protest bans trample a basic right; the government says they're needed after last week's destruction.
+// Story 5: Middle East travel warnings
+[ava] On Iran, the State Department has updated travel warnings for thirteen Middle East countries, urging Americans to reconsider trips to Saudi Arabia after Houthi drone and missile attacks on Saudi airports. A State Department official said the move reflects recent strikes rather than new Houthi capabilities. Iran's armed forces chief said U.S. warships will never be allowed into the Persian Gulf, after President Trump told a Florida rally the U.S. may do, in his words, "another little Epic Fury." Earlier this month he said there would be no strike before the midterms. Eight European and regional foreign ministers meeting in Istanbul urged restraint on both sides.
+// Story 6: Turkey press protests
+[ava] And in Turkey, thousands marched in at least ten cities, including Istanbul and Ankara, against what they call a crackdown on the press. The Turkish Journalists' Union says eleven journalists have been jailed in the past two months, and this month authorities took over the country's most-watched news channel, Halk TV. The government says it doesn't jail anyone for journalism, only for crimes like spreading misleading information.
+> source: 20 Minutes live, "Manifestation du 24 octobre" (Oct 24); BBC News live (Oct 24); Euronews (Oct 24); Europe 1/AFP (Oct 24); The National, "US warns citizens that Houthi attacks 'have potential to escalate rapidly'" (Oct 24); Al Jazeera (Oct 24); CBS News Iran war live updates (Oct 24); AFP, "Thousands protest in Turkey over journalists' arrests, media shutdowns" (Oct 24); BBC News Türkçe (Oct 24)
+
+## Technology | sting=tech
+// Story 7: driverless trains
+[andrew] Tech. Some U.S. transit systems are weighing trains with no one at the controls. Honolulu's Skyline is the only major American system running fully driverless today, and it's expanding toward nineteen miles. Washington's Metro is studying full automation of its Red Line, possibly as early as twenty thirty-three, with staff still aboard for emergencies and maintenance, and Los Angeles is planning an automated line under the Santa Monica Mountains. Backers point to more frequent trains and lower costs; unions and some riders worry about jobs and who handles trouble when it happens.
+> source: AP, "Some US transit systems weigh whether to run trains without a human at the controls" (Oct 24); The GW Hatchet on WMATA automation (Oct 22)
+
+## Artificial Intelligence | sting=ai
+// Story 8: AI models picking candidates
+[andrew] In A.I., a study reported by TechCrunch asked two models, through their developer interfaces, to name one candidate in nearly five hundred midterm races. OpenAI's G.P.T. six point one picked the Democrat ninety-seven percent of the time; xAI's Grok four point seven picked the Republican ninety-two percent. The consumer chatbots refused the same question. OpenAI says the test used a developer setup with a prompt demanding a pick, and doesn't reflect the ChatGPT app; xAI didn't respond. The researcher, Cornell's Tapan Parikh, found G.P.T.'s lean held without web search, while Grok mostly declined to choose when search was off, which he says points to the sources it searches. It's one study, not peer reviewed, but it's a reminder to check candidates yourself, with sites like vote four eleven dot org or Ballotpedia.
+> source: TechCrunch, "Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats." (Oct 24); Convovo study
+
+## Cybersecurity | sting=cyber
+// Story 9: BlackX bootkit
+[ava] Cyber desk. Kaspersky has detailed BlackX, a bootkit that loads before Windows and slips past Secure Boot using an old flaw nicknamed Baton Drop. It was used against diplomatic agencies in Central Asia and is tied, with medium confidence, to the Chinese state-backed group APT forty-one. The catch: victims were fully patched. Microsoft's fix requires a manual extra step to revoke an old signing certificate, and most admins never take it. If you manage Windows machines, check that the Baton Drop revocation is actually applied.
+> source: BleepingComputer, "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot" (Oct 24); Kaspersky research
+
+## From Your X Feed | sting=x
+[ava] From your X feed since ten.
+[andrew] Variety posted the box office: DC's Clayface took Friday with ten point four million dollars, and Deadline now projects a twenty-four to twenty-five million dollar opening, with an A-minus CinemaScore. Nathan Fielder's Elizabeth Holmes documentary, You Can See Everything, is actually growing in its second weekend.
+[ava] Kimmonismus shared a clip of asking Nvidia's Jensen Huang how to raise kids in the age of A.I.; his answer centered on curiosity, hard work, and being willing to struggle with something difficult.
+[andrew] And Twenty Five Years Ago Live marked a milestone: in October two thousand one, the Internet Archive opened the Wayback Machine to the public.
+> source: Harry's X home timeline Oct 24 ~10:00 AM-1:00 PM ET (@Variety, @kimmonismus, @25YearsAgoLive); Deadline, "'Clayface' Takes Shape As No. 1 With $24M+" (Oct 24)
+
+## Local News & Events | sting=local
+[ava] Around York tomorrow, the Kittery Community Market goes Halloween from ten to two at Post Office Square on Shapleigh Road, with trick-or-treating at the vendor booths, a costume party, magic and balloon art, and the Southern New Hampshire Ukulele Group. And the Old York Historical Society's Spirits of the Tavern, a Dungeons and Dragons Halloween adventure at Jefferds Tavern, runs five to nine Sunday evening, but it's sold out.
+> source: Kittery Community Market, Halloween Market (Oct 25); Old York Historical Society, Spirits of the Tavern
+
+## Uplifting Story | sting=feel
+[ava] And finally, a hospital visit from the outside. In Loudoun County, Virginia, firefighters dressed as Captain America, Spider-Man, Mario, Luigi, Stitch and Mr. Incredible rappelled down the side of Inova Loudoun Hospital on Friday, stopping at the windows to play tic-tac-toe, bingo and bubbles with young patients. Lieutenant Jason Ilowite, the one in the Luigi suit, said it doubles as rope training, but the real goal was bringing some happiness to kids who might not be having the greatest day.
+> source: WJLA 7News, "Superheroes rappel down Inova Loudoun Hospital to surprise young patients" (Oct 23)
+
+## Close | sting=close
+[ava] That's your one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. At four: how France's protests end the day, and the latest on Iran.
+[ava] Ask your Gumshoe for more on any story.
