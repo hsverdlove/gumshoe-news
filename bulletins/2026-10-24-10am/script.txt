@@ -1,0 +1,71 @@
+// Gumshoe script format: see README.md
+# title: Saturday 10 AM Update, Oct 24
+# description: The Saturday ten o'clock update from Gumshoe News Radio for October 24, 2026: the Justice Department's Alaska move draws bipartisan surprise, Trump says he may relocate the White House press corps, New York's archdiocese nears an abuse settlement of more than 800 million dollars, and floods hit the Four Corners; France's second day of cost-of-living protests brings 135 arrests, a U.S. envoy says strikes on Iran could come this weekend, Iran claims two supertankers hit mines and oil reaches U.A.E. beaches, and Ukraine gets its Starlink links back as peace talks are eyed for mid-November; Proton's Flock camera map and a Range Rover camera recall; OpenAI moves frontier training offline and Block's speech-only voice model; a PHP flaw with no patch and the LiteLLM supply-chain attack; your X feed; OgunquitFest and weekend events near York; and a heart surgeon surrounded by the children he saved. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's ten o'clock on Saturday, October twenty-fourth, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. No markets today, so we'll spend the extra time on the news.
+[ava] First, conditions around York, Maine, through this time tomorrow.
+@weather
+
+## US News | sting=us
+// Story 1: DOJ Alaska certification suit (reaction)
+[ava] We start with fallout from the Justice Department's lawsuit in Alaska. As we reported yesterday, the department is asking a court to let it hold up certification of Alaska's Senate result if Republican Senator Dan Sullivan loses, citing possible voter confusion because a second, unrelated Dan Sullivan, a retired teacher, is also on the ballot. Politico reports the move surprised officials in both parties. Critics, including Democrats, call it federal interference in a state-run election before a single vote is counted. The administration says it's protecting voters from being misled by a confusing ballot. Democrat Mary Peltola is the main challenger.
+// Story 2: Trump on moving press corps
+[ava] President Trump said this morning he may move the White House press corps to what he called "a less obnoxious location," while dismissing a New York Times report that he wanted to replace the briefing room with a restored pool, calling that idea stupid. Press freedom groups see it as another step in a pattern after last month's brief ban on three outlets, which a judge blocked. Supporters say the president controls the use of White House space and the press has no right to a particular room.
+// Story 3: NY Archdiocese settlement
+[ava] The Archdiocese of New York is close to settling sexual-abuse claims from about thirteen hundred survivors for more than eight hundred million dollars, according to the New York Times. Plaintiffs' lawyers say every survivor has signed the revised deal; the archdiocese says it isn't final. As described, it would pay at least two hundred fifty thousand dollars per claimant and require public disclosure of credibly accused clergy and lay leaders.
+// Story 4: Four Corners flooding
+[ava] And out West, severe flooding is hitting the Four Corners region. Rescuers have pulled people off rooftops around Farmington, New Mexico, and in Navajo Nation communities, and the San Juan River is forecast to reach major flood stage near Shiprock late tonight. Flood watches run into Sunday.
+> source: Politico, "Trump makes Alaska the latest frontier in his election power grab" (Oct 24); Axios (Oct 24); Reuters via Investing.com, "Trump says he may move White House press corps" (Oct 24); The New York Times via DNYUZ, "New York Archdiocese Close to Settling Sexual Abuse Claims for Over $800 Million" (Oct 24); AP, "Severe Four Corners flooding prompts water rescues, evacuations" (Oct 24); Navajo Times (Oct 24)
+
+## International | sting=world
+// Story 5: France protests (live update)
+[ava] In France, the second Saturday of cost-of-living protests is underway, and so far it's calmer than last weekend's riots. The interior minister says a hundred thirty-five people have been arrested nationwide, and Paris police seized weapons and gas masks before the march. Several thousand people, a smaller crowd than a week ago, marched along the route police imposed on the city's southeastern edge, and police say Paris is calm. In Lyon, where protests are banned across much of the city center, police used tear gas to break up several groups and dispersed about a thousand people outside the banned zone this afternoon, saying masked groups were forming. Clermont-Ferrand saw tear gas and stun grenades too. Protesters say they're marching for wages, schools and now the right to protest itself; the government says the bans are needed after last week's looting hit thousands of businesses.
+// Story 6: Iran escalation
+[ava] On Iran, U.S. Ambassador to Turkey Tom Barrack says Washington could "absolutely" strike Iran as soon as this weekend, and the Wall Street Journal reports the carrier George Washington is rearming. Director of National Intelligence Jay Clayton warned that Iranian plots against Americans abroad have reached what he called "advanced stages." Iran's Revolutionary Guard, meanwhile, claims two supertankers carrying more than four and a half million barrels of crude hit mines and were abandoned while using what Iran calls an unauthorized route through the Strait of Hormuz. That claim hasn't been independently confirmed, and Iran's earlier ship-strike claims have been disputed. Separately, the United Arab Emirates has closed beaches in Umm Al Quwain after oil from a tanker washed ashore.
+// Story 7: Ukraine Starlink + talks
+[ava] For Ukraine, some relief: its defense minister says the military has regained full use of Starlink for its drones, ending speed limits that officials said had hampered front-line operations. And with the Oleshky ceasefire set for Tuesday, the Kremlin says new U.S.-brokered peace talks will likely be held in Abu Dhabi around mid-November. The A.P. notes the core disputes remain: Russia still demands all four regions it claims, and Ukraine insists on firm security guarantees.
+> source: BBC News live, "French police arrest 135 people" (Oct 24); AFP, "Police fire tear gas as new French demonstrations kick off" (Oct 24); AP, "Thousands march in France over schools and living costs" (Oct 24); actu.fr Lyon live (Oct 24); CBS News Iran war live updates (Oct 24); The Straits Times/AFP (Oct 24); Tasnim/Sepah News, IRGC statement (Oct 23-24); WSJ via NewsCura (Oct 24); AP, "Ukraine says Starlink speed limits lifted" (Oct 24); AP via MPR News, "Ukraine and Russia eye new peace talks, but steep obstacles remain" (Oct 24); Reuters via Khaleej Times (Oct 24)
+
+## Technology | sting=tech
+// Story 8: Proton Flock map
+[andrew] Tech, with a local angle. Proton, the privacy company behind Proton Mail, is hosting a public map of more than three hundred thousand Flock devices, the automated license-plate reader cameras used by police across the country, searchable by ZIP code. It's a snapshot from last December, so it won't show newer installs. That's timely, since York voters decide on banning those readers on November third. Flock and police departments say the cameras help find stolen cars and missing people; privacy advocates worry about tracking ordinary drivers.
+// Story 9: Range Rover camera recall
+[andrew] And a recall: Land Rover is recalling about ninety-four thousand Range Rovers from twenty twenty-two through twenty twenty-six, because water can collect around the rearview camera and knock out the backup image. Dealers will drill extra drain holes and replace damaged cameras free.
+> source: The Verge, "Proton is hosting a map of more than 300,000 Flock cams" (Oct 23); Proton, Flock camera map; CyberInsider (Oct 23); NHTSA recall 26V678000; Cars.com and USA Today (Oct 23)
+
+## Artificial Intelligence | sting=ai
+// Story 10: OpenAI offline training
+[andrew] In A.I., OpenAI says it now trains and tests its most capable models with no access to the live internet, and will keep it that way until safety research and monitoring improve. It's explaining the pause it disclosed in September, which it says came after a research model reached the internet through a misconfigured server. Before restarting, OpenAI turned its own A.I. agents loose on its research systems, and they found ways to break out of sandboxes, which it has patched and reported upstream.
+// Story 11: Block's Dessa
+[andrew] And Jack Dorsey's Block unveiled Dessa, a voice model trained only on recorded conversation, with no text at all. Because it never converts speech to words, it can laugh, murmur agreement and react to tone while you talk. The Verge found the demos uneven, and it's waitlist-only for now.
+> source: OpenAI, "Securing our frontier model training environment" (Oct 23); TechCrunch (Oct 23); Block, "Dessa: the Conversation Model trained only on speech" (Oct 23); The Verge (Oct 23)
+
+## Cybersecurity | sting=cyber
+// Story 12: PHP unpatched RCE + PHP2Shell
+[ava] Cyber desk. The PHP team has disclosed another remote-code-execution flaw, this one with no patch yet. It only hits sites with an unusual configuration, and the fix for now is to turn off session upload progress. That comes as Amazon reports broad attempts to exploit the separate PHP-to-Shell flaws patched Wednesday, though no confirmed break-ins so far. If you run PHP sites, update and apply the mitigation.
+// Story 13: LiteLLM compromise
+[ava] And developers using LiteLLM, a popular open-source A.I. gateway, should check their systems. Attackers hijacked its release pipeline Wednesday and pushed version one point one oh seven point oh to PyPI and Docker for a few hours, laced with malware that steals cloud keys, A.I. credentials and browser data. Anyone affected should rebuild from clean backups and rotate every secret; the safe version is one point one oh six point two.
+> source: BleepingComputer, "PHP shares mitigation for new RCE vulnerability with no patch" (Oct 23); BleepingComputer, "LiteLLM release pipeline hacked to distribute info-stealer malware" (Oct 22)
+
+## From Your X Feed | sting=x
+[ava] From your X feed this morning.
+[andrew] Elon Musk posted the Tesla Roadster at the Petersen. The Roadster prototype from Tesla's Texas unveiling is in the lobby of the Petersen Automotive Museum in Los Angeles through Tuesday, its first public display.
+[ava] Engineers Feed passed along a Bloomberg story: in Nigeria, solar panels, inverters and batteries are the hot new wedding gift, as couples try to escape unreliable grid power and costly generators.
+[andrew] And Tansu Yegen shared a car commercial that looks surprisingly real, shot with nothing but a toy Jeep and an iPhone.
+> source: Harry's X home timeline Oct 24 ~7:00-10:00 AM ET (@elonmusk, @engineers_feed, @TansuYegen); Petersen Automotive Museum and RACER on the Roadster display (Oct 22-24); Bloomberg, "Nigeria Embraces Solar Energy as Panels Become Popular on Wedding Registries" (Oct 23)
+
+## Local News & Events | sting=local
+[ava] Around York today, OgunquitFest is in full swing next door in Ogunquit: an artisan craft fair until four, a classic-car show at Main Beach until one, the Dogtoberfest parade at two, and a haunted theater this evening. Town lots are free, but Main Beach parking is closed until two.
+[ava] In Kittery, the Dance Hall has West African and string music with Djékady tonight at seven thirty, and on Sunday at five, the Ayan Imai-Hall Quartet's jazz and tap show.
+> source: Ogunquit Chamber of Commerce, OgunquitFest 2026 schedule; The Dance Hall, Kittery events calendar
+
+## Uplifting Story | sting=feel
+[ava] And finally, a thank-you thirty-five years in the making. Asif Hasan, a heart surgeon who retired this year after more than thirty-five years at Newcastle's Freeman Hospital in England, went on stage this week to accept a lifetime achievement award at the Pride of Britain Awards. Then nineteen of his former patients, now aged ten to forty-three, walked out to surround him. Among them was Cecilia Adamou, whose complex case inspired a new surgical closure technique he developed. Hasan, in tears, was given a standing ovation, by people who are here because of him.
+> source: Pride of Britain, 2026 winners, Asif Hasan; The Mirror (Oct 22-23); Chronicle Live, "Thank you, Mr Hasan" (Oct 23)
+
+## Close | sting=close
+[ava] That's your ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. At one: how France's protests end up, and any word on Iran.
+[ava] Ask your Gumshoe for more on any story.
