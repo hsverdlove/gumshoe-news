@@ -1,0 +1,69 @@
+// Gumshoe script format: see README.md
+# title: Saturday 4 PM Update, Oct 24
+# description: The Saturday four o'clock update from Gumshoe News Radio for October 24, 2026: a State Department press adviser resigns after a courtside altercation, the first U.S. wildlife case of New World screwworm and Six Flags adds seat belts after a fatal coaster fall; France's protest day ends with nearly a thousand arrests, Iran's president says talks should resume as a U.S. carrier group rearms, and Israel heads into Tuesday's election; a fatal Tesla FSD crash in Vallejo and Getty Images' prepackaged bankruptcy; the FBI weighs an espionage charge against an ex-OpenAI engineer and DeepSeek raises fifteen billion dollars; an abandoned Popcorn Time updater left millions exposed; your X feed; Maine marks three years since Lewiston as heating oil hits a record; and a bystander stops a runaway school bus. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's four o'clock on Saturday, October twenty-fourth, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Good afternoon, Ava. Markets are closed for the weekend, so let's get right to it.
+[ava] First, conditions around York, Maine, through this time tomorrow.
+@weather
+
+## US News | sting=us
+// Story 1: Britt McHenry resigns
+[ava] A State Department press adviser, Britt McHenry, has resigned after a confrontation at a Washington Wizards game this week. Video from the arena shows the former ESPN reporter throwing a drink toward fans in the stands as some of them chanted "Get her out." Her side says hecklers had insulted model Winnie Harlow, who was sitting with her, and threw a drink first. McHenry stepped down Friday; the State Department declined to comment. Critics say an official spokesperson should have walked away; supporters say she was defending a friend from harassment.
+// Story 2: Screwworm in wildlife
+[ava] In Texas, federal and state officials have confirmed the first New World screwworm case in U.S. wildlife: a female elk taken by a hunter on a game ranch in Pecos County. Screwworm larvae feed on the living flesh of animals, and the pest had been working its way north through Mexico. Texas has widened its quarantine zone and is asking hunters to inspect their harvests and report any wounds with maggots. Officials stress that the U.S. food supply remains safe and that human cases are rare.
+// Story 3: Six Flags seat belts
+[andrew] Six Flags says it will add seat belts to the Goliath roller coaster at Six Flags Over Georgia and similar rides, after forty-two-year-old Hassan Jihad Ibn Kariem, an Atlanta school employee, was ejected and killed on October twelfth. Goliath stays closed, along with eight other rides at five parks, while independent engineers review safety across the chain. C.E.O. John Reilly wrote that trust is earned through actions, not words. Georgia's investigation is still open, so the cause hasn't been determined.
+> source: ABC News and Los Angeles Times on Britt McHenry's resignation (Oct 23-24); USDA APHIS and Texas Parks and Wildlife on New World screwworm in a Pecos County elk (Oct 21-23); NBC News, "Six Flags to add seat belts to roller coaster after Georgia man falls to his death" (Oct 24); BBC News (Oct 24)
+
+## International | sting=world
+// Story 5: France protests evening
+[ava] France's second Saturday of cost-of-living protests is winding down with nearly a thousand arrests nationwide, according to Interior Minister Laurent Nuñez. As usual, the counts differ widely: the ministry says about four hundred ten thousand marched across the country, and the C.G.T. union says eight hundred thousand. This evening brought clashes at Porte de Vincennes in Paris, barricades in Marseille and Bordeaux, and water cannon in Rennes, where fifty-two people were detained. In Nice, about fifty masked far-right activists attacked people marching despite a ban; the prefecture reports more than sixty arrests, including eleven from the far-right group. An outlet called Blast reports the prime minister asked mobile carriers to be ready to cut off TikTok, Instagram, Snapchat and X if things escalated. That hasn't been confirmed; publicly, the government has only asked platforms to tighten their crisis procedures. The violence was well below last weekend's. Unions say the bans and arrests criminalize protest; the government says they kept a lid on rioting.
+// Story 6: Iran
+[ava] On Iran, there's still no sign of renewed U.S. strikes this evening, but plenty of signals in both directions. President Masoud Pezeshkian said on state TV that the Americans, in his words, "messed everything up," but that he still thinks Iran should go back and conclude a deal. Saudi-owned Al Arabiya reports, without confirmation, that Tehran told Pakistan's mediators it would reopen the Strait of Hormuz if Washington lifts its blockade of Iranian ports. Meanwhile, the Wall Street Journal reports the U.S.S. George Washington carrier group is loading munitions and readying aircraft. Russia denied reports it's evacuating staff from Iran's Bushehr nuclear plant, and Pezeshkian is expected in Moscow on Tuesday to meet Vladimir Putin.
+// Story 7: Israel election
+[ava] That same Tuesday, Israelis vote. The final polls from public broadcaster Kan and Channel Twelve show Prime Minister Benjamin Netanyahu's bloc at about fifty seats and the opposition, now led in the polls by Gadi Eisenkot's Yashar party, at about fifty-two. Neither reaches the sixty-one needed to govern, which leaves the Arab parties and a small centrist list as potential kingmakers, and about a third of voters say they're still undecided. Netanyahu used a Saturday campaign video to warn that Iran has restarted its nuclear program; his opponents say he's leaning on fear after failing to deliver security.
+> source: BBC News live (Oct 24); BFM TV (Oct 24); Anadolu Agency (Oct 24); La Dépêche (Oct 24); La Tribune on government talks with platforms (Oct 24); Blast (unconfirmed report, Oct 24); Reuters on Pezeshkian remarks and Bushehr (Oct 24); Al Arabiya (Oct 24); Wall Street Journal on the USS George Washington (Oct 24); Kan and Channel 12 final polls via Anadolu Agency and Iran International (Oct 23-24)
+
+## Technology | sting=tech
+// Story 9: Tesla FSD Vallejo
+[andrew] Tech. California Highway Patrol is investigating a fatal crash in Vallejo involving a Tesla whose driver says Full Self-Driving was engaged. Seventy-one-year-old Domingo Gonzales was crossing westbound Interstate eighty on foot at about two-thirty Thursday morning when he was hit; a second vehicle then struck him as well. Dashcam video shows the Tesla braking and swerving left in the final moment. Tesla's system is officially "supervised," so the driver is responsible at all times, and a pedestrian on a dark interstate is hard for any driver to avoid. Investigators haven't said whether the software played a role.
+// Story 10: Getty Images Chapter 11
+[andrew] And Getty Images has filed a prepackaged Chapter eleven bankruptcy in Delaware. The Getty family's investment entities and Koch Equity Development will put in up to five hundred thirty-three million dollars and take the company private, with Koch also providing a hundred forty-three million in financing. Getty says photographers, customers and day-to-day business won't be affected. The company was squeezed by heavy debt and by A.I.-generated imagery, even as it licenses its own library for A.I. training. Creditors vote at the end of November, with a confirmation hearing set for mid-December.
+> source: SFGate, ABC7 and CBS San Francisco on the Vallejo crash (Oct 22-24); Getty Images 8-K filing and CNBC (Oct 21-22)
+
+## Artificial Intelligence | sting=ai
+// Story 11: Alfozan espionage probe
+[andrew] In A.I., the Wall Street Journal reports the F.B.I. is weighing an economic espionage charge against Abdulrahman Alfozan, the former OpenAI engineer accused of planting a listening device in an executive conference room. Investigators are reportedly examining whether he took information to offer the Saudi government. For now he's charged only with illegal interception, which carries up to five years. He hasn't been charged with espionage, and the Saudi government hasn't commented.
+// Story 12: DeepSeek raise
+[andrew] And China's DeepSeek has reportedly raised about fifteen billion dollars, roughly a hundred billion yuan, with Tencent and battery giant CATL among the biggest investors. That values it at around seventy-five billion dollars before the new money, and it's working with CITIC Securities on a Shanghai listing that could come as soon as early twenty twenty-seven. Supporters see a national champion built on cheap, efficient models; skeptics point to U.S. chip export limits as a ceiling on how far it can scale.
+> source: Wall Street Journal, via Yonhap, on the FBI and Abdulrahman Alfozan (Oct 24); Wall Street Journal, "DeepSeek Raises $15 Billion Ahead of Planned Shanghai Listing" (Oct 24); Bloomberg via Investing.com (Oct 24); Reuters on DeepSeek and CITIC Securities (Sept 9)
+
+## Cybersecurity | sting=cyber
+// Story 13: Popcorn Time updater
+[ava] Cyber desk. Researchers at Eye Security found that Time4Popcorn, a version of the old Popcorn Time streaming app, checked for updates over plain, unencrypted web traffic with no signature check, so anyone controlling its update server could push any software they liked. The project's domain had lapsed, so the researchers registered it themselves and found about three million Windows and three hundred fifty thousand Mac installs still calling home, including some on corporate, government and military networks. Instead of anything malicious, they pushed a harmless update that turned the updater off, cutting requests by ninety-eight percent, and then handed the domain to the nonprofit Shadowserver. Android versions are still exposed, and the app runs a browser engine from twenty fourteen. If it's on any machine you manage, uninstall it.
+> source: BleepingComputer (Oct 23); The Hacker News (Oct 24); Eye Security research, CVE-2026-30612
+
+## From Your X Feed | sting=x
+[ava] From your X feed this afternoon.
+[andrew] Dirty Tesla says Cybercab updates are arriving so fast that he kept having to re-edit his latest video before he could post it.
+[ava] Everyday Astronaut, Tim Dodd, offered followers a video explaining why the new Roadster would use cold gas thrusters, the same simple, compressed-gas jets used to steer spacecraft.
+[andrew] For anime fans, a milestone: Masako Nozawa, the Japanese voice of Goku in Dragon Ball since nineteen eighty-six, turns ninety, and she's still in the role.
+[ava] And John Konrad shared that Grok helped him figure out the likely battle behind his father-in-law's Bronze Star with a V for valor, from nineteen sixty-eight in Vietnam, a piece of family history he'd never been able to pin down.
+> source: Harry's X home timeline Oct 24 ~1:00-4:00 PM ET (@DirtyTesLa, @Erdayastronaut, @interesting_aIl, @johnkonrad)
+
+## Local News & Events | sting=local
+[ava] Closer to home: Governor Janet Mills has ordered flags lowered statewide from sunrise to sunset tomorrow for the third anniversary of the Lewiston mass shootings, when eighteen people were killed at a bowling alley and a bar and grill. She asked Mainers to remember the people who were lost and the kindness that followed.
+[andrew] Also in Maine, heating oil has hit another record, averaging six dollars and four cents a gallon, up eighty-three percent from a year ago. That's about seven hundred fifty dollars more to fill a typical tank. The Energy Department is making up to three hundred fifteen thousand barrels available from the Northeast reserve, including stock in South Portland, with deliveries due by November thirteenth. It's the first time the reserve has been tapped to bring prices down.
+[ava] And if you want a scare tomorrow night, the century-old Leavitt Theatre in Ogunquit turns into a walk-through haunted house from five to nine, with clown dens and a hall of mirrors. Tickets are twenty-five dollars, or fifteen for kids ten and under, and it's back the last three nights before Halloween.
+> source: WMTW, "Gov. Mills orders flags lowered Sunday in honor of anniversary of Lewiston shooting" (Oct 24); WMTW, "Average Maine heating oil price reaches new all-time high" (Oct 2026); WMTW and U.S. Department of Energy on the Northeast Home Heating Oil Reserve (Oct 2026); The Leavitt Theatre, Haunted Theatre 2026 (Oct 25)
+
+## Uplifting Story | sting=feel
+[ava] And finally, a quick-thinking bystander in St. Paul, Minnesota. On Monday, twenty-seven-year-old Ebro Ahmed was outside a corner store when a school bus rolled past with its doors open and the driver having a seizure. He ran after it, jumped aboard, fumbled briefly into reverse, got it into neutral and set the parking brake. Then he called for help and stayed with the driver until paramedics came. About eighteen middle schoolers were on board, and nobody was hurt. The driver is home resting. Ahmed has no medical training; he credits watching Grey's Anatomy for keeping him calm. He was given a thousand-dollar reward and says he didn't need the recognition. He's just glad the kids are okay.
+> source: KSTP, "St. Paul man jumps onto moving school bus after driver's medical emergency, saving 18 kids" (Oct 20); CBS News (Oct 2026); Good News Network (Oct 24)
+
+## Close | sting=close
+[ava] That's your four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Tomorrow morning: the full weekend wrap, and a look ahead to Tuesday's vote in Israel.
+[ava] Ask your Gumshoe for more on any story.
