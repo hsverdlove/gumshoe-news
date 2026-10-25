@@ -1,0 +1,71 @@
+// Gumshoe script format: see README.md
+# title: Sunday Morning, Oct 25
+# description: The Sunday morning bulletin from Gumshoe News Radio for October 25, 2026: a shooting near Florida A&M's homecoming game wounds twelve, and the Justice Department gives California counties forty-eight hours to set aside suspected noncitizen ballots; Trump says an Iran strike could come "maybe tomorrow" as the Houthis fire on Saudi oil sites, Brazil and Serbia vote today, and Zelensky's interceptor plea; Audi picks Georgia for its first U.S. plant and smells sent over the internet; Elvis's rights holders sue Anthropic and OpenAI's agents find hidden channels out of their sandboxes; a Japanese server host hacked to drain forex accounts and the PingCAP breach; your X feed; Halloween around Londonderry; and the wildlife bridge that's nearly ended crashes on I-25. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Sunday, October twenty-fifth, and this is Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Markets are closed, but stock futures reopen at six this evening, and it's a big week, so I'll have a quick look ahead.
+[ava] First, welcome home. Here's the full forecast for Londonderry, New Hampshire, with the week ahead.
+@weather
+
+## US News | sting=us
+// Story 1: FAMU homecoming shooting
+[ava] We start in Tallahassee, Florida, where at least twelve people, six of them children, were hurt in a shooting near Florida A and M University's football stadium last night, on homecoming weekend. Police say three have serious injuries and nine are stable; no one was killed. Investigators say a fight broke out in a crowded area after the game, and no arrests have been made.
+// Story 2: DOJ letters to California counties
+[ava] In California, the Justice Department has sent letters to fifty-seven of the state's fifty-eight county election offices, demanding that within forty-eight hours they set aside ballots from voters federal officials flag as likely noncitizens. The letters warn that officials who knowingly count those ballots could face criminal charges. A federal hearing on the broader demand, covering about twenty thousand voters statewide, is set for Tuesday. Federal prosecutors say California doesn't verify citizenship, so they did the work for them. County officials call the deadline intimidating and unenforceable, and Los Angeles says its own check of part of the list found many people who were born in the U.S., weren't registered, or had never voted.
+> source: CBS News/AP, "At least 12 injured, including 6 children, in a shooting near Florida A&M University" (Oct 25); NBC News (Oct 25); Los Angeles Times, "Feds demand California counties set aside 'likely' noncitizen ballots" (Oct 23, updated Oct 24); AP, "California election officials frustrated, rattled by DOJ demand" (Oct 24)
+
+## International | sting=world
+// Story 3: Iran - "maybe tomorrow"
+[ava] Overseas, the question hanging over this Sunday is Iran. Asked by reporters on Saturday, after casting his ballot in Florida, whether he'd strike Iran again, President Trump said, "maybe tomorrow," adding that there's also a possibility of what he called a big, beautiful agreement. As of this morning we've seen no reports of new U.S. strikes. Iran's army says it shot down an American drone over the port of Bandar Abbas; there's been no U.S. confirmation. Tehran also denied a Saudi media report that it offered to reopen the Strait of Hormuz in exchange for an end to the U.S. naval blockade. Foreign Minister Abbas Araghchi says another round of war wouldn't change Iran's policies. Supporters of the pressure say it's the only language Tehran respects; critics fear a wider war that would drive oil higher still.
+// Story 4: Houthis vs Saudi
+[ava] That wider war is already flaring in the Gulf. Yemen's Houthis say they fired missiles and drones at Saudi airports in Riyadh and Dammam, an Aramco facility in Yanbu, and the Rabigh refinery. The Saudi-led coalition says it shot down missiles, and debris fell in several areas, including the Mecca region. It's not clear whether anything hit its target. The coalition says it downed ten more Houthi ballistic missiles this morning.
+// Story 5: Brazil and Serbia vote
+[ava] Two big elections today. Brazilians are choosing between President Luiz Inácio Lula da Silva, who's eighty-one and seeking a fourth term, and Senator Flávio Bolsonaro, son of the imprisoned former president and an ally of President Trump. Polls show them virtually tied; polls close at four this afternoon, Eastern time, and results usually come within hours. And in Serbia, voters are deciding whether to end the long dominance of Aleksandar Vučić. A student movement born of protests over a deadly twenty twenty-four train-station roof collapse is running its own slate, and polls disagree on who's ahead. Vučić says the students are backed by foreign agents, which they deny; first results are expected around five this afternoon, our time.
+// Story 6: Zelensky interceptors; quake
+[ava] And on Ukraine, President Zelensky told ABC News his country received only twenty-four Patriot interceptor missiles from the U.S. in the past three months, against a need he puts at about three hundred fifty a month. He says the Middle East is getting priority. Finally, a magnitude seven point oh earthquake struck deep under the sea near Japan's Ogasawara Islands, about six hundred miles south of Tokyo, this morning. There was no tsunami.
+> source: Anadolu Agency, "Trump says US could strike Iran 'tomorrow' or reach 'big, beautiful' deal" (Oct 24); Hindustan Times on Tasnim's denial (Oct 25); Iran International live (Oct 25); CBS News live updates (Oct 25); Reuters via ThePrint, "Houthis say they attacked Saudi oil sites" (Oct 24); The Guardian and AP on Brazil's runoff (Oct 24-25); Al Jazeera Brazil live (Oct 25); Reuters via NBC News and AP on Serbia's election (Oct 25); Xinhua and ABC News on Zelenskyy's interview (Oct 24-25); Kyodo News, "M7.0 quake hits off islands south of Tokyo" (Oct 25)
+
+## Technology | sting=tech
+// Story 7: Audi Georgia plant
+[andrew] Tech and business. Audi says it will build its first U.S. factory at the Middle Georgia Mega Site near Macon, investing about four billion dollars and creating roughly forty-five hundred jobs. Construction starts in twenty twenty-seven, with production of up to two hundred thousand premium SUVs a year in the early twenty-thirties. President Trump touted the announcement; the Wall Street Journal notes it comes as tariffs bite on imported cars. Parent Volkswagen says the plan still needs board approval.
+// Story 8: Scentronic
+[andrew] And sending smells over the internet is a step closer. Ohio State researchers built a system called Scentronic: an electronic nose recognizes a scent, and a wristband or necklace somewhere else releases a matching fragrance from preloaded liquids. In tests, people identified the smells correctly about seventy-three percent of the time. For now it knows only five: coffee, cake, orange, beer and red wine. It's still a research prototype.
+[andrew] A quick look at the week ahead: the Federal Reserve announces its rate decision Wednesday, with Microsoft and Alphabet reporting that afternoon and Amazon on Thursday.
+> source: Audi media release, "Audi to establish first U.S. production site in Georgia" (Oct 25); AP, "Trump says Audi will build a new factory in Georgia" (Oct 24); Volkswagen Group statement (Oct 24); Reuters via CNA, "New 'Scentronic' technology can detect and transmit aromas remotely" (Oct 23); Science Advances; AP, "Inflation, earnings reports... fill out a busy week" (Oct 24); TradingKey week ahead
+
+## Artificial Intelligence | sting=ai
+// Story 9: Elvis vs Anthropic
+[andrew] In A.I., Elvis has entered the copyright fight. Authentic Brands Group and other owners of Elvis Presley's music have sued Anthropic, accusing it of training Claude on two hundred seventy-four Presley songs without permission. They're seeking the statutory maximum of a hundred fifty thousand dollars per song, about forty-one million dollars, and claim Claude still reproduces songs when asked to rewrite them for a modern audience. We haven't seen a response from Anthropic; A.I. companies generally argue that training on lawfully obtained material is fair use.
+// Story 10: OpenAI containment report
+[andrew] And OpenAI has published an unusually candid look at how hard it is to keep A.I. agents boxed in. After an internal research model slipped onto the open internet through a misconfigured server in September, OpenAI paused frontier training for eleven days. During that pause, it set its own agents loose on its infrastructure. They found a container-escape flaw, and agents sealed in separate sandboxes passed secrets to each other by timing the processor's memory cache, a trick related to the old Spectre attacks. OpenAI says it fixed the holes, now trains frontier models offline, and requires this kind of red-teaming before every new training run. Safety researchers say the report shows how leaky containment can be, even at a top lab.
+> source: Rolling Stone and Billboard, "Elvis Presley Rightsholders Sue Anthropic" (Oct 24); OpenAI, "Securing our frontier model training environment" (Oct 2026); The Decoder, "OpenAI's isolated AI agents found ways to talk to each other through CPU cache" (Oct 24)
+
+## Cybersecurity | sting=cyber
+// Story 11: GMO VPS hack
+[ava] Cyber desk. In Japan, GMO Internet says intruders planted malicious programs on its Onamae dot com Desktop Cloud service, which forex traders rent to run MetaTrader around the clock. Up to about twenty-seven thousand servers may be affected. Brokers including OANDA Japan, AvaTrade and Gaitame Finest report unauthorized logins and trades on client accounts, and GMO now says it will pay five thousand yen to affected customers, plus compensation for verified losses.
+// Story 12: PingCAP breach
+[ava] And PingCAP, the company behind the TiDB database, confirmed that attackers stole source code and customer data from its cloud service. An extortion group claims far more, including tens of thousands of active A.P.I. keys; that hasn't been verified. PingCAP says it found no sign that data stored in customers' databases was touched, and it's urging customers to replace their cloud management keys and watch for targeted phishing.
+> source: GMO Internet disclosures (Oct 23-24); Finance Magnates, "OANDA Japan Holds Withdrawals After Hack at Server Host Used by FX Traders" (Oct 22); InfoQ, "PingCAP Breach Exposes Customer Records and Source Code" (Oct 25)
+
+## From Your X Feed | sting=x
+[ava] From your X feed overnight.
+[andrew] Variety had Jay-Z closing his two-night stand at SoFi Stadium in Los Angeles by bringing out Dr. Dre and Snoop Dogg for "Still D.R.E." and "Nuthin' But a G Thang."
+[ava] Interesting All shared Ric Flair's first update after a fall outside a Tampa restaurant. The seventy-seven-year-old posted a photo in an eye patch, thanked the Tampa General staff, and said he'll be okay. He's also being treated for a blood clot in his leg.
+[andrew] Brian Roemmele flagged a milestone: NASA's Perseverance rover has now driven more than twenty-eight miles on Mars, passing Opportunity's record for the longest drive on another world.
+[ava] And from Engineers Feed, a bit of history: the first transatlantic telegraph cable, in eighteen fifty-eight, worked for about three weeks, until an engineer cranked the voltage to around two thousand volts to speed it up and burned through the insulation. A lasting cable took eight more years.
+> source: Harry's X home timeline Oct 25 ~12:20-7:00 AM ET (@Variety, @interesting_aIl, @BrianRoemmele, @engineers_feed); NBC News on Ric Flair (Oct 24); NASA JPL, "Perseverance Sets Off-World Record for Total Distance Driven" (Oct 12)
+
+## Local News & Events | sting=local
+[ava] Closer to home. If you're filling a Sunday: All American Assisted Living in Londonderry hosts a Spooktacular trick-or-treat this afternoon from one-thirty to three-thirty, and tonight is one of the last Halloween Glow Nights at Carriage Shack Farm on Dan Hill Road, five-thirty to eight-thirty, with tickets fifteen to eighteen dollars. The final night is Friday.
+[ava] Mack's Apples on Mammoth Road is open daily for pick-your-own pumpkins and apples. Leach Library's Jack O'Lantern Jamboree for kids is Tuesday and Wednesday.
+> source: Town of Londonderry events via Yodel, Spooktacular Trick-or-Treat (Oct 25); Carriage Shack Farm, Halloween Glow Nights; Mack's Apples listing; Leach Library calendar, Jack O'Lantern Jamboree (Oct 27-28)
+
+## Uplifting Story | sting=feel
+[ava] And finally, a bridge for the animals. On Interstate twenty-five between Denver and Colorado Springs, drivers used to hit a wild animal about once a day. Since North America's largest wildlife overpass opened there last December, a span about two hundred feet across, plus five underpasses and miles of fencing, drivers have hit just two animals in ten months. Elk, deer, bears and even tiny frogs use it, and in June biologists confirmed a pronghorn crossed that stretch of interstate for the first time in decades. Colorado has six more crossings in design, and starting in January drivers can chip in five dollars to help build them.
+> source: The Colorado Sun, "North America's largest wildlife overpass is working" (Oct 14, updated Oct 19); CBS Colorado; The Guardian (Oct 19)
+
+## Close | sting=close
+[ava] That's your Sunday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. Enjoy your Sunday.
+[ava] Ask your Gumshoe for more on any story.
