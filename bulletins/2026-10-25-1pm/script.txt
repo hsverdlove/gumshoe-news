@@ -1,0 +1,96 @@
+// Gumshoe script format: see README.md
+# title: Sunday 1 PM Update, Oct 25
+# description: The Sunday one o'clock update from Gumshoe News Radio for October 25, 2026: conditions around Londonderry through tomorrow afternoon; the attorney general defends the Alaska Senate lawsuit, an appeals court hears the California ballot fight, and the Sunday-show sparring over gas prices and polls; Trump says no Iran strike today as Qatari mediators visit Tehran, Machado returns to Venezuela, Conservatives sweep British Columbia and the Nairobi building collapse; Google tying your number to every Android account and Nvidia's neocloud test; a Chinese model trained to hack less and chatbots forced to pick candidates; booby-trapped instruction files in your Downloads folder and PHP2Shell attacks; your X feed; New Hampshire's strained trauma center, the Bartlett forest and Halloween week; and a genie lamp that brought a deployed mom home. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's one o'clock on Sunday, October twenty-fifth, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. Still no markets on a Sunday, so it's all news.
+[ava] First, conditions around Londonderry, New Hampshire, through this time tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Oct 25 at airtime
+
+## US News | sting=us
+// Story 1: Blanche defends Alaska suit
+[ava] We start with the fights over the midterm count. Attorney General Todd Blanche used the Sunday shows to defend the Justice Department's lawsuit that could block certification of Alaska's Senate race if Republican Senator Dan Sullivan loses. The suit argues voters may be confused by a second candidate on the ballot also named Dan Sullivan. On CNN, Blanche said the goal is to preserve ballots so a court can look at confusion after the election, and he called it "crazy" when host Dana Bash raised the prospect of another January sixth. The other side: several election-law scholars, including N.Y.U.'s Richard Pildes, call it one of the weakest election lawsuits they've seen, and note Alaska's courts already settled the ballot question. President Trump has said he told the department to file it.
+> source: CNN live updates, "Blanche defends lawsuit to block certification of Alaska Senate results" (Oct 25); The Guardian, "Blanche defends DoJ's pre-emptive suit" (Oct 25)
+
+// Story 2: Ninth Circuit hearing on California
+[ava] Second, a federal appeals court in California hears arguments today in the Justice Department's push to keep more than twenty thousand mail-in ballots tied to suspected noncitizens from being counted. The panel has two Trump appointees and one Biden appointee. The administration says it's stopping illegal votes; state officials call the demand "catastrophic" for running the election and say Washington hasn't identified specific ineligible voters.
+> source: CNN, "Why today's hearing in the California voter roll fight could be so consequential" (Oct 25)
+
+// Story 3: Sunday shows on gas prices and polls
+[ava] And on the Sunday shows, House Speaker Mike Johnson acknowledged on Fox that gas prices are too high, but argued Democrats' energy policies would make them worse, and said polls showing Republicans behind are simply wrong. New Times-Siena polling has Democrats ahead in several Pennsylvania House districts. Iowa Republican Senate candidate Ashley Hinson broke with the president on ABC, criticizing his diesel deal with Russia and calling for an end to the Iran war. On the Democratic side, Senator Adam Schiff said on NBC his party should focus on lowering costs, not impeachment, if it wins Congress.
+> source: CNN live updates, Sunday show coverage of Fox News Sunday, ABC This Week and NBC Meet the Press (Oct 25)
+
+## International | sting=world
+// Story 1: Iran - no strike today, Qatari mediators
+[ava] Overseas, President Trump said this morning that "there will not be a strike today" on Iran, after saying yesterday it could come "maybe tomorrow." Qatari mediators are reported to be in Tehran in a U.S.-coordinated effort to cool things down, though no details of their talks have been released. Iran's foreign minister, Abbas Araghchi, said a new round of strikes wouldn't change Iran's policies, and that shipping through the Strait of Hormuz "will no longer be the same." Meanwhile, the U.S. now requires its embassy staff in Saudi Arabia to get special approval before using any Saudi airport, after Houthi attacks. And a memo from the Director of National Intelligence says Iranian plotting against U.S. officials abroad has reached "advanced stages."
+> source: Al Jazeera live, "Trump says 'no strike today'; Qatar mediators in Tehran" (Oct 25); Al Arabiya and Iran International on the Qatari delegation (Oct 25); ABC News Australia and AP on Araghchi (Oct 25); U.S. Embassy Riyadh security alert (Oct 25); ABC News on the DNI memo (Oct 25)
+
+// Story 2: Machado returns to Venezuela
+[ava] Number two: Venezuelan opposition leader and Nobel Peace laureate María Corina Machado is back in Venezuela for the first time since December. She posted, "I am here. With you," and appeared at a shrine in Lara state. Her return follows several blocked attempts, and Spanish and Venezuelan media say Washington knew of the plan and didn't object. But the A.P. notes there's still no election scheduled since the U.S. removed Nicolás Maduro in January.
+> source: AP, "Venezuela's opposition leader Machado returns after months in exile" (Oct 25); El País; ABC (Spain); Bloomberg Línea (Oct 25)
+
+// Story 3: BC Conservatives win
+[ava] Third, in Canada, British Columbia's Conservatives won a majority government, the party's first since nineteen twenty-eight, taking about sixty-four of ninety-three seats on preliminary counts. Premier David Eby, who called the election two years early, resigned as N.D.P. leader. Premier-designate Lorne Doerkson promises tax cuts and to double natural gas production. Critics object to his plan to repeal the province's Indigenous rights law.
+> source: CBC News (Oct 25); Reuters (Oct 25); Elections BC preliminary results
+
+// Story 4: Nairobi collapse
+[ava] And in Kenya, rescuers are in a third day at a collapsed high-rise in Nairobi's Eastleigh district. Three survivors have been pulled out, and the Kenya Red Cross says it's still tracing thirty-eight people reported missing.
+> source: Kenya Red Cross via iPulse24; The Eastleigh Voice live blog; BBC (Oct 23-25)
+
+## Technology | sting=tech
+// Story 1: Google links phone number to all Android accounts
+[andrew] On the tech desk, Ava: if you use Android, Google verifies your SIM's phone number during setup and quietly attaches it to every Google account signed in on that phone, work and secondary accounts included. Engadget flagged it after users got surprise verification emails. You can switch off future linking in the phone's Google settings under phone number verification, but you have to remove numbers already attached from each account. iPhones aren't affected.
+> source: Engadget, "Google is quietly linking your phone number to other Android accounts" (Oct 24); Google support page (Oct 25)
+
+// Story 2: Nvidia neocloud test
+[andrew] And CNBC says Nvidia's side job as A.I.'s banker faces its first real test. Shares of the smaller A.I. cloud companies it backs, including CoreWeave, Nebius and IREN, are down thirty percent or more this month, and CoreWeave's bond yields are above fifteen percent. Nvidia's defenders note its exposure only bites if partners actually default.
+> source: CNBC, "Nvidia's role as AI financier faces first big test as neoclouds take market hit" (Oct 24)
+
+## Artificial Intelligence | sting=ai
+// Story 1: Kimi K3.1 Pro curbs hacking
+[andrew] In A.I., the Chinese startup Moonshot released Kimi K3.1 Pro and says it stripped hacking material out of the model's training so it's less useful for cyberattacks, ahead of releasing the model openly by November fourth. By Moonshot's own test, its exploit-writing score fell from about ninety percent to eighty-one. Reuters notes that hasn't been independently checked, and eighty-one percent is still very capable.
+> source: Reuters, "Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks" (Oct 24)
+
+// Story 2: Chatbots forced to pick candidates
+[andrew] Second, a study from Convovo, reported by TechCrunch, forced two A.I. models through their developer access to pick one candidate in nearly five hundred midterm races. OpenAI's model picked the Democrat in four hundred fifty-one; xAI's Grok picked the Republican in four hundred eight. Two big caveats: the regular consumer apps refuse to answer that question, and the study measures forced choices, not whether anyone's vote is swayed.
+> source: TechCrunch, "Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats." (Oct 24); Convovo, AI Ballot 2026
+
+## Cybersecurity | sting=cyber
+// Story 1: AGENTS.md in Downloads
+[ava] On the cyber desk, one that's close to home for anyone using A.I. coding agents. Researchers at Forever Security found a booby-trapped instruction file, called AGENTS dot M D, sitting in a customer's Downloads folder. When the person ran a coding agent from that folder, it read the file and tried to install a malicious software package. In tests it fooled OpenAI's Codex about ninety percent of the time, and a similar file made Claude Code leak its login token. Agents are built to obey these files, so there's nothing to patch. The advice: never run an agent from your Downloads folder; start it in the specific project folder, and keep approval prompts on.
+> source: BleepingComputer, "AI coding agents hijacked using AGENTS.md file in Downloads folder" (Oct 25)
+
+// Story 2: PHP2Shell exploited
+[ava] And the two critical PHP flaws dubbed PHP2Shell are now under active attack. Palo Alto Networks says intruders broke into a European government agency and reached password data within two hours, and it counts more than twenty-two million exposed systems. If you run a website, even a small blog, make sure your host updated PHP after October twenty-first.
+> source: Palo Alto Networks Unit 42 threat brief (Oct 23); Yuphora tech roundup (Oct 25); WIRED (Oct 24)
+
+## From Your X Feed | sting=x
+[ava] Now, from your X feed this late morning.
+[andrew] Variety reported the weekend box office: D.C.'s R-rated "Clayface" opened at number one with about twenty-four million dollars, but A24's Elizabeth Holmes documentary, "You Can See Everything," was close behind with nineteen and a half million in only its second weekend.
+[ava] 25 Years Ago Live reminded everyone that Microsoft released Windows XP on this day in two thousand one.
+[andrew] TheCalvinCooli1 cheered the Steelers' sixteen-to-ten win over the Saints in Paris, the NFL's first regular-season game in France. Aaron Rodgers threw a touchdown pass, and Pittsburgh is now five and two.
+[ava] And Interesting All shared a Tufts study: the calories in Americans' daily coffee rose almost forty percent over fifteen years, even though we drank about the same amount. The main culprit isn't sugar; it's non-dairy creamer.
+> source: X posts from @Variety, @25YearsAgoLive, @TheCalvinCooli1, @interesting_aIl (Oct 25); AP, "Rodgers throws TD pass in Paris as Steelers beat Saints 16-10" (Oct 25); Tufts Now, "Americans Are Putting More Additives, and Calories, in Their Coffee" (Oct 20)
+
+## Local News & Events | sting=local
+// Story 1: DHMC trauma strain
+[ava] Closer to home, doctors at Dartmouth Hitchcock, New Hampshire's only Level One trauma center, told Congresswoman Maggie Goodlander the system is "not sustainable." They say the hospital runs over capacity six days a week, a quarter of emergency patients are seen in the waiting room. Staff blamed federal Medicaid cuts in last year's budget law, and Dartmouth Health cut a hundred twenty-four jobs last month. Supporters of the law note it also created a fifty-billion-dollar rural health fund, two hundred four million of it for New Hampshire this year.
+> source: Valley News, "'This is not sustainable': Goodlander hears concerns from stretched NH trauma doctors" (Oct 25)
+
+// Story 2: Bartlett Experimental Forest
+[ava] In the White Mountains, the Bartlett Experimental Forest isn't on the Forest Service's closure list, but its future is still unsettled. Senator Jeanne Shaheen says she heard a commitment to keep it open, and a federal court has paused the agency's reorganization until December eleventh.
+> source: Concord Monitor via NHPR, "Despite optimism, Bartlett Experimental Forest still faces uncertainty" (Oct 25)
+
+// Story 3: Halloween week
+[ava] And Halloween week: Thursday at six-thirty, author Jeffrey Zygmont performs a dramatic recital of Poe's "The Raven" at Leach Library; registration is required. Londonderry trick-or-treating is Saturday from six to eight. Nearby, Derry goes six to seven-thirty, and Nashua's City Hall-ween is tomorrow from three to five.
+> source: Leach Library calendar, "A Dramatic Recital of The Raven" (Oct 29); New Hampshire Magazine, NH trick-or-treat times 2026; WMUR trick-or-treat schedule (updated Oct 23)
+
+## Uplifting Story | sting=feel
+[ava] Finally, a wish come true in Greensboro, North Carolina. Before she deployed overseas in March, Air Force Staff Sergeant Quiana Quiros gave her daughter Isabella a genie lamp and told her that if she rubbed it, her wish would come true. This week, the second-grader was called to the office at David J. Jones Elementary, rubbed the lamp, and looked up to find her mom standing right there. She'd worked with the school to stage the surprise. Isabella's wish, of course, was her mom.
+> source: WXII 12; WBAL News Radio; Hoodline, "Greensboro Second-Grader's Genie Lamp Wish Brings Deployed Mom Home" (Oct 24)
+
+## Close | sting=close
+[ava] That's the one o'clock update. Serbia's polls close at three, Brazil's at four, and we'll keep watching Iran. I'm Ava.
+[andrew] And I'm Andrew. Enjoy your Sunday afternoon.
