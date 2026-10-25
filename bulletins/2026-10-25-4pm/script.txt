@@ -1,0 +1,89 @@
+// Gumshoe script format: see README.md
+# title: Sunday 4 PM Update, Oct 25
+# description: The Sunday four o'clock update from Gumshoe News Radio for October 25, 2026: conditions around Londonderry through tomorrow afternoon; President Trump rallies in Port Huron against Abdul El-Sayed, Mary Peltola is hurt in an Anchorage crash, an ammonia scare empties Newport, Oregon's bayfront, and the Sunday appeals hearing on California ballots; Trump weighs "deal or finish them off" as the Houthis target Riyadh's reopened airport, record turnout in Serbia, Bulgaria heads to a runoff and Brazil starts counting; GM's 2028 eyes-off driving plan and Waymo heading to Madrid; an Apollo economist's "zero payoff" verdict on A.I. and Agent Skills going to the Linux Foundation; unpatched Tailscale SSH flaws; your X feed; the former Londonderry town manager's lawsuit and Hudson's bridge vote; and an Ottawa book brigade. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's four o'clock on Sunday, October twenty-fifth, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. Still no markets today, though stock futures reopen at six this evening.
+[ava] First, conditions around Londonderry, New Hampshire, through this time tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Oct 25 at airtime
+
+## US News | sting=us
+// Story 1: Trump in Port Huron
+[ava] We start in Michigan, where President Trump held a rally this afternoon in Port Huron, the first visit by a sitting president to that border city, for Republican Senate nominee Mike Rogers and governor nominee John James. Rapper Nicki Minaj flew in with him on Air Force One. Before taking the stage, the president called Democrat Abdul El-Sayed a "jihadist" and a member of the Muslim Brotherhood,. El-Sayed, a physician and former Detroit health director, denies any Brotherhood ties and calls himself a capitalist, not a socialist; former President Obama, who rallied with him in Detroit Saturday, defended him against attacks on his name and faith. Republicans argue El-Sayed's progressive platform is too extreme for Michigan. The seat is open, and both parties see it as a must-win.
+> source: mlive, "Republicans target El-Sayed as Trump rally fires up Michigan voters in Port Huron" (Oct 25); Fox News Digital midterms live blog (Oct 25); AP, "Next on Trump's midterm swing is Michigan stop" (Oct 25)
+
+// Story 2: Peltola crash
+[ava] In Alaska, Democratic Senate nominee Mary Peltola and members of her family suffered minor injuries Saturday night when their vehicle was struck in a three-vehicle crash in Anchorage, on the way to the Alaska Federation of Natives banquet. Police are investigating. Her campaign has postponed events and expects her back on the trail Tuesday. She's in a close race with Republican Senator Dan Sullivan.
+> source: AP, "Alaska Democratic Senate candidate Mary Peltola suffers minor injuries in car crash" (Oct 25); Alaska's News Source (Oct 25)
+
+// Story 3: Newport, Oregon fire
+[ava] On the Oregon coast, Newport ordered everyone within a mile of the Pacific Seafood plant on its bayfront to leave immediately this morning, after a fire and possible ammonia contamination. The rest of the city was told to stay indoors or wear a mask outside. No injuries have been reported.
+> source: KGW, "Newport Bayfront evacuated Sunday morning after fire, ammonia contamination at Pacific Seafood plant" (Oct 25); KLCC; AP (Oct 25)
+
+// Story 4: Ninth Circuit hearing under way
+[ava] And the rare Sunday appeals hearing on California's mail ballots began at the top of the hour. In a filing this morning, the Justice Department said California has a history of mishandling voter rolls; the state says the federal list is unverified, and Los Angeles County says nearly forty percent of a two-hundred-name sample appear to be U.S.-born. No ruling yet.
+> source: Fox News Digital, "Trump DOJ hits back at Calif 9th Circuit" (Oct 25); ABC News, "Federal appeals court to hear arguments" (Oct 25)
+
+## International | sting=world
+// Story 1: Iran - deal or finish them off; Houthis hit at Riyadh airport
+[ava] Overseas, President Trump told Fox News this morning his decision on Iran comes down to this: "do I make a deal with them, or do I finish them off?" He said U.S. satellites are watching Iran's Pickaxe Mountain site and three others, and "there isn't much activity going on there." Iran's foreign ministry spokesman says messages are still passing through intermediaries, but no Iranian will accept what he called Washington's demand for "complete surrender." In Israel, Prime Minister Netanyahu said there are intelligence signs Iran and its proxies could attack to disrupt Tuesday's election, and warned of "disproportionate blows." The Jerusalem Post and Al Jazeera report Washington's working assumption is that any decision waits until after the November third midterms. Meanwhile, Yemen's Houthis say they fired dozens of ballistic missiles today, including at Riyadh's airport just hours after it reopened. Saudi Arabia hasn't confirmed any damage. And A.P. reports Tehran residents are stockpiling food, with rice prices up more than sixty percent and beef up more than a hundred fifty percent.
+> source: CBS News live updates, "Trump says he's weighing deal with Iran against action to 'finish them off'" (Oct 25); The Jerusalem Post, "Trump says 'isn't much going on' at Iranian nuclear sites" (Oct 25); AP, "Iran says messaging continues with the US" (Oct 25); Al Jazeera, "CENTCOM reportedly has plans for Iran strikes" (Oct 25)
+
+// Story 2: Serbia record turnout; Bulgaria
+[ava] In Serbia, polls have closed after the highest turnout since the breakup of Yugoslavia, about sixty-eight percent by seven p.m. local time, in a showdown between President Aleksandar Vučić's party and a student-led protest movement. A final pre-election Ipsos poll, commissioned by Vučić's list, had his party ahead forty-seven to forty. The independent watchdog CRTA reported pressure on voters or poll workers at nearly a third of the stations it monitored, and police cordons went up in central Belgrade tonight. Government supporters say the vote was orderly and the protests are foreign-backed. First projections are expected shortly; official results not before Monday. Next door in Bulgaria, exit polls show former vice president Iliana Iotova leading the presidential race, which heads to a runoff.
+> source: Al Jazeera, "Serbia voter turnout highest in decades as students oppose longtime leader" (Oct 25); The Guardian Europe live (Oct 25); Ipsos Strategic Marketing pre-election release (Oct 22); AP (Oct 25)
+
+// Story 3: Brazil counting
+[ava] And Brazil's polls closed at four Eastern, and the count is under way in the runoff between President Lula and Senator Flávio Bolsonaro. Brazil's electronic count is usually fast, so a result could come within a few hours; Bolsonaro led the first round forty-seven to forty-five.
+> source: Reuters, Brazil runoff live results (Oct 25); O Globo apuração (Oct 25); TSE first-round results
+
+## Technology | sting=tech
+// Story 1: GM eyes-off 2028; Waymo Madrid
+[andrew] On the tech desk, Ava: General Motors laid out its plan at its GM Forward event. In twenty twenty-eight, the Cadillac Escalade I.Q. is due to debut a highway driving feature that lets drivers take their hands off the wheel and their eyes off the road, plus a conversational A.I. assistant that replaces OnStar. That's more than two years out, and GM has set ambitious self-driving timelines before.
+[andrew] And Waymo plans a robotaxi service in Madrid, its first in Spain, opening to riders in twenty twenty-seven. And Rivian has bought a company called Third Dimension to bolster its own tech push.
+> source: TechCrunch Mobility, "Blue-green is the color of autonomy" (Oct 25)
+
+## Artificial Intelligence | sting=ai
+// Story 1: Apollo's Slok - zero payoff
+[andrew] In A.I., Apollo Global Management's chief economist, Torsten Slok, says the technology has delivered "zero financial payoff" to corporate America outside tech. Looking at the S and P five hundred minus the seven biggest tech names, he finds flat profit margins and flat revenue per worker. His line: "A.I. may be a great calculator, but in business, intelligence is mostly judgment." The counterpoint: economists have seen this before. Computers famously showed up everywhere but the productivity numbers for years before paying off, and adoption at big non-tech firms is still early.
+> source: TechCrunch, "AI delivers 'zero financial payoff' to most companies, Apollo economist says" (Oct 25)
+
+// Story 2: Agent Skills to Linux Foundation
+[andrew] Also this week, Anthropic handed its Agent Skills standard, the format that teaches A.I. agents specific tasks, to the Linux Foundation's Agentic A.I. Foundation, the same neutral home it gave its Model Context Protocol. More than seventy platforms already use it, and the foundation also took in new open projects from OpenAI, Hugging Face and Alibaba.
+> source: Anthropic, "Donating Agent Skills to the Agentic AI Foundation" (Oct 22); Linux Foundation press release (Oct 22)
+
+## Cybersecurity | sting=cyber
+// Story 1: Tailworm
+[ava] On the cyber desk, if you use Tailscale to reach your home or work machines, listen up. Researcher Erica Windisch of Cyberdione Labs released a report called Tailworm, detailed today by The Hacker News, describing flaws in Tailscale's built-in SSH feature that, in her lab, let one already-hacked device get root on other machines its access rules can reach, and spread from there. There's no patch or official advisory yet. Tailscale says it's working on fixes but is "not recommending that everyone disable Tailscale SSH," and some researchers question how "wormable" it really is. What to do now: turn off SSH port forwarding where you can, write access rules as one device to one target, and turn on key expiry.
+> source: The Hacker News, "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers" (Oct 25); Cyberdione Labs, Tailworm report (Oct 25)
+
+## From Your X Feed | sting=x
+[ava] Now, from your X feed this afternoon.
+[andrew] Variety reports Olivia Rodrigo's "You Seem Pretty Sad for a Girl So in Love" is back at number one on the albums chart, helped by her "Expectations" remix with Chappell Roan.
+[ava] Variety also noted Grok Imagine has delivered the first piece of Elon Musk's promised A.I.-generated "Odyssey": a seven-minute first episode, made with Wonder Studios. The full feature-length film he pledged by year's end is still to come.
+[andrew] Mike Pat said a friend at the Formula One race in Austin, who's no fan of Tesla, tried a Cybercab ride on his urging and called it good, and praised Tesla for stress-testing the service in front of a tough crowd. Tesla stretched its Austin robotaxi zone to the Circuit of the Americas area and ran rides until one a.m. for race weekend.
+[ava] And Sandy of Cthulhu offered a word nerd's fact: "dwarfs" was long the standard plural. Tolkien chose "dwarves" deliberately, and once joked it was a piece of private bad grammar.
+> source: X posts from @Variety, @mikepat711, @SandyofCthulhu (Oct 25); Billboard; Variety, "Elon Musk's Grok Releases First AI-Generated 'Odyssey' Episode"; TeslaNorth, "Tesla Robotaxi Runs Until 1 AM in Austin, Adds COTA Before F1 Weekend" (Oct 23); Tesla Oracle (Oct 23)
+
+## Local News & Events | sting=local
+// Story 1: Mulholland lawsuit
+[ava] Closer to home, former Londonderry Town Manager Shaun Mulholland is suing the town over his firing on September twenty-first. His suit in Rockingham County Superior Court argues the council's three-to-two vote wasn't enough, since he says the charter requires four votes, thirty days' notice and a chance at a public hearing. He's seeking a jury trial and back pay. The town hasn't had its say in court yet, and the claims haven't been tested; the council majority has relied on the view that state law allows removal by a simple majority.
+> source: Londonderry Times, "Town Being Sued Over Breach of Contract, Unlawful Vote" (Chris Paul, Oct 25)
+
+// Story 2: Hudson bridge
+[ava] In Hudson, selectmen vote Tuesday night on a two-point-four-million-dollar first phase of repairs to the Veterans Memorial and Taylor Falls bridges on Route one-eleven, the Nashua-Hudson crossing. A cracked girder put the Veterans Memorial Bridge on the state's red list. Washington would pay eighty percent, Hudson and Nashua ten percent each, pending a town meeting vote in March.
+> source: Merrimack Journal, "Hudson selectmen to weigh $2.4 million agreement for Nashua-Hudson bridge repairs" (Oct 25)
+
+// Story 3: Revere crash
+[ava] And just over the line in Massachusetts, a juvenile driver going the wrong way on Route One in Revere was killed early this morning in a head-on crash near the Saugus line. The other driver had minor injuries.
+> source: WCVB, "Juvenile killed in fiery wrong-way crash on Route 1 in Revere" (Oct 25)
+
+## Uplifting Story | sting=feel
+[ava] Finally, many hands in Ottawa. When the Spaniel's Tale bookshop in the Hintonburg neighborhood moved one block down the street, it called for help. About two hundred eighty volunteers formed two human chains along Wellington Street and passed more than seventy-four hundred books, one or two at a time, from the old shop to the new one. The whole job took about two and a half hours.
+> source: CBC News, "'Book brigade' moves 7,400 books by hand to Hintonburg store's new space" (Oct 2026); CTV News Ottawa
+
+## Close | sting=close
+[ava] That's the four o'clock update. We'll have Serbia's and Brazil's results, and the California ruling, as they come in. I'm Ava.
+[andrew] And I'm Andrew. Enjoy your Sunday evening.
