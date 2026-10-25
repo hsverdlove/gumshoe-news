@@ -1,0 +1,98 @@
+# title: Sunday 10 AM Update, Oct 25
+# description: The Sunday ten o'clock update from Gumshoe News Radio for October 25, 2026: conditions around Londonderry through tomorrow morning; the New York Archdiocese's eight-hundred-million-dollar abuse settlement, an explosion at the Quaker Oats mill in Cedar Rapids, the final weekend of campaign rallies and Massachusetts' gun-law ballot question; Riyadh's airport reopening as Iran waits, Israel's Hebron operation before Tuesday's vote, Brazil and Serbia turnout and a deadly Kenya bus crash; Musk's Starlink admission and a Samsung TV privacy claim; OpenAI's price war for Anthropic customers and Britain's AI biosecurity lab; ransomware in Columbia, South Carolina, and North Korean hackers hiding behind post-quantum crypto; your X feed; Kamala Harris in New Hampshire, a resolved Candia standoff and a Londonderry Halloween party; and a Colorado woman fattening up thirty-one bear cubs. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's ten o'clock on Sunday, October twenty-fifth, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. No markets on a Sunday, so we'll spend the extra time on the news.
+[ava] First, conditions around Londonderry, New Hampshire, through this time tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Oct 25 at airtime
+
+## US News | sting=us
+// Story 1: NY Archdiocese settlement finalized
+[ava] The Archdiocese of New York and abuse survivors have agreed to an eight-hundred-million-dollar settlement covering about thirteen hundred claimants. Archbishop Ronald Hicks confirmed it in an email to Catholics on Saturday. It's the second-largest payout by a U.S. archdiocese, behind Los Angeles' eight hundred eighty million in two thousand twenty-four. Survivors' attorney Jeff Anderson, who has represented many of the claimants, praised the deal.
+> source: AP, "New York Archdiocese reaches $800 million settlement with abuse survivors" (Oct 24-25)
+
+// Story 2: Quaker Oats Cedar Rapids explosion
+[ava] In Iowa, an explosion and fire hit the Quaker Oats plant in Cedar Rapids late Saturday afternoon. The PepsiCo-owned mill is described as the world's largest cereal mill, processing more than two million pounds of oats a day. Officials say all workers were accounted for and no one was hurt, and crews had the fire under control in about ninety minutes. The cause is under investigation, and it's not yet clear how production will be affected.
+> source: The Gazette (Cedar Rapids); KCRG; AP (Oct 24-25)
+
+// Story 3: Final-weekend rallies
+[ava] With nine days until the midterms, the biggest names are on the trail. President Trump rallied in Perry, Georgia, Saturday, touting tariffs and his promised five-thousand-dollar payout if Republicans hold both chambers, and heads to Michigan today for Senate nominee Mike Rogers. In Georgia he again called Libya, Yemen, Haiti and Somalia "terror-infested," using a vulgar term for them; critics called that bigoted, while supporters say he's arguing for security-first immigration. Former President Obama, campaigning in Cleveland, called this election the "last best chance" to rein in the administration and said the Iran war has driven up prices. The president counters that pump prices are only temporarily high and will come down.
+> source: BBC, "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections" (Oct 24); AP campaign coverage (Oct 24-25)
+
+// Story 4: Massachusetts Question 9 and gun measures
+[ava] Next door in Massachusetts, Question Nine asks voters whether to keep the state's two thousand twenty-four gun law, which includes a firearm registry, serial numbers, a ghost-gun ban and a broader assault-style weapons ban. A yes vote keeps it. Gun-rights advocate Toby Leary says it infringes on rights and that the registry could become a target for hackers. Ruth Zakarin of the Massachusetts Coalition to Prevent Gun Violence calls it common-sense guardrails. The registration deadline for residents is Wednesday.
+> source: AP (David A. Lieb), gun ballot measures roundup (Oct 25)
+
+## International | sting=world
+// Story 1: Iran waiting game, Riyadh airport reopens
+[ava] In the Gulf, there are still no reports of new U.S. strikes on Iran this morning. Saudi Arabia reopened Riyadh's King Khalid International Airport today after a two-week closure, even as the Houthis insist airports are military targets; civil-defense alerts in Riyadh, Abha and Khamis Mushait were lifted shortly after they sounded. In Tehran, parliament speaker Mohammad Bagher Ghalibaf warned of a response "beyond imagination" if Iran is attacked and urged Iranians to cut natural-gas use ten percent ahead of winter. Social media reports of explosions near a radar site outside Tabriz are unverified; local officials say it was controlled disposal of old ordnance.
+> source: CBS News live updates (Oct 25); AP; Arab News and Gulf News on King Khalid airport (Oct 25); Al Jazeera; Iranian state media via Reuters
+
+// Story 2: Hebron operation before Israel's vote
+[ava] Israel is pressing a military operation in Hebron after Friday's checkpoint attack that killed two soldiers. The army says it has searched more than four hundred sites and made about forty arrests; Defense Minister Israel Katz puts the displaced at around two thousand, and homes have been demolished. Israel says it's rooting out militants. Hebron's mayor says the operation is driven by election politics ahead of Tuesday's vote, when all West Bank crossings will close. Polls show Prime Minister Netanyahu roughly level with former army chief Gadi Eisenkot.
+> source: BBC; AP (Oct 24-25)
+
+// Story 3: Brazil and Serbia turnout
+[ava] Voting is underway in Brazil's presidential runoff, with polls closing at four this afternoon Eastern. In Serbia, turnout is running unusually high: about thirty-five percent by midday, versus twenty-one percent at the same point in two thousand twenty-three.
+> source: AP; Reuters; France 24 (Oct 25)
+
+// Story 4: Kenya bus crash
+[ava] And in Kenya, twenty-two people were killed and sixteen injured this morning when a church bus returning from a funeral collided head-on with a truck on the Nairobi-Mombasa highway near Mtito Andei. The cause hasn't been established; the stretch is a known accident black spot.
+> source: The Star (Kenya); Citizen Digital (Oct 25)
+
+## Technology | sting=tech
+// Story 1: Musk confirms Starlink throttling
+[andrew] Ava, Elon Musk now says SpaceX deliberately cut the speed of Ukraine's Starlink service last week. He wrote that Ukraine's military "violated Starlink terms of service," and that a "loophole was closed," adding that limits on the military Starshield version are set by the U.S. government. He also said that if Starlink were turned off, the Ukrainian front would collapse, but stressed that's "NOT a threat." A Ukrainian adviser, Serhiy Beskrestnov, called the post "very strange," saying Ukraine can't use Starlink for long-range strikes anyway. Reuters had reported the throttle order came from inside the White House. Speeds have since been restored.
+> source: Reuters; AP; BBC; NBC News (Oct 25)
+
+// Story 2: Samsung TV privacy claim
+[andrew] And a security researcher who goes by "log4j" says he rooted his twenty twenty-five Samsung TV and found code in its Tizen software for classifying audio, taking screenshots, cross-device ad tracking and AI analysis of what you watch, even borrowing a soundbar's microphone. That's unverified; another engineer saw the mic open only for five seconds, and Samsung hasn't responded.
+> source: Tom's Hardware, "Cybersecurity bounty hunter says Samsung TVs use AI to record audio and screenshots for ads" (Oct 25)
+
+## Artificial Intelligence | sting=ai
+// Story 1: OpenAI discounts to poach Anthropic customers
+[andrew] In A.I., The Information reports OpenAI is offering discounts as steep as ninety percent to lure Anthropic's big business customers. Replit reportedly moved most of its spending to OpenAI under a deal worth over a hundred million dollars a year, and Rippling and DataCamp have shifted too, with DataCamp saying its costs fell as much as ninety percent. Discounts that deep raise the obvious question of how long they can last.
+> source: The Information, via The Decoder (Oct 24-25)
+
+// Story 2: UK AI Biosecurity Lab
+[andrew] Britain is putting a hundred million pounds into what it calls a world-first A.I. Biosecurity Lab, announced ahead of Wednesday's budget. OpenAI and Anthropic are contributing two hundred million pounds in model credits, with Google DeepMind collaborating, to study how A.I. could help or hinder defense against biological threats. Worth noting: the companies whose models raise those concerns are also helping pay for the research.
+> source: BBC (Oct 24); GOV.UK announcement
+
+## Cybersecurity | sting=cyber
+// Story 1: Columbia SC ransomware
+[ava] On the cyber desk: Columbia, South Carolina, has confirmed a ransomware attack, discovered Tuesday, that knocked out its MyColaSC service portal, animal services and park reservations. Police, fire, nine-one-one and water service are working. State police are investigating, and the city says it doesn't yet know whether personal data was taken.
+> source: WACH Fox 57, City of Columbia statement (Oct 24)
+
+// Story 2: Lazarus hides behind post-quantum crypto
+[ava] And Kaspersky says North Korea's Lazarus Group used the new NIST post-quantum encryption standard to hide its malware deliveries, hitting at least three South Korean companies since last July. The lesson for defenders: stronger encryption protects attackers too, so watch behavior, not just traffic contents.
+> source: BleepingComputer, Kaspersky "FlashHole" research (Oct 21)
+
+## From Your X Feed | sting=x
+[ava] Now, from your X feed this morning. @kimmonismus shared video from ETH Zurich of a Unitree G1 humanoid climbing an outdoor ladder and vaulting onto a platform, saying that's far more impressive than another robot kickboxing stunt. The researchers trained it on about thirteen minutes of human demonstrations.
+[ava] @asherbphotos posted a Super Heavy booster static fire, hoping to see it launch and get caught by the chopsticks next month. NASASpaceflight reports Flight Fifteen is targeted no earlier than November eighth, with SpaceX aiming to catch both the booster and the ship.
+[ava] @interesting_aIl noted the clocks went back an hour today. That's in Britain and Europe; here in the U.S., we fall back next Sunday, November first.
+[ava] And @PicturesFoIder shared Emilia Clarke celebrating her fortieth birthday with Game of Thrones co-stars, captioned "This is forty, baby."
+> source: X posts from @kimmonismus, @asherbphotos, @interesting_aIl, @PicturesFoIder (Oct 25); NASASpaceflight, "SpaceX working through Starship Flight 15 and 16 milestones" (Oct 18)
+
+## Local News & Events | sting=local
+// Story 1: Harris in New Hampshire
+[ava] Closer to home, former Vice President Kamala Harris campaigned in New Hampshire Saturday, including a phone-bank stop in Portsmouth for Senate candidate Chris Pappas, House candidate Stefany Shaheen and gubernatorial candidate Cinde Warmington. She focused on abortion access and health costs. Pappas faces Republican John Sununu for the open Senate seat in a race expected to be highly competitive.
+> source: NBC Boston, "Kamala Harris rallies Democrats in New Hampshire ahead of Nov. 3" (Oct 24-25)
+
+// Story 2: Candia shelter-in-place lifted
+[ava] In Candia, a shelter-in-place order near Currier Road was lifted Saturday night after police took an armed person into custody around nine-fifteen.
+> source: NBC Boston (Oct 24-25)
+
+// Story 3: YMCA Spooktacular
+[ava] And on the calendar: the YMCA of Greater Londonderry on Rockingham Road hosts its free Halloween Spooktacular Wednesday from five-thirty to seven, with trick-or-treating, crafts and carnival games. It's free, but registration is required, and bring a flashlight.
+> source: The Granite YMCA events page, "Halloween Spooktacular" (Oct 28, YMCA of Greater Londonderry)
+
+## Uplifting Story | sting=feel
+[ava] Finally, a big job in Colorado. Nanci Limbach of the Pauline S. Schneegas Wildlife Foundation in Silt is caring for thirty-one bear cubs this fall, many underweight after a late freeze and summer drought wiped out their food. The cubs go through about two thousand pounds of fruit a week, shipped in from out of state because local apples froze. Her goal is to get each cub to about sixty pounds. Then, in midwinter, they'll ride snowmobile sleds into the mountains, two to a man-made den, and wake up in spring like regular bears. In four decades, she told NPR, her collared bears never lost one in hibernation.
+> source: NPR Weekend Edition, "Wildlife rescuer Nanci Limbach has a bear-y big problem this fall: 31 cubs in her care" (Oct 24)
+
+## Close | sting=close
+[ava] That's the ten o'clock update. Brazil's polls close at four, and we'll watch Iran and the Gulf all day. I'm Ava.
+[andrew] And I'm Andrew. Enjoy your Sunday.
