@@ -1,0 +1,75 @@
+// Gumshoe script format: see README.md
+# title: Monday 4 PM Update, Oct 26
+# description: The Monday four o'clock update from Gumshoe News Radio for October 26, 2026: conditions around Londonderry through tomorrow afternoon; President Trump offers a million dollars for voter-fraud tips that lead to convictions, and a judge rules Maurene Comey was fired unlawfully; Lula's win draws a "rigged" remark from Trump as Brazil's institutions move ahead, protesters storm a pro-Vučić TV studio in Belgrade, and a third child dies after a Russian strike on a Kharkiv-region park; stocks close higher on the A.I. trade while JetBlue sinks and the oil reserve hits a 44-year low; DoorDash in advanced talks to buy Instacart; OpenAI's cheaper GPT-6.1 Terra; PHP2Shell flaws now confirmed exploited; your X feed; how Londonderry runs a 10,000-voter Election Day; and the sweatshirts helping thousands recover from breast cancer surgery. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's four o'clock on Monday, October twenty-sixth, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Good afternoon, Ava. The closing bell just rang, and the A.I. rally held. I'll have the final numbers, plus a big delivery deal in the works.
+[ava] First, conditions around Londonderry, New Hampshire, through this time tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Oct 26 at airtime
+
+## US News | sting=us
+// Story 1: $1 million voter-fraud reward
+[ava] Breaking this afternoon: President Trump says the U.S. will pay one million dollars to anyone who reports voter fraud that leads to an arrest and conviction, covering past elections and next week's midterms. The White House posted his statement, and Reuters notes it comes barely a week before an election that polls suggest could be tough for Republicans. Details, like where the money would come from and who would run it, weren't immediately available.
+[ava] It's separate from, and far bigger than, the fraud whistleblower program the Justice Department launched last week, which pays ten to thirty thousand dollars for tips about fraud in federal benefit programs. Supporters say a large reward will bring cases to light. Skeptics note that most studies have found voter fraud to be rare, and worry a bounty could encourage false accusations against voters and poll workers. The administration points to cases like this morning's charges against forty-eight noncitizens accused of voting illegally.
+// Story 2: Maurene Comey ruling
+[ava] And in New York, federal Judge Jesse Furman ruled that the Justice Department unlawfully fired prosecutor Maurene Comey, daughter of former F.B.I. Director James Comey, in July of last year. She had worked on the Epstein, Ghislaine Maxwell and Sean Combs cases. The judge found the firing, ordered by then-Attorney General Pam Bondi, violated civil service protections and her due-process rights, and rejected the department's argument that it can fire career prosecutors at will, calling it a sweeping and unprecedented theory of executive power. He ordered her reinstated, with back pay through December, when she started a new job. The Justice Department says it disagrees and will appeal.
+> source: Reuters via StreetInsider, "Trump offers $1 million for tipoffs that lead to voter fraud convictions" (Oct 26, 3:40 PM ET); @WhiteHouse statement on X (Oct 26); U.S. Justice Department, Fraud Whistleblower Incentive Program announcement (Oct 20); NBC News, "Judge orders DOJ to reinstate former federal prosecutor Maurene Comey" (Oct 26); AP and ABC News (Oct 26); Comey v. U.S., S.D.N.Y. opinion and order (Oct 26)
+
+## International | sting=world
+// Story 3: Brazil reaction
+[ava] Overseas, President Trump weighed in on Brazil, saying Lula's runoff win "looked like another rigged election," though he said he didn't take sides. Flávio Bolsonaro still hasn't conceded and plans to seek an annulment, objecting to a Supreme Court justice's order extending voting by two hours. But the Associated Press reports early signs that the country's institutions and foreign governments will respect the result, Lula winning about fifty-two to forty-eight percent.
+// Story 4: Serbia Informer TV
+[ava] In Serbia, a day after the student-backed opposition ended Aleksandar Vučić's long hold on power, several dozen protesters pushed past a police line and into the Belgrade studio of TV Informer, a channel loyal to Vučić, during a live broadcast. They demanded an apology from editor Dragan Vučićević for his coverage of the student movement and of victims' families. He urged police to step in, noting children were in the building, and police removed the protesters. No serious violence was reported.
+// Story 5: Kharkiv-region park strike
+[ava] And in Ukraine, a twelve-year-old boy, Artem Koval, died in a Kyiv hospital today, a week after a Russian drone hit a park in Nova Vodolaha, in the Kharkiv region. His eight-year-old sister was killed at the scene. Ukrainian outlets say he's the third child to die from that strike.
+> source: @RapidResponse47 on X (Oct 26) and AP, "Lula mobilized millions to win Brazil's election, while Bolsonaro contests victory" (Oct 26); CNBC citing Brazil's Superior Electoral Court and Reuters (Oct 26); N1, "Protesters break into Informer studio" (Oct 26); Euronews Serbia and Nova.rs (Oct 26); Reuters via Investing.com on Serbia (Oct 26); Ukrainska Pravda and Kyiv Post (Oct 26); Ukrinform (Oct 26)
+
+## Markets | sting=markets
+[andrew] Markets. Stocks closed higher, snapping out of two straight losing weeks. The Dow added about a hundred forty-six points, or roughly three-tenths of a percent. The S and P five hundred gained seven-tenths of a percent, near seven thousand six hundred eighty, and the Nasdaq rose about eight-tenths.
+[andrew] The driver was Anthropic's I.P.O. filing, which revived the A.I. trade. The semiconductor E.T.F. jumped more than three percent, with Micron up four, Broadcom and A.M.D. three, and Nvidia two and a half. Even the so-called neoclouds bounced, CoreWeave up almost five percent, despite Elon Musk's weekend warning that hundreds of A.I. cloud start-ups face extinction.
+[andrew] The big loser: JetBlue, down about twelve percent after the Wall Street Journal reported its senior creditors are working with a restructuring adviser. The stock is now down roughly half this year. Communication-services stocks hit their lowest since June of last year, with Verizon down about three percent after a slight revenue miss.
+[andrew] Oil fell about two percent, U.S. crude near a hundred and a half dollars and Brent around a hundred fourteen fifty. But here's a number to watch: the Strategic Petroleum Reserve is down to about two hundred eighty-three million barrels, its lowest since nineteen eighty-two, after months of drawdowns to offset the Mideast disruption.
+[andrew] Looking ahead, futures markets put about a ninety percent chance on the Fed holding rates Wednesday. The bull case is that today shows the appetite for A.I. is still there. The bear case: R.B.C. warns the S and P could pull back five to ten percent near term, and Apollo's Torsten Slok says that outside the tech giants, A.I. spending has shown no payoff yet in revenue or margins.
+> source: CNBC, "Stocks close higher as excitement over Anthropic IPO filing propels tech sector" (Oct 26, 4:02 PM ET); Yahoo Finance live and S&P 500 quote (Oct 26, 3:55 PM ET); The Wall Street Journal via CNBC on JetBlue (Oct 26); CNBC on the Strategic Petroleum Reserve (Oct 26)
+
+## Technology | sting=tech
+// Story 6: DoorDash and Instacart
+[andrew] Tech. DoorDash is in advanced, exclusive talks to buy grocery-delivery rival Instacart, according to the Wall Street Journal and Semafor. The Journal says a deal could come as soon as this week, though both outlets caution it could still fall apart, and no price has been reported. Instacart is valued around twelve billion dollars; Semafor estimates a deal near fifteen billion. Instacart shares rose about seven percent, while DoorDash fell about five. The two talked in twenty twenty-one, at a much higher valuation, but those talks collapsed over price and antitrust worries. Supporters say a combined company could better compete with Amazon and Walmart in grocery delivery; critics see one more merger of direct rivals that would leave shoppers and gig workers with fewer choices.
+> source: The Wall Street Journal, "DoorDash Is in Advanced Talks to Acquire Delivery Rival Instacart" (Oct 26, 3:24 PM ET); Semafor, "DoorDash in exclusive talks to acquire Instacart" (Oct 26, 3:30 PM ET); @semafor on X; Bloomberg Law and Reuters on Instacart's sale process (Oct 23)
+
+## Artificial Intelligence | sting=ai
+// Story 7: GPT-6.1 Terra
+[andrew] In A.I., OpenAI released GPT-6.1 Terra today, a faster, cheaper model aimed at everyday computer work like filling out forms, reading invoices and editing documents. OpenAI says its A.P.I. price is half that of its predecessor and of the bigger GPT-6.1 Sol, at a dollar per million input tokens and five dollars per million output. OpenAI also claims a big drop in factual errors, though those are its own benchmarks and haven't been independently checked. One more notable line: OpenAI rates it at the "critical" level for cybersecurity capability under its own safety framework. It's rolling out now to paid ChatGPT users and developers.
+> source: OpenAI, "Introducing GPT-6.1 Terra" (Oct 26); AWS, "OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock" (Oct 26)
+
+## Cybersecurity | sting=cyber
+// Story 8: PHP2Shell confirmed exploited
+[ava] Cyber desk, with an update on the PHP2Shell flaws we told you about last week. Until now, attacks on these two critical bugs in PHP, the language behind roughly seventy percent of websites, had only been probes and failed attempts. Now a researcher at Perplexity says his decoy servers caught a successful takeover of an unpatched Apache server, and Expel's Marcus Hutchins calls it the best confirmation yet of real-world exploitation. The patches have been out since last Wednesday, so if you or your web host run PHP, make sure it's updated. And PHP's developers warn of a separate, still-unpatched flaw that only affects unusual setups; their advice is to turn off the session upload-progress feature until a fix arrives.
+> source: BleepingComputer, "PHP2Shell security flaws now successfully exploited in the wild" (Sergiu Gatlan, Oct 26); SecurityWeek, "PHP2Shell Exploitation Moves From Probes to Working Shells" (Oct 26)
+
+## From Your X Feed | sting=x
+[ava] From your X feed this afternoon.
+[ava] Collin Rugg shared a story that's gone viral: in Winter Park, Florida, a three-year-old soccer player was dominating a group of five-year-olds, and his family says police were called because he was "too good." Winter Park police tell a different story: a league official called them over a dispute involving the parents, not the child. The league asked the family to leave and offered a refund, and officers called it a civil matter with no arrests.
+[andrew] Pieter Levels, better known as levelsio, says he's been loading up on Google stock, calling it very cheap. His reasoning: his dad told him on FaceTime he'd cancelled ChatGPT for Google's Gemini. One anecdote isn't a market signal, of course, and Alphabet reports earnings Wednesday.
+[ava] The account Pictures Folder points to a sad record at Yellowstone: park geologists have pulled more than twenty-three thousand pieces of trash out of its hot springs and geysers this year, from lens caps and pacifiers to AirPods, dental retainers and three hundred sixty-nine hats. The Geological Survey says debris can clog the springs' plumbing and harm the microbes that give the pools their colors.
+[andrew] And Variety reports actor Cheyenne Jackson has launched a campaign called "One Job Away," spotlighting actors at risk of losing their union health insurance if they don't earn the guild's twenty-eight-thousand-dollar annual minimum.
+> source: Harry's X home timeline Oct 26 ~2:45-3:59 PM ET (@CollinRugg, @levelsio, @PicturesFoIder, @Variety); WESH, Action News Jax and ClickOrlando on the Winter Park soccer dispute (Oct 26); U.S. Geological Survey Yellowstone Volcano Observatory, "Caps, trash, and other hydrothermal funky finds: 2026 edition"; National Geographic and The Guardian on Yellowstone trash
+
+## Local News & Events | sting=local
+// Story 9: NH and Londonderry ready for Election Day
+[ava] Closer to home, New Hampshire election officials say they're ready for heavy turnout on November third, with no signs of trouble. The head of the Attorney General's Election Law Unit, Sean Locke, says fifty to sixty state prosecutors will visit polling places on Election Day, and a state hotline will take questions from local officials and voters.
+[ava] Londonderry is one of the big ones. Town Moderator Jonathan Kipp tells N.H.P.R. that more than ten thousand people are expected to pass through the town's single polling place, run by a small army of residents, some paid and some volunteer. Every ballot is paper, counted by machine, and Kipp says every step, from registering new voters to the final tally, happens in public view. In his words, "If you wanted to come in and watch, you are welcome to do so."
+// Story 10: Mount Cardigan rescue
+[ava] And W.M.U.R. reports a hiker was rescued after a fall on Mount Cardigan, with injuries described as not life-threatening.
+> source: NHPR, "Election officials in NH say they're ready for a big day at the polls, with little drama" (Todd Bookman, Oct 26); WMUR, "Hiker rescued after fall on Mount Cardigan" (Oct 26)
+
+## Uplifting Story | sting=feel
+[ava] And finally, a sewing machine, a promise to Mom, and twenty-two thousand sweatshirts. When Katelynn Devinney's mother, Patricia, had a mastectomy after her second breast cancer diagnosis, someone gave her a zip-up sweatshirt with pockets inside to hold the surgical drains patients go home with. Her mom said it was a lifesaver and asked for another, so Katelynn dusted off the sewing machine her mother bought her in high school and made one. Then she kept going. Four years later, her Delaware County, Pennsylvania, nonprofit, Pockets of Hope, has donated more than twenty-two thousand sweatshirts across the U.S. and abroad, each with a handwritten note. Her mother is now cancer-free and volunteers too. As Katelynn puts it, "a little goes a long way."
+> source: WHYY, "How a Sweatshirt for Her Mom Inspired Katelynn Devinney to Help Thousands" (Cherri Gregg, Oct 26)
+
+## Close | sting=close
+[ava] Coming up tomorrow: Israelis go to the polls, Boeing and Coca-Cola report earnings, and we'll watch for any DoorDash deal. That's your four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Have a good evening.
+[ava] Ask your Gumshoe for more on any story.
