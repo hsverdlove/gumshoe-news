@@ -1,0 +1,75 @@
+// Gumshoe script format: see README.md
+# title: Monday 10 AM Update, Oct 26
+# description: The Monday ten o'clock update from Gumshoe News Radio for October 26, 2026: conditions around Londonderry through tomorrow morning; Justice Department charges against forty-eight noncitizens over illegal voting, a preliminary twenty-five percent drop in violent victimization, and the last week on the campaign trail; talks under way in Tehran, arrests in Jordan's church attack and a Russian drone strike in Vinnytsia; markets lifted by Anthropic's filing and Meta's ninety-five-billion-dollar raise as Brazil's stocks plunge, plus Verizon earnings; a new OLED iPad mini, easyJet picks Starlink and TSMC's Phoenix plant; Anthropic's public IPO filing; a startup's twelve-hour break-in at Anthropic; your X feed; a poisoned bald eagle in Brookline and Londonderry's legal bills; and an island that turns off its lights for seabirds. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's ten o'clock on Monday, October twenty-sixth, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Stocks are up in early trading, and the big business story just dropped: Anthropic's long-awaited I.P.O. filing. I'll have the numbers.
+[ava] First, conditions around Londonderry, New Hampshire, through this time tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Oct 26 at airtime
+
+## US News | sting=us
+// Story 1: DOJ noncitizen voting charges
+[ava] The Justice Department this morning announced charges against forty-eight noncitizens in Pennsylvania, California, Florida, New York and Nevada, for voting illegally, falsely claiming citizenship to register, and related crimes. All but one are described as lawful permanent residents, meaning green-card holders. Most of the alleged votes were cast in twenty twenty-two or twenty twenty-four, and many cases surfaced when the defendants later applied to become citizens and allegedly lied about their voting history. The department says the cases show the problem is real. Skeptics note that prosecutions like these remain rare next to the more than one hundred fifty million ballots cast in twenty twenty-four. All of the defendants are presumed innocent.
+// Story 2: Crime victimization survey
+[ava] Also from the Justice Department: its annual survey asking about a hundred thousand households whether they were victims of crime. Preliminary results show violent victimization, not counting simple assaults, fell about twenty-five percent from twenty twenty-four to twenty twenty-five, from nine point nine to seven point four per thousand people. The administration calls it a historic drop. The Bureau of Justice Statistics cautions that these come from a redesigned survey that can't be directly compared with older years, and final numbers are due in twenty twenty-seven.
+// Story 3: Campaign trail
+[ava] On the campaign trail, eight days out, President Trump heads to Mississippi today to rally for Senator Cindy Hyde-Smith, while Vice President Vance campaigns in Montana and Kansas. And the California ballot fight returns to a lower court tomorrow, with the Ninth Circuit's ruling still pending.
+> source: U.S. Department of Justice, "Justice Department Announces Charges Involving 48 Aliens for Election-Related Crimes" (Oct 26); MS NOW on the low number of noncitizen voting cases; AP on accused immigrants applying for citizenship; Bureau of Justice Statistics, "Preliminary Victimization Estimates from the NCVS, 2025" (Oct 26); CBS News (Oct 26); NBC News campaign live blog (Oct 26); AP on the Ninth Circuit hearing (Oct 25-26)
+
+## International | sting=world
+// Story 4: Tehran talks under way
+[ava] Overseas, those talks in Tehran are now under way. Saudi Defense Minister Prince Khalid bin Salman, Pakistan's army chief, Field Marshal Asim Munir, and Turkey's intelligence chief, Ibrahim Kalin, sat down with Iranian leaders. It's Iran's first high-level meeting with all three members of the Mecca defense pact signed in August, under which an attack on one member counts as an attack on all. Riyadh says the aim is to ease tensions and back the mediation by Qatar and Pakistan. Iran's foreign ministry spokesman says the country still reserves the right to defend itself, and President Trump told Fox he's weighing either a deal or, in his words, to "finish them off." Separately, Britain's maritime security agency says a tanker leaving the Strait of Hormuz was hit by an unknown projectile and disabled on Friday.
+// Story 5: Jordan church attack arrests
+[ava] In Jordan, security forces arrested three men, two brothers and their brother-in-law, after a dawn shootout in Karak. They're accused of Friday's attack on a Greek Orthodox church funeral that killed nine people and wounded thirty-four. All three suspects were wounded. Officials say they were driven by extremist ideology, but found no ties to any organized group.
+// Story 6: Vinnytsia drone strike
+[ava] And in Ukraine, a Russian drone, reported locally to be a jet-powered model, struck a large home-goods shopping center in Vinnytsia this morning. Officials reported damage and, so far, no casualties.
+> source: AP, "High-level delegations meeting in Tehran to avert more war" (Oct 26); Reuters via Al-Monitor (Oct 26); Iran International live blog, citing the Saudi Foreign Ministry and UKMTO (Oct 26); AP, BBC and Arab News on the Karak arrests (Oct 26); Ukrinform and Ukrainian local media on Vinnytsia (Oct 26)
+
+## Markets | sting=markets
+[andrew] Markets. Stocks opened higher and are holding there: the Dow up about two hundred points, or four-tenths of a percent, the S and P and Nasdaq each up around three-tenths, after two straight losing weeks.
+[andrew] The spark is Anthropic's filing, which revived the A.I. trade. Chip stocks lead, with Nvidia up about one and a half percent, Micron more than two, and Broadcom and A.M.D. higher. Meta also rose about two percent before the open after announcing it will raise about ninety-five billion dollars for A.I. infrastructure: thirty-five billion in new common and preferred stock, with Nvidia, A.M.D. and Broadcom as anchor investors, plus a sixty-billion-dollar program to sell shares over time. Skeptics see heavy dilution and another sign of the A.I. spending arms race, while bulls see Meta locking in the capacity to compete.
+[andrew] Oil keeps easing on hopes for diplomacy with Iran: U.S. crude down about two percent, near a hundred one dollars, and Brent off more than one percent. The ten-year yield sits just under five percent, gold is near four thousand, and Bitcoin slipped just below eighty thousand.
+[andrew] The day's big loser is Brazil. After Lula's come-from-behind win, São Paulo's main stock index fell ten percent at the open, triggering its first circuit-breaker halt since twenty twenty, and kept sliding after trading resumed, down more than sixteen percent at one point. The real tumbled, with the dollar near five point six reais. Investors had largely expected Flávio Bolsonaro to win and saw him as more likely to rein in spending.
+[andrew] Earnings: Verizon beat on profit, an adjusted dollar thirty-one a share against about a dollar twenty-seven expected, with its best third-quarter phone subscriber growth in five years and a third straight raise to its outlook. Revenue of thirty-four point three billion fell short of forecasts, though. It also signed a two-billion-dollar-plus A.I. computing deal with Amazon Web Services. Boeing and Coca-Cola report tomorrow, and the Fed decides Wednesday.
+> source: CNBC, "Stocks rise to start the week as tech shares gain on Anthropic IPO enthusiasm" (Oct 26, 9:50 AM ET); Yahoo Finance and AP market open (Oct 26); CoinDesk live coverage, Meta offering and Bitcoin (Oct 26); Financial Times via Techmeme on Meta's raise; Reuters and Folha de S.Paulo on Brazil's circuit breaker (Oct 26); G1 on the Ibovespa and real (Oct 26); Verizon 3Q 2026 earnings release (Oct 26); Zacks via Yahoo Finance consensus estimates
+
+## Technology | sting=tech
+// Story 7: iPad mini, easyJet Starlink, TSMC Phoenix
+[andrew] Tech. Apple unveiled a redesigned iPad mini with an eight-point-five-inch OLED screen and an A20 Pro chip, starting at six hundred ninety-nine dollars and arriving November sixth. Europe's easyJet will offer in-flight Wi-Fi for the first time, using SpaceX's Starlink, with installs starting in the first half of twenty twenty-seven and the whole Airbus fleet done by early twenty twenty-eight. And the New York Times reports TSMC's first plant in Phoenix is now turning out chips at rates comparable to its factories in Taiwan.
+> source: Apple newsroom via Techmeme (Oct 26); easyJet Media Centre and FlightGlobal (Oct 26); The New York Times via Techmeme (Oct 26)
+
+## Artificial Intelligence | sting=ai
+// Story 8: Anthropic files publicly for IPO
+[andrew] In A.I., it's official. Anthropic publicly filed its I.P.O. paperwork this morning and plans to list on the Nasdaq under the ticker A-N-T, with Goldman Sachs and Morgan Stanley leading the deal. The filing shows revenue of sixteen point three billion dollars in the first half of this year, up from one point two billion a year earlier, but a net loss of eighty point seven billion, mostly an accounting charge on convertible notes as the company's valuation climbed. It lists nearly eight hundred billion dollars in computing commitments over ten years, and about a fifth of revenue comes from two customers.
+[andrew] The governance is unusual. Anthropic stays a public benefit corporation; its co-founders will hold fifty point one percent of the vote through a single special share, and an independent trust elects a majority of the board. Ninety-four pages of risk factors include a warning that a catastrophic A.I. incident could cause harm too large to insure. The Wall Street Journal reports Anthropic is aiming to go public the week of November sixteenth, possibly raising around a hundred billion dollars at a valuation of one and a half to two trillion. Critics point to the losses and the concentrated control; supporters point to growth few companies have ever matched.
+> source: Anthropic, "Anthropic files S-1 with the SEC for proposed initial public offering" (Oct 26); Anthropic S-1 on SEC EDGAR (Oct 26); CNBC Anthropic IPO live updates (Oct 26); Financial Times, Bloomberg and Reuters via Techmeme (Oct 26); The Wall Street Journal via Techmeme (Oct 26); Yahoo Finance (Oct 26)
+
+## Cybersecurity | sting=cyber
+// Story 9: Cathedral breaks into Anthropic systems
+[ava] Cyber desk, and Anthropic again. The Washington Post reports that Cathedral, a security startup founded by former DOGE staffers, used A.I. agents to get into some of Anthropic's internal sales, H.R. and I.T. systems in under twelve hours, through flaws in third-party business software. It reached salary and job-offer details, meeting transcripts and Slack messages. The test ran under Anthropic's program for outside security researchers. Anthropic says its monitoring flagged the activity, it cut off access the same day and no customer chats, source code or model weights were reached. It also says Cathedral overstated the national-security angle and didn't disclose all of its activity. Security veteran Alex Stamos said Anthropic "could have done a lot better." The lesson for any business: your vendors' software is part of your attack surface.
+> source: The Washington Post, "Researchers at cybersecurity start-up Cathedral got inside Anthropic" (Oct 26); India Today (Oct 26)
+
+## From Your X Feed | sting=x
+[ava] From your X feed this morning.
+[andrew] For fellow Tesla owners, mikepat711 points out that around Halloween, the car greets you by playing the Ghostbusters theme.
+[ava] Variety reports Chris Brown received an eight-month prison sentence, suspended for twelve months, over a twenty twenty-three attack on a music producer at a London nightclub. So he avoids jail for now, and the judge told him fame doesn't entitle him to special treatment.
+[andrew] Engineers feed highlighted research from the University of Warwick suggesting copper-based superconductors aren't one uniform crystal structure, as long assumed, but a patchwork of two slightly different atomic arrangements. We haven't reviewed the paper itself.
+> source: Harry's X home timeline Oct 26 ~7:00-10:05 AM ET (@mikepat711, @Variety, @engineers_feed)
+
+## Local News & Events | sting=local
+// Story 10: Brookline eagle
+[ava] Closer to home, a sad find in Brookline. Residents found a bald eagle unable to move and bleeding. New Hampshire Fish and Game responded, but the bird didn't survive. Officials believe it ate a mouse or rat that had swallowed rat poison. N.H. Audubon's Carol Foss says that kind of secondary poisoning also threatens hawks, owls, bobcats and fishers, and a recent study found thirty-four of thirty-five animals tested in the state had been exposed. Audubon urges non-toxic pest control.
+// Story 11: Londonderry legal bills
+[ava] And in Londonderry, the dispute with former Town Manager Shaun Mulholland is getting expensive. The Union Leader reports the town spent about eighty thousand dollars, forty percent of this year's legal budget, in the first quarter alone, not counting at least one private investigation, after blowing past last year's two-hundred-thousand-dollar legal budget by nearly eighty-five percent. The town says findings of the misconduct probe will come out in early November, after a November twelfth court hearing on releasing them.
+> source: WMUR, "Bald eagle dies after eating poisoned rodent" (Oct 24); Union Leader, "Londonderry won't release Mulholland misconduct probe findings until November" (Oct 20)
+
+## Uplifting Story | sting=feel
+[ava] And finally, lights out for the birds. On Corvo, a tiny island in Portugal's Azores, residents switched off their lights for five nights so young Cory's shearwaters could find their way to the sea on their first flight, instead of crashing into bright village streets. Volunteers also check nests and rescue grounded chicks, releasing them from the clifftops. Since twenty fifteen, more than thirty thousand fledglings have been saved across the islands, about six thousand on Corvo alone. Marine biologist Tânia Pipa of the Portuguese bird society leads the rescue effort.
+> source: The Guardian, "Lights out: the island that goes dark to save young seabirds" (Oct 25); SPEA, "Corvo island turns out the lights to protect seabirds"; Good News of the Day (Oct 26)
+
+## Close | sting=close
+[ava] Coming up tomorrow: Israel votes, the California ballot case is back in court, and Boeing and Coca-Cola report earnings. That's your ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Have a good Monday.
+[ava] Ask your Gumshoe for more on any story.
