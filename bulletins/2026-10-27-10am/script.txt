@@ -1,0 +1,81 @@
+// Gumshoe script format: see README.md
+# title: Tuesday 10 AM Update, Oct 27
+# description: The Tuesday ten o'clock update from Gumshoe News Radio for October 27, 2026: conditions around Londonderry through tomorrow morning; the Justice Department's third attempt to charge James Comey, today's California ballot hearing, and a manhunt for an escaped Tennessee inmate; record turnout in Israel's election, the Oleshky truce extended to Sunday, and Iran's ask for a two-week pause; markets as Boeing posts a loss, Coca-Cola beats and consumer confidence lands; Apple's M6 MacBook Pro and iMac, iPhone Duo screen complaints and Intel's quantum buy; OpenAI's cheaper GPT-6.1 Terra, an Anthropic claim on a famous math conjecture, and a $63 billion chip financing deal; urgent iPhone updates for older models, a patched Microsoft Authenticator flaw and Tailscale's pending fix; your X feed; federal election monitors in Manchester and Nashua and trick-or-treat times; and an 86-year-old Texan's dream boat. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's ten o'clock on Tuesday, October twenty-seventh, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Stocks opened mostly higher on one of the busiest earnings days of the season, and Boeing is in the red. I'll have it all.
+[ava] First, conditions around Londonderry, New Hampshire, through this time tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Oct 27 at airtime
+
+## US News | sting=us
+// Story 1: Comey third prosecution attempt
+[ava] We start with James Comey. Court records unsealed Monday show the Justice Department moved earlier this month to charge the former F.B.I. director a third time, with two counts under the Espionage Act. Prosecutors allege that in twenty sixteen Comey directed staff to share national defense information with a New York Times reporter for a story about Yahoo and email surveillance. Instead of going to a grand jury, the department filed what's called a criminal information, which it says preserves the ten-year statute of limitations, and it calls that a widely recognized practice. Comey's lawyer, Patrick Fitzgerald, says he committed no crime and notes the matter was investigated twice during the first Trump administration with no charges. Some former federal prosecutors called the move highly unusual. Comey has offered to surrender, and the judge has not ruled on the merits.
+// Story 2: California ballot hearing today
+[ava] In California, Judge David Carter hears arguments at one o'clock Pacific time on the Justice Department's request to set aside mail ballots from about twenty thousand voters it calls likely noncitizens. The department argues every ballot processed without a check can't be undone. The state and Los Angeles County challenge how the federal list was built and say changing procedures mid-election would be disruptive. Carter has promised a prompt ruling.
+// Story 3: Tennessee escape
+[ava] And in Tennessee, a manhunt is on for Jacob Morley, twenty-eight, who is serving a life sentence for killing a co-worker. Officials say he slipped through the perimeter fence of a prison in Tiptonville late Sunday and stole a white Ford F-three-fifty pickup early Monday. There's a reward of up to twenty-five hundred dollars, and authorities say not to approach him.
+> source: CBS News, "DOJ takes steps to charge James Comey again" (Oct 27); AP and BBC (Oct 26-27); Democracy Docket (Oct 27); U.S. v. California docket, C.D. Cal.; Tennessee Department of Correction; CBS/AP and The Guardian on the Tennessee escape (Oct 27)
+
+## International | sting=world
+// Story 4: Israel turnout
+[ava] Overseas, Israel's election is drawing the strongest turnout in decades. By two in the afternoon local time, nearly forty-five percent of eligible voters had cast ballots, six points ahead of the last election at that hour, and the highest at that point since the nineteen-seventies, according to the Central Elections Committee. Exit polls come at four this afternoon, our time, but with up to six hundred fifty thousand special ballots, final results could take until Thursday.
+// Story 5: Oleshky truce and Nordic call
+[ava] In Ukraine, the local ceasefire in occupied Oleshky is holding, and it's set to last until late Sunday night. Separately, Finland's president and Norway's prime minister held a rare ninety-minute call with Vladimir Putin, calling it substantive but saying significant differences remain. Denmark's prime minister said she was very skeptical of the outreach.
+// Story 6: Iran's two-week pause request
+[ava] On Iran, The National reports that in Monday's Tehran talks, Iran asked Saudi Arabia, Pakistan and Turkey to persuade Washington to accept a two-week regional pause in exchange for gradually reopening the Strait of Hormuz. That's a report from unnamed sources, not an announced proposal. The sticking point remains the order of steps: Iran says the U.S. naval blockade must lift first, while Washington reportedly wants the strait reopened first.
+> source: Israel Central Elections Committee via CNN, The New York Times and AP live coverage (Oct 27); Ynet (Oct 27); The Guardian Europe live (Oct 27); Kremlin readout (Oct 27); The National (Oct 27); Al Jazeera (Oct 27); Amwaj.media (Oct 27)
+
+## Markets | sting=markets
+[andrew] Markets. At the open, the S and P five hundred rose about three-tenths of a percent and the Nasdaq about six-tenths, while the Dow was roughly flat. Chips are leading again.
+[andrew] Earnings: Boeing posted a third-quarter loss of twenty-six cents a share on a reported basis, wider than expected on the adjusted measure, even though revenue rose four percent to about twenty-four point two billion dollars. Its commercial jet unit lost nearly seven hundred million dollars, as the company keeps spending to raise 737 output toward forty-seven a month. Coca-Cola beat forecasts and raised its outlook, with case volume up five percent, but the stock is little changed. Royal Caribbean jumped about five percent before the bell on a beat, and Corning climbed about three percent on strong optical-networking sales.
+[andrew] Broadcom is up about three and a half percent, helped by an analyst upgrade and a sixty-three-billion-dollar financing deal, more in a moment.
+[andrew] Data: the Conference Board's October consumer confidence reading was due at ten, with economists expecting about eighty-one, near September's eighty-one point nine, which was the lowest since twenty fourteen. New home sales are also out this morning.
+[andrew] Rates and commodities: the ten-year yield is just under five percent, U.S. crude is easing to around a hundred one dollars, gold is near four thousand forty, and Bitcoin is around eighty thousand. After the close, Visa and Robinhood report; tomorrow, Microsoft and Alphabet, and the Fed's decision, where futures put the odds of another hike below ten percent.
+> source: Reuters (Oct 27 open); Investor's Business Daily live coverage (Oct 27, 9:44 AM ET); Charles Schwab market update (Oct 27, 9:12 AM ET); Boeing third-quarter results release (Oct 27); CNBC on Boeing earnings (Oct 27); Conference Board; Jolt Journal consumer confidence preview; CME FedWatch
+
+## Technology | sting=tech
+// Story 7: Apple M6 Macs, iPhone Duo screens, Intel-Classiq
+[andrew] Tech. Apple put its new M6 chip into the fourteen-inch MacBook Pro, starting at nineteen ninety-nine, and the twenty-four-inch iMac, starting at fourteen ninety-nine. Prices are unchanged, and both arrive November sixth. Apple is also responding to reports of inner screens cracking on its two-thousand-dollar foldable iPhone Duo. It says a very small number of units are affected and owners should contact AppleCare for a replacement.
+[andrew] And Intel agreed to buy Classiq, a Tel Aviv quantum computing software company, in a deal reported at about two point two to two point three billion dollars, to build a full quantum computing business.
+> source: Apple announcements via Techmeme (Oct 27); Bloomberg and MacRumors on iPhone Duo display reports, via Techmeme; Intel-Classiq reports via Techmeme (Oct 27)
+
+## Artificial Intelligence | sting=ai
+// Story 8: GPT-6.1 Terra
+[andrew] In A.I., OpenAI released GPT-6.1 Terra, a faster, cheaper mid-tier model aimed at using a computer the way a person does, clicking through apps to get work done. It's priced at a dollar per million input tokens and five dollars per million output, half the price of the previous Terra.
+// Story 9: Claude ETH claim; Anthropic financing
+[andrew] An update on that claimed disproof of the Exponential Time Hypothesis: an Anthropic mathematician has posted a paper saying an internal Claude research model independently found the same core algorithm on October sixteenth. That's a claim, not a verified result, and OpenAI's proof is still under independent review by outside mathematicians.
+[andrew] And Reuters reports Wall Street banks and Blackstone have lined up about sixty-three billion dollars in financing for Broadcom chips destined for Anthropic. The Wall Street Journal says Broadcom's chief executive, Hock Tan, stepped in personally to get the deal done. It's a sign of how much borrowed money is now flowing into A.I. computing, which some investors see as a risk if demand cools.
+> source: OpenAI GPT-6.1 Terra announcement via Techmeme (Oct 27); Levent Alpöge (@__alpoge__) via Techmeme (Oct 27); Reuters on the $63 billion Broadcom-Anthropic chip financing (Oct 27); The Wall Street Journal on Hock Tan (Oct 27)
+
+## Cybersecurity | sting=cyber
+// Story 10: Apple backport for older iPhones
+[ava] Cyber desk. If someone in your family uses an older iPhone, like an X S or X R, or a seventh-generation iPad, update it now. Apple released iOS eighteen point seven point eleven to fix a flaw in how the phone processes images that may already have been used in targeted attacks. Newer iPhones got this fix earlier.
+// Story 11: Microsoft Authenticator AuthMask
+[ava] Researchers at the firm Enclave detailed a flaw they call AuthMask in Microsoft Authenticator for Android. It let any app, even one with no permissions, pose as Teams or Outlook and walk away with sign-in tokens for a work account. Microsoft fixed it in September and says it wasn't exploited, so just make sure Authenticator is up to date.
+// Story 12: Tailscale fix pending
+[ava] And on the Tailworm flaws in Tailscale: Tailscale has merged the fixes and is targeting a release by the end of today, but the latest version out right now doesn't include them yet.
+> source: BleepingComputer, Apple backports CoreGraphics zero-day patch to older iPhones (Oct 27); Enclave, "AuthMask: We Made Microsoft Authenticator Hand Over Tokens to an App With Zero Permissions"; The Hacker News, "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens" (Oct 27); Tailscale releases on GitHub (Oct 27)
+
+## From Your X Feed | sting=x
+[ava] From your X feed this morning.
+[ava] Variety reports that Susan Saint James, the Emmy winner from McMillan and Wife and Kate and Allie, has died at eighty after a pancreatic cancer diagnosis.
+[andrew] For car people, Autoblog says federal regulators have opened a probe into Ford's seven-point-three-liter Godzilla V8, covering nearly fifty-five thousand vehicles.
+[ava] PenguinSix notes that after a billion-dollar renovation, the National Air and Space Museum's last two halls reopen, one this Friday and the other on Veterans Day.
+[andrew] And a fun one from Engineers Feed: Mars's moon Phobos circles the planet so fast, about every seven and a half hours, that from the surface you'd see it rise in the west and set in the east.
+> source: Harry's X home timeline Oct 27 ~7:00-10:05 AM ET (@Variety, @therealautoblog, @PenguinSix, @engineers_feed)
+
+## Local News & Events | sting=local
+[ava] Closer to home, New Hampshire Secretary of State Dave Scanlan says federal election monitors are expected at polling places in Manchester and Nashua on Election Day, part of the Justice Department's plan to send about a thousand monitors nationwide. Scanlan says monitors were there for the primary without issue and he expects none now. Monitors have to observe from outside the taped-off voting area.
+[ava] And for Saturday night, trick-or-treat listings put Londonderry at six to eight, Derry at six to seven-thirty and Windham at five-thirty to seven-thirty. The town's official schedule wasn't posted yet, so double-check before heading out.
+> source: WMUR, "Federal election monitors to observe midterm polling in Manchester, Nashua" (Oct 27); New Hampshire Magazine, "NH Trick or Treat Times and Halloween Events for 2026"; FrightMaps NH trick-or-treat times; SNH Vibe trick-or-treat listings
+
+## Uplifting Story | sting=feel
+[ava] And finally, a dream nearly forty years in the making. Dale, an eighty-six-year-old in Mineral Wells, Texas, has been building a sixty-two-foot steel boat in his yard since nineteen eighty-seven, hoping to sail it to Alaska. When three visitors heard his story, content creator Laurence Benson and friends started a GoFundMe. Within days, more than fifteen hundred strangers had given over forty-one thousand dollars toward the forty-five-thousand-dollar goal of finishing it.
+> source: MediaFeed via AOL, "7 feel-good stories to start your Monday" (Oct 26); GoFundMe campaign by Laurence Benson
+
+## Close | sting=close
+[ava] That's your ten o'clock update. Coming up: Judge Carter's hearing this afternoon and Israel's exit polls at four. I'm Ava.
+[andrew] And I'm Andrew. Enjoy the sunshine.
+[ava] Ask your Gumshoe for more on any story.
