@@ -1,0 +1,81 @@
+// Gumshoe script format: see README.md
+# title: Tuesday Morning, Oct 27
+# description: The Tuesday morning bulletin from Gumshoe News Radio for October 27, 2026: the full Londonderry forecast with the week ahead; the California ballot fight returns to a district judge today as the Justice Department asks Washington state to hold 405 ballots, a 15-year-old charged in the Florida A&M shooting, and Star Trek's Walter Koenig dies at 90; Israelis vote in record early numbers, a one-town ceasefire takes hold in Ukraine's Oleshky, and Pakistan carries a new proposal to Tehran; markets in depth as the Fed meets and Boeing and Coca-Cola report; Meta's record stock sale with Nvidia buying in; what Anthropic's IPO filing reveals and OpenAI's unverified claim to have broken a famous computer-science conjecture; CISA's PHP2Shell deadline, the Tailworm flaws in Tailscale, and Australia's takedown of a 180,000-computer malware network; your X feed; Halloween week around Londonderry; and the retired pilot who helped save Neil Armstrong's boyhood home. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Tuesday, October twenty-seventh, and this is Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. The Fed starts its two-day meeting today, and earnings are pouring in. I'll have it all.
+[ava] First, the full forecast for Londonderry, New Hampshire, with the week ahead.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Oct 27 at airtime
+
+## US News | sting=us
+// Story 1: California ballots back to Judge Carter; Washington letter
+[ava] We start with the fight over California mail ballots. Late Monday, a Ninth Circuit panel voted two to one to dismiss the Justice Department's emergency appeal, without ruling on the merits. The majority said the department hadn't given the trial judge, David Carter, a fair chance to act before appealing. So the case goes back to Judge Carter today, when he hears arguments on the department's request to set aside ballots from about twenty thousand voters it calls likely noncitizens. He's promised to rule promptly.
+[ava] Meanwhile, the department sent Washington state a letter asking it to set aside ballots from four hundred five voters it says may be noncitizens. It's a request, not a lawsuit; the state is reviewing it and questions the federal data, while the administration says it's protecting the vote.
+// Story 2: FAMU shooting arrest
+[ava] In Tallahassee, police have arrested a fifteen-year-old, Anthony Rivers the Third, in the shooting near Florida A and M's stadium after Saturday's homecoming game. He faces eleven counts of attempted second-degree murder, and prosecutors want to charge him as an adult. Police say a fight came first and the victims weren't the intended targets. Eleven people were wounded, including children, and one remains in critical condition.
+// Story 3: Walter Koenig
+[ava] And Walter Koenig, who played Ensign Pavel Chekov on the original Star Trek and in seven Star Trek films, has died at ninety. His family says he died of natural causes at his North Hollywood home on Sunday.
+> source: Ninth Circuit order, U.S. v. California, No. 26-7070 (Oct 26); AP, "Appeals court won't rule on federal bid to set aside California ballots" (Oct 26); Democracy Docket (Oct 27); AP and NBC News on the Justice Department's Washington letter (Oct 26); KIRO 7 (Oct 26); AP, "Teen charged in Florida A&M shooting" (Oct 26); Tallahassee Democrat and ABC News (Oct 26); AP, NPR and BBC on Walter Koenig (Oct 26)
+
+## International | sting=world
+// Story 4: Israel votes
+[ava] Overseas, Israelis are voting today in their first national election since the October seventh attacks. Turnout by ten in the morning, local time, was sixteen point seven percent, the highest at that hour since at least nineteen ninety-six. The race is between Prime Minister Benjamin Netanyahu's Likud and former military chief Gadi Eisenkot's Yashar party, with final forecasts giving Yashar a slight edge. Polls close at four this afternoon, our time, with exit polls right after. But no party has ever won a majority on its own, so forming a government could take weeks, and if no one can, Israel votes again.
+// Story 5: Oleshky ceasefire
+[ava] In Ukraine, a local ceasefire took effect at three this morning, Kyiv time, in the Russian-occupied town of Oleshky, where up to two thousand residents are trapped amid mines and drone strikes. First Lady Melania Trump's office says she brokered the talks between civilian negotiators. The pause is meant to let in food, medicine and water, then evacuate civilians, and both sides say it's holding. Fighting went on elsewhere, though: the AP says attacks on Kyiv and Kharkiv killed three people.
+// Story 6: Iran diplomacy
+[ava] On Iran, after Monday's four-way talks in Tehran ended with a promise to keep talking, a senior Pakistani official tells Reuters that Pakistan's army chief, with President Trump's blessing, presented Iran with a proposal meant to offer something to both sides, with Saudi Arabia, Turkey, Pakistan and Qatar as possible guarantors. No details were given. Iran's Foreign Ministry, though, says Washington isn't serious about negotiating. And the Saudi-led coalition says it shot down three Houthi ballistic missiles aimed at Saudi Arabia's Eastern Province overnight, with no casualties.
+> source: AP, "Voters in Israel are deciding whether to oust Netanyahu after 3 years of war" (Oct 27); NBC News live updates citing Israel's Central Elections Committee (Oct 27, 6:42 AM ET); Axios (Oct 27); AP explainer on Israel's results timeline; AP, "Localized ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin and Zelenskyy" (Oct 27); NBC News, CNN and BBC on Oleshky (Oct 27); Al Jazeera and Reuters, "Iran, Saudi, Turkiye and Pakistan agree to more talks amid Houthi attacks" (Oct 27); Al Jazeera live blog (Oct 27)
+
+## Markets | sting=markets
+[andrew] Markets, in depth. Futures are close to flat after Monday's rally: Dow futures up about two-tenths of a percent, S and P futures up a tenth, Nasdaq futures up about two-tenths.
+[andrew] Early earnings movers: U.P.S. is up more than one percent after beating third-quarter expectations. JetBlue is up about seven percent despite a bigger-than-expected loss, after falling twelve percent yesterday. Whirlpool is down about eight percent after a surprise loss and a guidance cut, and Celestica jumped about seventeen percent overnight after beating and raising its outlook.
+[andrew] Still to come before the bell: Coca-Cola, Boeing, PayPal, Royal Caribbean, H.C.A., Sherwin-Williams and Corning. After the close, Visa and Robinhood. Today's data includes consumer confidence, durable-goods orders and home prices.
+[andrew] Rates and commodities: the ten-year Treasury yield is just under five percent, and the dollar is near a two-week high. Brent crude is around a hundred sixteen dollars, near its highest since late April, with U.S. crude near a hundred two. Gold is slipping to right around four thousand dollars, and Bitcoin is near seventy-nine thousand seven hundred.
+[andrew] The big picture: the Fed begins its meeting today and is widely expected to hold rates tomorrow after September's hike. But Reuters notes markets are pricing at least two more hikes by the middle of next year, with inflation running hot during the Iran conflict. Bulls see strong earnings and A.I. demand; bears see higher rates and oil squeezing consumers.
+> source: Reuters via Investing.com, "US stock futures muted as oil holds near April highs ahead of Fed decision" (Oct 27, 5:53 AM ET); CNBC live updates (Oct 27, 6:48 AM ET); CNBC market close (Oct 26); WSJ, "Fed Meeting, More Tech Earnings: What to Watch This Week" (Oct 27); Benzinga (Oct 27); TipRanks (Oct 27); CNBC on gold (Oct 27); FXStreet (Oct 27); AP, "5 things to watch from the Federal Reserve's next meeting" (Oct 26)
+
+## Technology | sting=tech
+// Story 7: Meta's record stock sale, Nvidia
+[andrew] Tech. Meta has raised the size of its stock sale to as much as ninety-seven and a half billion dollars, the largest equity fundraising in its history, to pay for A.I. data centers. It includes a twenty-five-billion-dollar share offering and a sixty-billion-dollar program to sell shares gradually over time. Nvidia will invest three billion dollars in the offering as part of an expanded partnership on Meta's Muse A.I. assistant and models, with Meta adding more Nvidia chips and networking gear. Supporters say Meta is funding growth without piling on debt; skeptics note that selling new shares dilutes existing owners and raises the bar for A.I. spending to pay off.
+> source: Reuters via Investing.com, "Nvidia, Meta partner on Muse agent as Nvidia invests $3 billion" (Oct 27); NVIDIA Newsroom (Oct 27); Business Standard (Oct 27); The Wall Street Journal (Oct 27)
+
+## Artificial Intelligence | sting=ai
+// Story 8: Anthropic S-1 details
+[andrew] In A.I., we now have a first full look inside Anthropic, from its I.P.O. filing. Revenue in the first half of this year was about sixteen point three billion dollars, roughly thirteen times a year earlier. On paper, Anthropic lost about eighty billion dollars over those six months, but most of that was a non-cash accounting charge tied to its convertible notes; Fortune calculates adjusted operating income of about one point six billion. It holds about a hundred twenty-two billion dollars in cash and short-term investments. The big caution: roughly six hundred thirty billion dollars in computing contracts, about seventy percent of them non-cancellable, so those costs are locked in whether or not sales keep soaring. Shares could trade on the Nasdaq under the ticker A N T as early as mid-November.
+// Story 9: OpenAI's unverified ETH claim
+[andrew] And OpenAI says its A.I. produced three major scientific results, the most eye-catching a claimed proof that the Exponential Time Hypothesis is false. That's a widely believed conjecture about how hard certain logic puzzles are to solve, and it underpins a lot of computer science. Treat it as unverified: an independent group of computer scientists, including two who first proposed the hypothesis in nineteen ninety-nine, will examine the proof, and OpenAI posted the materials publicly at their request.
+> source: Anthropic, PBC, Form S-1 (SEC, Oct 26); Fortune, "Anthropic's S-1, by the numbers" (Oct 27); AP, "Risks spelled out for Anthropic investors include possible harms from runaway AI" (Oct 26); OpenAI, "Working with academic communities to build scientific understanding" (Oct 26); The Verge, "OpenAI announces three big science discoveries and a new way to work with academics" (Oct 26)
+
+## Cybersecurity | sting=cyber
+// Story 10: PHP2Shell KEV
+[ava] Cyber desk. A quick update on PHP2Shell: the federal cyber agency, CISA, has added both flaws to its list of vulnerabilities being actively exploited and ordered federal agencies to patch by Thursday. If you run PHP, update now.
+// Story 11: Tailworm
+[ava] If you use Tailscale, the private networking app, take note. A researcher has published eleven issues, dubbed Tailworm, in Tailscale and the open-source headscale server. The main one lets someone who's already allowed to use Tailscale S.S.H. on a device escalate to full root control. That means an attacker needs a foothold first; it's not an open door from the internet. Tailscale calls the issues serious and says a fix is targeted within twenty-four hours, but as of this morning there's no patched release. Until then, review who your Tailscale S.S.H. rules allow in.
+// Story 12: Amadey takedown
+[ava] And Australia's signals intelligence agency says it got into the back end of an Amadey malware operation and cut the criminal off from about a hundred eighty thousand infected computers worldwide. Amadey steals passwords and personal data, often hidden in pirated software. The malware is still on those machines, but its operator lost control.
+> source: BleepingComputer, "CISA confirms PHP2Shell vulnerabilities now exploited in attacks" (Oct 27); The Hacker News (Oct 27); ThreatWire, "Tailworm Tailscale SSH and headscale flaws: what is confirmed, what is not" (Oct 27); The Hacker News on Tailscale's investigation page (Oct 27); Tailscale changelog; The Hacker News, "Australia Gets Into Amadey Malware Backend" (Oct 27); ABC News Australia (Oct 27)
+
+## From Your X Feed | sting=x
+[ava] From your X feed overnight.
+[ava] Variety reports that Noah Wyle, star of The Pitt, is People's Sexiest Man Alive for twenty twenty-six. He says he thought it was a prank.
+[andrew] Pictures Folder says John Cena is officially returning to W.W.E. Raw next week in Brooklyn.
+[ava] Variety also caught a sweet moment at the Nashville Songwriters Hall of Fame: Taylor Swift joked that she and Brad Paisley had been "estranged" since she put crickets in his tour bus in two thousand seven, but she'd let bygones be bygones after he introduced her at her induction.
+[andrew] And SpaceX launched another Falcon Nine from California overnight, putting twenty-seven Starlink satellites in orbit.
+> source: Harry's X home timeline Oct 27 ~1:00-6:55 AM ET (@Variety, @PicturesFoIder, @SpaceX)
+
+## Local News & Events | sting=local
+[ava] Closer to home, Londonderry firefighters were called to an industrial park for a smoking, overheating lithium-ion battery in a forklift. W.M.U.R. reports crews isolated it and a hazardous-materials team dealt with it.
+[ava] The election is one week from today. Arizona Senator Mark Kelly campaigns across southern New Hampshire tomorrow with Democrats including Senate nominee Chris Pappas, with stops in Manchester, Nashua, Concord, Rochester and Hudson.
+[ava] And it's Halloween week. Leach Library's free Jack-O'-Lantern Jamboree for little ones, with a story, costume parade and treat bags, is this morning from ten to ten-thirty and again tomorrow at four. The Granite Y on Rockingham Road holds its free Halloween Spooktacular tomorrow from five-thirty to seven, registration required. Carriage Shack Farm has Halloween Glow Nights Friday from five-thirty to eight-thirty. And if you were eyeing Saturday's Beetlejuice double feature at the library, it's now fully booked.
+> source: WMUR, "Fire crews called for overheating lithium-ion battery" (Oct 26); WMUR, "Sen. Mark Kelly to campaign in NH with state Democrats" (Oct 27); Leach Library events calendar (Oct 27, 28, 31); The Granite YMCA events; Carriage Shack Farm events
+
+## Uplifting Story | sting=feel
+[ava] And finally, a nine-year-old's moon-landing memory, paid forward. Ken Schreiber watched Neil Armstrong walk on the moon in nineteen sixty-nine and went on to fly fighter jets for the Air Force and then jets for American Airlines. Now retired, he donated four hundred thousand dollars so the Auglaize County Historical Society could buy Armstrong's boyhood home in Wapakoneta, Ohio. The society plans to restore it to how it looked in the nineteen-forties and open it for tours by twenty thirty, Armstrong's hundredth birthday.
+> source: People, "Man Who Watched Neil Armstrong Walk on the Moon When He Was 9 Spends $400,000 to Help Buy Astronaut's Childhood Home"; AP, "Historical society to restore Neil Armstrong's boyhood home and provide tours"; Los Angeles Times (Oct 19)
+
+## Close | sting=close
+[ava] One more thing: on this day in nineteen-oh-four, New York City's first subway line opened. That's your Tuesday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. Watch for Israel's exit polls this afternoon.
+[ava] Ask your Gumshoe for more on any story.
