@@ -1,0 +1,76 @@
+// Gumshoe script format: see README.md
+# title: Tuesday 1 PM Update, Oct 27
+# description: The Tuesday one o'clock update from Gumshoe News Radio for October 27, 2026: conditions around Londonderry through tomorrow afternoon; a judge rebukes prosecutors in the case against two former F.B.I. officials, and President Trump campaigns in Texas as the Iran war weighs on the midterms; Israel's exit polls due at four, Qatar presses Iran on Hormuz, and the search in Nairobi; midday markets as A.I. stocks lead, consumer confidence jumps and GM moves to the Nasdaq; Apple's A.I. assistant for Keynote and Pages, Oracle and OpenAI, and laptops from Anduril and Qualcomm; Google's Genie 4 and Anthropic's margins; the F.C.C.'s warning to TP-Link and ads used to track Starlink users; your X feed; a Manchester investigation and next week's election; and an 85-year-old and an 11-year-old who make greeting cards together. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's one o'clock on Tuesday, October twenty-seventh, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. A.I. stocks are carrying the market again, and shoppers are feeling a lot better than economists expected. I'll have the numbers.
+[ava] First, conditions around Londonderry, New Hampshire, through this time tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Oct 27 at airtime
+
+## US News | sting=us
+// Story 1: Judge rebukes prosecutors in ex-FBI officials case
+[ava] We start in a Washington courtroom, where a federal magistrate judge sharply criticized prosecutors in the case against two former F.B.I. officials, Nikki Floris and Bradley Benavides. They're accused of making false statements to the House Judiciary Committee in twenty twenty-three about their roles in the investigations of Hunter Biden. Early this morning, hours before a scheduled preliminary hearing, the U.S. Attorney's office in Washington filed a new complaint adding an obstruction charge, with the judge's name typed in but not signed. Judge Zia Faruqui said he would not bless it, and asked why prosecutors had changed, quote, the entire history of how you charge cases. Floris's lawyers called the new filing legally deficient and made in bad faith. Prosecutors maintain the two misled Congress; the original charges stand while the court sorts out the new one.
+// Story 2: Trump in Texas; Iran war and the midterms
+[ava] On the campaign trail, President Trump is in Texas today, with stops in Corpus Christi and Lubbock, backing Ken Paxton in a close Senate race against Democrat James Talarico. Secretary of State Marco Rubio is with him to show off a tanker of Venezuelan crude headed for Texas refineries. The A.P. reports Republican strategists privately worry the eight-month war with Iran, and the gas prices that came with it, are hurting the party a week before the election. Republicans counter that their energy policies would bring prices down faster than Democrats', and the president has called the war a little detour. An A.P.-NORC poll last week found voters in both parties want Congress focused on affordability and ending the war.
+> source: CNBC, "Judge blasts prosecutors, refuses to sign new criminal complaint against ex-FBI officials" (Oct 27, 11:19 AM ET); AP, "Judge scolds prosecutors over case against ex-FBI officials" (Oct 27); CBS News (Oct 27); AP, "Trump heads back to Texas for high-stakes push to keep the state in GOP hands" (Oct 27); AP News Summary at 11:33 a.m. EDT (Oct 27); AP live updates (Oct 27)
+
+## International | sting=world
+// Story 3: Israel exit polls ahead
+[ava] Overseas, Israel's polls close at four o'clock our time, with exit polls from the three main TV networks right after. The final pre-election polls showed a deadlock: Gadi Eisenkot's centrist Yashar party narrowly ahead of Benjamin Netanyahu's Likud, and neither bloc near the sixty-one seats needed to govern. Several parties alleged irregularities at polling stations this morning, but the Central Elections Committee says it has seen no evidence of systematic tampering. Soldiers' ballots won't start being counted until Wednesday, which could give right-wing parties a late lift, so treat tonight's exit polls as a first read, not the result.
+// Story 4: Qatar presses Iran; China envoy
+[ava] On Iran, Qatar, one of the main mediators with Washington, said today that Tehran needs to show good intentions by reopening the Strait of Hormuz and stopping threats against Gulf states. China says it will send an envoy to the region soon to help head off another round of fighting. Iran is still insisting on an end to the U.S. naval blockade, sanctions relief and guarantees against new attacks, while Washington wants nuclear concessions first. A five-day, step-by-step plan from mediators remains stuck on who moves first.
+// Story 5: Nairobi building collapse
+[ava] And in Kenya, twenty people are still unaccounted for, four days after a multi-story building collapsed in Nairobi's Eastleigh neighborhood. Police are tracing phone signals to help find them, and rescuers are still working through the rubble.
+> source: AP, "The Latest: Israelis vote in a tense election seen as a referendum on Netanyahu" (Oct 27); BBC (Oct 27); The Times of Israel on final polls (Oct 23); Reuters via The Jerusalem Post, "Qatar urges Iran to reopen Strait of Hormuz" (Oct 27); Al Jazeera, "Iran's calculations as US escalation looms" (Oct 27); TokenPost on the five-day plan (Oct 27); The Star (Kenya), "Eastleigh building collapse: 20 people still missing" (Oct 27); AP (Oct 26)
+
+## Markets | sting=markets
+[andrew] Markets at midday. The S and P five hundred is up about seven-tenths of a percent, within about one percent of its record, the Nasdaq is up about one point three percent, and the Dow is up roughly a hundred points. But it's a narrow rally: most stocks in the S and P are actually down, with A.I. names doing the heavy lifting. CoreWeave is up more than five percent.
+[andrew] The big surprise was consumer confidence. The Conference Board's index jumped to ninety-one point seven, from eighty-four point two in September, against forecasts around eighty-one. Easing gas prices helped, though people still plan to spend less on services and big-ticket items over the next six months. Separately, home prices were up two point one percent over the year through August.
+[andrew] Movers: General Motors jumped more than six percent after saying it will move its listing from the New York Stock Exchange, where it's traded since nineteen eleven, to the Nasdaq on November seventeenth. The ticker stays G M, and the move makes it eligible for the Nasdaq one hundred. PayPal's revenue missed estimates, but it raised its full-year profit outlook.
+[andrew] Oil is lower on hopes for Middle East talks: U.S. crude is down about one and a half percent to just above a hundred dollars, and Brent is near a hundred nine. The Fed decides tomorrow; it's expected to hold, but traders are pricing in a hike in December. After the close today, Visa and Robinhood report.
+> source: AP, "Broadcom and other AI stocks lift Wall Street closer to its record" (Oct 27, noon ET); The Wall Street Journal live coverage (Oct 27, 11:48 AM and 12:00 PM ET); Conference Board via WSJ and Dow Jones (Oct 27); Reuters via Euronext (Oct 27); General Motors release and CNBC (Oct 27); The Wall Street Journal on PayPal results (Oct 27)
+
+## Technology | sting=tech
+// Story 6: Apple AI assistant in iWork; Oracle-OpenAI; Anduril-Qualcomm laptops
+[andrew] Tech. Apple added a beta A.I. assistant to Keynote, Pages, Numbers and Logic Pro, built on both Apple's and OpenAI's models. The first three also now support M C P, the standard that lets outside A.I. tools work inside apps.
+[andrew] Oracle is adding ChatGPT and Codex to its business software, and expanding its cloud with Google's T P U chips, OpenAI's own chip, code-named Jalapeño, and hardware from Cerebras.
+[andrew] And Anduril and Qualcomm unveiled BlueChip, a line of laptops designed and assembled in the U.S. for defense and government buyers. Orders open in twenty twenty-seven.
+> source: The Verge, Apple AI assistant in Keynote, Pages, Numbers and Logic Pro (Oct 27); CNBC, Oracle adds ChatGPT and Codex (Oct 27); Bloomberg, Anduril and Qualcomm unveil BlueChip (Oct 27), via Techmeme
+
+## Artificial Intelligence | sting=ai
+// Story 7: Google Genie 4
+[andrew] In A.I., Google launched Genie 4, a so-called world model that generates interactive, explorable simulations. It's powered by Gemini three point eight Flash, which watches the scene, breaks a task into steps and checks whether each one worked. For now it's a preview for trusted testers only.
+// Story 8: Anthropic margins
+[andrew] And one more number from Anthropic's I.P.O. filing that's getting attention: The Information reports it shows an eighty-five percent gross margin in the first half of the year on running its models. That's a counterpoint to skeptics who said selling A.I. by usage couldn't be profitable, though the company still reported a large overall net loss, mostly tied to accounting for its convertible notes.
+> source: The Verge, "Google launches Genie 4" (Oct 27); The Information on Anthropic's S-1 gross margin (Oct 27); Bloomberg and Financial Times on the S-1 net loss (Oct 26)
+
+## Cybersecurity | sting=cyber
+// Story 9: FCC warns TP-Link
+[ava] Cyber desk, and this one's relevant to home networks. The F.C.C. has warned TP-Link that three of its router models exceeded approved power limits in testing, and that the company may have submitted false or incorrect information in getting four models authorized. TP-Link has until Friday to respond. It's the latest step against the company, and it could lay groundwork for further bans. Nothing changes yet for routers already in homes.
+// Story 10: Ads used to track Starlink users
+[ava] And researchers at Trend Micro say an ad-tech company bid on Starlink users' ad slots far more than usual, in more than a hundred countries, harvesting location and device data that could be used to track people. Reuters sources identify the company as Israel's Discover-Tech. Those are allegations from unnamed sources; the takeaway is that ordinary online ads can leak where you are.
+> source: Bloomberg, "FCC Warns TP-Link Its Routers Breach Power Limits in Latest Snub" (Oct 27); Reuters, "Exclusive: Alleged Israeli spy company heavily targeted Starlink users, sources say" (Oct 27); TrendAI, "Invasive Ads: The Unconventional Cyber Surveillance Attack Surface"
+
+## From Your X Feed | sting=x
+[ava] From your X feed this past hour.
+[ava] Variety posted the final trailer for Dune Part Three, Denis Villeneuve's trilogy finale, with new looks at Timothée Chalamet, Zendaya, Florence Pugh, Anya Taylor-Joy and Robert Pattinson.
+[andrew] Semafor reports the Federal Trade Commission told uniform company Cintas it will sue to block its five-billion-dollar bid for rival UniFirst.
+[andrew] Trung Phan ran the numbers on revenue per employee: by his tally, Anthropic comes in around six point six million dollars a head, behind only OnlyFans and ahead of AppLovin and Nvidia.
+[ava] And from the twenty-five-years-ago account: in late twenty-oh-one, Oracle's Larry Ellison offered to donate software for a national facial recognition database, and drew heavy public criticism for it.
+> source: Harry's X home timeline Oct 27 ~12:30-1:02 PM ET (@Variety, @semafor, @TrungTPhan, @25YearsAgoLive)
+
+## Local News & Events | sting=local
+[ava] Closer to home, in Manchester, police and the state Attorney General's office are investigating the suspicious deaths of a man and a woman at a home on Wheelock Street. Police were called this morning on a report of a domestic dispute. An eight-year-old was also found with an injury that's not believed to be life-threatening. Names haven't been released, and police say there's no danger to the public.
+[ava] And a reminder: Election Day is one week from today, Tuesday, November third. Check the town's website for Londonderry polling hours.
+> source: WMUR, "Suspicious deaths of man, woman under investigation" (Oct 27, 12:41 PM ET)
+
+## Uplifting Story | sting=feel
+[ava] And finally, a friendship built on art. In Lansing, Michigan, eleven-year-old Riley Haughey draws colorful animals she calls Riley's Critters. Her eighty-five-year-old former backyard neighbor, Tony Klain, scans and prints them as greeting cards to help pay for her dance classes, always keeping her signature, a paw print shaped like a heart. Tony learned the craft turning his late wife's journal drawings into calendars. He says it makes his day every time.
+> source: InvestigateTV, "An intergenerational duo teams up to make greeting cards" (Oct 27)
+
+## Close | sting=close
+[ava] That's your one o'clock update. Coming up: Judge Carter's California ballot hearing at four our time, Israel's exit polls, and the closing bell. I'm Ava.
+[andrew] And I'm Andrew. See you at four.
+[ava] Ask your Gumshoe for more on any story.
