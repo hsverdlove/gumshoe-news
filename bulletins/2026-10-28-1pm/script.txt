@@ -1,0 +1,73 @@
+// Gumshoe script format: see README.md
+# title: Wednesday 1 PM Update, Oct 28
+# description: The Wednesday one o'clock update from Gumshoe News Radio for October 28, 2026: conditions around Londonderry through tomorrow afternoon; a New York Times report on a spoiler-candidate effort in Alaska's Senate race, and felony charges against James O'Keefe and Cam Higby in Minnesota; the Spain train crash toll reaches 68 as the transport minister blames a control-center decision, Israel's soldiers' ballots, and an Egyptian court shutters Mada Masr; midday markets ahead of the Fed, with Genmab soaring on cancer-trial data; TikTok's new restaurant guide and Meta's delayed business terms; Anthropic's early drug-discovery results with Claude; a logic-only Microsoft Edge exploit explained; your X feed; Cory Booker's Friday visit and tonight's debates; and a soup kitchen that opened a free dental clinic. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's one o'clock on Wednesday, October twenty-eighth, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. Stocks are holding small gains with the Fed an hour away. I'll have the movers.
+[ava] First, conditions around Londonderry, New Hampshire, through this time tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Oct 28 at airtime
+
+## US News | sting=us
+// Story 1: Alaska spoiler report
+[ava] Top story. The New York Times reports that people working with Mary Peltola's Democratic Senate campaign in Alaska, along with senior aides at the Democratic Senatorial Campaign Committee, ran what they called a ballot composition project to recruit spoiler candidates, including a second, unrelated Dan Sullivan, to pull votes from Republican Senator Dan Sullivan. The paper cites interviews with twelve people, text messages, and documents prepared for a possible lawsuit. A key source, Peltola's former campaign manager Elisa Rios, who was fired in August, said Peltola wasn't directly involved but was aware; Rios later tried to retract her statements, and the Times says her account matched its other reporting. The Peltola campaign and the D.S.C.C. both deny recruiting any candidates, and the other Mr. Sullivan says he entered the race on his own. The Justice Department has already sued over his candidacy. Election Day is Tuesday.
+// Story 2: O'Keefe and Higby charges
+[ava] In Minnesota, Hennepin County Attorney Mary Moriarty charged conservative activists James O'Keefe and Cam Higby with felony unlawful voting and identity theft over hidden-camera videos from the August primary. Prosecutors say they gave poll workers the names of real registered voters while testing the state's voter-vouching law. Neither cast a ballot. Moriarty says starting the application under someone else's name is enough to break the law, and that probation is the likely penalty if convicted. Higby has said he was acting as a journalist testing the system, with no intent to commit fraud, and supporters call the case political payback. Secretary of State Steve Simon says the videos actually show the safeguards worked. Both are due in court in November.
+// California update
+[ava] And Judge David Carter's written order in the California ballot case still hadn't been posted as of this hour.
+> source: The New York Times, "Inside Democrats' Secret Effort to Stack Alaska's Ballot" (Oct 28); The Alaska Story (Oct 28); Just The News (Oct 28); CBS Minnesota, "2 activists face felony charges after filming themselves posing as Minnesota voters" (Oct 28); FOX 9 (Oct 28); Minnesota Star Tribune (Oct 28); CalMatters and ABC News on the Carter ruling timing (Oct 28)
+
+## International | sting=world
+// Story 3: Spain crash cause
+[ava] Overseas, the toll from this morning's high-speed train crash near Urda, Spain, now stands at sixty-eight, the country's worst rail disaster since twenty thirteen, with fifteen people in critical condition. Transport Minister Óscar Puente says a computer failure knocked out the line's automatic safety system and stopped both trains. The rail network's control center then took manual control and cleared the Renfe train to resume normal speed, even though the Iryo train was stopped ahead. Puente called that decision inexplicable. Police are questioning the controller involved. Puente acknowledged the safety-system failure but rejected calls to resign; critics note it's the second deadly crash on this line this year. Prime Minister Pedro Sánchez says the whole country is grieving.
+// Story 4: Israel ballots
+[ava] In Israel, the election committee now estimates up to four hundred eighty thousand soldiers', police and diplomats' ballots remain to be counted, worth around twelve seats, which could move the current tally of fifty-three seats for Netanyahu's bloc and forty-eight for Gadi Eisenkot's. The full count is due Thursday afternoon, with official results on November fourth.
+// Story 5: Mada Masr
+[ava] And in Egypt, a Cairo court ordered the closure of Mada Masr, one of the country's last independent news sites, and fined its editor, Lina Attalah, the maximum three million Egyptian pounds, about fifty-three thousand dollars, for running an unlicensed website. She was held for about seven hours until the fine was paid. Egypt's government says it's enforcing licensing law; press-freedom groups call it a crackdown. Mada Masr plans to appeal.
+> source: BBC News live coverage (Oct 28); The Guardian live blog (Oct 28); AP, "High-speed train crash in central Spain kills at least 68" (Oct 28); El País and ABC Spain on Puente's remarks (Oct 28); El Correo (Oct 28); The Times of Israel, Central Elections Committee estimate (Oct 28); Ynet (Oct 28); AP and BBC on Mada Masr (Oct 27); Mada Masr (Oct 27)
+
+## Markets | sting=markets
+[andrew] Markets at midday. The Dow is up about a hundred thirty points, roughly a quarter percent, the S and P five hundred is up about two-tenths and sits within one percent of its record, and the Nasdaq is about flat.
+[andrew] The big mover is Genmab, up about thirty percent after a late-stage trial of its head-and-neck cancer drug, petosemtamab, paired with Keytruda, cut the risk of death in half versus Keytruda alone at an early look. On the other side, Bicara Therapeutics, which works in the same area, is down more than forty percent, with no company news out; traders appear to be pricing in the tougher competition.
+[andrew] The Fed decides at two, with Chair Kevin Warsh speaking at two-thirty. A hold is expected after last month's hike; the question is whether he leaves the door open to another. Then Microsoft and Alphabet report after the bell.
+> source: Yahoo Finance live coverage (Oct 28, 12:37 PM ET); AP, "US stocks hold steady as the countdown ticks to a Federal Reserve decision" (Oct 28); StockTitan live blog (Oct 28, 12:01 PM ET); Genmab press release on LiGeR-HN1 (Oct 28); RTTNews (Oct 28)
+
+## Technology | sting=tech
+// Story 6: TikTok Must Eat
+[andrew] Tech. TikTok launched Must Eat, a restaurant guide inside the app built from forty million posts and comments about dining. You can read and leave reviews, see places on a map, and book or call, and TikTok says restaurants can't pay to be featured. It starts in New York, Los Angeles and the Bay Area, putting TikTok up against Yelp and Google Maps. Skeptics will ask whether viral hype makes for good recommendations.
+// Story 7: Meta business terms
+[andrew] And Meta says it'll likely delay its new business terms again, possibly indefinitely, after publishers worried the language could let it train A.I. on their sites. Senators from both parties, Republican Marsha Blackburn and Democrat Adam Schiff, had criticized the change. Meta says its existing terms stay in place for now. Apple's event is getting under way as we speak; we'll have what's real next time.
+> source: The Verge, "TikTok is going after Yelp and Google Maps with an in-app restaurant guide" (Oct 28); The Verge, "Meta says it'll probably delay its controversial new business terms again" (Oct 28)
+
+## Artificial Intelligence | sting=ai
+// Story 8: Anthropic drug development
+[andrew] In A.I., Anthropic published early results from using Claude in drug development with six partners, including Bristol Myers Squibb. Claude generated about thirty-five thousand antibody designs in a month for Divergence Labs' food-allergy program, and a few early hits beat the standard medicine in lab tests. At Enveda, it caught every problem human reviewers found in manufacturing paperwork, plus seven they missed, and cut review time by almost ninety percent. Anthropic also bought a one-person company working on rare childhood muscular dystrophy. The caveat, in the company's own words: nearly all of this is preclinical, meaning not yet tested in people, and most A.I.-designed drug candidates have yet to prove themselves in trials.
+> source: Anthropic, "Early progress on accelerating drug development with Claude" (Oct 27)
+
+## Cybersecurity | sting=cyber
+// Story 9: Edge logic-bug chain
+[ava] Cyber desk. Researcher Orange Tsai has published how he broke out of Microsoft Edge's security sandbox at this year's Pwn2Own Berlin contest using only logic flaws, no memory corruption at all. He chained four bugs so that just visiting a malicious web page could run code on the computer, earning a hundred seventy-five thousand dollars. Microsoft patched the flaws right after the contest, so the takeaway is simple: keep Edge updated.
+> source: The Hacker News, "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win" (Oct 2026); DARKNAVY blog on the Edge sandbox escape (Oct 2026)
+
+## From Your X Feed | sting=x
+[ava] From your X feed this hour.
+[ava] Variety reports John Goodman has joined season two of Netflix's The Beast in Me, playing the father of Claire Danes' character.
+[andrew] Semafor flagged a piece arguing that today's robotaxi model may need more humans than the taxis it replaces, with crews inspecting, cleaning and charging the cars.
+[andrew] Autoblog says BYD has a new luxury E.V. that looks a lot like a Rolls-Royce Ghost and may cost around three hundred thousand dollars.
+[andrew] And Brian Roemmele is raving about N-Vidia's open-source Nemotron three point five for transcription, calling it next level. That's his take; we haven't seen independent tests.
+> source: Harry's X home timeline, Oct 28 midday (@Variety, @semafor, @therealautoblog, @BrianRoemmele)
+
+## Local News & Events | sting=local
+[ava] Closer to home, New Jersey Senator Cory Booker returns to New Hampshire Friday for the final weekend before the election, giving the keynote at the Manchester City Democrats' Countdown to Victory event and campaigning in Exeter for First District nominee Stefany Shaheen and gubernatorial nominee Cinde Warmington.
+[ava] And a reminder: WMUR's Granite State Debates are tonight, the Second District at eight and the Senate race at nine.
+> source: WMUR, "Cory Booker to campaign in New Hampshire with state Democrats" (Oct 28); WMUR Granite State Debates listings (Oct 28)
+
+## Uplifting Story | sting=feel
+[ava] And finally, from Greenville, North Carolina. The JOY Community Center and Soup Kitchen has opened a free dental clinic right where it serves meals. Director Tom Quigley says the idea came years ago, when a guest couldn't chew the pork chops being served and asked for a peanut butter sandwich instead. Working with orthodontist Dr. Dennis Ross, they built two exam rooms with an X-ray machine. On the first surgery day they saw eight patients and pulled eighteen infected teeth, and five of those patients came back just to hug the team. As Quigley puts it, you can't feed people who can't chew.
+> source: WITN, "'You can't feed people who can't chew': JOY Soup Kitchen opens one-of-a-kind free dental clinic" (Oct 28)
+
+## Close | sting=close
+[ava] That's your one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. The Fed's at two, Microsoft and Alphabet after the close.
+[ava] Ask your Gumshoe for more on any story.
