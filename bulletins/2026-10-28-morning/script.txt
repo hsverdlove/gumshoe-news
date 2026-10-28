@@ -1,0 +1,81 @@
+// Gumshoe script format: see README.md
+# title: Wednesday Morning, Oct 28
+# description: The Wednesday morning bulletin from Gumshoe News Radio for October 28, 2026: the full Londonderry forecast with the week ahead; Judge Carter plans a special master in the California ballot case, the Alexander brothers get thirty years, and DNA ties Ted Bundy to a 1974 Utah cold case; a deadly high-speed train collision in Spain, Israel's vote count, a Wall Street Journal report on possible post-midterm Iran strikes alongside a new Qatari draft deal, Flávio Bolsonaro's exit via Argentina, and a knife attack at Israel's embassy in Belgrade; markets in depth on Fed day, with SK Hynix lifting chips and Microsoft and Alphabet due tonight; Apple's expected touchscreen MacBook Pro; OpenAI's reported plan to buy Google's A.I. chips and Anthropic's retail I.P.O. plans; Anthropic's exploit-chain research, CISA's Node2Shell warning, and a Cloudflare A.I. data mix-up; your X feed; new public water for west Londonderry and tonight's Halloween events; and a drill-free fix for kids' cavities. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Wednesday, October twenty-eighth, and this is Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. It's Fed day, and Microsoft and Alphabet report tonight. A big one for markets.
+[ava] First, the full forecast for Londonderry, New Hampshire, with the week ahead.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Oct 28 at airtime
+
+## US News | sting=us
+// Story 1: Carter special master
+[ava] We start with the California ballot case, where there's a new turn but still no final ruling. After a hearing of more than three hours in Los Angeles, Judge David Carter said he plans to appoint a special master, an independent expert, to examine how the Justice Department built its list of about twenty thousand voters it calls likely noncitizens, and whether counties could even separate those ballots. He called the request a monumental change to an election already under way, and said he'd issue an order today. Federal prosecutors say citizens are being disenfranchised in real time; the state and Los Angeles County say there's no reliable evidence the voters are ineligible and no workable way to comply.
+// Story 2: Alexander brothers
+[ava] In New York, a federal judge sentenced Tal, Oren and Alon Alexander, the luxury real-estate brothers convicted of drugging and raping dozens of women, to thirty years in prison each. Eleven accusers spoke in court before the sentence.
+// Story 3: Ted Bundy cold case
+[ava] And investigators in Utah say DNA evidence has tied the serial killer Ted Bundy to the nineteen seventy-four killing of seventeen-year-old Melissa Ann Smith, closing a cold case fifty-two years to the day after her body was found. Bundy was executed in nineteen eighty-nine.
+> source: ABC News on the California special-master plan (Oct 28); AP on the Carter hearing (Oct 27); Los Angeles Times (Oct 27); Bloomberg Law (Oct 28); AP on the Alexander brothers' sentencing (Oct 27); AP on the Ted Bundy DNA link to Melissa Smith's death (Oct 28)
+
+## International | sting=world
+// Story 4: Spain train crash
+[ava] Overseas, breaking news from Spain. Just after nine this morning, local time, two high-speed trains collided near Urda, about a hundred miles south of Madrid. Early reports say a Renfe train ran into the back of a stopped train from the private operator Iryo, derailing two cars. Five hundred forty-four people were aboard. Regional officials first confirmed ten deaths and warned that would rise; Spain's Efe news agency now cites regional sources saying at least thirty, and some Spanish outlets report as many as forty-six. Those numbers aren't final. The cause isn't known; early reports point to a possible signalling error. It's the second deadly crash involving the same two operators this year, after forty-six died near Adamuz in January.
+// Story 5: Israel count
+[ava] In Israel, the count continues after Tuesday's vote. With about eighty-five percent of ballot boxes counted, Benjamin Netanyahu's bloc has fifty-four seats, short of the sixty-one needed to govern, and Gadi Eisenkot's bloc has forty-nine. Arab-led parties have about seventeen. Likud is the largest party. Soldiers' ballots are still to be counted, so those numbers will move. Netanyahu says it's not over; Eisenkot calls him a caretaker without a mandate. Expect weeks of coalition talks.
+// Story 6: Iran: WSJ report and Qatar draft
+[ava] On Iran, two tracks at once. The Wall Street Journal reports the U.S. has told several Gulf states to prepare for a possible short, intense military campaign against Iran after next week's midterms, with more air defenses and ships headed there. The Journal says President Trump hasn't decided, and the administration hasn't commented publicly. Meanwhile, an official tells Reuters that Qatari mediators gave Iran a new draft deal on Sunday: a seven-day plan of daily confidence-building steps by both sides, backed by guarantor countries, with Tehran's answer expected by week's end.
+// Story 7: Bolsonaro exit; Belgrade attack
+[ava] In South America, Argentina's migration authority says Flávio Bolsonaro, who lost Brazil's presidential runoff, flew to Argentina and then on to Ecuador with his family, despite a court order to surrender his passports. The State Department says they'll get U.S. visas. President Lula called it shameful; Bolsonaro, under investigation for corruption, denies wrongdoing.
+[ava] And in Belgrade, police shot and killed a young man who attacked an officer guarding Israel's embassy with knives overnight. Serbia calls it terrorism and says the attacker was an Islamic State supporter. The officer had minor injuries.
+> source: BBC News live on the Spain train collision (Oct 28); AP on the Spain crash (Oct 28); The Independent live, citing EFE, El Español and Castilla-La Mancha officials (Oct 28); The Times of Israel live blog, Central Elections Committee partial results at 84.5% (Oct 28); AP and Ynet on Israel's count and coalition outlook (Oct 28); The Wall Street Journal report on U.S. warnings to Gulf states (Oct 28), via Ynetnews and Anadolu; Reuters via Al-Monitor on the Qatari draft deal (Oct 28); AP on Flávio Bolsonaro (Oct 28); AP, BBC and the Serbian government on the Belgrade embassy attack (Oct 28)
+
+## Markets | sting=markets
+[andrew] Markets, in depth. Futures are mixed on Fed day: Nasdaq futures up about four-tenths of a percent, S and P futures up a tenth, and Dow futures down about two-tenths.
+[andrew] That follows Tuesday's chip-led gains: Nasdaq up one point one percent, S and P up six-tenths, Dow flat.
+[andrew] This morning's biggest driver is memory chips. South Korea's SK Hynix reported record quarterly profit,, Its U.S.-listed shares are up nearly eight percent, and Micron is up about four. On the downside after Tuesday's late reports: Robinhood is down seven to eight percent after a slight revenue miss, and Visa is off about two percent despite beating, on a cautious outlook.
+[andrew] Rates and commodities: the ten-year Treasury yield is right around five percent, and the dollar is holding near a two-week high. Oil is bouncing back after Tuesday's drop, with Brent up about one percent near a hundred fifteen dollars and U.S. crude around a hundred one sixty. Gold is near four thousand fifty-five dollars an ounce, and Bitcoin is around eighty-one thousand.
+[andrew] The calendar is packed. The Fed announces at two this afternoon, with Chair Kevin Warsh's news conference at two-thirty. It's widely expected to hold rates at three and three-quarters to four percent, so the focus is on whether he signals a December hike; Reuters says traders price at least three more hikes by late twenty twenty-seven. The Bank of Canada is expected to hike this morning. Before the bell, GE Vernova, Boston Scientific and Biogen report; after the close, Microsoft and Alphabet, where investors want proof that huge A.I. spending is paying off. Bulls see strong earnings; bears see five percent yields and oil above a hundred.
+> source: Reuters via Investing.com on futures, SK Hynix and the Fed (Oct 28, 5:38 AM ET); Yahoo Finance live (Oct 28); TipRanks stock market preview (Oct 28); Newsquawk US equity opening news (Oct 28); FXStreet (Oct 28); CNBC on gold (Oct 28); Barron's live coverage (Oct 28)
+
+## Technology | sting=tech
+// Story 8: Apple touchscreen MacBook Pro
+[andrew] Tech. Apple is widely expected to unveil its first touchscreen Mac today, at an event in Los Angeles. Bloomberg and MacRumors report fourteen- and sixteen-inch MacBook Pros with OLED touch displays and a reinforced hinge so the screen doesn't wobble when tapped. Bloomberg says Apple discussed about twenty-nine hundred dollars for the fourteen-inch model, making these its most expensive laptops, with pre-orders possibly today. It's a reversal for a company that long argued touch belongs on the iPad, and skeptics wonder how often people will actually reach for the screen. Apple hasn't confirmed any details.
+> source: MacRumors on the expected touchscreen MacBook Pro (Oct 28); Bloomberg reporting on pricing and features; 9to5Mac (Oct 27)
+
+## Artificial Intelligence | sting=ai
+// Story 10: OpenAI buying Google TPUs
+[andrew] In A.I., The Information reports OpenAI plans to buy A.I. chips from Google, its tensor processing units, after renting them since last year. That would push OpenAI further beyond Nvidia and its custom Broadcom chips, and deepen ties with a direct competitor. No terms were disclosed, and neither company has confirmed it.
+// Story 11: Anthropic IPO retail plan
+[andrew] And Bloomberg reports Anthropic has picked JPMorgan to lead the U.S. retail portion of its upcoming I.P.O., with Citigroup handling international retail investors, and is weighing setting aside fifteen to twenty percent of shares for individuals, an unusually large slice. Supporters say that lets everyday investors in early; skeptics note retail buyers often get in at the top of a hot listing. Terms could still change.
+> source: The Information via Reuters on OpenAI buying Google TPUs (Oct 27); Bloomberg via Bloomberg Law on Anthropic's retail IPO plans (Oct 27)
+
+## Cybersecurity | sting=cyber
+// Story 12: Anthropic exploit chains
+[ava] Cyber desk. Anthropic's red team says an unreleased internal A.I. model found flaws in Chrome, Safari, Android, Windows and Linux, and chained them into working exploits. One opened a program on a Mac running Chrome just by loading a web page. Everything was reported to the vendors and is already patched, so update your browser and phone if you haven't. The Hacker News notes it can't verify how much the model did on its own.
+// Story 13: Node2Shell and Cloudflare
+[ava] Also, CISA says hackers are now exploiting a critical flaw nicknamed Node2Shell in Brotli, Google's widely used compression code, which can allow remote takeover of servers, and has ordered federal agencies to patch by November tenth. And Cloudflare disclosed that one A.I. model on its platform briefly mixed up customers' data, with a hundred fifty-five responses in late summer containing pieces of other users' conversations. It's fixed.
+> source: The Hacker News on Anthropic's exploit-chain research (Oct 28); Anthropic Frontier Red Team post; BleepingComputer on CISA and Node2Shell (Oct 28); Cloudflare Blog on the GLM-5.3 Workers AI KV-cache exposure (Oct 27)
+
+## From Your X Feed | sting=x
+[ava] From your X feed this morning.
+[ava] The account PicturesFolder notes Bill Gates turns seventy-one today.
+[andrew] Engineers Feed highlighted Max Planck Institute physicists reaching what's called the Fourier limit, a basic physical ceiling on how long a quantum system can hold information, set by physics rather than engineering.
+[ava] Interesting All dug up a wartime oddity: Britain once planned an aircraft carrier made of ice mixed with wood pulp to hunt German submarines. A small prototype was actually built in Canada before the idea was dropped.
+[andrew] For car people, Autoblog says Porsche's gas-powered successor to the Macan might get a V8.
+[andrew] And Elon Musk posted that ten thousand Starship launches a year could come from a Louisiana launch site alone. That's his projection, not a schedule.
+> source: Harry's X home timeline, overnight Oct 28 (@PicturesFoIder, @engineers_feed, @interesting_aIl, @therealautoblog, @elonmusk)
+
+## Local News & Events | sting=local
+[ava] Closer to home, good news for Londonderry's west side. The Union Leader reports the new water main along High Range Road means about three hundred fifty homes can now hook up to Pennichuck public water instead of wells affected by P.F.A.S. contamination. Saint-Gobain paid about one point seven million dollars of the four point three million dollar cost under a deal with the state. Hookups started this month, with Royal Lane and nearby streets next.
+[ava] On the calendar: Leach Library's Jack-O'-Lantern Jamboree for little ones runs again this afternoon at four, and the Granite Y on Rockingham Road holds its free Halloween Spooktacular tonight from five-thirty to seven, with registration required. And the election is six days away, on Tuesday.
+> source: Union Leader on the High Range Road water extension (Oct 2026); Londonderry Times on water projects (Oct 17); New Hampshire Department of Justice on the Saint-Gobain agreement; Leach Library events calendar; The Granite YMCA Halloween Spooktacular listing
+
+## Uplifting Story | sting=feel
+[ava] And finally, a cavity fix with no drill and no needle. A University of Michigan-led trial of eight hundred thirty children under six, published in JAMA Pediatrics, found that silver diamine fluoride, a liquid painted onto a cavity in seconds, stopped decay in more than half of affected baby teeth when it was reapplied every six months. Dentists have used it off-label for years; this is the U.S. data the maker needs to seek F.D.A. approval to treat cavities. The one drawback: it permanently darkens the decayed spot. For kids who'd otherwise need sedation or surgery, researchers say it could be a game changer.
+> source: Good News Network (Oct 27), citing the University of Michigan and a Phase 3 trial in JAMA Pediatrics
+
+## Close | sting=close
+[ava] One more thing: on this day in eighteen eighty-six, the Statue of Liberty was dedicated in New York Harbor. That's your Wednesday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. The Fed decides at two.
+[ava] Ask your Gumshoe for more on any story.
