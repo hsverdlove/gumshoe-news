@@ -1,0 +1,76 @@
+// Gumshoe script format: see README.md
+# title: Wednesday 10 AM Update, Oct 28
+# description: The Wednesday ten o'clock update from Gumshoe News Radio for October 28, 2026: conditions around Londonderry through tomorrow morning; a grand jury declines to indict Cassidy Hutchinson, a judge rules Los Angeles's top federal prosecutor is serving unlawfully, and Trump eases some Canada tariffs; the Spain train crash toll rises sharply, Israel's soldiers' ballots, and Serbia's state broadcaster apologizes; markets at the open with Vertiv, Boston Scientific and Wendy's on the move and Canada's first rate hike in three years; Amazon's new Echo lineup and Apple's event this afternoon; New York's new limits on A.I. chatbots for kids; attackers probing a fresh Oracle flaw and a device-code phishing campaign; your X feed; a Salem manhunt and tonight's debates; and a Cape Cod volunteer driver. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's ten o'clock on Wednesday, October twenty-eighth, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Stocks opened mixed on Fed day, with chips leading again. I'll have the movers.
+[ava] First, conditions around Londonderry, New Hampshire, through this time tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Oct 28 at airtime
+
+## US News | sting=us
+// Story 1: Hutchinson no-bill
+[ava] In Washington, the Associated Press and NBC News report that a federal grand jury refused to indict Cassidy Hutchinson, the former White House aide who was the January sixth committee's star witness. Prosecutors were reportedly seeking a false-statements charge over her twenty twenty-two testimony about President Trump's actions that day. Grand juries rarely turn down federal prosecutors. Her testimony has long been disputed by Trump allies, while her supporters saw the case as political. A no-bill doesn't stop the department from trying again with another grand jury.
+// Story 2: Essayli ruling
+[ava] In Los Angeles, Judge J. Michael Seabright ruled that Bill Essayli has been unlawfully serving as the region's top federal prosecutor, and barred him from two criminal cases. The ruling is on hold while the Justice Department appeals, so Essayli is still running the office. Courts have split on how long the administration can keep acting prosecutors in place without Senate confirmation.
+// Story 3: Canada tariffs
+[ava] And on trade, the White House is dropping its fifty percent tariffs on some Canadian goods, including farm machinery, refrigeration equipment, plywood and seaweed products, starting Friday, while adding tariffs on others, such as certain valves and carpets. The Wall Street Journal reports the move followed requests from Maine Senator Susan Collins on behalf of Maine businesses, a week before her re-election race.
+// California update
+[ava] One follow-up: Judge David Carter's written order in the California ballot case is still expected today.
+> source: AP, "Grand jury refuses to indict former White House aide Cassidy Hutchinson, AP sources say" (Oct 27); NBC News (Oct 27); AP and Los Angeles Times on Judge Seabright's Essayli ruling (Oct 27); White House fact sheet on Canadian tariff modifications (Oct 2026); AP, "Trump exempts some Canadian imports from his 50% tariffs" (Oct 28); The Wall Street Journal (Oct 28); KQED on the Carter order timing (Oct 28)
+
+## International | sting=world
+// Story 4: Spain crash update
+[ava] Overseas, the toll from this morning's high-speed train crash in Spain has risen sharply. Castilla-La Mancha's regional government now says at least sixty-four people were killed and more than a hundred injured when a Renfe train hit the back of a stopped Iryo train near Urda, south of Madrid. The regional president warns more victims may be found in the worst-hit Iryo cars. The government's first hypothesis is human error, but officials stress the investigation will decide. Most Spanish parties have suspended campaign events.
+// Story 5: Israel ballots
+[ava] In Israel, the official count has paused at about eighty-six percent, with Netanyahu's bloc at fifty-three seats, Gadi Eisenkot's bloc at forty-eight, and Arab-led parties at a record nineteen. Roughly six hundred thousand double-envelope ballots, mostly soldiers and diplomats, are counted starting tonight, with results expected by Thursday evening.
+// Story 6: Serbia broadcaster apology
+[ava] And in Serbia, a day after a student-led list won a parliamentary majority and ended Aleksandar Vučić's long rule, the regional public broadcaster R.T.V. opened its newscast with an apology, admitting years of one-sided coverage. Its acting editor has resigned.
+> source: RTVE and ABC Spain, citing the Castilla-La Mancha government (Oct 28, 2 PM local); AP, "At least 64 dead in high-speed train crash in central Spain" (Oct 28); BBC News (Oct 28); The Times of Israel, Central Elections Committee results at 85.6% (Oct 28); JNS on the double-envelope count (Oct 28); AP Morning Wire on Serbia (Oct 28); X News summary of the RTV apology (Oct 28)
+
+## Markets | sting=markets
+[andrew] Markets at the open. The Dow slipped slightly, while the S and P five hundred and the Nasdaq each edged up about two-tenths, as memory chips extended their run.
+[andrew] SK Hynix's U.S. shares jumped about ten percent after record profits, and Micron rose about five. Data-center gear maker Vertiv surged on a strong forecast, and G.E. HealthCare and Amphenol gained after beating. On the downside, Boston Scientific fell about eleven percent after cutting its outlook, Enphase dropped about twenty on weak guidance, and N.X.P. Semiconductors fell on its outlook. Wendy's jumped about fifteen percent after Trian offered to buy the company for seven dollars thirty-five a share in cash.
+[andrew] The Bank of Canada just raised rates by a quarter point to two and a half percent, its first hike in three years, citing inflation risk from high oil prices. Oil is up about one and a half percent on Middle East supply worries, with Brent near a hundred fifteen sixty and U.S. crude above a hundred one. The ten-year Treasury yield is just above five percent, and gold is a bit lower, near four thousand fifty. Britain's budget is also landing this morning; gilt yields have been calm so far.
+[andrew] Up next, the Fed decides at two, with Chair Warsh speaking at two-thirty. A hold is expected, and the question is whether he signals a hike. After the close come Microsoft and Alphabet, and the bulls want proof that A.I. spending is paying off; the bears point to five percent yields and hundred-dollar oil.
+> source: Reuters via Investing.com, "S&P 500, Nasdaq open higher as SK Hynix lifts chips" (Oct 28, 9:34 AM ET); Newsquawk US Daily Equity Opening News (Oct 28); Bank of Canada interest rate announcement (Oct 28); The Globe and Mail (Oct 28); CNBC on gold (Oct 28); Samuel and Co. Trading morning brief (Oct 28); investingLive (Oct 28)
+
+## Technology | sting=tech
+// Story 7: Amazon Echo lineup
+[andrew] Tech. Amazon unveiled a new Echo lineup this morning, led by the Echo Show sixteen, a big smart display with eight woofers that can run Fire TV by touch, plus a redesigned Echo Dot, an Echo Time alarm clock, a screenless Echo Studio with a home camera, and an Alexa photo frame. It's all built around the A.I.-powered Alexa Plus. Prices and reviews will tell whether people want more screens on the kitchen counter.
+[andrew] And Apple's event starts at one this afternoon, Eastern, where the touchscreen MacBook Pro is widely expected. We'll have what's real after it airs.
+> source: The Verge, "Everything announced at Amazon's October 2026 hardware launch" (Oct 28); MacRumors (Oct 28); Macworld live blog (Oct 28)
+
+## Artificial Intelligence | sting=ai
+// Story 8: NY chatbot law
+[andrew] In A.I., New York Governor Kathy Hochul signed a law limiting A.I. chatbot features for kids. Chatbots can't pretend to be human with users under eighteen, and must avoid things like flattery, unprompted emotional questions, and encouraging kids to keep secrets. Companies also have to verify ages, with at least one option that doesn't rely on a government I.D. Child-safety advocates call it overdue; critics of age-check laws generally argue they force companies to collect more personal data, and that a patchwork of state rules is hard to follow.
+> source: The Verge, "NY Governor Kathy Hochul signs law banning harmful AI chatbot features for kids" (Oct 28)
+
+## Cybersecurity | sting=cyber
+// Story 9: Oracle EBS and Skyw4lker
+[ava] Cyber desk. Attackers are already scanning the internet for Oracle E-Business Suite systems that haven't installed last week's patch for a critical flaw that lets someone take over a server without logging in. Oracle hasn't confirmed attacks, but the threat-intel firm Defused saw exploit attempts Tuesday. Oracle's business software has been a favorite target of extortion gangs.
+[ava] And researchers at ANY dot RUN describe a phishing campaign called Skyw4lker aimed mostly at U.S. manufacturers, tech firms and health care. It sends a fake contract that leads to a real Microsoft sign-in page and tricks people into approving the attacker's device. The tip: never enter a code from an email into a Microsoft sign-in prompt unless you started that sign-in yourself.
+> source: BleepingComputer, "Hackers now scanning systems for recently-patched Oracle flaw" (Oct 28); The Hacker News on Oracle EBS probing (Oct 28); The Hacker News, "Skyw4lker Device Code Phishing Campaign Exposed" (Oct 28), citing ANY.RUN
+
+## From Your X Feed | sting=x
+[ava] From your X feed this morning.
+[ava] Variety reports Jennifer Lawrence is returning as Katniss in The Hunger Games: Sunrise on the Reaping, alongside Josh Hutcherson and Woody Harrelson. She called being back with the same crew after eleven years unbelievable.
+[andrew] Semafor posted an interview with Hasbro's chief executive, Chris Cocks, who says early recordings from Don Rickles' estate could give an A.I.-voiced Mr. Potato Head a distinctly adult edge.
+[andrew] Chamath Palihapitiya flagged a comparison between financing the A.I. build-out and the airline industry, noting Ken Griffin and Snowflake's Sridhar Ramaswamy have made the same point. It's an analogy worth chewing on: big capital, thin returns.
+[andrew] And Autoblog says Honda is turning a Passport into a thirteen-hundred-horsepower off-road trophy truck.
+> source: Harry's X home timeline, Oct 28 morning (@Variety, @semafor, @chamath, @therealautoblog)
+
+## Local News & Events | sting=local
+[ava] Closer to home, Salem police lifted an overnight shelter-in-place order near Millville and Taylor Streets around two-forty this morning after a manhunt for Daquhan Cromer, who's been on escape status from a state transitional housing unit since last December. He wasn't found. Police say he's no longer believed to be in the area and there's no current threat, but they still consider him armed and dangerous; call Salem police with any tips.
+[ava] Tonight, WMUR hosts the Granite State Debates: Second District candidates Maggie Goodlander and Lily Tang Williams at eight, then Senate candidates Chris Pappas and John E. Sununu at nine. Election Day is Tuesday.
+> source: WMUR, "Salem police: Shelter-in-place order lifted, suspect not found" (Oct 28); WMUR Granite State Debates listings (Oct 28)
+
+## Uplifting Story | sting=feel
+[ava] And finally, from Cape Cod. Retired tech executive John Cooper of Sandwich volunteers with the American Cancer Society's Road to Recovery program, giving free rides to treatment. For six weeks he picked up Kerry Sullivan every weekday and drove her to radiation in Plymouth. She told Boston twenty-five News that what could have been a depressing six weeks became, in her words, the bright spot of her day. Cooper says it's not like an Uber ride; if a patient arrives smiling, that's an epic win. Last year, more than six thousand volunteers gave nearly ninety thousand rides across Massachusetts.
+> source: Boston 25 News, "'Bright spot of my day': Cape Cod volunteer drives cancer patients to medical appointments" (Oct 28)
+
+## Close | sting=close
+[ava] That's your ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. The Fed's at two, Apple's at one.
+[ava] Ask your Gumshoe for more on any story.

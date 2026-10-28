@@ -42,7 +42,7 @@ def tts(voice, text, out, rate="+0%"):
         except subprocess.TimeoutExpired as e:
             r = subprocess.CompletedProcess(e.cmd, 1, b"", b"edge-tts timed out"); continue
         if r.returncode == 0: break
-    else: sys.exit(f"edge-tts failed: {r.stderr.decode()[:300]}")
+    else: sys.exit(f"edge-tts failed on {text[:80]!r}: {r.stderr.decode()[-400:]}")
     sh(["ffmpeg", "-loglevel", "error", "-y", "-i", mp3, "-ar", str(SR), "-ac", "1", out])
 
 def nws_weather(loc):
