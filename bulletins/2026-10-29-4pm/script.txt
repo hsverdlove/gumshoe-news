@@ -1,0 +1,80 @@
+// Gumshoe script format: see README.md
+# title: Thursday 4 PM Update, Oct 29
+# description: The Thursday four o'clock update from Gumshoe News Radio for October 29, 2026: New York City conditions through tomorrow afternoon; Trump rallies for Darline Graham in South Carolina, the Boulder firebomber pleads guilty to federal hate crimes, and three news outlets accuse the White House of defying a court order; Israel asks the Shin Bet to probe foreign-interference claims, an EU peacekeeping helicopter crashes in Bosnia, Iran claims it captured a U.S. drone, and Ukraine says it hit Russian jets in Volgograd; the closing bell as Alphabet posts its worst day on record and Amazon misses slightly; DoorDash's seventeen-billion-dollar Instacart deal; Mistral opens up its trillion-parameter model; the Pentagon probes freezer failures as a possible hack, and hijacking Chrome extensions; your X feed, including the death of Sir Patrick Stewart; New York's bus fare enforcement pause, the Bronx e-bike fire, and Marathon Sunday closures; and a school named for a beloved custodian. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's four o'clock on Thursday, October twenty-ninth, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. The closing bell just rang on Alphabet's worst day ever, and Amazon's numbers are out.
+[ava] First, conditions around New York City through this time tomorrow.
+@weather
+> source: National Weather Service forecast for New York, NY (api.weather.gov), retrieved Oct 29 at airtime
+
+## US News | sting=us
+// Story 1: Trump in South Carolina
+[ava] Story one. President Trump campaigned in Rock Hill, South Carolina, this afternoon for Senator Darline Graham, who was appointed in July after the death of her brother, Lindsey Graham, and is now in a closer-than-expected race against Democrat Annie Andrews, a pediatrician. Trump told the crowd Graham has "the gene" and urged Republicans to turn out. Andrews is pitching herself as a change candidate, telling voters to "try something new for once." South Carolina hasn't sent a Democrat to the Senate in nearly three decades. Trump also renewed his call for Alaska's Mary Peltola to be removed from the ballot and prosecuted over the second Dan Sullivan; Peltola calls the allegations a distraction, and no charges have been filed.
+// Story 2: Boulder plea
+[ava] Story two. In Denver, Mohamed Soliman pleaded guilty to federal hate crime charges for the June twenty twenty-five firebombing of a Boulder, Colorado, march supporting hostages held in Gaza. One person was killed and about a dozen hurt. Prosecutors say he targeted the marchers because they were Jewish. He's already serving life on state charges, and federal sentencing is set for January.
+// Story 3: Press access filing
+[ava] Story three. CNN, MS NOW and Politico told a federal court the White House is defying a judge's order to lift its ban on their reporters, saying they're still kept out of key spaces where the president appears. They call it retaliation for coverage he dislikes and ask the court to make its order permanent. The White House has argued it has wide discretion over who gets access to the president in limited spaces.
+> source: AP on Trump in Rock Hill and the Darline Graham race (Oct 29); AP and The Guardian live coverage on Peltola (Oct 29); AP on Mohamed Soliman's federal plea (Oct 29); AP News Summary, 3:33 PM ET (Oct 29), on the CNN, MS NOW and Politico filing
+
+## International | sting=world
+// Story 4: Israel interference probe
+[ava] Story four. Israel's election committee chair, Justice Noam Sohlberg, has asked the Shin Bet security service to investigate suspected foreign funding and vote-buying, with Israeli media reporting the focus includes possible Qatari and Turkish money to boost Arab turnout. Netanyahu's Likud party has gone further, claiming Arab-led parties "stole" the election. The committee itself says voting was lawful and calls claims of systematic fraud baseless, Qatar denies any meddling, and the opposition accuses Netanyahu of demonizing Arab citizens. No finding has been made.
+// Story 5: Bosnia helicopter
+[ava] Story five. An Italian Chinook helicopter serving with the European Union's peacekeeping force in Bosnia crashed during routine training near Brčko this afternoon, killing four crew members and injuring eleven, who are reported stable. No civilians were hurt. The cause is under investigation, and Italy's prime minister, Giorgia Meloni, sent condolences.
+// Story 6: Iran drone claim
+[ava] Story six. Iran's Revolutionary Guards claim they used electronic warfare to seize a U.S. surveillance drone near the Strait of Hormuz and land it intact, and released video of what appears to be an American-made target drone. U.S. Central Command calls the report false, saying the Guards have "repeatedly lied," though it didn't say whether it lost a drone for any reason. Neither side's account has been independently verified.
+// Story 7: Ukraine Neptune strike
+[ava] And story seven. Ukraine's navy says its Long Neptune missiles hit Marinovka air base in Russia's Volgograd region, destroying two Su-thirty-four fighter-bombers, with open-source monitors reporting two Russian personnel killed. That's Ukraine's claim; Russia hasn't confirmed losses.
+> source: The Times of Israel, The Jerusalem Post, Ynet and AP on Israel's interference probe (Oct 29); AP, Euronews, Reuters and N1 on the EUFOR helicopter crash (Oct 29); AP, The War Zone and Iran International on Iran's drone claim (Oct 29); Interfax-Ukraine, Ukrinform and Ukrainska Pravda on the Marinovka strike (Oct 29)
+
+## Markets | sting=markets
+[andrew] The closing bell, in depth. The S and P five hundred fell about six-tenths of a percent to roughly seventy-six ninety-five, snapping a three-day win streak. The Dow lost about three hundred fifteen points, near fifty-two thousand one sixty, and the Nasdaq dropped about one and two-thirds percent.
+[andrew] Alphabet finished down nearly thirteen percent, its worst day on record, after a search revenue miss and a surge in A.I. spending. Chip stocks fell about two percent, Micron down five, and Marvell slid about thirteen percent on reports it's in advanced talks to buy Lumentum. ServiceNow lost more than a quarter of its value and Fortinet about a fifth on their results, and Caterpillar fell more than nine percent.
+[andrew] But more stocks rose than fell. Small caps gained nearly one percent, and health care led: Eli Lilly up about six percent after raising its outlook on weight-loss drugs, Merck up four. Ford gained about three percent, and Apple and Meta finished higher. The ten-year Treasury yield eased to just under five percent. Brent crude settled near a hundred eleven dollars a barrel, gold slipped to about four thousand thirty, and Bitcoin is near eighty thousand.
+[andrew] Earnings season is past the halfway mark, with about four in five S and P companies beating forecasts. One strategist at Baird said a day when small caps outperform suggests cracks in the A.I. story aren't cracks everywhere; skeptics counter that the market's biggest companies are the ones whose spending is now in question.
+[andrew] And after the bell, Amazon just reported slightly below expectations: a dollar eighty-nine a share on almost two hundred two billion dollars in revenue, versus a dollar ninety-six and just over two hundred two billion expected. Its stock had already fallen about four percent today. The focus now is cloud growth and spending on the five o'clock call. Intel and Coinbase also report tonight.
+[andrew] One more deal: DoorDash agreed to buy Instacart for about seventeen billion dollars, sixty-five dollars a share, mostly in cash. Both brands stay, and DashPass and Instacart Plus members would pay one fee. The companies say it helps local grocers compete with Amazon; critics warn less competition could mean higher prices and fewer options for grocers. Regulators must sign off, with closing expected in late twenty twenty-seven or early twenty twenty-eight.
+> source: Reuters via Investing.com closing report (Oct 29); AP markets report (Oct 29); Yahoo Finance live coverage (Oct 29); Kitco and Bitcoin.com (Oct 29); CNBC on Amazon's Q3 results (Oct 29, after the bell); DoorDash and Instacart joint release and AP on the Instacart deal (Oct 29)
+
+## Technology | sting=tech
+// Story 8: Gemini file editing
+[andrew] Story eight, tech. Google's Gemini can now create, preview and edit files right in the chat, including PDFs, Google Docs, Sheets, slide decks and code. You can highlight a table and ask Gemini to turn it into a chart, without leaving the app. It's rolling out to all Gemini users today; PDF editing works on web and mobile, the rest on the web for now. Anthropic's Claude added a similar feature earlier this year.
+> source: The Verge on Gemini file editing (Oct 29)
+
+## Artificial Intelligence | sting=ai
+// Story 9: Mistral Large 4
+[andrew] Story nine, A.I. France's Mistral has released the full weights of Mistral Large four, a trillion-parameter model nicknamed "Le Chonk," so companies and governments can download it and run it on their own servers. Mistral is pitching it for cyber defense, arguing organizations shouldn't depend on outside labs that could cut off access. It claims performance comparable to China's leading open model at about half the compute per task. Those are Mistral's own benchmarks, and open weights cut both ways: defenders get the tool, but so can attackers, a risk Mistral says is manageable.
+> source: TechCrunch, Reuters and Mistral on Mistral Large 4's open weights (Oct 29)
+
+## Cybersecurity | sting=cyber
+// Story 10: Freezer hack probe
+[ava] Story ten, cyber desk. Reuters reports the Pentagon is treating a string of freezer failures that spoiled food at at least six military base grocery stores in August as a suspected hack. At Fort Huachuca, Arizona, the freezers didn't just stop, they switched into defrost mode and heated the food overnight. Investigators are talking with French police about a similar attack that overrode freezers at more than three hundred fifty French supermarkets this month. No culprit has been named, and the probe hasn't reached public conclusions.
+// Story 11: Chrome extensions
+[ava] Story eleven. Researchers at Socket found three hundred nineteen Chrome extensions, with about thirteen million installs combined, that quietly hijack your default search engine and route searches through their own servers for ad money. They pose as PDF converters, safe search or A.I. search tools. Most have been pulled from Google's store, but if your searches suddenly look odd, check your extensions.
+> source: Reuters via Military Times on the commissary freezer probe (Oct 29); BleepingComputer on Socket's Chrome extension report (Oct 29)
+
+## From Your X Feed | sting=x
+[ava] From your X feed this hour.
+[ava] The big one: Variety reports Sir Patrick Stewart has died at eighty-six. He was Captain Jean-Luc Picard on Star Trek: The Next Generation and Professor Charles Xavier in the X-Men films, after decades as a Royal Shakespeare Company actor. His family says he died in Los Angeles after a brief illness with Alzheimer's and Lewy body dementia. Sriram Krishnan wrote that few actors shaped his childhood more, calling Picard a north star for noble leadership.
+[andrew] On the A.I. front, kimmonismus flagged that Canva is building its own A.I. models: an image generator called Craft, and now Brush, which Canva says can restyle and edit existing designs.
+[ava] An Interesting account shared that astronomers may have found a galaxy with almost no stars: two radio telescopes picked up a huge cloud with about two billion suns' worth of hydrogen, but no clear sign of starlight.
+[ava] And Variety had the B-fifty-twos unveiling their star on the Hollywood Walk of Fame, with co-founder Fred Schneider joking he had no marketable skills after dropping out of college, so, "We're still going!"
+> source: Harry's X home timeline, Oct 29 afternoon (@Variety, @sriramk, @kimmonismus, @interesting_aIl); Variety and The New York Times on Patrick Stewart (Oct 29)
+
+## Local News & Events | sting=local
+// Story 12: Bus fare enforcement
+[ava] Story twelve, here in New York. Enforcement of the three-dollar bus fare is effectively on pause. The M T A has benched its three hundred fifty EAGLE fare agents pending an investigation after videos showed confrontations, including one where agents pinned a Brooklyn school aide who says he had paid. The N Y P D says it has no plans to step in. The M T A says it loses more than three hundred million dollars a year to bus fare beaters, and transit advocates warn that could mean service cuts; Mayor Mamdani's office points to the episode as a case for free buses, though he hasn't said how to replace the lost money.
+// Story 13: E-bike fire and Marathon
+[ava] In Mott Haven, a fire sparked by an e-bike battery at the Patterson Houses killed a boy and left four relatives in critical condition; the fire commissioner says the bike blocked the only way out. It's the city's sixth lithium-ion battery death this year. And Marathon Sunday is coming: more than sixty thousand runners, with the Verrazzano's upper level closing at eleven Saturday night, and buses unable to cross Fifth Avenue during the race.
+> source: Gothamist on the EAGLE team pause (Oct 29); New York Explained daily brief (Oct 29), citing Gothamist, City Limits and NBC New York on the Patterson Houses fire and NYPD and MTA marathon plans
+
+## Uplifting Story | sting=feel
+[ava] And finally, from Aubrey, Texas. Marilyn Hampton spent thirty-nine years as a school custodian there, and along the way bought supplies for kids who needed them, helped with homework, and ran the ticket booth at football games. The district invited her to a board meeting on a pretext, then had her unroll a red carpet that read "Marilyn Hampton Elementary School." Through tears she said, "Y'all are too good," then added, "They better keep it clean." The school opens next August.
+> source: The Guardian and WFAA on Marilyn Hampton (Oct 29)
+
+## Close | sting=close
+[ava] That's your Thursday four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Amazon's call is at five.
+[ava] Ask your Gumshoe for more on any story.
