@@ -1,0 +1,75 @@
+// Gumshoe script format: see README.md
+# title: Thursday 1 PM Update, Oct 29
+# description: The Thursday one o'clock update from Gumshoe News Radio for October 29, 2026: New York City conditions through tomorrow afternoon; GM's two-hundred-twenty-million-dollar driver-data settlement and the death of labor leader Dolores Huerta; Israel's count wraps up with no majority, Iran claims tankers hit mines near Hormuz, a container ship sinks after a drone attack off Bulgaria, and Yemen's hospitals buckle in Taiz; midday markets as Alphabet heads for its worst day on record while small caps rally; Alexa for Shopping takes over grocery lists; Anthropic's new Claude Enterprise tracking tools; a Linux flaw chained with the PHP2Shell attacks; your X feed; Sunset Park's Third Avenue redesign and record early voting; and the tallest mural in America. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's one o'clock on Thursday, October twenty-ninth, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. Alphabet is on pace for its worst day ever, but most of the market is actually up. I'll explain.
+[ava] First, conditions around New York City through this time tomorrow.
+@weather
+> source: National Weather Service forecast for New York, NY (api.weather.gov), retrieved Oct 29 at airtime
+
+## US News | sting=us
+// Story 1: GM settlement
+[ava] Story one. General Motors has agreed to pay two hundred twenty million dollars to settle claims from a coalition of thirty-six state attorneys general that it collected drivers' behavior and location data and sold it to data brokers, who passed it to insurers that used it to set rates. Under the deal, G M must get drivers' clear, up-front consent before collecting or sharing that data, and set up a privacy program with outside oversight. The settlement resolves the allegations without a trial.
+// Story 2: Dolores Huerta
+[ava] Story two. Dolores Huerta, who co-founded the United Farm Workers with César Chávez, has died at ninety-six at her home in Bakersfield, California. Her family says the cause was cancer. Huerta spent decades organizing and negotiating for farmworkers, and she's credited with the rallying cry, sí se puede, yes, we can.
+> source: Connecticut Attorney General's office and Bloomberg Law on the GM settlement (Oct 29); U.S. News via Reuters (Oct 29); AP, NBC News and The Washington Post on Dolores Huerta (Oct 28-29)
+
+## International | sting=world
+// Story 3: Israel count complete
+[ava] Story three. Israel's election committee has finished counting, including the soldiers' and diplomats' ballots, and the picture didn't change: Benjamin Netanyahu's bloc fifty-three seats, Gadi Eisenkot's bloc forty-eight, and the Arab parties a record nineteen, so nobody has the sixty-one needed to govern. Likud is the largest party at twenty-seven, Eisenkot's Yashar has twenty-one, and the religious Shas party fell to six, its weakest showing since nineteen ninety-two. The results become official next Wednesday after further checks, and then President Herzog starts talks on who gets the first shot at a coalition.
+// Story 4: Hormuz mines claim
+[ava] Story four. Iran's Revolutionary Guards say three oil tankers hit sea mines and caught fire in the Strait of Hormuz over the past day, claiming the ships were using an unauthorized route with their navigation systems switched off, and Iran's navy reports a fourth tanker on fire east of the strait. Those are Iran's claims; no ship names, flags or casualties have been confirmed independently.
+// Story 5: Black Sea ship
+[ava] Story five. A Liberian-flagged container ship, the Contship Jet, sank in the Black Sea off Bulgaria after three sea drones struck it. All eighteen crew were rescued without injuries. It was sailing from Haifa, Israel, to Constanța, Romania, and Bulgaria's navy says it doesn't yet know where the drones came from.
+// Story 6: Taiz hospitals
+[ava] And story six. In Yemen, Reuters, the World Health Organization and Human Rights Watch describe hospitals in the city of Taiz running short of fuel, oxygen and medicine as fighting escalates, with dialysis and newborn care at risk. Human Rights Watch accuses the Houthis of blocking food and medicine from reaching civilians; the Houthis have not responded to that report.
+> source: Globes and Ynet on Israel's completed count (Oct 29); Arab News, Anadolu Agency, Middle East Eye and AP on Iran's tanker claims (Oct 28-29); AP, Radio Bulgaria and Container News on the Contship Jet (Oct 28-29); Reuters, WHO EMRO and Human Rights Watch on Taiz (Oct 29)
+
+## Markets | sting=markets
+[andrew] Markets, in depth, at midday. The headline numbers look calm: the S and P five hundred down about four-tenths of a percent and the Dow down about two hundred points. The Nasdaq is the outlier, off about one and a half percent.
+[andrew] That's mostly one company. Alphabet is down roughly twelve percent and on track for its worst day on record, erasing close to half a trillion dollars in value after weaker search ad results and capital spending that more than doubled to fifty-one billion dollars, pushing free cash flow negative again. That's revived worries about whether A.I. spending pays off, and it's spread: software names Fortinet and ServiceNow are each down more than twenty percent on their own results, and chip stocks are lower. Caterpillar is off about eight percent after a revenue miss, the biggest drag on the Dow.
+[andrew] But under the surface, most stocks are rising. Small companies in the Russell two thousand are up more than one percent, helped by this morning's strong growth number, and health care is the best sector, with Merck up about four percent after raising its outlook. Microsoft is slightly lower on reports it plans to raise at least twenty-five billion dollars in its first big bond sale in nine years. Oil is down about two percent, with U.S. crude near a hundred dollars a barrel and Brent near a hundred and ten. Gold eased to about four thousand thirty-six dollars an ounce, and Bitcoin is near eighty-one thousand six hundred.
+[andrew] The bull case: the economy is strong and money is rotating into the rest of the market rather than leaving it. The bear case: the market's biggest stocks are the ones whose A.I. spending is now in question. Amazon, Intel and Coinbase report after the bell.
+> source: Yahoo Finance live coverage (Oct 29, 12:40 PM ET); AP markets report (Oct 29, 12:32 PM ET); Reuters via Yahoo Finance (Oct 29); Benzinga midday report (Oct 29, 12:22 PM ET); 24/7 Wall St. midday (Oct 29)
+
+## Technology | sting=tech
+// Story 7: Alexa for Shopping
+[andrew] Story seven, tech. Amazon's A.I. shopping assistant, Alexa for Shopping, can now edit your grocery lists and gift registries, manage recurring deliveries, and answer questions about refunds, for shoppers in the U.S. It's another step toward assistants that act on your account rather than just answer questions, and it arrives the same day Amazon reports earnings.
+> source: The Verge on Alexa for Shopping (Oct 29)
+
+## Artificial Intelligence | sting=ai
+// Story 8: Claude Enterprise ROI tools
+[andrew] Story eight, A.I. Anthropic has added three tools to Claude Enterprise that show companies how their staff are using it and help them estimate the return on what they're spending. It's a timely move, given that, as you just heard, investors are asking exactly that question about A.I. spending. The company's still-pending stock market listing, filed this week, keeps the spotlight on how its business customers measure value.
+> source: ZDNET on Claude Enterprise ROI features (Oct 29); AP and Bloomberg on Anthropic's IPO filing (Oct 28-29)
+
+## Cybersecurity | sting=cyber
+// Story 9: Fragnesia
+[ava] Story nine, cyber desk. The federal Cybersecurity and Infrastructure Security Agency is ordering agencies to patch a Linux kernel flaw nicknamed Fragnesia by Saturday, because attackers are chaining it with the two critical PHP flaws known as PHP2Shell. The PHP bugs let an outsider run code on a web server, and Fragnesia then turns that into full root control. If you run websites on PHP, the fixes are PHP eight point five point twelve or the matching updates for older versions, plus a current Linux kernel.
+> source: BleepingComputer on CISA and Fragnesia (Oct 29); CISA KEV additions (Oct 26 and Oct 28); CISA PHP alert (updated Oct 26)
+
+## From Your X Feed | sting=x
+[ava] From your X feed this hour.
+[andrew] The Hacker News flagged another serious Linux bug: a flaw in the kernel's networking code rated nine point eight out of ten, which Anthropic says its A.I. turned into a remote takeover exploit in the lab on servers using a feature called multipath T C P. There are no reports of it being used in real attacks, Debian and others have fixes, but Ubuntu and Red Hat hadn't shipped them yet.
+[andrew] The Hacker News also warned that fake Chat G P T and Claude desktop apps hosted on GitHub are installing crypto-mining malware, so download those apps only from the companies' own sites.
+[andrew] D H H, the creator of Ruby on Rails, was excited about a Word and Excel style office suite reimagined for Linux with full file compatibility, wondering if Linux users even need a Microsoft port anymore.
+[ava] Jonathan Turley, who calls himself a serious coffee drinker, says he's met his match: one of his law students brings a full mobile barista setup to class to weigh, grind and brew fresh cups through the day.
+[ava] And an Interesting account shared that strangers have raised thousands of dollars for a Red Baron pizza stocker named Walt, who snapped at an Instagram prankster while stocking store shelves. Walt says he's blown away by how much people care.
+> source: Harry's X home timeline, Oct 29 midday (@TheHackersNews, @dhh, @JonathanTurley, @interesting_aIl); The Hacker News and pwn.watch on CVE-2026-98432 (Oct 29)
+
+## Local News & Events | sting=local
+// Story 10: Third Avenue redesign
+[ava] Story ten, here in New York. The city is reviving the Third Avenue redesign in Sunset Park, Brooklyn, under the Gowanus Expressway: cutting six to eight car lanes down to four, adding barrier-protected bike lanes along the center median, and pedestrian islands that shorten crossings by up to half. Parking stays on both sides. Seventeen people have been killed on the stretch in the past decade. Work starts next year between sixty-second and forty-third streets, with the full corridor due by the end of twenty twenty-eight. Supporters say it's overdue; some local leaders doubt it solves the heavy truck traffic.
+// Story 11: Early voting
+[ava] Story eleven. Early voting in the city hit nearly two hundred ninety-five thousand ballots in its first four days, about seventy-two percent ahead of the same point in twenty twenty-two, with the Bronx nearly doubling its pace. Early voting runs through Sunday, with Election Day Tuesday. And a free outdoor movie tonight at Central Park's Wollman Rink, seven to ten.
+> source: New York Explained daily brief (Oct 29), citing Brooklyn Paper, Streetsblog and the NYC Board of Elections
+
+## Uplifting Story | sting=feel
+[ava] And finally, from the South Bronx. The tallest mural in the United States now climbs more than three hundred seven feet up a public housing tower, the Morrisania Air Rights building. Artist Angurria built it from five months of workshops with residents, and when a local girl asked to see a woman who wears a hijab like her, one went up. The residents' association president said they hoped for the tallest mural in the Bronx, and ended up with the tallest in the country.
+> source: Bronx Times via New York Explained (Oct 29)
+
+## Close | sting=close
+[ava] That's your Thursday one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Amazon reports after the bell.
+[ava] Ask your Gumshoe for more on any story.
