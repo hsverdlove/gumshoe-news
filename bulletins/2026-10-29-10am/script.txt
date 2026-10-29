@@ -1,0 +1,74 @@
+// Gumshoe script format: see README.md
+# title: Thursday 10 AM Update, Oct 29
+# description: The Thursday ten o'clock update from Gumshoe News Radio for October 29, 2026: New York City conditions through tomorrow morning; Alaska's governor orders a probe of the spoiler-candidate allegations, and AP reports the U.S. warned allies to prepare for possible Iran strikes after the midterms; Israel's count of soldiers' and diplomats' ballots, the Dnipro toll rises, and Philippine-China friction at ASEAN defense talks; markets at the open after hotter inflation and stronger growth, Alphabet's plunge and the ECB on hold; Reddit's new For You feed and Nvidia's open transcription model; Google's Gemini 4 Carbon for cyber defenders; a leak of DHS staff records and suspected hacking of base freezers; your X feed; a deadly Brooklyn crash as the city starts its Dusk and Darkness safety push; and a stranger's lunch gift in South Korea. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's ten o'clock on Thursday, October twenty-ninth, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Hotter inflation, stronger growth, and Alphabet's slide is dragging tech lower. I'll have it all.
+[ava] First, conditions around New York City through this time tomorrow.
+@weather
+> source: National Weather Service forecast for New York, NY (api.weather.gov), retrieved Oct 29 at airtime
+
+## US News | sting=us
+// Story 1: Alaska probe (development of aired story)
+[ava] In Alaska, Republican Governor Mike Dunleavy has ordered the state's Department of Public Safety to investigate whether Democrat Mary Peltola's Senate campaign broke state law by helping recruit a little-known candidate who shares Senator Dan Sullivan's name, which critics say was meant to confuse voters. The governor says the probe should decide whether criminal charges or civil action are warranted. It follows President Trump's call for a criminal investigation. Peltola's campaign and the Democratic Senatorial Campaign Committee deny any involvement, and it comes five days before the election.
+// Story 2: AP on Iran strike warning
+[ava] And the Associated Press, citing officials, reports the U.S. has told Middle East allies to prepare for possible renewed strikes on Iran after next Tuesday's midterms, and for retaliation by Iran or its proxies against energy sites and other infrastructure. Officials say the President hasn't decided, and a new operation could last several days. That sits alongside this morning's reports of ongoing talks toward a temporary deal, so both tracks appear to be running at once.
+> source: AP on the Alaska probe (Oct 29); ABC News (Oct 29); BBC News (Oct 29); The Guardian (Oct 29); AP via The Hill and The Washington Post on the Iran warning to allies (Oct 28-29)
+
+## International | sting=world
+// Story 3: Israel count
+[ava] Overseas, Israel's election committee has counted roughly half of the nearly five hundred thousand double-envelope ballots from soldiers, diplomats and others, with the rest expected later today. Projections still show Benjamin Netanyahu's bloc at fifty-three seats and Gadi Eisenkot's bloc at forty-eight, short of the sixty-one either side needs. Qatar today called accusations that it interfered in the election ridiculous and dangerous.
+// Story 4: Dnipro toll
+[ava] In Ukraine, the death toll from this morning's Russian drone strike on a crowded platform at Dnipro's train station has risen to fourteen, with at least fourteen injured, including an eleven-year-old boy.
+// Story 5: Philippines and China
+[ava] And in Asia, tensions between the Philippines and China flared at the close of a Southeast Asian defense meeting in Cebu. Beijing accused Manila of obstructing its participation; the Philippines says China was able to present its views. Philippine forces also report fifty-four Chinese vessels in disputed waters last week, up from thirty-one the week before.
+> source: Anadolu Agency on Israel's double-envelope count (Oct 29); The Guardian Israel live (Oct 29); Interfax-Ukraine, Kyiv Post and DW on Dnipro (Oct 29); The Straits Times and Philstar on the ASEAN meeting (Oct 29); GMA News on vessel counts (Oct 29)
+
+## Markets | sting=markets
+[andrew] Markets, in depth. Stocks opened lower: about half an hour in, the S and P five hundred was down six-tenths of a percent, headed for its first loss in four days, the Dow off about two hundred points, and the Nasdaq down nearly two percent.
+[andrew] The eight-thirty numbers cut both ways. The economy grew at a three point four percent annual pace last quarter, faster than the three point two expected and well up from two point two in the spring, led by consumer spending and business investment. But the Fed's preferred inflation gauge ran hot as expected: prices up three point six percent from a year ago in September, the core rate three point one, both rising from August, with energy driving the headline number. That's an awkward pair for the Fed, which held rates at three and three-quarters to four percent yesterday, with two officials voting for a hike.
+[andrew] The big mover is Alphabet, down roughly eleven to thirteen percent in early trading on its earnings miss and nine billion dollars of negative free cash flow, and it's pulling chip and A.I. stocks with it. Microsoft has given back much of its overnight gain in the tech selloff. Bonds are acting as the safe haven: the ten-year Treasury yield is around five percent, slightly lower, and Brent crude slipped to about a hundred and eleven dollars on the Iran diplomacy reports.
+[andrew] In Europe, the E.C.B. held its deposit rate at two and a half percent but warned surging energy prices raise inflation risks, and traders read that as keeping a December hike in play. The euro fell to its lowest since May. After the bell, Amazon reports, along with Coinbase and Intel. The bull case: growth is strong and Microsoft shows A.I. spending can pay. The bear case: inflation is stuck well above target and Alphabet shows how fast the spending can eat cash.
+> source: AP markets report (Oct 29, 9:35 AM ET); Bureau of Economic Analysis Q3 GDP advance estimate (Oct 29); CNBC on September PCE (Oct 29); Charles Schwab market update (Oct 29); Bloomberg via Swissinfo (Oct 29); Saxo Bank market quick take (Oct 29); ECB monetary policy decision and CNBC, Reuters via Euronext (Oct 29)
+
+## Technology | sting=tech
+// Story 6: Reddit For You
+[andrew] Tech. Reddit is rolling out two new home feeds: For You, which mixes posts from communities you've joined with recommendations based on your interests, and Following, which sticks only to the communities you chose. The app remembers which one you used last, and it's reaching everyone over the next few weeks.
+// Story 7: Nvidia transcription
+[andrew] And Nvidia released Nemotron three point five Transcribe, a free, open model that turns recordings into text in forty languages, translates in thirty-one, labels up to eight speakers, and handles recordings up to an hour long. It's for recorded audio, not live streams, and companies can use it commercially.
+> source: Reddit announcement and The Verge on the For You feed (Oct 28-29); TechCrunch on Nvidia's open transcription model (Oct 28); NVIDIA Nemotron 3.5 Transcribe research page
+
+## Artificial Intelligence | sting=ai
+// Story 8: Gemini 4 Carbon
+[andrew] In A.I., Google introduced Gemini four Carbon, a model built to help defenders find software flaws, check whether they can be exploited, and write the fixes. Google says it leads key security benchmarks, fixing about seventy-one percent of flaws in one test. For now it's only open to a vetted group of cyber defenders, with governments and critical infrastructure first in line, because the same skills could help attackers.
+> source: Google blog, Introducing Gemini 4 Carbon (Oct 29); The Hacker News and Help Net Security (Oct 29); Google DeepMind Fairwind Program page
+
+## Cybersecurity | sting=cyber
+// Story 9: DHS leak
+[ava] Cyber desk. A hacktivist group calling itself the Department of Peace has leaked records on more than forty-one thousand Homeland Security employees and contractors, mostly at Customs and Border Protection and I.C.E., including names, work phones and emails, office locations, and which internal systems each person can use. The group says it got the data through the department's Okta sign-on service and framed it as payback for stepped-up immigration enforcement. Okta says it has no evidence its systems were compromised, and D.H.S. says it's responding. WIRED reports the records include some undercover agents, raising safety concerns for officers.
+// Story 10: Base freezers
+[ava] And Reuters reports the Pentagon is treating a strange string of freezer failures at military base grocery stores as a suspected cyberattack. At least six bases saw freezers switch into defrost mode in late August, spoiling food. Investigators are working with French authorities, who are probing a similar supermarket attack. No attacker has been identified, and the cause isn't confirmed.
+> source: SecurityWeek, WIRED, CyberScoop and CNBC on the DHS leak (Oct 28-29); Reuters via Investing.com and The Straits Times on the freezer failures (Oct 29)
+
+## From Your X Feed | sting=x
+[ava] From your X feed this morning.
+[ava] Oilfield Rando found out his mom has been rage-baiting cardinals: put a fake male cardinal in the window, and the real ones will try to fight it. He called it diabolical.
+[andrew] The developer levels I O says his web-based port of the original Quake has, unexpectedly, become one of the most popular servers in the QuakeWorld community, with veterans asking him to add features.
+[andrew] The A.I. watcher kimmonismus passed along that Alibaba's Qwen team says Qwen four is coming next week. That's the company's word for now; nothing's released yet.
+[ava] And from Variety: The Diplomat is renewed for a fifth season at Netflix, and the Dune Part Three popcorn bucket comes with two sandworms, to make it easier to share.
+> source: Harry's X home timeline, Oct 29 morning (@Oilfield_Rando, @levelsio, @kimmonismus, @Variety)
+
+## Local News & Events | sting=local
+// Story 11: Brooklyn crash and Dusk and Darkness
+[ava] Here in New York, a Sanitation Department garbage truck struck and killed a thirty-year-old woman, Siobhan Lynch, as she crossed Bay Parkway at Cropsey Avenue in Brooklyn last evening, about forty minutes after sunset. The driver stayed at the scene and hasn't been charged; police are investigating. The Mamdani administration is expected to launch its Dusk and Darkness campaign today, pairing education and traffic enforcement, since the city says traffic deaths peak on fall and winter evenings. With clocks falling back early Sunday, it'll be dark an hour earlier, so drivers, slow down, and walkers, stay visible.
+> source: Gothamist on the Bay Parkway crash and Dusk and Darkness campaign (Oct 29)
+
+## Uplifting Story | sting=feel
+[ava] And finally, from Incheon, South Korea. A group of twenty-seven residents with disabilities and their caregivers sat down for a barbecue lunch, and when they went to pay, they learned a stranger at another table had already covered the bill, about four hundred twenty dollars, and even added premium beef to their order before quietly leaving. The group said it reminded them warmhearted people are still out there.
+> source: Good News Network (Oct 28)
+
+## Close | sting=close
+[ava] That's your Thursday ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Amazon reports after the bell.
+[ava] Ask your Gumshoe for more on any story.
