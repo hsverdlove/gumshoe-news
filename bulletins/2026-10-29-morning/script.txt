@@ -1,0 +1,82 @@
+// Gumshoe script format: see README.md
+# title: Thursday Morning, Oct 29
+# description: The Thursday morning bulletin from Gumshoe News Radio for October 29, 2026: the full New York City forecast with the week ahead; Judge Carter rejects the Justice Department's bid to set aside twenty thousand California ballots, and both parties make closing midterm pitches; Spain's train-crash toll rises to sixty-nine with focus on a control-center order, Israel awaits final results, Semafor reports parallel tracks of Iran diplomacy and post-midterm strike planning, a deadly Russian strike on Dnipro's train station, and Christine Lagarde's early exit from the ECB; markets in depth as Alphabet sinks and Microsoft rises ahead of inflation and GDP data; Anduril and Qualcomm's U.S.-assembled BlueChip laptop; OpenAI's GPT-6.1 Terra and Google DeepMind's Genie 4; Cisco's exploited firewall flaw, an attack on Alpine Linux's GitLab and GitHub's new npm firewall; your X feed; a deadly e-scooter fire in the Bronx, vandalism at the 9/11 Memorial and a huge weekend in the city; and a soup kitchen that opened a free dental clinic. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Thursday, October twenty-ninth, and this is Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Big tech earnings split overnight, and we get inflation and growth numbers at eight-thirty.
+[ava] First, the full forecast for New York City, with the week ahead.
+@weather
+> source: National Weather Service forecast for New York, NY (api.weather.gov), retrieved Oct 29 at airtime
+
+## US News | sting=us
+// Story 1: Carter denies DOJ ballot request (development of aired story)
+[ava] We start with a ruling in the California ballot case. Judge David Carter last night denied the Justice Department's request to make California set aside the ballots of up to twenty thousand people the department calls likely noncitizens. In the end he didn't appoint the special master he'd floated. He wrote that the request would wreak havoc on an election already under way, with more than three point seven million Californians having voted, and that a segregated vote is lasting harm. The administration says it's trying to keep noncitizens from voting, as federal law requires; state and county officials say the list is riddled with errors, with an early sample turning up many people who say they were born in the U.S. The department can appeal.
+// Story 2: Closing midterm pitches
+[ava] With the midterms five days away, both parties sent their biggest names out. President Trump rallied in Chillicothe, Ohio, for Senator Jon Husted, urging supporters to vote and again attacking Alaska Democrat Mary Peltola. Former President Barack Obama campaigned in Georgia for Senator Jon Ossoff, criticizing the President's focus on personal wealth and White House renovations. An Associated Press analysis this morning finds immigration enforcement has become less of a political advantage for Republicans as more voters sour on the tactics; the White House argues the crackdown is delivering what it promised.
+> source: AP on Judge Carter's ruling (Oct 28); Politico (Oct 28); Bloomberg Law (Oct 29); ABC News on the Carter hearing (Oct 28); AP news summary on the Trump and Obama rallies (Oct 29); AP analysis on immigration politics (Oct 29)
+
+## International | sting=world
+// Story 3: Spain crash update (development of aired story)
+[ava] Overseas, the death toll from Spain's high-speed train collision near Urda has risen to sixty-nine, with fifty-eight people being treated, and Prime Minister Pedro Sánchez has declared three days of national mourning. The BBC reports audio showing that after a computer failure knocked out the line's signalling system, the rail operator's control center authorized the Renfe train to resume normal speed, despite a stop signal and a stopped Iryo train ahead. Judicial and technical investigations are under way, and no final cause has been established.
+// Story 4: Israel final count
+[ava] In Israel, final election results could come as soon as this evening, once about half a million double-envelope ballots, from soldiers, diplomats and others, are counted. Latest projections give Benjamin Netanyahu's bloc fifty-three seats, Gadi Eisenkot's bloc forty-eight, and Arab-led parties nineteen, so neither side has the sixty-one needed. Likud has accused Arab-led parties of fraud; the election committee reports few irregularities, and critics call the claims an attempt to delegitimize Arab voters.
+// Story 5: Iran: Semafor
+[ava] On Iran, Semafor reports the administration is negotiating toward a temporary peace deal, and the President acknowledged that Vice President Vance wrote to Tehran, though he played it down as humanitarian. The same official told Semafor the military could resume strikes shortly after the midterms if talks fail, with many in the administration skeptical and the President the most open to it. Separately, Al Arabiya reports Iran wants to shorten the proposed seven-day plan to four days, with mediators discussing a meeting in Turkey before November fourth. None of this is officially confirmed.
+// Story 6: Dnipro strike
+[ava] In Ukraine, a Russian jet-powered drone struck a platform at Dnipro's railway station this morning as a train prepared to leave for Zaporizhzhia, killing at least thirteen people and injuring at least five. Officials say people were still on the platform despite an air-raid alert.
+// Story 7: Lagarde
+[ava] And in Frankfurt, European Central Bank President Christine Lagarde says she'll step down on February seventh, about nine months before her term ends. The bank gave no reason; the hunt for a successor starts today. The E.C.B. announces its rate decision later this morning and is expected to hold.
+> source: BBC News on the Urda crash and control-center audio (Oct 29); AP on the Spain crash (Oct 29); Euronews (Oct 29); AP and Ynetnews on Israel's count (Oct 29); The Guardian live (Oct 29); The Jerusalem Post (Oct 29); Semafor on Iran (Oct 29); Al Arabiya English on the shortened peace plan (Oct 29); Kyiv Independent and CNN on the Dnipro strike (Oct 29); ECB press release, AP and CNBC on Lagarde (Oct 29)
+
+## Markets | sting=markets
+[andrew] Markets, in depth. Futures are split: Dow futures up about three-tenths of a percent, S and P futures down about four-tenths, and Nasdaq one hundred futures down more than one percent.
+[andrew] The reason is Alphabet, down about ten percent before the bell. If that holds, it's the biggest post-earnings drop since it went public, erasing roughly four hundred billion dollars in value. Earnings of two dollars twelve a share missed estimates of about three dollars, search revenue came in light, and free cash flow went deeply negative, minus nine billion dollars, as A.I. spending surged, while Google kept its full-year capital spending plan of a hundred ninety-five to two hundred five billion. To be fair to Google, its cloud business beat expectations handily.
+[andrew] Microsoft went the other way, up three and a half to four percent. Revenue of about ninety-two billion dollars and its cloud business beat, its capital spending came in below forecasts, and free cash flow stayed positive. One analyst summed it up: Microsoft is building out in a measured way, while Alphabet had a messy quarter. The selloff spilled into chips overnight, with Nvidia, A.M.D. and Micron lower after hours, and Samsung fell four percent in Seoul despite a fifteen-fold jump in chip profit.
+[andrew] At eight-thirty: September's P.C.E. inflation index, the Fed's preferred gauge, expected to show prices up three point six percent from a year ago, and core up three point one. We also get the first estimate of third-quarter growth, expected at about three point two percent annualized, plus weekly jobless claims. Oil dipped on the Iran diplomacy report. After the close, Amazon reports, and Eli Lilly, Mastercard, Caterpillar and Intel are on deck today too. Bulls see Microsoft as proof A.I. can pay; bears see Alphabet as the warning about cash burn.
+> source: Yahoo Finance live (Oct 29); CNBC on Alphabet and Microsoft (Oct 29); Reuters via Investing.com (Oct 29, 6:00 AM ET); Newsquawk US market open (Oct 29); FXStreet (Oct 29); InvestingLive on oil and the Semafor report (Oct 29)
+
+## Technology | sting=tech
+// Story 8: Anduril BlueChip
+[andrew] Tech. Palmer Luckey's defense company Anduril and Qualcomm have unveiled BlueChip, a rugged laptop for the military, government and first responders that they say will be designed and assembled in the U.S., with circuit boards built at Anduril's Ohio plant and Snapdragon chips partly made in Arizona. Orders are planned for twenty twenty-seven. The Verge points out the prototype is only about a third U.S.-origin by content, though Anduril now says the launch model will clear the sixty-five percent Buy American bar. Luckey says it'll cost only about twenty percent more than a comparable high-end laptop.
+> source: TechCrunch on BlueChip (Oct 27); Anduril announcement; The Verge on BlueChip's U.S. content (Oct 2026); Reuters via StreetInsider
+
+## Artificial Intelligence | sting=ai
+// Story 9: GPT-6.1 Terra
+[andrew] In A.I., OpenAI released GPT-6.1 Terra, a cheaper model for coding, writing, image understanding and operating a computer, at about half the price of its bigger sibling and with a context window over a million tokens. Early benchmarks put it a bit behind OpenAI's top model on vision and noticeably weaker on command-line tasks.
+// Story 10: Genie 4 and OpenAI science claims
+[andrew] Google DeepMind showed off Genie 4, a research preview that generates interactive virtual worlds in real time, now with sound, music and dialogue you can steer by talking to it. And OpenAI says its models produced results on three hard science problems, including the Kakeya conjecture in math. Those claims still need review by outside experts.
+> source: AIBriefs daily briefing (Oct 29), summarizing OpenAI's GPT-6.1 Terra release, Google DeepMind's Genie 4 announcement, and OpenAI's science results; OpenAI Newsroom
+
+## Cybersecurity | sting=cyber
+// Story 11: Cisco ASA
+[ava] Cyber desk. Cisco has patched a firewall flaw that attackers are already exploiting. It lets someone with no login remotely crash Cisco's A.S.A. and Firepower firewalls through their remote-access V.P.N., knocking networks offline. SecurityWeek says it's the second zero-day in Cisco's firewall V.P.N. since August. If you run one, update now; there's no complete workaround.
+// Story 12: Alpine and GitHub npm firewall
+[ava] The Hacker News reports someone tried a top-severity remote-takeover exploit against the GitLab server of Alpine Linux, a popular base for software containers. Alpine had updated GitLab, but an unpatched Ruby component left it exposed, so it rebuilt the server and reset all passwords. On the defense side, GitHub launched a preview of an npm package firewall for enterprise customers that blocks malicious or risky JavaScript packages before they're installed.
+> source: The Hacker News on Cisco's exploited ASA/FTD flaw (Oct 29); Cisco security advisory; SecurityWeek (Oct 2026); The Hacker News on Alpine Linux's GitLab server and GitHub's npm firewall (Oct 29)
+
+## From Your X Feed | sting=x
+[ava] From your X feed this morning.
+[andrew] Interesting All says Rockstar built a smell system into G.T.A. Six, so Jason and Lucia grimace and recoil at foul odors. Gamers will have to wait to sniff that one out themselves.
+[ava] Variety has Toho's C.E.O. at the Tokyo festival saying Godzilla Minus One's American success wasn't a strategy; they just tried.
+[ava] Also from Variety: Sadie Sink and Maya Hawke star in a Prada campaign hand-drawn by the veteran Disney animator John Pomeroy.
+[andrew] And Engineers Feed passed along an old joke: cycling is bad for the economy, because cyclists don't buy cars, gas or parking, and they're healthy. Walking's even worse; they don't even buy a bike.
+> source: Harry's X home timeline, overnight Oct 29 (@interesting_aIl, @Variety, @engineers_feed)
+
+## Local News & Events | sting=local
+// Story 13: Bronx fire
+[ava] Here in New York, a sad story from the Bronx. A ten-year-old boy, Zion Maine, died after an e-scooter's lithium-ion battery caught fire near the front door of his family's eleventh-floor apartment at the Patterson Houses in Mott Haven early Wednesday, trapping them inside. Four relatives remain hospitalized in critical condition. Fire officials say these batteries have caused hundreds of fires in the city this year; never charge or store them by an exit.
+// Story 14: 9/11 Memorial
+[ava] Police arrested a man who spray-painted over dozens of victims' names at the North Pool of the 9/11 Memorial in a stunt promoting his gun-control website. He's charged with criminal mischief and graffiti. The memorial says the area was quickly restored, and leaders across the spectrum condemned it.
+// Events
+[ava] And it's a huge weekend. Early voting runs through Sunday, with Election Day Tuesday. Saturday is the fifty-third Village Halloween Parade, stepping off at seven from Canal Street and Sixth Avenue, with A and C trains rerouted. Sunday is the New York City Marathon, marking fifty years of the five-borough course, with more than fifty thousand runners and road closures. And clocks fall back an hour early Sunday morning.
+> source: ABC7 New York on the Mott Haven fire (Oct 29); NBC New York on the 9/11 Memorial vandalism (Oct 28); Gothamist weekend guide (Oct 26); NYC Village Halloween Parade
+
+## Uplifting Story | sting=feel
+[ava] And finally, from Greenville, North Carolina. The JOY Community Center and Soup Kitchen noticed a regular guest couldn't chew the pork chops at dinner and asked for a peanut butter sandwich instead. Its director, a former paramedic, decided a soup kitchen should fix teeth too. Now, with a veteran orthodontist, it has opened what they say is the state's first permanent free dental clinic, with two exam rooms and an X-ray machine. On its first surgery day it saw eight patients and pulled eighteen infected teeth, and five came back just to hug the staff. As the director put it, you can't feed people who can't chew.
+> source: WITN on the JOY Dental Clinic in Greenville, N.C. (Oct 28)
+
+## Close | sting=close
+[ava] One more thing: on this day in nineteen twenty-nine, Black Tuesday, the stock market crashed, a turning point into the Great Depression. That's your Thursday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. Inflation and growth numbers at eight-thirty, Amazon after the bell.
+[ava] Ask your Gumshoe for more on any story.
