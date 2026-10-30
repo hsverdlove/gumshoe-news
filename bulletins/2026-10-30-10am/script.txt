@@ -1,0 +1,76 @@
+// Gumshoe script format: see README.md
+# title: Friday 10 AM Update, Oct 30
+# description: The Friday ten o'clock update from Gumshoe News Radio for October 30, 2026: Londonderry conditions through tomorrow morning; the Pentagon refers a fired three-star general for possible prosecution over leaks, early voting runs far ahead of 2022, and a Massachusetts officer's murder trial; Russia's Novaya Gazeta says it's being forced to close, limpet mines on a Hormuz tanker, and Canada and the E.U. launch a new alliance; markets at the open as Intel and Amazon lead a tech rout while Exxon and Chevron beat; SpaceX's filing points to Anthropic as its biggest customer; Wikipedia's operator weighs in on the Times-OpenAI copyright fight; a backdoored Claude Code extension in Cursor's marketplace; your X feed; live music and the end of daylight saving time here in New Hampshire; and a strawberry farmer who became a mentor by accident. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's ten o'clock on Friday, October thirtieth, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. The opening bell made it official: tech is getting hammered, with Intel on pace for one of its worst days ever.
+[ava] We'll get there. First, conditions in Londonderry through this time tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Oct 30 at airtime
+
+## US News | sting=us
+// Story 1: Fired general referred for prosecution
+[ava] Story one. The Pentagon has referred a fired three-star general to the Justice Department over alleged leaks. Defense Secretary Pete Hegseth removed Army Lieutenant General Brett Sylvia this week as the Joint Staff's top planner. Axios, citing an internal investigative report, says Sylvia failed four polygraph tests and then admitted on video to sharing classified information about Ukraine aid and Iran with two reporters, partly over Signal and once at a diner in Arlington, Virginia. No charges have been filed, and Sylvia hasn't commented. The Pentagon says it acted to protect sensitive information; some colleagues and critics question the allegations and see a wider purge of senior officers, coming as the President weighs renewed strikes on Iran.
+// Story 2: Early voting
+[ava] Story two. An A P analysis finds more than forty-three million Americans have already voted, nearly ten million more than at this point in twenty twenty-two, with the biggest jumps in Senate battlegrounds like Texas, Maine, Michigan and North Carolina. One caution: more early votes doesn't necessarily mean higher total turnout, and it doesn't tell us who's ahead.
+// Story 3: Birchmore trial
+[ava] And story three, from just south of us. Former Stoughton, Massachusetts, police detective Matthew Farwell is on federal trial, accused of strangling Sandra Birchmore in twenty twenty-one and staging it as a suicide, which is how local police first ruled it. Prosecutors say he wanted to hide a sexual relationship that began when she was fifteen. He's presumed innocent.
+> source: Axios, "Fired general admitted to leaking classified Iran and Ukraine info, report says" (Oct 29); AP and The Washington Post on the criminal referral (Oct 29); The Seattle Times/AP on colleagues' reaction (Oct 29); AP analysis of early voting via WTOP and The Boston Globe (Oct 30); AP on the Farwell trial (Oct 30)
+
+## International | sting=world
+// Story 4: Novaya Gazeta
+[ava] Story four. Novaya Gazeta, Russia's best-known independent newspaper, says authorities are forcing it to close. "We have been killed," its editors wrote; on November ninth they'll turn off the lights in their Moscow office of thirty years and shut down the servers. Founded with part of Mikhail Gorbachev's Nobel Prize money, the paper lost several journalists, including Anna Politkovskaya, to killings. It says its website was blocked, its license revoked, its office is being evicted, and an editor is under house arrest awaiting trial. Moscow labels it a foreign agent, which it says guards against outside interference; critics say the label silences dissent. An exile edition, Novaya Gazeta Europe, will carry on.
+// Story 5: Hormuz limpet mines (development)
+[ava] Story five, an update on that tanker fire in the Strait of Hormuz we mentioned this morning. Britain's maritime security agency, U K M T O, now says a small boat attached two explosive devices to the ship's hull, which maritime security sources describe as limpet mines, about twenty-five nautical miles northeast of Khasab, Oman. The blasts briefly disabled the tanker; the crew is safe and the ship continued to port. Analysts call it the first known successful attack of its kind since the war began, and no one has been officially blamed. Semafor reports many in the administration are skeptical a deal with Iran can be reached.
+// Story 6: Canada-EU alliance
+[ava] And story six. At a summit in Montreal, Prime Minister Mark Carney and European Union leaders launched what they're calling an Alliance for the Future, covering trade, critical minerals, defense and research, with a digital trade deal expected today. A floated idea of associate E.U. membership for Canada was dropped. The A P frames it as hedging against U.S. trade pressure; the Trump administration says its tariffs are about fairer deals for American workers.
+> source: Reuters via NBC News, The Guardian, RFE/RL and Novaya Gazeta's statement (Oct 30); gCaptain, Al Arabiya and Maritime Executive on the UKMTO report (Oct 30); StoneX morning commentary (Oct 30); Semafor (Oct 30); AP, France 24 and Global News on the Canada-EU summit (Oct 29-30)
+
+## Markets | sting=markets
+[andrew] Markets, about half an hour into the last trading day of October. The Nasdaq opened at its lowest level in more than two months, down about two and a quarter percent, and the losses have grown to roughly two and a half. The S and P five hundred is down about one and a quarter percent and on track to wipe out its October gain, even though it set a record high this month. The Dow opened slightly higher but has slipped into the red.
+[andrew] Intel is the headline, down as much as twenty-nine percent, briefly on pace for its worst day since nineteen seventy-four. Its quarter beat, but it guided fourth-quarter revenue well below forecasts, blaming a P C slump worsened by memory shortages. That's dragging Dell down about twelve percent and H P about ten. A M D is off around eight, Nvidia about three, and Amazon between four and seven percent.
+[andrew] The other side of the ledger: energy. Exxon earned fifteen point four billion dollars in the quarter and Chevron nine point nine billion, both beating estimates on record U.S. refinery runs and very tight diesel markets. Both stocks are up about two percent.
+[andrew] Treasuries are rallying a bit, with the ten-year yield around four point nine three percent and the two-year near four point six. Brent crude is up about two percent near a hundred thirteen dollars, with U.S. crude at a six-week high just under a hundred four, after the Hormuz attack. Gold has dropped below four thousand dollars an ounce, and Bitcoin is steadier around seventy-eight thousand after yesterday's slide on the Binance hack.
+[andrew] The driver remains whether the A.I. spending boom pays off, with markets also pricing more than half a point of Fed rate hikes by mid twenty twenty-seven. Bulls note A.I. demand itself looks strong. Next week: Apple, Palantir, A M D and Qualcomm report.
+> source: Reuters via Investing.com, "Nasdaq tumbles at open as Amazon, Intel add to AI spending woes" (Oct 30, 9:39 AM ET); AP markets coverage (Oct 30, 9:52 AM ET); Yahoo Finance live coverage and "Intel plunges as much as 26%" (Oct 30); Benzinga on Dell and HP (Oct 30); ExxonMobil and Chevron Q3 releases and CNBC (Oct 30); StoneX morning commentary (Oct 30); Reuters via Yahoo Finance on Fed pricing (Oct 30)
+
+## Technology | sting=tech
+// Story 7: SpaceX's Customer B
+[andrew] Story seven, tech. SpaceX's latest quarterly filing says a single unnamed client, "Customer B," accounted for thirty-four and a half percent of its revenue last quarter, all in its A.I. computing business. Bloomberg reports that customer is Anthropic, renting compute under deals worth up to a hundred twenty billion dollars through twenty twenty-nine; neither company has confirmed it. Bulls see SpaceX becoming an A.I. infrastructure company. Skeptics see a lot riding on one customer whose contracts can be cut back after early twenty twenty-seven.
+[andrew] Also, Apple has quietly bought Ascend dot I O, a startup that builds A.I. agents for data engineering. The deal surfaced in a disclosure required under Europe's Digital Markets Act.
+> source: SpaceX Form 10-Q (SEC, Q3 2026); Bloomberg and Investing.com on Customer B (Oct 29); The Verge and 9to5Mac on Apple's Ascend.io acquisition (Oct 30)
+
+## Artificial Intelligence | sting=ai
+// Story 8: Wikimedia copyright brief
+[andrew] Story eight, A.I. The Wikimedia Foundation, which runs Wikipedia, has filed a friend-of-the-court brief in the New York Times and other publishers' copyright lawsuits against OpenAI and Microsoft, and it's taking neither side. Wikimedia argues that training A.I. models on copyrighted work should count as fair use when the result is something genuinely new. But when a chatbot reproduces articles in place of the original, it says that should require a license, including Wikipedia's own requirement to give credit. The Times wants a narrower reading of fair use, while OpenAI calls regurgitation a rare bug. Wikimedia's worry is that an all-or-nothing ruling either hobbles useful tools or drains the volunteer web.
+> source: The Verge, "Wikipedia's operator says a bad AI copyright ruling could threaten the open web" (Oct 30); Wikimedia Foundation statement (Oct 30)
+
+## Cybersecurity | sting=cyber
+// Story 9: Backdoored Claude Code extension
+[ava] Story nine, cyber desk, and this one's for developers. A tampered version of Anthropic's Claude Code extension, version two point one point three one three, was served through Cursor's extension marketplace for about eleven hours on Thursday, from roughly five-thirty in the morning to four-thirty in the afternoon Eastern. Cursor says the malicious build was not made by Anthropic, reached at most five thousand users, and that it will contact them directly. Once loaded, it collects machine details, adds an attacker's S S H key labeled "svc-telemetry," and tries to open a persistent reverse tunnel. Cursor says bugs usually stopped the tunnel without admin rights, and the attacker's server is now offline. Anthropic pulled the version, and how the build was tampered with is still unknown. Important: updating or uninstalling does not remove the payload. If you ran that version, check your S S H authorized keys, use Cursor's cleanup scripts, and rotate credentials from a clean machine.
+> source: Cursor security notice on Anthropic.claude-code 2.1.313 (Oct 29-30); Help Net Security (Oct 30); The Verge (Oct 30); Coralogix threat advisory (Oct 30); oss-security mailing list (Oct 30)
+
+## From Your X Feed | sting=x
+[ava] From your X feed this morning.
+[ava] Variety reports the sixth book in Sarah J. Maas's A Court of Thorns and Roses series sold one point seven million copies on its first day, a release-day record for her.
+[andrew] Autoblog crunched the numbers and found leasing a Dodge Charger Daytona electric costs about twice as much as the gas-powered Scat Pack. It also spotlighted an Audi Quattro restomod that swaps the famous five-cylinder for a V8 that revs to ten thousand R P M.
+[ava] Twenty-five Years Ago Live reminds us Michael Jackson released his final studio album, Invincible, on this date in two thousand one.
+[andrew] And slater five seven six four nine points out today is National Candy Corn Day, which feels like a test of character.
+> source: Harry's X home timeline, Oct 30 (@Variety, @therealautoblog, @25YearsAgoLive, @slater57649)
+
+## Local News & Events | sting=local
+// Story 10: New Hampshire
+[ava] Story ten, here in New Hampshire. If you're out tonight, Londonderry has live music: Alxia at the Coach Stop at six, and Last Kid Picked at the Stumble Inn at eight. Tomorrow, Halloween night, it's John Chouinard at the Coach Stop and the Mason Brothers at the Stumble Inn, and Rob and Jody play a Sunday afternoon set there at one.
+[ava] State police say a twenty-year-old Maine driver led troopers on a hundred-mile-an-hour chase on I ninety-three through Bow and Concord early Thursday, crossing a median before his pickup broke down. He faces charges including aggravated drunk driving.
+[ava] And a reminder: daylight saving time ends this Sunday at two in the morning, so set your clocks back an hour Saturday night.
+> source: Nashua Ink Link weekly entertainment report (Oct 29); WMUR on the I-93 chase (Oct 30)
+
+## Uplifting Story | sting=feel
+[ava] And finally, a small-world story from China. Years ago, a middle-schooler named He Ziqi took an English reading test about a Beijing strawberry farmer's ad, complete with a phone number. Curious, he looked it up. It was real: the farmer, Mr. Wang, had no idea his ad was an exam question, but for over a decade ten to twenty students a year had been calling him. He tells them all the same thing: study hard, be good, and come visit after you graduate. This student actually did. After getting into a Beijing university, he reconnected, and the farmer treated him to Peking duck. He's now a graduate student in artificial intelligence.
+> source: Good News Network, citing Chinese media reports (Oct 30)
+
+## Close | sting=close
+[ava] That's your Friday ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. We'll see whether the dip buyers show up before the closing bell.
+[ava] Ask your Gumshoe for more on any story.
