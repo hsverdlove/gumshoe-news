@@ -1,0 +1,79 @@
+// Gumshoe script format: see README.md
+# title: Friday 4 PM Update, Oct 30
+# description: The Friday four o'clock update from Gumshoe News Radio for October 30, 2026: Londonderry conditions through tomorrow afternoon; the Cook Political Report shifts a dozen House races toward Democrats, an appeals court again turns down the Justice Department on California ballots, the president welcomes freed American Stephen Hubbard, and a nationwide "ghost student" aid-fraud case; a standoff over Poland's top court, mixed signals on Iran, and Mayon Volcano erupts; markets near the close as the A.I. selloff caps a rough October; Meta settles another social media addiction case; Google's first A.I. answer from orbit and new ChatGPT limits for teens; an actively exploited GitLab flaw and hundreds of search-hijacking Chrome extensions; your X feed; a record-turnout forecast for New Hampshire; and superhero window washers in Pittsburgh. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's four o'clock on Friday, October thirtieth, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. The closing bell just rang on a rough day and a rough month for tech. I'll have the scorecard.
+[ava] First, conditions in Londonderry through this time tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Oct 30 at airtime
+
+## US News | sting=us
+// Story 1: Cook forecast
+[ava] Story one, with the midterms four days away. The Cook Political Report, a nonpartisan forecaster, moved twelve House races it had rated as toss-ups to leaning Democratic, and shifted several Republican-leaning seats to toss-up. Cook now projects Democrats winning a House majority, with two hundred twenty-two seats leaning their way and eighteen more that could go either way, for a possible ceiling around two hundred forty. Republicans counter that forecasts aren't votes, and some recent polls, like one in Texas, still show their candidates narrowly ahead. Turnout is the wild card, with early voting running well above twenty twenty-two.
+// Story 2: Ninth Circuit and Hubbard
+[ava] Story two. The Ninth Circuit Court of Appeals, on the same two-to-one vote as Monday, has denied the Justice Department's request for an injunction while it appeals in its case against California over roughly twenty thousand voters the department labels likely noncitizens. Legal journalist Chris Geidner first flagged the order this afternoon. The administration says it's trying to keep ineligible ballots from being counted; California and the court majority say setting those ballots aside now risks disenfranchising citizens.
+[ava] Also at the White House, President Trump hosted Stephen Hubbard in the Oval Office. Hubbard is the seventy-four-year-old retired teacher freed last week after more than four years in a Russian prison on charges he fought as a mercenary for Ukraine. Mr. Trump says there was no prisoner swap, though he has linked the release to holding off on congressionally passed sanctions on Russia; critics say that's a concession in itself.
+// Story 3: Ghost students
+[ava] And story three. The Justice Department has unveiled indictments in what it calls Operation Ghostbusters, a federal student-aid fraud scheme it ties to a network in Kenya. Prosecutors say fraudsters used stolen American identities to enroll fake "ghost students," file aid applications, and even used A.I. to complete coursework so the money kept flowing. Five people are charged, officials put losses at more than two hundred million dollars since twenty twenty-one, and they seized over seven hundred fifty thousand dollars in crypto. If you get a financial-aid notice you didn't expect, it's worth checking whether someone used your name.
+> source: The Guardian US politics live blog, citing the Cook Political Report (Oct 30, 3:39 PM ET); Chris Geidner (@chrisgeidner) on the Ninth Circuit order (Oct 30, 3:29 PM ET); Politico and AP on the Oct 26 Ninth Circuit ruling; CBS News, "Trump meeting with Stephen Hubbard at the White House" (Oct 30, 2:07 PM ET); U.S. Justice Department, Ars Technica and Inside Higher Ed on the "ghost student" indictments (Oct 29-30)
+
+## International | sting=world
+// Story 4: Poland's top court
+[ava] Story four, from Warsaw. Police entered the grounds of Poland's Constitutional Tribunal today after what they described as incidents outside, including objects thrown at officers, and the court's president was suspended. President Karol Nawrocki turned his plane around on the way to Senegal, saying the president must be in Poland at a moment like this. Opposition leader Jaroslaw Kaczynski called it a coup. Prime Minister Donald Tusk's government frames it as restoring the rule of law, after years of fighting over judges appointed under the previous nationalist government. The dispute has left the court essentially paralyzed, with each side refusing to recognize the other's judges.
+// Story 5: Iran signals
+[ava] Story five. Mixed signals on Iran. President Trump said today the war is "going to end soon," without saying how, as Qatari mediators returned to Tehran to push for a deal. Meanwhile, the head of U.S. Central Command, Admiral Brad Cooper, insisted the main shipping lanes through the Strait of Hormuz are clear of Iranian mines and that Iran's navy has been destroyed. That's a direct challenge to Iran's claim this afternoon that tankers struck mines on what it calls unauthorized routes, claims that still haven't been independently verified. Oil rose again on the uncertainty.
+// Story 6: Mayon Volcano
+[ava] And story six. In the Philippines, Mayon Volcano had what officials call a moderately explosive eruption, sending ash about three kilometers into the sky. The alert level is back up to three of five, with warnings of possible lava flows and fast-moving pyroclastic flows in the coming days or weeks, and evacuation recommended for the six-kilometer permanent danger zone.
+> source: Reuters via StreetInsider, "Polish president turns back from Senegal trip as top court chief suspended" (Oct 30, 2:18 PM ET); Euronews and Polsat News on Kaczynski and Tusk (Oct 30); CBS News Iran war live updates (Oct 30); Reuters via Al-Monitor on Iran's tanker claims (Oct 30); Philstar, Rappler and GMA News on Mayon Volcano, citing PHIVOLCS (Oct 30)
+
+## Markets | sting=markets
+[andrew] Markets, right at the close. Final figures were still settling at airtime, but late in the session the Nasdaq was down about three and a half percent, its lowest level in about three months. The S and P five hundred was down a little over two percent and the Dow more than one percent. The Nasdaq one hundred has fallen roughly ten percent from its peak, right at the edge of what traders call a correction.
+[andrew] For the month, Investopedia figured the Nasdaq was on pace for a loss around five and a half percent, its worst month since March of last year, and the S and P five hundred was down about one percent for the month. The Dow, with less tech, looked set to end October higher.
+[andrew] The day's damage: Intel fell about thirty percent, its worst day in more than four decades, after a weak outlook and a warning about cash burn. A M D and Marvell lost about twelve percent, Nvidia about five, and the chip index nearly nine. Amazon finished down only about two percent after earlier losses. Crypto stocks fell hard after the Binance hack, with Coinbase down about fourteen percent and Bitcoin near seventy-six thousand.
+[andrew] Elsewhere: the ten-year Treasury yield eased to about four point nine three percent, as Treasuries head for their best month since early last year. U.S. crude rose about two percent, to around a hundred four dollars, while gold fell more than three percent to roughly thirty-eight hundred eighty, a one-year low. One bright spot: Exxon and Chevron beat profit forecasts on record refining results.
+[andrew] The bear case: A.I. spending keeps climbing while the payoff keeps getting pushed out. The bull case, from UBS and others, is that A.I. demand is still strong and this is spending indigestion, not a collapse.
+> source: Reuters via Mint, "Wall Street slides as AI cash burn worries spark tech selloff" (Oct 30, midafternoon); Bloomberg via swissinfo, "Nasdaq 100 Slumps 10% From Peak on AI Wake-Up Call" (Oct 30, 3:07 PM ET data); Investopedia live coverage (Oct 30, 3:26 PM ET); CNBC on Intel and Amazon (Oct 30)
+
+## Technology | sting=tech
+// Story 7: Meta settles; Amazon financing
+[andrew] Story seven, tech. Meta has settled with another plaintiff in the Los Angeles social media addiction litigation, an eighteen-year-old from Mississippi, just before her trial was set to start. Terms weren't disclosed. Meta had already settled with an earlier plaintiff, so the remaining trial is against Snap alone; TikTok and YouTube settled with both. Plaintiffs say the apps were designed to hook kids; the companies deny their products cause these harms and point to their teen safety tools.
+[andrew] And Bloomberg reports Amazon has set up supplier financing arrangements to borrow as much as eighty billion dollars against the hardware it buys, to keep financial flexibility as it pours money into A.I. data centers.
+> source: Bloomberg Law, CBS News and Courthouse News on Meta's settlement (Oct 30); Bloomberg via swissinfo on Amazon's supplier financing (Oct 30)
+
+## Artificial Intelligence | sting=ai
+// Story 8: Suncatcher and ChatGPT limits
+[andrew] Story eight, A.I. Google says its Project Suncatcher prototype satellite, launched October first, has produced the first A.I. answer from a data-center-class chip in orbit. Engineers sent a prompt to its onboard Gemma model asking for a haiku about being in space, and as the satellite passed over Svalbard, Norway, back came: "Blue marble below, data streams in silent grace, starlight feeds my core." Next come tests of how the chips hold up to heat and radiation, with twin linked satellites planned for twenty twenty-seven. It's a long-term moonshot; nobody's running a data center in space anytime soon.
+[ava] Also, OpenAI says ChatGPT will tighten limits on detailed information about past mass attacks for all users, add stricter limits on weapons information for teens, and be able to end chats that show someone fixating on violence. It made more than two hundred law-enforcement referrals last quarter and will publish a safety report early next year. Privacy advocates will watch how its age-prediction system flags who counts as a teen.
+> source: Google blog, "We've received our first response from the Project Suncatcher prototype satellite" (Oct 30); OpenAI, "Community safety report and new protections for teens" (Oct 30)
+
+## Cybersecurity | sting=cyber
+// Story 9: GitLab and Chrome extensions
+[ava] Story nine, cyber desk. The Cybersecurity and Infrastructure Security Agency says attackers are now exploiting a maximum-severity GitLab flaw patched earlier this month. It lets a malicious regular expression in a pipeline configuration run code on the server. If you run your own GitLab, update to the latest patched release now.
+[ava] And researchers at Socket found three hundred nineteen Chrome extensions with about thirteen point four million installs that quietly hijacked people's searches, posing as P D F converters, safe-search tools and A.I. helpers, then routing searches through the operators' servers to collect referral fees. Worth a minute this weekend: open Chrome's extensions page, remove anything you don't recognize, and check that your search engine setting is what you chose.
+> source: BleepingComputer, "CISA says max severity GitLab flaw now exploited in the wild" (Oct 30); BleepingComputer, Socket and Malwarebytes on the search-hijacking Chrome extensions (Oct 30)
+
+## From Your X Feed | sting=x
+[ava] From your X feed this afternoon.
+[andrew] kimmonismus notes the A.I.-and-math story has shifted: last year systems hit gold-medal level on olympiad problems with known answers, and this year the action is on genuinely open problems. That's his read, and mathematicians still debate how much credit the machines deserve.
+[andrew] And for a fellow Tesla driver, Dirty Tesla reports the Tesla app finally got an update for foldable phones after years of waiting, though he says he still has to turn the phone sideways to get the full view.
+[ava] Variety had a busy afternoon: Big Little Lies season three started production this week, with just one day of filming so far; Jessica Lange hinted she may be nearing the end of her acting career; and Criminal Minds: Evolution will end with its twentieth season.
+[ava] A fun one shared by interesting underscore all: twenty years after it debuted at number two, My Chemical Romance's The Black Parade finally hit number one on the U.K. album chart, thanks to an anniversary reissue.
+[ava] And slater five seven six four nine again, overhearing a teenager doubt that parents ever wrote a ten-page report without A.I. His answer: we wrote them the night before, by hand, in cursive.
+> source: Harry's X home timeline, Oct 30 (@kimmonismus, @DirtyTesLa, @Variety, @interesting_aIl, @slater57649)
+
+## Local News & Events | sting=local
+// Story 10: NH turnout forecast
+[ava] Story ten, here in New Hampshire. Secretary of State David Scanlan is predicting record turnout for Tuesday's election, about six hundred thirty-five thousand ballots, up from roughly six hundred twenty-seven thousand in twenty twenty-two. Governor Kelly Ayotte and Democratic challenger Cinde Warmington also met for a debate covering housing, data centers and taxes. And if you vote in person, the "I Voted" stickers this year were designed by young New Hampshire artists, so you may get to pick a favorite.
+[ava] Tomorrow night is trick-or-treat in Londonderry, six to eight, and clocks fall back early Sunday.
+> source: WMUR, "Record turnout predicted for 2026 New Hampshire election" (Oct 30); WMUR on the Ayotte-Warmington debate and the NH Chronicle "I Voted" sticker feature (Oct 30); New Hampshire Magazine trick-or-treat times (2026)
+
+## Uplifting Story | sting=feel
+[ava] And finally, from Pittsburgh. Patients at U P M C Children's Hospital looked out their windows today and saw Spider-Man, Superman, Batman and Captain America rappelling down the building. It's a years-long tradition for the crew at Allegheny Window Cleaning, who suit up as superheroes to wash the hospital's windows and wave to kids inside. When one child was asked who their favorite was, the answer came fast: Spider-Man. Edward Hetrick, under the Superman cape, said his favorite part is watching the kids get super happy, and that small things like this can lighten somebody's day.
+> source: KDKA CBS Pittsburgh, "Window washers trade overalls for superhero capes at UPMC Children's Hospital" (Oct 30)
+
+## Close | sting=close
+[ava] That's your Friday four o'clock update, and the end of the work week. I'm Ava.
+[andrew] And I'm Andrew. Have a great weekend, and enjoy the extra hour of sleep Sunday.
+[ava] Ask your Gumshoe for more on any story.
