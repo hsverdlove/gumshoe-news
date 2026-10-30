@@ -1,0 +1,75 @@
+// Gumshoe script format: see README.md
+# title: Friday 1 PM Update, Oct 30
+# description: The Friday one o'clock update from Gumshoe News Radio for October 30, 2026: Londonderry conditions through tomorrow afternoon; Trump puts the Iowa and Kansas rallies back on, Pope Leo becomes the first pope to vote in a U.S. election, and a Houston ICE officer is charged in a ramming case; Iran's Revolutionary Guard claims three tankers burned in Hormuz, Oleshky's evacuation wraps up, and Salvadoran troops pour into Haiti; midday markets as the tech rout deepens and gold hits a one-year low; Foxconn teases a new OpenAI tie-up; Nvidia may back an Anthropic data center's debt and OpenAI joins a shared opt-out signal for A.I. training; a hardware wallet with a suspected spy chip and the Polymarket breach; your X feed; trick-or-treat times around southern New Hampshire; and a Texas school named for its longtime custodian. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's one o'clock on Friday, October thirtieth, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. No dip buyers yet. The tech selloff has actually gotten worse since this morning.
+[ava] We'll get to that. First, conditions in Londonderry through this time tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Oct 30 at airtime
+
+## US News | sting=us
+// Story 1: Trump rallies back on
+[ava] Story one, an update on the campaign trail. President Trump has put his Iowa and Kansas rallies back on the schedule, after the Republican National Committee had swapped them for telerallies. A person familiar with the plans tells the A P he'll now hold back-to-back rallies in both states on Sunday, with the call-in events rearranged around them. Separately, Semafor reports Republicans have asked the Federal Election Commission to investigate Mary Peltola's Alaska campaign over the spoiler-candidate controversy; Peltola has denied knowing about any such effort.
+// Story 2: Pope Leo votes
+[ava] Story two. Pope Leo the Fourteenth has become the first pope to vote in a U.S. general election. The Vatican confirmed he cast a mail-in ballot in Chicago, as any American citizen living abroad can. Leo, born Robert Prevost, holds U.S. and Peruvian citizenship and has voted whenever eligible; the Vatican framed it as civic participation. The Chicago Sun-Times first reported it. The Vatican didn't say how he voted, and the pope has publicly differed with the administration on immigration and war.
+// Story 3: Houston ICE officer charged
+[ava] And story three. In Houston, the Harris County district attorney has charged an Immigration and Customs Enforcement officer, Mario Alberto Morales, with aggravated assault with a deadly weapon. Prosecutors say he drove an unmarked car into forty-eight-year-old construction worker Miguel Parra Hernandez, and that video contradicts ICE's account. ICE says the man ran in front of the car and calls the claim that he was hit on purpose false and reckless. The officer is presumed innocent.
+> source: AP, "Trump will rally in Iowa and Kansas after initially canceling weekend trips" (Oct 30, 11:46 AM ET); Semafor on the Republican FEC request (Oct 30); AP on Pope Leo's mail-in ballot, citing the Vatican and the Chicago Sun-Times (Oct 30); AP on the Houston ICE officer charge (Oct 30); AP News Summary (Oct 30, 12:48 PM ET)
+
+## International | sting=world
+// Story 4: Hormuz tankers (development)
+[ava] Story four, from the Strait of Hormuz. Iran's Revolutionary Guard navy says three oil tankers caught fire and exploded today while using what it called unauthorized routes through the strait, and that one, a supertanker carrying about two million barrels of crude, hit a mine. Iran also claims it destroyed an unmanned U.S. vessel in the eastern part of the strait. Reuters couldn't independently verify either claim, and there's no confirmation yet from the U.S. military, so treat these as Iran's account for now. This comes on top of the limpet-mine attack on a tanker we reported this morning. Also today, Saudi Arabia says it intercepted a Houthi drone near Mecca.
+// Story 5: Oleshky evacuation done
+[ava] Story five. Officials on both sides say residents who wanted to leave the Russian-held Ukrainian town of Oleshky have now been evacuated, on day four of the local truce. A Ukrainian lawmaker says evacuees are going by bus into southern Russia, flying to Belarus, and crossing into northern Ukraine. Russia's representative says residents who chose to live in Russia were evacuated too. The White House credits first lady Melania Trump's involvement in the talks; the wider war goes on, with a deadly Russian missile strike on Kyiv late Thursday.
+// Story 6: Salvadoran troops in Haiti
+[ava] And story six. El Salvador has rushed about two thousand soldiers to Haiti, days after four Salvadoran members of the U.N.-backed force went missing in a gang ambush. Sources tell Reuters the deployment will be capped for now at twenty-five hundred. Supporters see President Nayib Bukele's tough anti-gang approach as what Haiti needs; critics worry about civilian harm, since it's not yet clear who commands the troops or what their rules of engagement are.
+> source: Reuters via Al-Monitor, "Iran's IRGC Navy says three tankers catch fire in Strait of Hormuz" (Oct 30); AP Mideast roundup (Oct 30); AP on the Oleshky evacuation (Oct 30); Reuters on the Kyiv strike and on El Salvador's Haiti deployment via Devdiscourse (Oct 29-30)
+
+## Markets | sting=markets
+[andrew] Markets at midday, and it's getting uglier. As of about twelve-thirty, the Nasdaq was down roughly two point six percent, headed for its worst day since June. The S and P five hundred was off about one point six percent and on track to erase its October gain. The Dow was down about three hundred sixty points, or seven-tenths of a percent.
+[andrew] Intel is still the epicenter, down around twenty-nine to thirty percent, flirting with its worst day since nineteen seventy-four, and Reuters says possibly its biggest one-day loss on record. Beyond the weak forecast, Intel warned it will burn cash this year. The chip index is down more than five percent, with A M D off about nine. Amazon has pared its losses to roughly two to four percent, after investors balked at a sharp cash outflow and plans to spend even more next year. Reuters says the Nasdaq one hundred is on track to lose over two trillion dollars in value this month.
+[andrew] Elsewhere: Treasury yields are falling as money looks for safety, with the ten-year near four point nine percent. Oil is up about two percent, Brent near a hundred thirteen dollars and U.S. crude around a hundred four. Gold has slid to a one-year low, a bit under thirty-nine hundred dollars an ounce, pressured by higher oil and bets on Fed rate hikes. Bitcoin is down two to three percent, near seventy-seven thousand.
+[andrew] The bear case is simple: A.I. spending is huge and the payoff is slow. The bull case is that demand for A.I. chips and servers is still strong, which brings us to tech.
+> source: AP markets coverage (Oct 30, 12:43 PM ET); Reuters via Yahoo Finance, "Nasdaq hits near three-month low" (Oct 30); Investopedia live coverage (Oct 30, 12:06 PM ET); StockTitan midday data (Oct 30, 12:00 PM ET); CNBC and Mining.com on gold (Oct 30); investingLive and RTTNews on yields and oil (Oct 30)
+
+## Technology | sting=tech
+// Story 7: Foxconn and OpenAI
+[andrew] Story seven, tech. Foxconn, the world's biggest contract electronics maker and Nvidia's main A.I. server builder, says a new collaboration with OpenAI is in the works. Chairman Young Liu met Sam Altman today and says details will come once they're settled. Liu also says A.I. is not in a bubble and expects double-digit growth next year. And Foxconn now has more than ten humanoid robots working at its Houston A.I. server plant, with plans to expand them beyond Texas. Skeptics would note a supplier has every reason to talk up demand; today's selloff shows the market wants proof of profits.
+> source: Reuters via Investing.com, "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble" (Oct 30)
+
+## Artificial Intelligence | sting=ai
+// Story 8: Nvidia and Nscale, OpenAI signal
+[andrew] Story eight, A.I. The Information reports, and Reuters relays, that Nvidia is in talks to provide billions of dollars in credit guarantees for Nscale's debt financing of a four-hundred-sixty-megawatt data center in West Virginia that Anthropic plans to use. Nothing is signed. Supporters say it gets capacity built faster; critics see another example of chipmakers financing their own customers, a loop that worries some investors.
+[andrew] Also, OpenAI says it will honor a shared signal in websites' robots dot T X T files, letting publishers tell multiple A.I. companies at once whether their content can be used to train generative models. It plans to implement it in the coming months, and existing crawler controls stay in place.
+> source: Reuters via StreetInsider and CNA, citing The Information (Oct 29-30); OpenAI, "Making it easier for websites to express AI training preferences" (Oct 30)
+
+## Cybersecurity | sting=cyber
+// Story 9: Trezor implant and Polymarket
+[ava] Story nine, cyber desk. Hardware wallet maker Trezor is warning about a suspected spy implant in a Trezor Safe Five sold by a reseller called CryptoBilis in Southeast Asia. An Indonesian buyer reportedly opened the device and found an extra circuit board with a cellular modem and antenna, apparently able to read the recovery phrase off the screen and send it out. Trezor hasn't examined the device yet, but it says don't use any unit bought through that reseller since March, and move funds to a fresh wallet if you did. The lesson: buy hardware wallets directly from the maker.
+[ava] And Polymarket briefly halted trading Thursday after a compromised third-party monitoring script pushed wallet-draining code to logged-in users. About two and a half million dollars was traced to the attacker. Trading was back within about an hour, and the company says it will reimburse affected users.
+> source: BleepingComputer, "Trezor warns of suspected crypto-theft implant in hardware wallet" (Oct 30); BleepingComputer and CNBC on the Polymarket breach (Oct 29-30)
+
+## From Your X Feed | sting=x
+[ava] From your X feed since this morning.
+[andrew] Brian Roemmele and kimmonismus are both talking up Subvocal, a startup that just raised one point three million dollars from Y Combinator and Afore for glasses that turn silently mouthed words into text. The team claims prototypes hit more than two hundred words a minute, which is their claim, not an independent test.
+[andrew] Autoblog notes Nissan's U.S. sales rose ten percent while its China sales collapsed sixty-two percent. And Michael Arouet posted a chart showing German carmakers' share of China's market roughly halved since twenty twenty, from about twenty-four percent to around twelve.
+[ava] Variety says the Dune movies are coming back to IMAX theaters, with a sneak peek of Dune Three.
+[ava] And slater five seven six four nine with some New England wisdom: nobody lets you merge in traffic, but get stuck in a snowbank and five strangers jump out to push.
+> source: Harry's X home timeline, Oct 30 (@BrianRoemmele, @kimmonismus, @therealautoblog, @MichaelAArouet, @Variety, @slater57649)
+
+## Local News & Events | sting=local
+// Story 10: Trick-or-treat times
+[ava] Story ten, here in New Hampshire, and it's all about Halloween. If you're near Manchester this afternoon, downtown trick-or-treating runs today from three to six. Tomorrow, Halloween night, Londonderry's trick-or-treat hours are six to eight, Derry's are six to seven-thirty, and Manchester's are four to seven. Check your town's site in case of changes.
+[ava] And one more reminder: clocks fall back an hour early Sunday morning.
+> source: New Hampshire Magazine trick-or-treat times (2026); WMUR New Hampshire trick-or-treat schedule (2026); Visit Manchester NH on downtown trick-or-treating (Oct 30)
+
+## Uplifting Story | sting=feel
+[ava] And finally, from Aubrey, Texas. Marilyn Hampton spent thirty-nine years as the school district's custodian, and by every account far more than that: buying school supplies for kids, helping struggling students study, running the ticket booth at football games. She was the first among her siblings to finish high school, but never went to college, and she says she sometimes felt like a failure. The school board invited her to a meeting, supposedly to talk about challenges opening a new elementary school, then asked her to roll out a red carpet. Stitched into it: Marilyn Hampton Elementary School. Through tears, she said it was an honor she never imagined in her lifetime. At seventy-six, she still helps care for the district's infants and toddlers.
+> source: Good News Network, citing WFAA and Aubrey ISD (Oct 30)
+
+## Close | sting=close
+[ava] That's your Friday one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Next stop, the closing bell, and a scorecard for a rough October.
+[ava] Ask your Gumshoe for more on any story.
