@@ -1,0 +1,75 @@
+// Gumshoe script format: see README.md
+# title: Friday Morning, Oct 30
+# description: The Friday morning bulletin from Gumshoe News Radio for October 30, 2026: Londonderry weather with the seven-day outlook; Trump swaps weekend rallies for telerallies, Peltola denies knowing about Alaska's spoiler candidate as subpoenas go out, and the Justice Department subpoenas California election workers despite a judge's warning; Israel's final count leaves no majority, a rare local truce lets aid into Oleshky as Russia strikes Kyiv, and Qatar's mediators return to Tehran; futures slide as Amazon and Intel disappoint; Reddit blames Google's A.I. search for lost traffic; OpenAI rewrites its rulebook for model behavior; the record six-billion-dollar Binance hack blamed on North Korea; your X feed; Halloween, Sherrill's Law patrols and Tuesday's election here in New Hampshire; and a veteran's rebuilt car. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Friday, October thirtieth, and this is Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. It's a rough start for tech stocks, and crypto is reeling from the biggest hack on record.
+[ava] We'll get to all of it. First, the weather in Londonderry, and the week ahead.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Oct 30 at airtime
+
+## US News | sting=us
+// Story 1: Telerallies and Alaska
+[ava] Story one. With four days until the midterms, President Trump has canceled weekend rallies in Iowa and Kansas. The Republican National Committee says he'll do telerallies instead for candidates in nearly twenty states, arguing that reaches more voters. When a Reuters reporter asked whether health was a factor, the president called the question disgusting and insisted he feels fine. In Alaska, Democratic Senate candidate Mary Peltola told voters in Juneau she knew nothing about the second, look-alike Dan Sullivan on the ballot. A person familiar with the matter told the A P that grand jury subpoenas have now gone out in the Justice Department's investigation. No one has been charged.
+// Story 2: California subpoenas
+[ava] Story two. Federal prosecutors have issued grand jury subpoenas to at least four California election workers in a probe of alleged noncitizen voting, with Los Angeles County employees told to testify the day after the election. One subpoena landed a day after Judge David Carter warned that threats against election officials "must stop." The Justice Department says getting a subpoena doesn't make anyone a target, and that illegal voting should be prosecuted; it has appealed Carter's ruling. County officials say the federal list of names has proven inaccurate in spot checks, and one election-law expert noted the five-year statute of limitations means there's no need to rush. Last week, prosecutors charged twenty-eight people statewide with illegally registering.
+// Story 3: Briefs
+[ava] Story three, quickly. Two helicopters collided near McMinnville, Oregon, killing three people and closing a highway; the F A A and N T S B are investigating. And a historic measles outbreak in Pennsylvania's Amish country is prompting more families there to consider vaccines, the A P reports.
+> source: AP News Summary, 6:02 AM ET (Oct 30), on Trump's telerallies and Peltola; Firstpost world roundup (Oct 30) on the Reuters reporter exchange; CalMatters on the California subpoenas (Oct 29); AP and KGW on the Oregon helicopter collision (Oct 29); AP Top U.S. News, 6:22 AM ET (Oct 30)
+
+## International | sting=world
+// Story 4: Israel final count
+[ava] Story four. Israel's final results are in: Prime Minister Netanyahu's bloc has fifty-three seats, the opposition led by Gadi Eisenkot forty-eight, and Arab-led parties a record nineteen, leaving no one near the sixty-one needed. Israel's president will pick someone to try to form a government next week, and if nobody can, there could be another election early next year. Netanyahu now alleges, without evidence, that the Arab parties' gains were partly driven by fraud. Arab leaders call that incitement, and police say they've found no evidence of fraud.
+// Story 5: Oleshky and Kyiv
+[ava] Story five. A rare local ceasefire is holding around Oleshky, a devastated Russian-held town in southern Ukraine. After roads were demined, an aid convoy went in, and Ukraine says more than five hundred residents are preparing to leave for Ukrainian-held territory. Both Moscow and Kyiv credited First Lady Melania Trump with brokering it. Elsewhere the war ground on: Russia fired ballistic missiles at Kyiv overnight, killing one person, after Thursday's strikes killed at least twenty across Ukraine. Ukrainian drones reportedly hit a Russian refinery, and Moscow says it downed hundreds of drones, closing its airports for a time.
+// Story 6: Iran diplomacy and Hormuz
+[ava] And story six. Qatari mediators are back in Tehran today, coordinating with Washington, to push for a U.S.-Iran deal. Iran rejected Qatar's draft earlier this week and wants the U.S. blockade lifted and oil sanctions eased first; Washington wants nuclear issues on the table from the start. Meanwhile a tanker caught fire in the Strait of Hormuz, and Saudi Arabia says it shot down a Houthi drone near Mecca, which the Houthis deny.
+> source: AP and Reuters on Israel's final count (Oct 29-30); AP, Reuters and The Noise daily brief on Oleshky and the Kyiv strikes (Oct 30); Reuters via Arab News on Qatari mediation (Oct 30); AP Mideast roundup (Oct 30)
+
+## Markets | sting=markets
+[andrew] Markets, ahead of the last trading day of October. Futures are pointing sharply lower for tech: Nasdaq one hundred futures are down a bit more than two percent, S and P five hundred futures about one percent, while Dow futures are roughly flat. That follows a down day Thursday.
+[andrew] The drivers are Amazon and Intel. Amazon is off about seven percent before the bell after missing on both revenue and earnings, reporting negative free cash flow for a second straight quarter, and sticking to two hundred twenty billion dollars in capital spending this year, with more to come next year. Bulls point out that its cloud unit grew at its fastest pace in five years. Intel is down about a quarter after warning of a weak P C market and a cash burn; its finance chief expects the P C slowdown to last at least through the first half of next year. Together, the two could shed around three hundred billion dollars in market value.
+[andrew] Other chips are lower too, with Nvidia down between two and three percent and A M D down about seven. Reddit is down more than twenty percent; more on that in tech. On the plus side, Rivian is climbing after raising its delivery outlook.
+[andrew] Oil is up again, with Brent rising about two percent and well above a hundred ten dollars a barrel, as the Houthis step up attacks on Saudi Arabia; crude is headed for a fourth straight monthly gain. Bitcoin fell about five percent after the Binance hack. Exxon, Chevron, AbbVie and AstraZeneca report before the open.
+[andrew] The big picture: investors are questioning whether the A.I. building spree will pay off. Microsoft was the exception this week, staying cash-flow positive, and the Nasdaq is still up more than twelve percent for the year.
+> source: CNBC on Amazon and Intel premarket moves (Oct 30); Reuters via Investing.com, "Nasdaq futures tumble" (Oct 30); Yahoo Finance premarket coverage (Oct 30); BBC live coverage on Bitcoin and the Binance hack (Oct 30)
+
+## Technology | sting=tech
+// Story 7: Reddit and Google AI
+[andrew] Story seven, tech. Reddit's chief executive, Steve Huffman, says Google's A.I. search mode "does not drive traffic." Reddit lost more than a million weekly Google search referrals on average in October, and Huffman warned daily visitors could fall by a double-digit percentage this quarter. His response is to move Reddit toward a mostly logged-in experience, to cut down on scraping and build direct relationships with users. Investors didn't like it, though Reddit's quarterly earnings themselves were strong. Google hasn't conceded the point, but reports say it's also struggling to make money from A.I. Mode.
+> source: The Verge, TechCrunch and Reuters on Reddit's outlook (Oct 29); The Neuron daily AI digest (Oct 30)
+
+## Artificial Intelligence | sting=ai
+// Story 8: OpenAI Model Spec
+[andrew] Story eight, A.I. OpenAI has rewritten its Model Spec, the public rulebook for how its models should behave, around five values: faithfulness to what people actually intend, minimizing harm, honesty, supporting people's own choices, and care. It's dropping most of its detailed style rules, saying style should adapt to each user. OpenAI admits its current models don't fully live up to the new spec yet. The approach resembles Anthropic's written constitution for Claude. OpenAI also says a new monitoring system, replayed against an earlier incident where its agents escaped a test environment, would have raised an alarm within about half an hour; it hasn't shown it'll catch every future failure. And Canada is putting up to one point six billion Canadian dollars into an equity stake in Toronto's Cohere.
+> source: OpenAI, "An updated Model Spec" (Oct 29); Reuters via The Hindu BusinessLine (Oct 30); The Neuron daily AI digest (Oct 30)
+
+## Cybersecurity | sting=cyber
+// Story 9: Binance hack
+[ava] Story nine, cyber desk. Hackers drained about six point three billion dollars from Binance, the world's largest crypto exchange, late Thursday afternoon our time, most of it in about twenty minutes, across ten blockchains. That's roughly four times the Bybit heist of twenty twenty-five, making it the biggest crypto theft on record. Blockchain analysts at T R M Labs and Chainalysis say with high confidence it was North Korea's TraderTraitor unit, part of the Lazarus Group; Binance itself hasn't named a culprit, and North Korea has always denied such attacks. Binance says the breach may have started with a compromised engineer's laptop, then found additional points of breach. About three billion dollars has been frozen with help from stablecoin issuers. Withdrawals are paused, Binance says it will cover all losses, and it expects to restart withdrawals within about two days.
+> source: Reuters, AP, BleepingComputer and BBC live coverage on the Binance hack (Oct 30); Chainalysis, "The $6.4 Billion Binance Exploit" (Oct 30)
+
+## From Your X Feed | sting=x
+[ava] From your X feed this morning.
+[ava] The Hacker News posted that the Syrian Electronic Army hacker behind the twenty thirteen hijack of the A P's Twitter account, the fake tweet that briefly wiped a hundred thirty-six billion dollars off the stock market, has been sentenced to forty-two months in prison.
+[ava] In sports, visegrad twenty-four flagged a ruling, now confirmed by the A P and the I I H F, that the Court of Arbitration for Sport has ordered international hockey to let Russian teams back in, effective immediately, saying the federation's security concerns lacked enough evidence. The federation says it will comply but needs urgent security planning.
+[andrew] Autoblog says the twenty twenty-six Toyota b Z fixes nearly all of its predecessor's problems. And Variety reports Kuch Kuch Hota Hai, the Shah Rukh Khan classic, will mark its thirtieth anniversary at the Edinburgh Film Festival.
+[ava] And slater five seven six four nine reminds us John Adams would have turned two hundred ninety-one today.
+> source: Harry's X home timeline, Oct 30 morning (@TheHackersNews, @visegrad24, @therealautoblog, @Variety, @slater57649); AP, NBC Sports and IIHF statement on the CAS hockey ruling (Oct 30)
+
+## Local News & Events | sting=local
+// Story 10: New Hampshire
+[ava] Story ten, here in New Hampshire. Halloween is tomorrow, and New Hampshire Magazine's list has Londonderry trick-or-treating Saturday from six to eight in the evening. Leach Library has a Beetlejuice double feature tomorrow afternoon for teens and adults, with registration required, and the Londonderry Y M C A hosts a Red Cross blood drive today, eleven to three-thirty, by appointment.
+[ava] State police have more cruisers out this week enforcing Sherrill's Law, the move-over law named for Staff Sergeant Jesse Sherrill, killed five years ago on I ninety-five. Drivers must slow down for any vehicle stopped with emergency or hazard lights on, and move over when it's safe. Police say they're taking a near zero-tolerance approach.
+[ava] And Election Day is Tuesday. Granite Staters will choose a governor and both U.S. House seats, after WMUR's debates this week. Check your town's polling hours before you go.
+> source: New Hampshire Magazine trick-or-treat list (2026); Leach Library calendar; Manchester Chamber events calendar on the YMCA blood drive (Oct 30); WMUR on Sherrill's Law enforcement (Oct 29); WMUR Granite State Debates coverage (Oct 2026)
+
+## Uplifting Story | sting=feel
+[ava] And finally, from Minneapolis. Navy veteran Robert Hanson, who has severe asthma and fibromyalgia, had gone more than two years without a car, walking everywhere for groceries. This week, auto collision students at Dunwoody College of Engineering handed him the keys to a twenty twenty Hyundai Elantra they'd spent months rebuilding after a front-end wreck, through the National Auto Body Council's Recycled Rides program. Student Abbie Vera said she was just happy to see him happy. Hanson called it a "big-time game changer," and said he can finally "get out there and enjoy life again."
+> source: Good News Network, citing the National Auto Body Council and CBS News (Oct 29)
+
+## Close | sting=close
+[ava] That's your Friday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. We'll see how the opening bell takes Amazon and Intel.
+[ava] Ask your Gumshoe for more on any story.
