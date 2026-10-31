@@ -1,0 +1,68 @@
+// Gumshoe script format: see README.md
+# title: Saturday 4 PM Update, Oct 31
+# description: The Saturday four o'clock update from Gumshoe News Radio for October 31, 2026, Halloween: Londonderry conditions through tomorrow afternoon; a federal judge throws out the President's lawsuit against the Wall Street Journal, Virginia and D.C. sue to stop the planned arch near Arlington, and a check on a viral claim about networks and a presidential address; Poland's prime minister addresses the nation and Halloween protests turn tense in Marseille; Apple passes Nvidia as the world's most valuable company and Microsoft's small computer-use model; Mistral opens the weights of its trillion-parameter model and OpenAI's new biology model for vetted researchers; an Android text message that can crash phones and a breach at Chainalysis; your X feed; a death investigation in Bow; and a bus-stop bench that made a kid jump for joy. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's four o'clock on Saturday, October thirty-first, Halloween, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. Markets are closed for the weekend, so it's tech, A.I. and security from me.
+[ava] First, trick-or-treat conditions in Londonderry, through this time tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Oct 31 at airtime
+
+## US News | sting=us
+// Story 1: WSJ suit dismissed
+[ava] Story one, just this afternoon. A federal judge in Miami, Darrin Gayles, dismissed President Trump's defamation lawsuit against the Wall Street Journal with prejudice, meaning it can't be refiled, though an appeal is still possible. The suit, which sought ten billion dollars, targeted the Journal's publisher Dow Jones, News Corp, Rupert Murdoch and two reporters over last year's story about a bawdy birthday letter bearing Mr. Trump's name in a 2003 album compiled for Jeffrey Epstein. The President has consistently denied writing the letter or drawing the sketch, and has called the story fake. An earlier version of the suit was dismissed in April with permission to amend; today's ruling ends it at the trial-court level. There's no word yet from the White House on an appeal.
+// Story 2: Arch lawsuits
+[ava] Story two. Virginia and the District of Columbia sued today to stop construction of President Trump's planned triumphal arch at Memorial Circle, the traffic island at the foot of the bridge to Arlington National Cemetery. It would rise two hundred fifty feet, about a hundred feet taller than the Statue of Liberty. The two attorneys general, Jay Jones and Brian Schwalb, argue three years of construction would snarl traffic, pollute the Potomac and slow emergency services, and that the project lacks the specific approval Congress requires and breaks the capital's height limits. It's now the third lawsuit. The administration says construction could begin as soon as next Thursday, if the National Capital Planning Commission gives final approval that day. Supporters see the arch as a fitting monument for the nation's two hundred fiftieth anniversary; Judge Tanya Chutkan is weighing whether to pause it in the first case, brought by Vietnam veterans, and says she'll move quickly.
+// Story 3: unverified network claim
+[ava] And a quick check on a claim spreading on X this afternoon: that ABC, NBC and CBS refused to air a presidential address to the nation today. We found no record of an address scheduled today. The White House schedule shows the President holding a series of phone-in tele-rallies from Palm Beach, closed to the press. The networks did decline to carry a prime-time address back in July, which may be the source of the confusion. So treat today's version as unverified.
+> source: AP, "Federal judge dismisses with prejudice Trump lawsuit against Wall Street Journal over Epstein birthday letter" (Oct 31); Reuters via Investing.com (Oct 31, 3:34 PM ET); Mediaite (Oct 31); AP and CBS News, "Virginia and D.C. sue over Trump's arch" (Oct 31); NBC News (Oct 31); Politico on Judge Chutkan's hearing (Oct 30); White House pool press schedule for Oct 31; CNN and Axios on the July 16 address coverage
+
+## International | sting=world
+// Story 4: Tusk address
+[ava] Story four, Poland. In a televised address this evening, Prime Minister Donald Tusk said there can be no compromise over the Constitutional Tribunal. He said the newly elected judges, chosen by parliament, were legally entitled to take their seats and were attacked when they tried, and that police protected the court. He blamed the opposition Law and Justice party and Presidents Duda and Nawrocki for what he called years of damage to the rule of law, and promised the government will guarantee the tribunal's safety so it can work. The other side sees it very differently: President Nawrocki never swore in the new judges, the court's sitting president refused to seat them, and opposition leaders call the government's moves lawless and want early elections. Today's cross-party talks produced no deal.
+// Story 5: Marseille
+[ava] Story five. As darkness fell on Halloween, France's youth protests turned tense in several cities. In Marseille, an undeclared march of about ten thousand people was largely peaceful, but afterward small groups clashed with riot police around the La Plaine neighborhood, throwing projectiles and setting trash bins on fire, and police answered with tear gas. Some posts online claim rioters took control of the district; local reporting describes clashes and police charges, not a takeover. The Interior Minister had warned of a high risk of disorder tonight, with about seventy thousand officers deployed nationwide.
+> source: 300polityka live, English translation of Tusk's address (Oct 31); Euronews Polska, "Orędzie Donalda Tuska ws. Trybunału Konstytucyjnego" (Oct 31); Rzeczpospolita (Oct 31); franceinfo, "à Marseille, un cortège non déclaré rassemble environ 10 000 personnes" and "des dispersions sous tension" (Oct 31); La Provence live (Oct 31); AP News Summary at 2:47 p.m. EDT (Oct 31)
+
+## Technology | sting=tech
+// Story 6: Apple vs Nvidia; Mage-VL
+[andrew] Story six, tech. Apple is once again the world's most valuable company. As of Friday's close it was worth about five point oh three trillion dollars, edging Nvidia at about four point nine three trillion, as investors grew uneasy about how much the A.I. giants are spending on data centers. Bulls on Nvidia point out its sales are still growing far faster than Apple's, so this lead could flip back quickly.
+[andrew] And Microsoft released a small, free-to-download model called Mage V L Cowork, built to operate a computer: clicking through apps or writing code to get a task done. It's just four billion parameters, small enough for a decent workstation, and Microsoft reports sixty-six percent on a standard benchmark of real desktop tasks. That's Microsoft's own number, not yet independently checked.
+> source: Bloomberg, "Apple overtakes Nvidia to become world's most valuable company" (Oct 30); Business Standard (Oct 31); Hugging Face model release via The Threshold Report (Oct 31)
+
+## Artificial Intelligence | sting=ai
+// Story 7: Mistral, Rosalind
+[andrew] Story seven, A.I. France's Mistral has released the full weights of Mistral Large 4, nicknamed Le Chonk: a one-trillion-parameter model anyone can download, run on their own hardware and fine-tune, with one catch: companies that resell it as a hosted service need a separate license. Mistral says it's now the best open model for coding and for defensive security work, though those are Mistral's own benchmarks. Mistral also admits it has seen signs the model could help with real attacks, and says it's tightening its guardrails.
+[andrew] And OpenAI has opened a new biology model, G P T Rosalind six, to vetted life-sciences researchers only, for drug discovery work, under monitoring. OpenAI says it roughly doubles its predecessor's scores on medicinal chemistry and quantitative biology tests, and rates it high risk for biological and chemical misuse, which is why access is restricted.
+> source: Mistral, "Mistral Large 4 (Le Chonk) is now open weight"; Hugging Face model card; OpenAI deployment safety page on GPT-Rosalind-6 via The Threshold Report (Oct 31)
+
+## Cybersecurity | sting=cyber
+// Story 8: SMS of Death, Chainalysis
+[ava] Story eight, cyber desk. If you have Android phones in the family, check for updates. A researcher has published working attack code for a flaw nicknamed the SMS of Death: one specially crafted text message, which never even shows up in the inbox, can crash the phone's cellular service and drop calls, including calls to 9 1 1. A burst of them can trap some phones in a reboot loop. Google quietly fixed it in October updates for Android fourteen through seventeen, but older Android twelve and thirteen phones didn't get the fix. iPhones aren't affected.
+[ava] And Chainalysis, the blockchain-tracing firm police and exchanges rely on, disclosed a breach it says was carried out with automated, A.I.-driven hacking techniques. Customer names, emails, user I.D.s and role labels were exposed; the company says it has no evidence investigation data or passwords were taken, and that it's unrelated to the Binance theft. Customers should turn on two-factor sign-in and watch for scammers posing as Chainalysis, especially anyone offering to recover lost crypto.
+> source: BleepingComputer, "New Android SMS of Death exploit can remotely crash unpatched phones" (Oct 31); BleepingComputer, "Chainalysis discloses data breach from offensive agentic techniques" (Oct 31)
+
+## From Your X Feed | sting=x
+[ava] From your X feed this afternoon.
+[andrew] For the Tesla driver: levelsio posted that they switched on the Model Y's Halloween mode, pumpkin emoji and all. Worth a look in your car's toybox tonight.
+[andrew] Autoblog says Nissan has turned the humble Sentra into a three-hundred-horsepower car it compares to a G T R wannabe, though the headline promises a big catch.
+[ava] Mike Pat spotted Urban Outfitters selling an actual Reddit moderator hat, which the internet is enjoying exactly as much as you'd expect.
+[ava] Jay Plemons argues drone light shows are making fireworks look outdated. And Variety has the winners of the Austin Film Festival's script and film competition, including titles "Paper Plane," "Helicopter" and "Old Bogus Massacre."
+[ava] And from the Fifty Years Ago Live account, a look back at the top stories of October nineteen seventy-six, as voted by its followers.
+> source: Harry's X home timeline, Oct 31 (@levelsio, @therealautoblog, @mikepat711, @jayplemons, @Variety, @50YearsAgoLive)
+
+## Local News & Events | sting=local
+// Story 9: Bow remains
+[ava] Story nine, closer to home. The Attorney General's office is investigating after a hunter found human remains early this morning in heavy brush along a power line corridor off South Bow Road in Bow. The person's identity, age and gender aren't known yet, and an autopsy is set for Sunday. Bow police say there's no threat to the public, and they're asking anyone who's been on the nearby trails in the past week to contact investigators.
+[ava] And a reminder for tonight: trick-or-treaters will be out after dark, so take it slow on neighborhood roads. Tuesday is Election Day; New Hampshire polls close by eight p.m.
+> source: WMUR, "Hunter finds human remains in Bow, prompting death investigation" (Oct 31, updated 3:32 PM ET)
+
+## Uplifting Story | sting=feel
+[ava] And finally, a small kindness. In Florida, teachers Maren and David Douglass noticed on their doorbell camera that the middle schooler whose bus stop is the end of their driveway was sitting in the dirt every morning, with no sidewalk. So they put in a bench. The camera caught her literally jumping for joy when she found it. She left them a thank-you note saying she no longer had to worry about dirt and bugs, and later, flowers. The couple added a little free library next to the bench, stocked with books, and now other kids in the neighborhood borrow from it too.
+> source: Good News Network via People, "Girl Sitting in Dirt at Bus Stop Gets Surprise Bench From Couple" (Oct 31)
+
+## Close | sting=close
+[ava] That's your Saturday four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Happy Halloween, and save me the peanut butter cups.
+[ava] Ask your Gumshoe for more on any story.
