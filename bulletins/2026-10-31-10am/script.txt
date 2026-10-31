@@ -1,0 +1,73 @@
+// Gumshoe script format: see README.md
+# title: Saturday 10 AM Update, Oct 31
+# description: The Saturday ten o'clock update from Gumshoe News Radio for October 31, 2026, Halloween: Londonderry conditions through tomorrow morning; a deadly shooting at a California Halloween store, Trump's Sunday rallies locked in, and NASA's Swift telescope nears its fall; Poland's crisis talks split the governing coalition, Iran's supreme leader threatens a swift response, Oleshky evacuees reach Ukrainian-held land, and Britain weighs a slavery apology; Google's sunlight-seeking robot planter; a near three-billion-dollar round for Kling A.I. and a UK probe of Meta's A.I. terms; Anthropic says the backdoored Claude Code extension came through Cursor's marketplace, plus the Amadeus airline breach and Cisco SD-WAN spying; your X feed; a New Hampshire mailer crackdown in the Senate race; and Karl Bushby's twenty-eight-year walk home. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's ten o'clock on Saturday, October thirty-first, Halloween, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Markets are closed, so today I've got a busy tech and A.I. desk instead.
+[ava] First, conditions in Londonderry through this time tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Oct 31 at airtime
+
+## US News | sting=us
+// Story 1: Fairfield shooting
+[ava] Story one. A shooting inside a Spirit Halloween store in Fairfield, California, late Friday left one person dead and six wounded. Police say all seven were hit by gunfire, and three of the injured are in critical condition. The store is in the Solano Town Center mall, about thirty-seven miles from Sacramento. Detectives are still interviewing witnesses and have not identified a suspect.
+// Story 2: Campaign trail
+[ava] Story two, three days to the midterms. After a day of whiplash, President Trump's Sunday rallies are firmly back on: Salina, Kansas, at two in the afternoon local time at the airport, where Senator Roger Marshall is in a tight race with Democrat Adam Hamilton, and then Dubuque, Iowa, where the Senate race between Republican Ashley Hinson and Democrat Josh Turek looks close. His team says the stops come on top of nearly twenty call-in telerallies. Both states are usually Republican strongholds but have turned competitive this year; a Trump adviser says the president simply wanted to close out the campaign in person. And an A P look at older voters finds rising health costs, Medicare changes and Social Security's long-term funding gap among their biggest worries this year.
+// Story 3: Swift telescope
+[ava] Story three, from space. NASA's Swift observatory, which spent twenty-two years watching some of the universe's biggest explosions, is close to falling back to Earth after a robotic rescue attempt failed. The Space Force projects reentry around Friday. Most of the one-and-a-half-ton telescope should burn up, though NASA says a few pieces could survive.
+> source: AP, "Shooting at Spirit Halloween store in California leaves 1 dead and 6 wounded" (Oct 31); NBC News, CNBC and the Kansas News Service via The Manhattan Mercury on the rally reversal (Oct 30); AP on older voters' health-cost concerns and on the Swift observatory (AP News Summary, Oct 31, 9:31 AM ET)
+
+## International | sting=world
+// Story 4: Poland talks (update)
+[ava] Story four, an update from Poland. This afternoon, Warsaw time, President Karol Nawrocki is holding crisis talks over last night's standoff at the Constitutional Tribunal, but the governing coalition is split on whether to show up. The centre-right Polish People's Party leader, Defense Minister Wladyslaw Kosiniak-Kamysz, is attending, and so is Szymon Holownia of the centrist Poland twenty-fifty party, who said the night's scenes brought shame on Poland and urged the president and Prime Minister Tusk to strike a deal on resetting the court. The Left party is boycotting, saying the president is himself responsible for the crisis. Tusk's justice minister backs the judges who suspended the court's president, Bogdan Swieczkowski, wants his immunity lifted, and called Nawrocki's behavior shameful. Nawrocki's camp calls it a forcible takeover. The U.S. ambassador urged all sides not to take provocative action, and the tribunal's judges are due to meet on Tuesday.
+// Story 5: Khamenei
+[ava] Story five. Iran's supreme leader, Ayatollah Mojtaba Khamenei, called for a stern and immediate military response to any American or Israeli strike, according to Iran's state news agency. That comes as Gulf leaders at a security forum in Bahrain are urging calm.
+// Story 6: Oleshky evacuees
+[ava] Story six. Evacuees from the Russian-occupied town of Oleshky have crossed into Ukrainian-held territory, after a long route through Russia and Belarus under a local ceasefire that the A P says was brokered by First Lady Melania Trump. Ukraine isn't saying how many came out, or where they crossed. The truce in the Kherson region is expected to hold through Sunday evening. Elsewhere, Russian officials say a Ukrainian drone attack killed two people in Russia's Bryansk region.
+// Story 7: UK slavery apology
+[ava] And story seven. British Prime Minister Andy Burnham says his government will consider apologizing, for the first time, for Britain's role in the trans-Atlantic slave trade, though he rejects paying reparations. He wrote that Britain must acknowledge its complicated history to protect the Commonwealth, ahead of a leaders' meeting in Antigua next week. Caribbean nations have long pressed for reparations as well, while some critics in Britain argue today's government shouldn't apologize for centuries-old wrongs.
+> source: Notes from Poland, "Polish president in physical confrontation with judges" (Oct 31); Polskie Radio English Section and Rzeczpospolita live coverage (Oct 31); AFP, "Polish president calls crisis talks after court standoff" (Oct 31); AP Mideast roundup, citing IRNA (Oct 31); AP, "Residents evacuated from Russian-occupied Oleshky reach Ukraine" (Oct 31); AP, "UK leader signals government to consider slave trade apology" (Oct 31)
+
+## Technology | sting=tech
+// Story 8: Google Sprout
+[andrew] Story eight, tech, and a lighter one. Google built a robot planter called Sprout. It rolls around on its own to find the best sunlight and sends you an alert when the plant needs water. Before you go shopping, it's not for sale; The Verge says it's a just-for-fun demo to show off Google's A.I. Studio developer tools. Still, it's a neat example of how easy it's becoming to stitch cheap robotics and A.I. models together.
+> source: The Verge, "Google made a robot planter" (Oct 31)
+
+## Artificial Intelligence | sting=ai
+// Story 9: Kling round, CMA Meta probe
+[andrew] Story nine, A.I. Kling A.I., the video-generation unit of China's Kuaishou, has closed a funding round of about nineteen-point-eight billion yuan, close to three billion dollars, valuing it at roughly eighteen billion dollars after the money. Kuaishou keeps two-thirds of the stock. It's a sign Chinese A.I. video is still drawing big money, even as U.S. investors pull back on OpenAI's round.
+[andrew] And Britain's competition regulator has opened a formal investigation into Meta's new terms for business accounts, which would let Meta collect content from businesses' own websites for its products, including A.I. Publishers call the terms exploitative. Meta paused the rollout on Wednesday, and the regulator stresses it hasn't found any wrongdoing; evidence-gathering runs into January.
+> source: Channel NewsAsia via Reuters, "Kuaishou's Kling AI unit completes a near $3 billion funding round" (Oct 30); MarketScreener on the CNY 19.8 billion round (Oct 30); GOV.UK, "CMA opens investigation into Meta's commercial terms" (Oct 30); Euronews (Oct 30)
+
+## Cybersecurity | sting=cyber
+// Story 10: Claude Code extension update
+[ava] Story ten, cyber desk, with an update on that backdoored Claude Code extension. Anthropic now says its own systems weren't compromised. The tampered version was published through Cursor's extension marketplace by someone with access there, and stayed up for close to twelve hours on Thursday. Microsoft confirms it never appeared on the official VS Code marketplace or npm, and the security firm Socket found no sign of it on Open VSX either. Cursor says it rotated its keys, rebuilt the marketplace and got the attacker's server taken offline, which kills the reverse tunnel. Still unanswered: how the attacker got publishing access. If you're a Cursor user who updated that day, note that removing the extension doesn't remove the planted SSH key or startup entries; those have to be cleaned up separately, and credentials rotated.
+// Story 11: Amadeus breach, Cisco SD-WAN
+[ava] Story eleven. Japan Airlines says a breach at Amadeus, the reservation system used by more than four hundred airlines, exposed data on about ninety-two thousand customers, mostly booking codes, names and itineraries, and for about two thousand people, passport numbers and contact details too. The access ran from August twenty twenty-three until September. A N A, Asiana and Korean Air report being hit as well. No card numbers or passwords were taken.
+[ava] And Cisco's Talos team says a new spying group is exploiting a maximum-severity Cisco SD-WAN flaw, patched back in February, to plant malware called KeyDrift that steals encryption keys from network controllers. Targets include space, defense and policy research organizations, and Talos sees overlap with China's Volt Typhoon network, though it stops short of a firm link. The fix is simple: patch.
+> source: The Hacker News, "Official Claude Code Extension on Cursor Marketplace Trojanized" (Oct 30, updated Oct 31); BleepingComputer, "Japan Airlines suffers third-party data breach" (Oct 29); BleepingComputer, "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware" (Oct 29)
+
+## From Your X Feed | sting=x
+[ava] From your X feed this morning.
+[andrew] Security veteran Phil Venables posted what he calls the Vulnpocalypse: good news and bad news. A.I. tools are flooding defenders with newly found flaws, and attackers are industrializing, but the same tools are deep-cleaning major codebases. His catch: clean code doesn't help until the patched software actually reaches the places attackers target.
+[andrew] Matt Palmer says Grok Bot snagged him weekend openings at a popular San Francisco bathhouse and sushi spot by watching hourly for cancellations, places that usually book out a month ahead. And Oilfield Rando says a Grok bot drew up a plan to make his golf cart drive itself by remote.
+[ava] Elon Musk congratulated the SpaceX team on more than seven hundred Falcon nine flights.
+[andrew] Kimmonismus reports Zhipu's next model, G L M five-point-five, is well into post-training, so a release could come soon. And Autoblog says McLaren has revealed the name and power of its next supercar as the seven-fifty S heads for retirement.
+[ava] And Tansu Yegen shared a soothing one: skilled hands binding stacks of paper into real books, which he says makes you respect every finished page a little more.
+> source: Harry's X home timeline, Oct 31 (@philvenables, @mattyp, @Oilfield_Rando, @elonmusk, @kimmonismus, @therealautoblog, @TansuYegen)
+
+## Local News & Events | sting=local
+// Story 12: NH mailers
+[ava] Story twelve, here in New Hampshire. The Attorney General's office has sent cease-and-desist letters over Senate campaign mailers that attack Republican John E. Sununu and praise independent candidate Edmund Laplante, because they don't say who paid for them, as state law requires. The mailers came from a Washington direct-mail firm, Pinpoint Campaigns, which says it works with progressive causes; investigators haven't said who hired it. Laplante says he didn't know about them. The Sununu campaign blamed Democrat Chris Pappas's campaign, which says it wasn't involved and follows the rules.
+[ava] Closer to home, one person died in a crash between a car and a box truck on Range Road in Windham on Friday morning. The driver hasn't been identified, and the cause is under investigation.
+> source: WMUR, "NH AG sends cease-and-desist letters over campaign mailings" (Oct 31); WMUR, "One dead after crash involving car, box truck in Windham" (Oct 31)
+
+## Uplifting Story | sting=feel
+[ava] And finally, a man who's almost home. In nineteen ninety-eight, Briton Karl Bushby set out from the southern tip of South America to walk back to his hometown of Hull, England. His rule: no transport to move forward, and he finishes on foot. Twenty-eight years and some thirty-one thousand miles later, across jungle, desert, shifting ice and plenty of red tape, he's nearly there. On Monday morning, the city plans a civic welcome in Queen Victoria Square, and then he'll walk the last stretch to his mother's house in east Hull. Now fifty-seven, he told the A P he's not sure he's ready for it to end, and that the kindness of strangers carried him the whole way.
+> source: AP, "In 28 years of walking, Karl Bushby has overcome jungle, desert and red tape" (Oct 31); Hull City Council, "Let's give Karl a Hull welcome home" (Oct 26)
+
+## Close | sting=close
+[ava] That's your Saturday ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Have a happy Halloween.
+[ava] Ask your Gumshoe for more on any story.
