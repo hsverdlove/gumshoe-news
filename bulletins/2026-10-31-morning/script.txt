@@ -1,0 +1,82 @@
+// Gumshoe script format: see README.md
+# title: Saturday Morning, Oct 31
+# description: The Saturday morning bulletin from Gumshoe News Radio for October 31, 2026, Halloween: Londonderry weather with the seven-day outlook; the final weekend before the midterms, the Justice Department's widening Alaska push, and court rulings on the NFL's Sunday Ticket and Idaho's abortion law; Poland's president confronts judges inside the top court, France braces for Halloween protests, a two-billion-dollar Patriot sale for Ukraine, Congo's Ebola deaths pass five thousand, and Gulf states urge calm; a weekend look at markets after a rough October; France's proposed tax on every gigabyte; OpenAI trims its funding round and Claude Code stops cloning games; an exploited Ivanti chain, a fixed ChatGPT link flaw and Cloudflare's DDoS numbers; your X feed; Dartmouth's provost resigns over undisclosed A.I. use, plus trick-or-treat and the time change; and a dream wedding at Top of the Rock. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning, and happy Halloween. It's Saturday, October thirty-first, and this is Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Markets are closed for the weekend, so I'll keep the money talk to a quick look back at a rough October.
+[ava] First, the full forecast for Londonderry, with the week ahead.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Oct 31 at airtime
+
+## US News | sting=us
+// Story 1: Final weekend
+[ava] Story one. It's the final weekend before Tuesday's midterms, and Reuters counts more than forty-nine million Americans who have already voted early. President Trump rallied Republicans in Florida last night, while former President Bill Clinton campaigned for Democrats in Mississippi. Mr. Trump heads to Iowa and Kansas tomorrow, two states with key Senate races. In Michigan, Democratic unity is fraying: Senate nominee Abdul El-Sayed and Congresswoman Haley Stevens, his primary rival, traded shots over an outside ad blaming U.S. aid to Israel for grocery prices, and a joint Detroit appearance planned for Sunday is now in doubt. Stevens wants the ad condemned; El-Sayed says she's relitigating the primary.
+// Story 2: Alaska
+[ava] Story two, Alaska, where there's a new development. Alaska's U.S. attorney, Michael Heyman, publicly confirmed a criminal investigation into allegations that Democrats recruited a candidate named Dan J. Sullivan to confuse voters in the race between Republican Senator Dan Sullivan and Democrat Mary Peltola. He said a New York Times report drove a surge of F.B.I. resources. The Justice Department also asked a judge to order ballots ranking the second Sullivan set aside, and for an injunction that could block certification if the senator narrowly loses. Peltola says she isn't interested in tricking voters, and the Democratic Senate campaign committee says it wasn't involved. The state notes the two men are already listed differently, one as the Republican incumbent and the other with no party, and critics say a ballot can't show whether a voter was confused.
+// Story 3: Court roundup
+[ava] Story three, two rulings from the Ninth Circuit Court of Appeals. It reinstated a jury's four-point-seven-billion-dollar antitrust verdict against the N.F.L. over Sunday Ticket pricing, though the league gets a new trial on damages. And in a two-to-one decision, it paused a judge's ruling that Idaho's near-total abortion ban must allow exceptions for risks to a woman's health. Idaho officials say the law already allows abortions to save a woman's life; the doctor who sued says that's too narrow to protect patients' health.
+> source: AP, "Trump and Clinton rally as early voting surges" and "Justice Department seeks to isolate Alaska ballots" (Oct 30-31); Reuters, "Trump administration accelerates criminal probe into Alaska Senate race" (Oct 30); NBC News on the DOJ ballot filing (Oct 30); CBS News and Politico on El-Sayed and Stevens (Oct 30); Reuters on the Sunday Ticket and Idaho rulings (Oct 30)
+
+## International | sting=world
+// Story 4: Poland (new development)
+[ava] Story four, Poland, where the fight over the top court escalated overnight. Shortly after midnight, President Karol Nawrocki pushed his way into the Constitutional Tribunal, telling judges recently chosen by Prime Minister Donald Tusk's parliamentary majority, "You are not judges." Each side accuses the other of shoving. Those judges had suspended the court's president and his deputy, both appointed under the previous Law and Justice government. Nawrocki now accuses the government of forcibly seizing a constitutional body, has demanded police leave the grounds, and called emergency talks with party leaders today, citing a threat to internal security. Tusk's camp says it is undoing years of improper appointments; the opposition calls it a coup. Riot police remain outside.
+// Story 5: France and Europe protests
+[ava] Story five. France braces for a third weekend of youth-led protests over living costs and school conditions, with seventy thousand police deployed. The interior minister warns of a very high risk of disorder after dark on Halloween. Paris has pushed marches to the city's edge, and unions are challenging that in court. Demonstrations are also planned in Germany, Spain and elsewhere.
+// Story 6: Patriots for Ukraine
+[ava] Story six. The State Department approved selling Ukraine five hundred Patriot interceptor missiles for about two-point-one billion dollars, paid for by Canada, Germany, Norway and a European Union loan, with no U.S. money. President Zelenskyy thanked Washington but warned delivery could take years; Ukrainian media report these are new builds that may not arrive until after twenty thirty.
+// Story 7: Ebola
+[ava] Story seven. Congo's Ebola outbreak has now killed more than five thousand people out of about ten thousand three hundred infected, a death rate near fifty percent. It's caused by the Bundibugyo strain and is now the second deadliest Ebola outbreak on record. Conflict and distrust in the east are hampering containment.
+// Story 8: Gulf calm
+[ava] And story eight. At a security forum in Bahrain, Saudi Arabia's deputy foreign minister said the region wants a return to peace and is working to prevent a new round of fighting involving the U.S., Israel and Iran. Gulf officials also pressed Iran to stop the attacks and the shipping disruption around the Strait of Hormuz. Meanwhile in Yemen, Houthi missiles struck near the presidential palace in Aden; casualties weren't immediately known.
+> source: Politico Europe, "Polish president Nawrocki pushes his way into top court" (Oct 31); Euronews and AFP on Nawrocki's statement and crisis talks (Oct 31); AP, "France heads into third weekend of protests" (Oct 31); Reuters, Al Jazeera and The Guardian on the Patriot sale (Oct 30-31); Ukrainska Pravda and Interfax-Ukraine on delivery timing (Oct 31); AP on Congo's Ebola outbreak (Oct 31); AP and Iran International on the Manama Dialogue (Oct 31); Xinhua on the Aden strikes (Oct 31)
+
+## Weekend Markets | sting=markets
+[andrew] A quick weekend look at markets. Friday's tech selloff deepened into the close: the Nasdaq fell nearly three percent, the S and P five hundred almost two, and the Dow about one. For the week, the Nasdaq lost two percent and the S and P a little over half a percent. For October, the Nasdaq lost about five percent while the Dow, with less tech, still gained about one and a half.
+[andrew] Worth watching: Dallas Fed president Lorie Logan and two other Fed officials made the case for more rate hikes, calling inflation's long stay above two percent unacceptable. Futures reopen Sunday evening, and Tuesday's election is the next big event.
+> source: AP, "How major US stock indexes fared Friday 10/30/2026"; Yahoo Finance live coverage (Oct 30); T. Rowe Price weekly update; Reuters on Fed officials' remarks (Oct 30)
+
+## Technology | sting=tech
+// Story 9: French gigabyte tax
+[andrew] Story nine, tech. France's National Assembly narrowly voted, eleven to ten, for a tax of five and a half euro cents on every gigabyte that companies like Google, Meta, Amazon and Netflix deliver to French internet users. A two-hundred-gigabyte game download would cost the sender about eleven euros. The Socialist sponsor says it would raise billions and push companies toward better compression. The government opposed it, warning half the bill would hit smaller, often French firms, and critics expect the cost to land on subscribers. It's far from law; the Senate can strip it out.
+[andrew] And with airlines using A.I. to fine-tune fares, Reuters reports startups such as JetBack, Junova and Refare now watch your fare after you book, and claim a refund or credit if the price drops.
+> source: Numerama, "L'Assemblée vote une taxe de 5,5 centimes par Go" (Oct 30); Europe 1 (Oct 30); Reuters on fare-tracking startups (Oct 30)
+
+## Artificial Intelligence | sting=ai
+// Story 10: OpenAI round, Claude Code games
+[andrew] Story ten, A.I. The Financial Times reports OpenAI cut its funding-round target from thirty billion dollars to about twenty billion, and its valuation goal to one-point-two-five trillion, after some investors pulled back amid the tech rout. A U.A.E. group including MGX is expected to lead. Skeptics see investor discipline catching up with A.I. ambition; OpenAI, which is aiming for a public listing next year, didn't comment.
+[andrew] And Anthropic confirmed it updated Claude Code to steer away from recreating someone else's specific video game, including renamed knockoffs. Original and genre-inspired games are still fine. Anthropic cites intellectual property; some developers object that there's no way to switch it off.
+> source: Financial Times via Reuters, "OpenAI slashes funding target by $10 billion" (Oct 30); Game Developer, Kotaku and XDA Developers on Claude Code's game rule (Oct 27-30)
+
+## Cybersecurity | sting=cyber
+// Story 11: Ivanti, ChatGPT link flaw, Cloudflare
+[ava] Story eleven, cyber desk. CISA has added two more Ivanti Connect Secure flaws to its exploited list. Chained together with a third, they let attackers run code as root on the V P N appliance without logging in. Patches are out, and researchers warn Ivanti's own integrity checker may miss in-memory activity, so affected organizations should hunt for compromise, not just patch.
+[ava] OpenAI also fixed a ChatGPT flaw where a booby-trapped shared chat link could run attacker code in your logged-in session and read your private chats. Researchers say they saw no real-world abuse, and there's nothing you need to do.
+[ava] And Cloudflare says it blocked more than eighteen million network attacks in the third quarter, about eight thousand an hour, up thirty-eight percent from the spring, with short hit-and-run bursts surging.
+> source: CISA, "CISA Adds Two Known Exploited Vulnerabilities to Catalog" (Oct 30); Volexity on the Ivanti exploit chain; The Hacker News and Parameter on the ChatGPT shared-link flaw (Oct 30-31); Cloudflare DDoS Threat Report 2026 Q3 (Oct 2026)
+
+## From Your X Feed | sting=x
+[ava] From your X feed this Halloween morning.
+[andrew] For a fellow Tesla driver, How Things Work shared a Tesla rolling along with skeletons in the seats, calling it the winner of Halloween.
+[andrew] Beff Jezos posted a San Francisco joke: someone dressed as the Kardashev scale, the astronomers' ranking of civilizations by how much energy they harness. Only in San Francisco.
+[ava] Engineers Feed points out Sony is still putting out updates for the PlayStation three, nearly twenty years after launch.
+[ava] Variety has the story of how Keanu Reeves landed a role in Hidari, a stop-motion samurai epic.
+[andrew] SpaceX launched twenty-seven more Starlink satellites from California overnight.
+[ava] And slater five seven six four nine, with the best one of the morning: a kid showed up at his door dressed as a doctor. He asked about his knee. The kid took two Snickers and said "walk it off," the same advice he paid two hundred dollars for last week.
+> source: Harry's X home timeline, Oct 31 (@HowThingsWork_, @beffjezos, @engineers_feed, @Variety, @SpaceX, @slater57649)
+
+## Local News & Events | sting=local
+// Story 12: Dartmouth provost; Halloween; time change
+[ava] Story twelve, here in New Hampshire. Dartmouth's provost, Santiago Schnell, has resigned after a faculty committee found he used A.I. to meaningfully alter his writing without disclosing it, including in a Washington Post column and a journal paper, and was not forthcoming about it. The committee reviewed his logs from Dartmouth's own A.I. tool, not detection software, and didn't recommend discipline; President Sian Beilock said leaving was his decision. Historian Matthew Delmont is interim provost.
+[ava] Tonight, Londonderry's trick-or-treat hours are six to eight, and it looks sunny and cool. Ice Ice Arcade on Litchfield Road hosts a Spooky Ice pinball tournament starting at ten this morning, and the Leach Library Beetlejuice double feature this afternoon is full.
+[ava] And don't forget: clocks fall back an hour at two a.m. Sunday. The White House pushed to make daylight time permanent, but the Senate didn't act. Then on Tuesday, it's Election Day here.
+> source: NHPR and Valley News, "Dartmouth provost resigns after review finds undisclosed AI use" (Oct 29); WMUR Halloween forecast (Oct 31); New Hampshire Magazine trick-or-treat list (2026); New England Pinball League tournament listing; Leach Library calendar; Reuters on the return to standard time (Oct 30)
+
+## Uplifting Story | sting=feel
+[ava] And finally, from Long Island. Earlier this month, an influencer named Keegan Gordon stopped Peter Napolitano and Elena Volkova in a Port Washington supermarket with a random act of kindness: five hundred dollars, or five minutes to fill their cart. They took the cash, and told him their story. Peter had just lost his job, and Elena, a forty-two-year-old mother of two, has stage four breast cancer. Gordon asked, what if I got you married? His post reached Wish Upon a Wedding, a nonprofit that holds weddings for people facing serious illness, and thirty-three vendors stepped up. Tomorrow, the couple marries at Top of the Rock, all expenses paid. Elena says she's grateful she gets to dance with her kids at her own wedding.
+> source: NBC New York, "Influencer helps get dream wedding for man, fiancée battling cancer" (Oct 30)
+
+## Close | sting=close
+[ava] That's your Saturday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. Have a safe and happy Halloween, and enjoy the extra hour tonight.
+[ava] Ask your Gumshoe for more on any story.
