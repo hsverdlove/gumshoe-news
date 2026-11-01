@@ -1,0 +1,77 @@
+// Gumshoe script format: see README.md
+# title: Sunday Morning, Nov 1
+# description: The Sunday morning bulletin from Gumshoe News Radio for November 1, 2026: Londonderry weather with the seven-day outlook; the last weekend push before Tuesday's midterms, the FBI widens its Alaska inquiry, a deadly shooting after Birmingham's Magic City Classic, and criticism of administration Halloween posts; Trump and Netanyahu talk as the U.S. weighs renewed Iran strikes, the G20 foreign ministers part without a communique, looting in Frankfurt and a mass opposition rally in New Delhi; a look at the week ahead for markets; a court lets the NAACP's pollution suit against xAI proceed; A.I. agents join the search for alien signals and Britain expands A.I. help for planning permits; the FBI pins the Binance heist on North Korea, plus critical Linux and LXD flaws; your X feed; New Hampshire's Election Day guide; and an eight-year-old's birthday gift to strangers in Memphis. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Sunday, November first, and this is Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Hope everyone enjoyed the extra hour of sleep. Clocks fell back overnight, so we're on standard time now.
+[ava] First, the full forecast for Londonderry, with the week ahead.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 1 at airtime
+
+## US News | sting=us
+// Story 1: Final weekend
+[ava] Story one. Two days to the midterms, with all four hundred thirty-five House seats, thirty-five Senate seats and thirty-six governorships on the ballot. Forecast models and prediction markets lean toward Democrats taking the House and give them an edge for the Senate, and recent national polls show them ahead on the generic ballot. Republicans counter that polls have undercounted their voters before. House Speaker Mike Johnson told a Michigan rally that pollsters missed Trump support in twenty sixteen and twenty twenty-four, and in Florida, Republicans have built an early-voting lead of more than one hundred fifty thousand ballots. Expect some races, especially where mail ballots are counted late, to take days to call.
+// Story 2: Alaska (new development)
+[ava] Story two, Alaska, where the federal inquiry is widening. The Associated Press reports F.B.I. agents have begun contacting donors to Dan J. Sullivan, the little-known candidate who shares a name with Republican Senator Dan Sullivan, in at least two Alaska communities and in Massachusetts. One donor in Petersburg, where the candidate lives, told the A.P. he wasn't misled, calling the candidate a respected teacher and musician, and saying, "everybody knows who the incumbent is." The Justice Department says it's investigating whether voters were deliberately confused; critics call the probe heavy-handed days before a vote.
+// Story 3: Birmingham shooting
+[ava] Story three. One person was killed and eight wounded in a shooting outside Legion Field in Birmingham, Alabama, Saturday night, more than an hour after the Magic City Classic, the nation's biggest historically Black college football rivalry. Police say one person was detained and several guns recovered; the chief called it "two senseless acts of violence." Tailgating was shut down.
+// Story 4: Administration posts
+[ava] And story four. Administration social media posts are drawing fire days before the vote. The White House posted a pumpkin carved with a sombrero, and Agriculture Secretary Brooke Rollins posted a mock Halloween costume box labeled "SNAP fraudster" around the photo of a Black social media personality charged last month with stealing more than four million dollars in food-stamp benefits. Critics call the posts racially inflammatory. Supporters say they spotlight a real fraud case and the administration's crackdown; neither the White House nor Rollins commented to the A.P.
+> source: AP, "FBI visits Dan J. Sullivan donor in candidate's hometown as Alaska Senate inquiry widens" (AP News Summary, Nov 1); AP, ABC News and al.com on the Birmingham shooting (Oct 31-Nov 1); AP via ABC News, "Trump administration's social media posts ahead of elections criticized for being inflammatory" (Oct 31); Florida early-vote and forecast coverage via X News and CNBC (Oct 30-Nov 1); X News summary of Speaker Johnson's Sterling Heights remarks (Nov 1)
+
+## International | sting=world
+// Story 5: Iran
+[ava] Story five, Iran. The Wall Street Journal reports President Trump spoke by phone with Israel's Prime Minister Benjamin Netanyahu on Saturday, days after reviewing options with military commanders for restarting major strikes on Iran. Speaking in Palm Beach, the president said negotiations were "going fine," but that one or two sites, including the suspected nuclear storage site known as Pickaxe Mountain, still need to be dealt with. Secretary of State Marco Rubio said no decision has been made and diplomacy is preferred. MSNOW, citing Gulf officials, reports Washington told Gulf allies to prepare for possible strikes as early as Wednesday, the day after the midterms. A statement attributed to Iran's supreme leader, Mojtaba Khamenei, ordered commanders to widen their list of U.S. and Israeli targets, while Iranian negotiators kept talking with Qatari mediators in Doha.
+// Story 6: G20
+[ava] Story six. G20 foreign ministers wrapped up two days in Atlanta without a joint statement, split over Ukraine, Iran, tariffs and the South China Sea. Rubio issued a chair's summary instead and had already scrapped the group photo after European ministers objected to standing beside Russia's Sergey Lavrov. Lavrov called his brief chat with Rubio "not bad."
+// Story 7: Frankfurt
+[ava] Story seven. In Germany, a largely peaceful youth protest over living costs and military service in Frankfurt turned violent after police broke it up on Halloween night. Rioters smashed windows and looted stores on the Zeil shopping street, and police brought in water cannons and armored vehicles; about thirty people were arrested. Police say calm returned around three a.m.
+// Story 8: India
+[ava] And story eight. In New Delhi, tens of thousands rallied at Ramlila Maidan today, called by the opposition INDIA bloc, demanding the resignation of the country's chief election commissioner. Authorities deployed thousands of police and paramilitary troops, backed by cameras and drones.
+> source: Wall Street Journal via Iran International and i24NEWS, "Trump, Netanyahu speak as US weighs renewed Iran strikes" (Oct 31); Times of Israel on Trump's Palm Beach remarks and the MSNOW report (Oct 31); Reuters on the Doha talks (Oct 31); AP and CNBC, "G20 foreign ministers end Atlanta meeting without consensus" (Oct 31); CNN on the scrapped photo (Oct 30); Anadolu on Lavrov's remarks (Oct 30); tagesschau, AFP and DW on the Frankfurt riots (Nov 1); AP, "Indian opposition parties stage new protest against the elections chief" (Nov 1)
+
+## Week Ahead | sting=markets
+[andrew] No trading today, so just a quick look ahead. U.S. stock futures reopen at six this evening, after a tech-led selloff left the Nasdaq down about five percent for October. It's a packed week: Apple and Palantir report Monday, A.M.D. on Election Day, and Qualcomm, Uber and McDonald's Wednesday. Friday brings the October jobs report, with economists expecting about fifty-five thousand new jobs and unemployment steady at four point two percent. Strategists expect earnings and the A.I. trade, more than the election, to drive the week.
+> source: CNBC, "Stock market next week: Outlook for Nov. 2-6, 2026" (Oct 30)
+
+## Technology | sting=tech
+// Story 9: xAI NAACP
+[andrew] Story nine, tech. A federal judge in Mississippi refused to dismiss an NAACP lawsuit against Elon Musk's xAI, now part of SpaceX, over gas turbines powering its Colossus data center site near Memphis. The suit, brought by the Southern Environmental Law Center, says xAI ran at least thirty-five turbines without required air permits. xAI argued the turbines are mobile sources exempt from permitting and that the plaintiffs lacked standing; the judge disagreed on both, so the case goes forward. It lands as data centers become a campaign issue: a UMass Lowell poll found two-thirds of likely New Hampshire voters oppose one in their own community.
+> source: TechCrunch, "Judge allows NAACP lawsuit over xAI data center pollution to move forward" (Oct 31); UMass Lowell Center for Public Opinion, New Hampshire poll (Oct 28)
+
+## Artificial Intelligence | sting=ai
+// Story 10: SETI agents; PlanAssist
+[andrew] Story ten, A.I. At the Allen Telescope Array in Northern California, the SETI Institute and Breakthrough Listen now let A.I. agents steer the antennas, calibrate the instrument, fix data errors and analyze live radio data, all from plain-English requests, using Nvidia hardware that processes up to two point four terabits a second. Its first real-time catch was a known pulsar in the Crab Nebula, not aliens, and the claims come from Nvidia's own blog.
+[andrew] And Britain is expanding PlanAssist, an A.I. tool built with Google DeepMind that helps council officers process routine home-extension applications, from three councils to fifteen. Pilots cut assessment times by up to fifty-eight percent, the government says, and officers still make the final call. Some councillors complain it comes alongside rule changes that limit their ability to call in those applications.
+> source: NVIDIA Blog, "Agentic AI Joins the Search for Extraterrestrial Signals" (Oct 30); GOV.UK, "Faster planning decisions as new rules and AI tackle delays" (Oct 30); Google DeepMind blog; Civic Scrutiny on councillor call-in powers (2026)
+
+## Cybersecurity | sting=cyber
+// Story 11: FBI Binance; Linux; LXD
+[ava] Story eleven, cyber desk, with a new development in the Binance heist. The FBI now formally blames North Korea's TraderTraitor hacking group, the same crew behind last year's Bybit theft, for the more than six billion dollars stolen from the exchange. The bureau published attacker wallet addresses and asked exchanges and crypto services to block them. Late Saturday, President Trump told reporters, "We don't know if it was North Korea."
+[ava] For server admins: patch Linux. A critical kernel flaw in ordinary TCP handling affects kernels back to version four point four, and Anthropic researchers say an unreleased Claude model built a working remote root exploit in about fifty-three minutes against servers using multipath TCP. Red Hat rates it lower, saying the timing race is hard to win. Ubuntu and Red Hat fixes were still in progress as of Friday, and simply disabling multipath TCP doesn't fully protect you.
+[ava] And Canonical warns of a maximum-severity flaw in L X D and MicroCloud that lets an attacker who can reach the management API pose as a trusted client using only its public certificate. Update both snaps now.
+> source: AP, "FBI says North Korean hackers behind Binance crypto heist" (Oct 31-Nov 1); CoinDesk and Yonhap on the FBI advisory (Oct 31-Nov 1); BleepingComputer, "Critical Linux kernel flaw allows remote root attacks on MPTCP servers" (Oct 30); Anthropic research post on CVE-2026-98432; Ubuntu Discourse, "Security advisory: Critical vulnerability found in Canonical LXD and MicroCloud"; The Hacker News (Nov 1)
+
+## From Your X Feed | sting=x
+[ava] Now, from your X feed, mostly Halloween. Variety's post of Heidi Klum arriving at her New York party as a giant severed human hand topped fifty thousand likes, and Variety also covered Harry Styles closing his thirty-night Madison Square Garden residency, with the Knicks' Jalen Brunson presenting him a banner for the rafters.
+[ava] The account Pictures Folder shared Macaulay Culkin dressed as the viral "thousand-yard stare" soldier meme.
+[andrew] On the tech side, kimmonismus says a model called GPT six point two Astra is already showing up in some Codex usage logs and predicts a release soon. That's unconfirmed; OpenAI hasn't announced anything. Cremieux posted a chart arguing that 2026's MacBook Pro price hike wiped out nearly a decade of falling prices. And protosphinx drew more than two thousand likes for arguing that now that everyone can tap A.I. smarter than any human, the real bottleneck is agency, not intelligence.
+[ava] And a history note from interesting all: Sudan has more pyramids than Egypt, with more than two hundred at Meroe alone, built by the ancient Kingdom of Kush.
+> source: Harry's X home timeline, Oct 31-Nov 1 (@Variety, @PicturesFoIder, @kimmonismus, @cremieuxrecueil, @protosphinx, @interesting_aIl)
+
+## Local News & Events | sting=local
+// Story 12: NH Election Day guide
+[ava] Story twelve, here at home, with your Election Day guide. In Londonderry, polls are open Tuesday from six a.m. to eight p.m. at the Londonderry High School gym on Mammoth Road. New Hampshire has no early voting, but you can register at the polls with proof of identity, age, citizenship and residence. If you'll be away or are ill or disabled, Secretary of State David Scanlan says absentee ballots are available through tomorrow, Monday. And anyone in line when polls close can still vote.
+[ava] At the top of the ticket, the final UMass Lowell poll has Democrat Chris Pappas ahead of Republican John E. Sununu for Senate, forty-eight to forty-one, and Republican Governor Kelly Ayotte ahead of Democrat Cinde Warmington, forty-eight to forty-two. Both polls carry a five-point margin of error, so the races are close, and New Hampshire voters have a long history of splitting their tickets.
+[ava] In other news, a fifty-five-year-old Dracut, Massachusetts man, David Febres, died after an A.T.V. crash on the Rockingham Recreational Trail in Fremont Saturday afternoon; Fish and Game is investigating. And at Leach Library this week: an intro to A.I. Monday at six p.m., and a D.I.Y. gnome craft for adults Thursday evening.
+> source: Town of Londonderry Elections page; New Hampshire Secretary of State, "At the Polls on Election Day"; WMUR, "How to vote if you can't make it to the polls on Nov. 3" (Nov 1); WMUR, "What to know as lines form at polls on Election Day"; UMass Lowell/YouGov New Hampshire poll (Oct 28); WMUR, "Mass. man dies following ATV crash in NH" (Nov 1); Leach Library November calendar
+
+## Uplifting Story | sting=feel
+[ava] Finally, something uplifting. In Memphis, eight-year-old Kentintton McNeil skipped the birthday presents and spent his special day handing out chicken tacos and water to people experiencing homelessness downtown. It's the second year in a row he's done it. Last year, seven people came. This year, nearly three dozen did. His family, and even his school principal, pitched in. His reason was simple: "I want to make them feel happy." It ended with everyone singing happy birthday to him.
+> source: FOX13 Memphis, "'I want them to feel happy': Memphis 8-year-old gives up birthday gifts to feed nearly three dozen people in need" (Oct 31)
+
+## Close | sting=close
+[ava] That's your Sunday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. Enjoy the extra daylight this morning, and make your plan to vote Tuesday.
+[ava] Ask your Gumshoe for more on any story.
