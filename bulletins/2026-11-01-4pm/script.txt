@@ -1,0 +1,61 @@
+// Gumshoe script format: see README.md
+# title: Sunday 4 PM Update, Nov 1
+# description: The Sunday four o'clock update from Gumshoe News Radio for November 1, 2026: Londonderry conditions through tomorrow afternoon; a business jet bound for the Bahamas crashes in Palm Beach County with nine aboard, and a federal judge tosses the Justice Department's Alaska Senate lawsuit; Iran's Guard says two tankers hit mines in the Strait of Hormuz, the U.N. ends its 35-year Western Sahara mission, and Trump and Carney say a Canada trade deal is getting closer; Tesla's latest software update; a shared off switch for A.I. training on websites; a phishing warning from your X feed; a beginner's A.I. night at Leach Library; and a deaf woman's service dog who saved her husband. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's four o'clock on Sunday, November first, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Good afternoon, Ava. A busy Sunday afternoon, so let's get to it.
+[ava] First, conditions in Londonderry through this time tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 1 at airtime
+
+## US News | sting=us
+// Story 1: Palm Beach jet crash
+[ava] Story one, and it's breaking. A Learjet 60 business jet with nine people on board crashed in a residential area of Palm Beach County, Florida, at about ten minutes to one this afternoon. The F.A.A. says it had taken off from Austin, Texas, and was headed for North Eleuthera in the Bahamas. It came down near Military Trail and Tenth Avenue North in the Cresthaven area, a few miles from Mar-a-Lago. Some local reports say several people were killed, but officials haven't released a confirmed toll or said whether anyone on the ground was hurt. The N.T.S.B. is leading the investigation, and Military Trail is closed in both directions. We'll update this as facts come in.
+// Story 2: Alaska lawsuit dismissed
+[ava] Story two, the Alaska Senate race. Federal Judge Sharon Gleason has dismissed the Justice Department's lawsuit that sought to hold up certification if Republican Senator Dan Sullivan loses, because a second, little-known Daniel J. Sullivan is also on the ballot. She ruled the government had no legal standing, and wrote that it offered no workable way to set aside and investigate those ballots while keeping the vote secret. She also cited the Supreme Court's caution against changing election rules this close to Election Day. The Justice Department says the ruling was procedural, that it didn't dispute the second Sullivan is a decoy candidate, and it has already filed notice of appeal to the Ninth Circuit. Democrat Mary Peltola's campaign, which denies recruiting him, called the case baseless. Senator Sullivan told CNN he'll accept the result if he loses, while accusing his opponents of cheating.
+> source: NBC News, "Jet crashes in Florida with nine people on board" (Nov 1); WFLX and WPBF on the Palm Beach County crash (Nov 1); AP on the crash (Nov 1); CNBC, "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal" (Nov 1); AP, "Judge dismisses lawsuit seeking to block certification of Alaska Senate race" (Nov 1); Election Law Blog on the DOJ appeal (Nov 1)
+
+## International | sting=world
+// Story 3: Hormuz tankers
+[ava] Story three, the Strait of Hormuz. Iran's Revolutionary Guard navy says two oil tankers exploded this afternoon after hitting mines while using what it called an unauthorized route, and that one of them, a supertanker, is on fire. Iran says the ships had switched off their tracking systems to slip through with American support. None of that has been independently confirmed, and the ships haven't been identified. Separately, Britain's maritime security center says another tanker in the strait was hit by an unknown projectile earlier today. It comes on the third day of Iran's talks with Qatari mediators, and Foreign Minister Araghchi says they've worked up a plan to reopen the strait within two days of any deal with Washington.
+// Story 4: Western Sahara
+[ava] Story four. The United Nations peacekeeping mission in Western Sahara is over after thirty-five years. The Security Council couldn't agree to renew it: Russia vetoed an American renewal plan, and a Russian extension didn't get enough votes. Morocco, which claims the territory, welcomed the end of the mission. The Algeria-backed Polisario Front, which wants independence, says it's worried. Secretary-General Guterres urged maximum restraint, and a small U.N. team will now wind the mission down.
+// Story 5: US-Canada trade
+[andrew] Story five, trade. Canadian Prime Minister Mark Carney says he had a good conversation with President Trump today, and that both teams will work in the coming weeks toward a deal that, in his words, fully respects Canada's sovereignty. Speaking this afternoon, Trump went further: he said the two sides are very close, that Canada's tariffs on American farm goods would go away, and that Canada will build and pay for the Keystone pipeline along a route the U.S. has largely set. Canada hasn't confirmed any of those terms, and Ottawa has said for months that its dairy system is not up for negotiation, so treat the details as one side's version for now.
+> source: Reuters via StreetInsider and Middle East Eye, "Iran's IRGC Navy says two tankers 'exploded' after hitting mines in Hormuz" (Nov 1); The Jerusalem Post on the IRGC statement and UKMTO report (Nov 1); Reuters via CNBC on the Doha talks (Nov 1); UN News and the Secretary-General's spokesperson on MINURSO (Nov 1); UN press release SC/16498; AP on Carney and Trump (Nov 1); CBC News and Politico (Nov 1); White House video of the president's remarks (Nov 1)
+
+## Technology | sting=tech
+// Story 6: Tesla 2026.38.6
+[andrew] Story six, and Harry, this one's for your Tesla. Software update twenty twenty-six point thirty-eight point six is rolling out now, though so far to only about five percent of tracked cars. The headline features: Set Arrival Energy, which lets you pick how much battery you want left when you get somewhere, right from the phone app. Emergency Drive Away, which lets you shift into drive with a Supercharger cable still plugged in, strictly for emergencies, since it will damage the car and the charger and Tesla may bill you. Grok loses its beta label. Some Model 3s get headlights that adjust their aim automatically to cut glare. And there are security fixes, which is reason enough to install it when it shows up.
+> source: Not a Tesla App, "2026.38.6 Official Tesla Release Notes" (released Oct 29, rollout stats via TeslaFi, Nov 1)
+
+## Artificial Intelligence | sting=ai
+// Story 7: Shared AI training opt-out
+[andrew] Story seven, A.I. Google, OpenAI and Microsoft say they'll honor one shared line in a website's robots file that tells A.I. companies not to train on that site's content. Right now, site owners have to block each company's crawler separately. Anthropic's engineers helped write the proposal at the Internet Engineering Task Force, and Meta says it supports the idea but hasn't committed. It's slow, though: OpenAI says in the coming months, Microsoft says February, and Google says early next year. And it's only a stated preference. It doesn't stop crawling, doesn't undo past training, and Google says opting out could also keep a site out of some Gemini answers. Publishers call it a step forward; critics say a voluntary flag still leaves the A.I. companies holding all the cards.
+> source: Search Engine Journal, "Google, Microsoft & OpenAI Plan To Honor Shared AI Training Opt-Out"; Secritic (Nov 1); The Asia Business Daily (Nov 1)
+
+## Cybersecurity | sting=cyber
+// Story 8: Muse phishing PSA
+[ava] Story eight, the cyber desk, with a Halloween twist. Alexandr Wang, the Scale A.I. founder who now works on A.I. at Meta, posted a warning today: if someone calling themselves "Muse" asked for your number at a Halloween party last night, that was not Muse, and it's a phishing attempt. He didn't give any more detail. Whatever the backstory, the lesson holds: don't hand your number or a login code to anyone who claims to be from a tech company, in person or online.
+> source: Harry's X home timeline, Nov 1 (@alexandr_wang)
+
+## From Your X Feed | sting=x
+[ava] Now, the rest of your X feed. Variety reports that My Chemical Romance has its first-ever number one album, twenty years late. The twentieth-anniversary reissue of "The Black Parade" tops the Billboard 200. The original peaked at number two back in 2006.
+[ava] Variety also has the cast of "Criminal Minds: Evolution," including A.J. Cook and Paget Brewster, saying goodbye after the show was canceled.
+[andrew] And in college football, Florida State fired head coach Mike Norvell today with the team at three and five. He goes after seven seasons and a forty-one and thirty-nine record, and Rick Stockstill takes over as interim coach.
+> source: Harry's X home timeline, Nov 1 (@Variety, @TheCalvinCooli1); Billboard on The Black Parade; ESPN, "Florida State fires Mike Norvell amid 3-5 football season" (Nov 1)
+
+## Local News & Events | sting=local
+// Story 9: Leach Library AI intro
+[ava] Story nine, here at home. If A.I. headlines like the ones in this update leave you curious, Leach Library has a beginner-friendly A.I. intro with Mark Glisson tomorrow, Monday, from six to seven p.m. in the meeting room. It's billed as a plain-language guide for new and casual users. Thursday evening at six thirty, there's an adult craft night making ten-inch wooden gnomes. And the library will be closed Wednesday the eleventh for Veterans Day.
+> source: Leach Library November 2026 calendar
+
+## Uplifting Story | sting=feel
+[ava] Finally, something to smile about. In Staffordshire, England, Sandra Donally, who lost her hearing suddenly in 2017, was woken shortly after midnight when her service dog, Storm, jumped onto the bed and sat bolt upright, staring at the landing. She couldn't hear anything, but Storm wouldn't settle. Sandra followed her and found her husband Gary at the bottom of the stairs, unconscious and bleeding with a broken jaw. He spent twenty-four days in the hospital and is recovering. Without Storm, Sandra says, he'd have lain there until they got up at six thirty. Her verdict: Storm saved his life.
+> source: Good News Network, "Hero Support Dog Saves Husband's Life After Alerting Deaf Owner to His Deadly Midnight Fall Down Stairs" (Nov 1), via SWNS
+
+## Close | sting=close
+[ava] That's your Sunday four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Have a good Sunday evening.
+[ava] Ask your Gumshoe for more on any story.
