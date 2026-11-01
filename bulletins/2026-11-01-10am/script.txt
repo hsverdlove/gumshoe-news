@@ -1,0 +1,70 @@
+// Gumshoe script format: see README.md
+# title: Sunday 10 AM Update, Nov 1
+# description: The Sunday ten o'clock update from Gumshoe News Radio for November 1, 2026: Londonderry conditions through tomorrow morning; Affordable Care Act sign-ups open with higher premiums, a fight over how fast election-night results will come, and a Bronx teen's killing; Trump says new Iran strikes can wait until after the midterms as Tehran warns of a longer war, a Qatari gas tanker is hit in the Gulf, the Oleshky truce winds down, Dutch police head off feared looting, and Serbia marks two years since Novi Sad; Reddit moves toward logins; OpenAI merges ChatGPT and Codex allowances and reportedly trims its fundraising target; the Northflank breach and the Android "SMS of Death"; your X feed; a record turnout forecast for New Hampshire; and a bus-stop bench in Florida. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's ten o'clock on Sunday, November first, and this is the Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. No markets today, so I've got tech and A.I. news instead.
+[ava] First, conditions in Londonderry through this time tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 1 at airtime
+
+## US News | sting=us
+// Story 1: ACA open enrollment
+[ava] Story one. Open enrollment for Affordable Care Act coverage for twenty twenty-seven starts today and runs to mid-January, and the A.P. says shoppers should expect higher prices and fewer choices. Average premiums are projected to rise about thirteen percent, expanded financial help has expired, and enrollment checks are stricter. The administration plans to remove about seven hundred sixty thousand enrollees it says were signed up fraudulently, aiming to save two point two billion dollars. Supporters call that overdue cleanup of a program prone to broker fraud; critics expect more people to go uninsured. If you buy your own coverage, compare plans rather than letting it auto-renew.
+// Story 2: Election-night counting debate
+[ava] Story two. A PBS post noting that voters may go to bed Tuesday without knowing who won some congressional races has become a flashpoint. White House communications director Steven Cheung called it preparation for "potential shenanigans," and Kari Lake called it a "set-up." Election officials and experts say slow counts are routine: some states can't start processing mail ballots until Election Day, and some accept ballots postmarked by Election Day that arrive later. Skeptics answer that expanded mail voting makes overnight shifts harder for the public to follow.
+// Story 3: Bronx teen
+[ava] Story three. In New York, police are still looking for three masked teenagers after fifteen-year-old Javits Frimpong was shot and killed Thursday while walking to school in the Bronx. He moved from Ghana a year ago to live with his father, who says he'd been bullied. Ghana's government condemned the killing, and Mayor Zohran Mamdani says President Trump agreed to grant a visa so the boy's mother can come to New York. No arrests have been announced.
+> source: AP, "What to know about the Affordable Care Act's open enrollment period now underway" (Nov 1); PBS post and responses via X News, with AP and election-official explanations of mail-ballot counting (Oct 31-Nov 1); CBS New York and ABC7 New York on the Bronx shooting (Oct 29-31); BBC News Pidgin (Oct 31); NewYorkNews.app on the visa (Oct 31)
+
+## International | sting=world
+// Story 4: Iran (update)
+[ava] Story four, Iran, with a few new developments since this morning. President Trump says new strikes aren't likely before Tuesday's midterms, though he still wants to "take care of" one or two sites, including Pickaxe Mountain, and says that could be done "in ten minutes." Iran denies any nuclear work there. Today Iran's army spokesman warned that any new war could last longer than the last one, and that the American president wouldn't decide when it ends. On the diplomatic side, Iranian negotiators are in Doha for a third straight day of talks with Qatari mediators, and Iran's security chief Mohsen Rezaei says a letter from Vice President J.D. Vance struck a different tone, calling that "a good sign."
+// Story 5: Qatari LNG carrier
+[ava] Story five. Qatar's gas shipping company Nakilat says its tanker Al Mayeda was struck by unidentified objects while crossing the Gulf. No one was hurt, there was no spill, and the ship is still operating. Bloomberg reports it was carrying gas to Pakistan and had Iranian clearance. Nobody has claimed responsibility.
+// Story 6: Oleshky
+[ava] Story six. The six-day truce in Ukraine's Kherson region, the longest of the war, is set to end this evening with no extension announced. It let hundreds of hungry, exhausted residents leave Russian-occupied Oleshky by bus and plane through Belarus. They reached Ukraine Saturday, many wrapped in Ukrainian flags. President Zelenskyy thanked the U.S. and First Lady Melania Trump, who mediated. Some residents stayed behind, Russia's rights commissioner says both sides agreed to more humanitarian missions, and Kherson residents fear Russia used the pause to build up forces.
+// Story 7: The Hague; Serbia
+[ava] Story seven. After Frankfurt's looting, which we told you about this morning, Dutch police in The Hague say they prevented feared looting on Saturday after online calls for a Generation Z protest. They arrested thirty-four people, mostly fifteen to eighteen years old, for face coverings, illegal fireworks and ignoring an emergency order. Riot police also kept a group of local soccer fans, who'd vowed to "protect the city," away from the young crowd. Some viral posts claim fans fought looters in several Dutch cities; police reports describe no large-scale looting.
+[ava] And in Serbia, thousands marched in silence today to mark two years since a train-station canopy collapse in Novi Sad killed sixteen people. The disaster set off the student protests that helped bring down President Aleksandar Vucic's government. Prosecutors have reopened the investigation.
+> source: Reuters via CNBC, "Iranian negotiators in Qatar to continue talks to end war" (Nov 1); RTE and Gulf News on Trump's remarks and Iran's army statement (Oct 31-Nov 1); Fox News live updates (Nov 1); Nakilat, "Al Mayeda vessel incident in the Arabian Gulf"; Al Jazeera and Bloomberg via Investing.com (Nov 1); Al Jazeera, BBC and RTE on Oleshky (Oct 31-Nov 1); politie.nl and NLnow on The Hague (Oct 31-Nov 1); AP on Novi Sad (Nov 1)
+
+## Technology | sting=tech
+// Story 8: Reddit logins
+[andrew] Story eight, tech. Reddit co-founder Steve Huffman says the site will gradually become a "logged-in service," with limited access for people without accounts. A pilot starts in the coming months in some countries outside the U.S. Reddit says most unauthorized scraping happens on logged-out pages and that logged-in users get better recommendations, while A.I. companies and search engines can keep licensing the data. Critics say the real goal is better-targeted ads. Reddit says it won't require real names or I.D., is bringing back a read-only incognito mode, and will let users opt out of personalized ads. The front page and pages reached from search should stay viewable.
+> source: BleepingComputer, "Reddit to lock content behind logins to fight scrapers" (Oct 31)
+
+## Artificial Intelligence | sting=ai
+// Story 9: OpenAI
+[andrew] Story nine, A.I. OpenAI emailed subscribers this morning that ChatGPT and Codex will soon draw from one shared usage allowance, with basic Instant chats unlimited and heavier models using more. It's also testing a single interface that merges ChatGPT's Chat and Work tabs, so it can go from talking through an idea to building a site or a presentation without switching modes. Separately, the Financial Times reports OpenAI has cut its new fundraising target from about thirty billion dollars to about twenty billion. That comes after a rough week for A.I.-linked stocks, as investors push harder on whether all that spending pays off. OpenAI hasn't confirmed the report.
+[andrew] And in China, The Information reports DeepSeek raised about sixteen billion dollars from investors including Tencent and battery maker CATL, well above its original target. That isn't confirmed by the company either.
+> source: BleepingComputer, "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat" (Nov 1); Financial Times via Reuters on OpenAI's funding target (Oct 31); The Information on DeepSeek's funding round (Oct 31), via AIdapted (Nov 1)
+
+## Cybersecurity | sting=cyber
+// Story 10: Northflank; SMS of Death
+[ava] Story ten, the cyber desk. Cloud hosting platform Northflank is telling every customer to assume their stored secrets were decrypted and to rotate all keys now, after a breach led to unauthorized use of customers' A.I. keys. The security firm Wiz counts at least nine attacks on A.I. developer platforms this month, many aimed at stealing those keys to run up bills on someone else's account. If you've put an A.I. key on any hosted platform, check your usage and billing for anything unexpected.
+[ava] And Android users, update your phones. A researcher released working code for a flaw nicknamed the "SMS of Death," where one malformed text message can crash a phone's cellular service and drop calls, even calls to nine-one-one, without the user doing anything. Google reportedly fixed it in its October updates for Android fourteen through seventeen, but older phones on Android twelve and thirteen aren't getting the patch.
+> source: BleepingComputer, "Northflank security breach leads to abuse of customers' AI API keys" (Oct 31); Wiz, "Black October for AI Developer Platforms"; BleepingComputer, "New Android SMS of Death exploit can remotely crash unpatched phones" (Oct 31)
+
+## From Your X Feed | sting=x
+[ava] Now, your X feed. A Sunday-morning fact from engineers feed: picture the internet as satellites and wireless, but about ninety-seven percent of traffic between continents travels on undersea cables, around five hundred systems and about one point four million kilometers of cable on the ocean floor.
+[andrew] In A.I. chatter, teortaxes argues OpenAI's Astra six point oh was already smarter than Anthropic's Opus five point five and that version six point two fixed its rough edges. That's one person's take, and plenty of developers disagree.
+[ava] interesting all remembered Dida, one of Kenya's great tuskers, who lived to about sixty-five under years of protection from poachers and died naturally with her huge tusks still intact.
+[ava] And a Halloween story from memetic sisyphus: he greeted a four-year-old dressed as Pikachu, and the kid corrected him, "actually I'm a human, not Pikachu."
+> source: Harry's X home timeline, Nov 1 (@engineers_feed, @teortaxesTex, @interesting_aIl, @memeticsisyphus)
+
+## Local News & Events | sting=local
+// Story 11: Turnout forecast; Loudon fire
+[ava] Story eleven, here at home. New Hampshire Secretary of State David Scanlan predicts record turnout Tuesday, about six hundred thirty-five thousand ballots, slightly above the roughly six hundred twenty-seven thousand cast in the twenty twenty-two midterm, with close races for governor, Senate and both House seats. His reminder: if you're in line when the polls close, you can still vote. Londonderry polls are open six a.m. to eight p.m. at the high school gym.
+[ava] And firefighters from at least four towns, plus state forestry crews, fought a two-alarm brush fire on Lovejoy Road in Loudon Saturday night. It was contained by early this morning, with no injuries reported.
+> source: WMUR, "Record turnout predicted for next week's election in New Hampshire" (Nov 1); WMUR, "What to know as lines form at polls on Election Day" (Nov 1); Town of Londonderry Elections page; WMUR, "Loudon, NH: Fire crews respond to area" (Nov 1); Hyperlocal Loop on the Loudon brush fire (Nov 1)
+
+## Uplifting Story | sting=feel
+[ava] Finally, something to smile about. Florida teachers Maren and David Douglass noticed on their doorbell camera that a middle schooler waiting at the bus stop by their driveway was sitting in the dirt. So they put in a bench. The next morning, the camera caught her jumping for joy. She left a thank-you note: "Now I don't have to worry about dirt and bugs." The couple then added a little free library stocked with books, which other kids in the neighborhood now use too, and she left them flowers. The videos have been viewed by millions.
+> source: Good News Network, "Girl Sitting in Dirt at Bus Stop Gets Surprise Bench From Homeowner" (Oct 31), citing People
+
+## Close | sting=close
+[ava] That's your Sunday ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Enjoy your Sunday.
+[ava] Ask your Gumshoe for more on any story.
