@@ -6,6 +6,40 @@
 <itunes:author>Gumshoe</itunes:author><itunes:explicit>false</itunes:explicit><itunes:block>Yes</itunes:block>
 <itunes:image href="https://hsverdlove.github.io/gumshoe-news/cover.jpg"/><image><url>https://hsverdlove.github.io/gumshoe-news/cover.jpg</url><title>Gumshoe News Radio (Harry)</title><link>https://hsverdlove.github.io/gumshoe-news/</link></image>
 <itunes:category text="News"/><itunes:type>episodic</itunes:type>
+<item><title>Monday 4 PM Update, Nov 2</title><description>The Monday 4 p.m. update from Gumshoe News Radio for November 2, 2026: Londonderry weather through tomorrow, Election Day; the NTSB's first briefing on the Palm Beach County jet crash and the Justice Department's emergency Supreme Court request on California mail ballots; President Trump says there's "no rush" on Iran, and a deadly Russian strike in the Zaporizhzhia region; the Dow gains while tech slips and oil plunges; Apple's first earnings with John Ternus; a safety warning in Anthropic's IPO filing; Google breaks up a botnet of more than a million TV boxes; your X feed; New Hampshire's ballot questions and polling-place watchers; and a foundation that looks for everyday heroes.
+
+Chapters:
+0:00 Open &amp; Weather
+0:55 US News
+2:53 International
+4:25 Markets
+5:41 Technology
+6:29 Artificial Intelligence
+7:19 Cybersecurity
+8:15 From Your X Feed
+9:03 Local News &amp; Events
+10:16 Uplifting Story
+10:52 Close
+
+Sources:
+- NWS forecast for Londonderry, NH
+- National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 2 at airtime
+- NTSB media briefing via UPI and CBS12 (Nov 2); BBC live coverage (Nov 2); New York Post and TMZ on passenger identities, citing family (Nov 2)
+- AP, CNBC, NPR, Axios, CBS News on the DOJ emergency application (Nov 2)
+- Axios interview with President Trump (Nov 2); CBS News; Jerusalem Post via Reuters; Fox News (Nov 2)
+- BBC, AP, Kyiv Post, Euronews (Nov 2)
+- Malaysia Sun / Big News Network closing tally (Nov 2); CNBC on oil settlement and Treasury yields (Nov 2); MarketDash (Nov 2); Yahoo Finance live coverage (Nov 2)
+- CNBC, "Apple earnings live updates: New CEO John Ternus faces first Wall Street test" (Nov 2)
+- Anthropic Form S-1/A (Nov 2); Crypto Briefing, "Anthropic's amended IPO filing warns its models may soon hit a key AI progress threshold" (Nov 2); CNBC (Nov 2)
+- BleepingComputer on the XCPE botnet disruption (Nov 2)
+- X posts by @Variety, @BlackHatEvents, @therealautoblog and @JHWeissmann (Nov 2)
+- NHPR on New Hampshire ballot questions and election hotlines (Nov 2); U.S. Attorney's Office, District of New Hampshire (Nov 2); TownUnderground summary of Mulholland's Oct 31 response (Nov 2)
+- Good News Network on the Kenli Foundation (Nov 2)</description>
+<content:encoded><![CDATA[The Monday 4 p.m. update from Gumshoe News Radio for November 2, 2026: Londonderry weather through tomorrow, Election Day; the NTSB's first briefing on the Palm Beach County jet crash and the Justice Department's emergency Supreme Court request on California mail ballots; President Trump says there's "no rush" on Iran, and a deadly Russian strike in the Zaporizhzhia region; the Dow gains while tech slips and oil plunges; Apple's first earnings with John Ternus; a safety warning in Anthropic's IPO filing; Google breaks up a botnet of more than a million TV boxes; your X feed; New Hampshire's ballot questions and polling-place watchers; and a foundation that looks for everyday heroes.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>0:55 US News<br/>2:53 International<br/>4:25 Markets<br/>5:41 Technology<br/>6:29 Artificial Intelligence<br/>7:19 Cybersecurity<br/>8:15 From Your X Feed<br/>9:03 Local News & Events<br/>10:16 Uplifting Story<br/>10:52 Close<br/><br/>Sources:<br/>- NWS forecast for Londonderry, NH<br/>- National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 2 at airtime<br/>- NTSB media briefing via UPI and CBS12 (Nov 2); BBC live coverage (Nov 2); New York Post and TMZ on passenger identities, citing family (Nov 2)<br/>- AP, CNBC, NPR, Axios, CBS News on the DOJ emergency application (Nov 2)<br/>- Axios interview with President Trump (Nov 2); CBS News; Jerusalem Post via Reuters; Fox News (Nov 2)<br/>- BBC, AP, Kyiv Post, Euronews (Nov 2)<br/>- Malaysia Sun / Big News Network closing tally (Nov 2); CNBC on oil settlement and Treasury yields (Nov 2); MarketDash (Nov 2); Yahoo Finance live coverage (Nov 2)<br/>- CNBC, "Apple earnings live updates: New CEO John Ternus faces first Wall Street test" (Nov 2)<br/>- Anthropic Form S-1/A (Nov 2); Crypto Briefing, "Anthropic's amended IPO filing warns its models may soon hit a key AI progress threshold" (Nov 2); CNBC (Nov 2)<br/>- BleepingComputer on the XCPE botnet disruption (Nov 2)<br/>- X posts by @Variety, @BlackHatEvents, @therealautoblog and @JHWeissmann (Nov 2)<br/>- NHPR on New Hampshire ballot questions and election hotlines (Nov 2); U.S. Attorney's Office, District of New Hampshire (Nov 2); TownUnderground summary of Mulholland's Oct 31 response (Nov 2)<br/>- Good News Network on the Kenli Foundation (Nov 2)]]></content:encoded>
+<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-11-02-4pm.mp3?v=20261102T1715" length="5498237" type="audio/mpeg"/>
+<guid isPermaLink="false">gumshoe-2026-11-02-4pm-20261102T1715</guid><pubDate>Mon, 02 Nov 2026 17:15:53 -0400</pubDate>
+<itunes:duration>671</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
+<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-11-02-4pm.chapters.json?v=20261102T1715" type="application/json+chapters"/></item>
 <item><title>Monday 1 PM Update, Nov 2</title><description>The Monday 1 p.m. update from Gumshoe News Radio for November 2, 2026: Londonderry weather through tomorrow, Election Day; President Trump says he'd consider preemptive pardons for Elon Musk and aides, flooding spreads into Arizona, and new details on the Palm Beach County jet crash; Iran-U.S. contacts continue without a breakthrough, Britain overhauls its settlement rules, and Myanmar air strikes hit a maternity clinic and a school; stocks hold midday gains as oil drops about seven percent; Marvell agrees to buy Lumentum for 115 billion dollars; OpenAI pledges to throttle data-center power use when the grid is strained; more than a thousand unpatched GitLab servers under attack; your X feed; the final UNH poll and what to bring to the polls tomorrow; and a dog's cross-country reunion. Anchor Ava, with Andrew at the business and tech desk.
 
 Chapters:
@@ -102,34 +136,4 @@ Sources:
 <guid isPermaLink="false">gumshoe-2026-11-02-morning-20261102T0815</guid><pubDate>Mon, 02 Nov 2026 08:15:18 -0400</pubDate>
 <itunes:duration>748</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
 <podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-11-02-morning.chapters.json?v=20261102T0815" type="application/json+chapters"/></item>
-<item><title>Sunday 4 PM Update, Nov 1</title><description>The Sunday four o'clock update from Gumshoe News Radio for November 1, 2026: Londonderry conditions through tomorrow afternoon; a business jet bound for the Bahamas crashes in Palm Beach County with nine aboard, and a federal judge tosses the Justice Department's Alaska Senate lawsuit; Iran's Guard says two tankers hit mines in the Strait of Hormuz, the U.N. ends its 35-year Western Sahara mission, and Trump and Carney say a Canada trade deal is getting closer; Tesla's latest software update; a shared off switch for A.I. training on websites; a phishing warning from your X feed; a beginner's A.I. night at Leach Library; and a deaf woman's service dog who saved her husband. Anchor Ava, with Andrew at the business and tech desk.
-
-Chapters:
-0:00 Open &amp; Weather
-0:44 US News
-2:23 International
-4:20 Technology
-5:06 Artificial Intelligence
-5:57 Cybersecurity
-6:28 From Your X Feed
-7:12 Local News &amp; Events
-7:41 Uplifting Story
-8:22 Close
-
-Sources:
-- NWS forecast for Londonderry, NH
-- National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 1 at airtime
-- NBC News, "Jet crashes in Florida with nine people on board" (Nov 1); WFLX and WPBF on the Palm Beach County crash (Nov 1); AP on the crash (Nov 1); CNBC, "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal" (Nov 1); AP, "Judge dismisses lawsuit seeking to block certification of Alaska Senate race" (Nov 1); Election Law Blog on the DOJ appeal (Nov 1)
-- Reuters via StreetInsider and Middle East Eye, "Iran's IRGC Navy says two tankers 'exploded' after hitting mines in Hormuz" (Nov 1); The Jerusalem Post on the IRGC statement and UKMTO report (Nov 1); Reuters via CNBC on the Doha talks (Nov 1); UN News and the Secretary-General's spokesperson on MINURSO (Nov 1); UN press release SC/16498; AP on Carney and Trump (Nov 1); CBC News and Politico (Nov 1); White House video of the president's remarks (Nov 1)
-- Not a Tesla App, "2026.38.6 Official Tesla Release Notes" (released Oct 29, rollout stats via TeslaFi, Nov 1)
-- Search Engine Journal, "Google, Microsoft &amp; OpenAI Plan To Honor Shared AI Training Opt-Out"; Secritic (Nov 1); The Asia Business Daily (Nov 1)
-- Harry's X home timeline, Nov 1 (@alexandr_wang)
-- Harry's X home timeline, Nov 1 (@Variety, @TheCalvinCooli1); Billboard on The Black Parade; ESPN, "Florida State fires Mike Norvell amid 3-5 football season" (Nov 1)
-- Leach Library November 2026 calendar
-- Good News Network, "Hero Support Dog Saves Husband's Life After Alerting Deaf Owner to His Deadly Midnight Fall Down Stairs" (Nov 1), via SWNS</description>
-<content:encoded><![CDATA[The Sunday four o'clock update from Gumshoe News Radio for November 1, 2026: Londonderry conditions through tomorrow afternoon; a business jet bound for the Bahamas crashes in Palm Beach County with nine aboard, and a federal judge tosses the Justice Department's Alaska Senate lawsuit; Iran's Guard says two tankers hit mines in the Strait of Hormuz, the U.N. ends its 35-year Western Sahara mission, and Trump and Carney say a Canada trade deal is getting closer; Tesla's latest software update; a shared off switch for A.I. training on websites; a phishing warning from your X feed; a beginner's A.I. night at Leach Library; and a deaf woman's service dog who saved her husband. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>0:44 US News<br/>2:23 International<br/>4:20 Technology<br/>5:06 Artificial Intelligence<br/>5:57 Cybersecurity<br/>6:28 From Your X Feed<br/>7:12 Local News & Events<br/>7:41 Uplifting Story<br/>8:22 Close<br/><br/>Sources:<br/>- NWS forecast for Londonderry, NH<br/>- National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 1 at airtime<br/>- NBC News, "Jet crashes in Florida with nine people on board" (Nov 1); WFLX and WPBF on the Palm Beach County crash (Nov 1); AP on the crash (Nov 1); CNBC, "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal" (Nov 1); AP, "Judge dismisses lawsuit seeking to block certification of Alaska Senate race" (Nov 1); Election Law Blog on the DOJ appeal (Nov 1)<br/>- Reuters via StreetInsider and Middle East Eye, "Iran's IRGC Navy says two tankers 'exploded' after hitting mines in Hormuz" (Nov 1); The Jerusalem Post on the IRGC statement and UKMTO report (Nov 1); Reuters via CNBC on the Doha talks (Nov 1); UN News and the Secretary-General's spokesperson on MINURSO (Nov 1); UN press release SC/16498; AP on Carney and Trump (Nov 1); CBC News and Politico (Nov 1); White House video of the president's remarks (Nov 1)<br/>- Not a Tesla App, "2026.38.6 Official Tesla Release Notes" (released Oct 29, rollout stats via TeslaFi, Nov 1)<br/>- Search Engine Journal, "Google, Microsoft & OpenAI Plan To Honor Shared AI Training Opt-Out"; Secritic (Nov 1); The Asia Business Daily (Nov 1)<br/>- Harry's X home timeline, Nov 1 (@alexandr_wang)<br/>- Harry's X home timeline, Nov 1 (@Variety, @TheCalvinCooli1); Billboard on The Black Parade; ESPN, "Florida State fires Mike Norvell amid 3-5 football season" (Nov 1)<br/>- Leach Library November 2026 calendar<br/>- Good News Network, "Hero Support Dog Saves Husband's Life After Alerting Deaf Owner to His Deadly Midnight Fall Down Stairs" (Nov 1), via SWNS]]></content:encoded>
-<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-11-01-4pm.mp3?v=20261101T1707" length="4247494" type="audio/mpeg"/>
-<guid isPermaLink="false">gumshoe-2026-11-01-4pm-20261101T1707</guid><pubDate>Sun, 01 Nov 2026 17:07:51 -0400</pubDate>
-<itunes:duration>515</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
-<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-11-01-4pm.chapters.json?v=20261101T1707" type="application/json+chapters"/></item>
 </channel></rss>

@@ -1,0 +1,69 @@
+// Gumshoe script format: see README.md
+# title: Monday 4 PM Update, Nov 2
+# description: The Monday 4 p.m. update from Gumshoe News Radio for November 2, 2026: Londonderry weather through tomorrow, Election Day; the NTSB's first briefing on the Palm Beach County jet crash and the Justice Department's emergency Supreme Court request on California mail ballots; President Trump says there's "no rush" on Iran, and a deadly Russian strike in the Zaporizhzhia region; the Dow gains while tech slips and oil plunges; Apple's first earnings with John Ternus; a safety warning in Anthropic's IPO filing; Google breaks up a botnet of more than a million TV boxes; your X feed; New Hampshire's ballot questions and polling-place watchers; and a foundation that looks for everyday heroes.
+
+## Open & Weather | sting=open
+[ava] It's four o'clock on Monday, November second, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. The closing bell is in: the Dow had a good day, tech didn't, and oil had its biggest drop since July.
+[ava] First, Londonderry weather through tomorrow, Election Day.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 2 at airtime
+
+## US News | sting=us
+// Story 1: NTSB briefing on Learjet crash
+[ava] Story one. Federal investigators gave their first full briefing this afternoon on Sunday's Learjet crash in Palm Beach County, Florida, which killed all nine people aboard. The N.T.S.B. says the jet left Austin a little after ten-thirty in the morning, bound for North Eleuthera in the Bahamas. At thirty-five thousand feet, the crew reported light ice they called manageable and moderate turbulence, and the plane was swinging up and down by about seven hundred feet. They asked to climb to thirty-seven thousand feet and got approval. Less than thirty seconds later the jet was descending. The crew declared a mayday, said they were in an overspeed condition, and reported dropping about twenty thousand feet a minute.
+[ava] Investigators say there's some evidence the plane began breaking up before it hit the ground. The debris field is about half a mile long. They believe a cockpit voice recorder was on board but don't yet know if it can be recovered, and they stressed they are not naming a cause. One man on the ground had a leg injury. News outlets, citing family members, report that the passengers included Austin tech entrepreneur Adam Robinson, his wife Helen, their two young children, a nanny and two friends. Officials have not formally released the names.
+> source: NTSB media briefing via UPI and CBS12 (Nov 2); BBC live coverage (Nov 2); New York Post and TMZ on passenger identities, citing family (Nov 2)
+// Story 2: DOJ asks Supreme Court on California mail ballots
+[ava] Story two. The Justice Department has filed an emergency request asking the Supreme Court to order California to set aside about twenty thousand mail ballots, from voters the department says may not be citizens, until their eligibility is checked. The administration argues federal law lets it protect elections from ineligible votes. Lower courts turned the request down, saying the federal lists were unreliable and that holding the ballots could disenfranchise eligible voters on the eve of the election. A U.C.L.A. review found that forty-two percent of the names on the list weren't even on California's current voter rolls. The justices could act within hours or days.
+> source: AP, CNBC, NPR, Axios, CBS News on the DOJ emergency application (Nov 2)
+
+## International | sting=world
+// Story 3: Trump "no rush" on Iran
+[ava] Story three. President Trump told Axios he's in "no rush" to decide whether to resume strikes on Iran. According to Axios, his advisers are split three ways: Vice President Vance and envoy Steve Witkoff pushing for a deal, Israeli Prime Minister Netanyahu and Defense Secretary Hegseth favoring renewed military action, and a third group, including Treasury Secretary Bessent, C.I.A. Director Ratcliffe and Secretary of State Rubio, favoring continued pressure with neither war nor a deal. Qatari mediators were headed back to Tehran tonight with a proposal for three days of confidence-building steps. Iran says the ball is in Washington's court, and China and Russia have both warned against new strikes. Vance said he feels, quote, "pretty good about the prospects." Critics on both sides say the open-ended wait carries its own risk, whether to shipping in the Gulf or to American leverage.
+> source: Axios interview with President Trump (Nov 2); CBS News; Jerusalem Post via Reuters; Fox News (Nov 2)
+// Story 4: Komyshuvakha strike
+[ava] Story four. In Ukraine, officials say Russian strikes hit a school being used as an aid distribution center in the village of Komyshuvakha, in the Zaporizhzhia region, and then a nearby shelter. At least twenty-six people were killed, including rescuers and police officers who responded, and more were still missing. President Zelenskyy said Russia was "sending an entirely opposite signal" from any interest in peace. Moscow has not commented on the specific strike; it routinely says it targets only military sites.
+> source: BBC, AP, Kyiv Post, Euronews (Nov 2)
+
+## Markets | sting=markets
+// Story 5: Market close
+[andrew] Story five, the close. The Dow rose four hundred fourteen points, or eight-tenths of a percent, to fifty-two thousand one hundred eighty-four. The S&P 500 finished essentially flat at seventy-five eighty-two, and the Nasdaq slipped a quarter of a percent to twenty-five thousand three hundred sixty-one.
+[andrew] The big driver was oil. U.S. crude settled down more than seven percent, at about ninety-six and a half dollars a barrel, its biggest one-day drop since late July, after Iran said its leadership had authorized talks. Brent fell to about a hundred and five. Cheaper fuel lifted airlines, retailers and homebuilders, and Treasury yields eased, with the ten-year near four point nine percent. Energy stocks fell with crude. Tech was the drag again: chip and A.I. hardware names sold off, with Marvell and Lumentum both lower after confirming their merger, and Morgan Stanley data showing hedge funds have cut A.I. exposure to underweight for the first time since early 2023. Bulls call it healthy rotation; bears say the A.I. trade is losing steam. Apple and Palantir report this evening, and the October jobs report is due later this week.
+> source: Malaysia Sun / Big News Network closing tally (Nov 2); CNBC on oil settlement and Treasury yields (Nov 2); MarketDash (Nov 2); Yahoo Finance live coverage (Nov 2)
+
+## Technology | sting=tech
+// Story 6: Apple earnings preview, Ternus first call
+[andrew] Story six. Apple reports its September-quarter results within the hour, and at five o'clock John Ternus leads his first earnings call as C.E.O. since taking over from Tim Cook in September. Wall Street expects about a hundred and thirteen billion dollars in revenue, up eleven percent, and roughly fifty-six and a half billion from the iPhone. The quarter includes only about two weeks of iPhone 18 Pro sales and none from the folding iPhone Duo, which launched in late October amid reports of some screens cracking. Analysts will be listening for memory-chip costs, profit margins and Apple's plans in China. Barclays remains cautious on the stock; Bank of America has a buy rating. It's also Apple's first Monday report since 2015. We'll have the numbers in the morning.
+> source: CNBC, "Apple earnings live updates: New CEO John Ternus faces first Wall Street test" (Nov 2)
+
+## Artificial Intelligence | sting=ai
+// Story 7: Anthropic S-1/A RSP risk language (financials aired at 10am)
+[andrew] Story seven. We covered the revenue numbers in Anthropic's amended I.P.O. filing this morning, but there's another line in it getting attention this afternoon. In a new risk factor, the company says its future models may soon meet the threshold its own safety policy uses to flag dramatically accelerated A.I. progress. It says no model has crossed that line yet. Reaching it would trigger more extensive safety reviews, which could slow how fast it ships. Some readers see an unusually candid warning; others note that risk factors are written to protect companies from lawsuits and tend to list every possibility. Anthropic is reportedly aiming to list on the Nasdaq in mid-November, with a roadshow as soon as next week, but hasn't set a share count or price range.
+> source: Anthropic Form S-1/A (Nov 2); Crypto Briefing, "Anthropic's amended IPO filing warns its models may soon hit a key AI progress threshold" (Nov 2); CNBC (Nov 2)
+
+## Cybersecurity | sting=cyber
+// Story 8: Google disrupts XCPE Android TV box botnet
+[andrew] Story eight. Google says it worked with Japan's national police, Lumen, HUMAN Security and others to disrupt a botnet of more than one point three million cheap Android TV streaming boxes. The researchers say, with high confidence, that the Chinese manufacturer Videostrong Technology built a backdoor right into the firmware. The infected boxes were used for ad fraud, to sell residential internet proxies, and to install more malware. Taking down the control servers cut off at least ten million more devices, and Google has banned Videostrong from its certified Android program. Videostrong has not publicly responded. The practical advice: the malware reinstalls itself from a protected partition, so a factory reset won't fix it. If you have an off-brand TV box, it needs clean firmware, or it should come off your network.
+> source: BleepingComputer on the XCPE botnet disruption (Nov 2)
+
+## From Your X Feed | sting=x
+// Story 9: X feed roundup (non-political)
+[ava] Story nine, from your X feed. Variety reports that Ben Wang is in talks to play Iceman in Marvel's X-Men reboot, joining a young cast that includes Sadie Sink as Jean Grey and Kit Connor as Cyclops. Black Hat Events is promoting a Black Hat Europe talk called "Kinetic Prompt Injection," about A.I. agents that control physical machines being hijacked with real-world consequences. Autoblog flagged a rise in car-loan fraud, as A.I. makes fake documents and identities harder to spot. And economics writer Jordan Weissmann posted that he ran international PISA test data through Claude and found almost no relationship between students' reading scores and their sense of belonging at school. That's his own quick analysis, not a peer-reviewed study.
+> source: X posts by @Variety, @BlackHatEvents, @therealautoblog and @JHWeissmann (Nov 2)
+
+## Local News & Events | sting=local
+// Story 10: NH ballot questions, election hotlines; Mulholland response
+[ava] Story ten, here at home. Besides the candidates on tomorrow's ballot, New Hampshire Public Radio notes two ballot questions. One would remove the long-defunct office of register of probate from the state constitution, a change that fell short of the two-thirds vote it needed in 2022. The other would tie local spending limits to school administrative costs, capping central office spending at six percent of a district's budget. Supporters say it pushes money into classrooms, and critics question whether it would. If you run into trouble at the polls, the Attorney General's election hotline is one, eight six six, eight six eight, three seven oh three. The U.S. Attorney's office also has staff on call, and the Justice Department says it's sending federal monitors to polling places in Manchester and Nashua.
+[ava] And an update on Londonderry's former town manager: according to a resident's summary on TownUnderground, Shaun Mulholland has filed a written response disputing the investigation findings released last week. He objects to how interviews were conducted and says his decisions were legitimate management calls. A court hearing in the case had been scheduled for November twelfth.
+> source: NHPR on New Hampshire ballot questions and election hotlines (Nov 2); U.S. Attorney's Office, District of New Hampshire (Nov 2); TownUnderground summary of Mulholland's Oct 31 response (Nov 2)
+
+## Uplifting Story | sting=feel
+// Story 11: Kenli Foundation
+[ava] Story eleven, something good. Five years ago in Kerrville, Texas, eighteen-year-old Kenli Riney was badly hurt in a car crash. Mike Argote and three other men pulled her from the burning car, and Mike was burned doing it. His fourteen-year-old daughter, Ema, took over C.P.R. Kenli didn't survive, but her family and the people who tried to save her grew close. Her family started the Kenli Foundation to honor everyday heroes, and it has now recognized sixty-seven of them and given out sixty-seven thousand dollars in scholarships. Applications have grown from four the first year to four hundred fifty-one. Ema got one of those scholarships and is now at U.T.S.A. As the foundation puts it, "Strangers ran toward the fire. We exist to find more people like them."
+> source: Good News Network on the Kenli Foundation (Nov 2)
+
+## Close | sting=close
+[ava] That's your four o'clock update. Tomorrow is Election Day, so bring your I.D., and polls are open six to eight in Londonderry.
+[andrew] And Apple and Palantir numbers will be waiting for you in the morning.
+[ava] I'm Ava. Thanks for listening to Gumshoe News Radio.
