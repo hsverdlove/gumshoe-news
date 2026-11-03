@@ -1,0 +1,73 @@
+// Gumshoe script format: see README.md
+# title: Tuesday 10 AM Update, Nov 3
+# description: The Tuesday 10 a.m. update from Gumshoe News Radio for November 3, 2026, Election Day: Londonderry weather through tomorrow; President Trump says U.S. aid to Israel ends after this year, and ballot scanners fail across New York's Westchester County; Trump tells Axios he's in no rush on Iran as Qatar sees hope for a deal, and Britain and the EU reach a draft deal to end post-Brexit food checks; stocks open mixed as chips rally and Apple slips; Disney weighs thousands of job cuts and Nvidia reportedly limits China exposure; A.I. companies back a shared training opt-out; firewall attacks chain two serious flaws; your X feed; heavy early turnout across New Hampshire; and a nine-year-old in Ohio who stopped traffic to help a stranger. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's ten o'clock on Tuesday, November third, Election Day, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning again, Ava. The market's open, and the president made some news on Israel this morning.
+[ava] First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 3 at airtime
+
+## US News | sting=us
+// Story 1: Trump on ending Israel aid
+[ava] Story one. President Trump says U.S. aid to Israel, about four billion dollars a year, will end after this year. In a phone interview on Fox and Friends this morning, he said he and Prime Minister Benjamin Netanyahu agreed on it, and that Netanyahu brought it up. He said Israel can still buy American weapons, and "we'll help Israel if they need it." He framed the move as taking away a talking point the left uses, naming Democratic Senate candidate Abdul El-Sayed in Michigan.
+[ava] Some big questions are still open. The current agreement on U.S. military aid to Israel runs through 2028, and Congress, not the president, sets the yearly funding, so it's not clear yet how the change would work. As of the latest reports, Israel's government hadn't confirmed the details. Supporters of the aid say it's a pillar of security in the region. Critics of the aid, on the left and the right, have long argued that a wealthy ally doesn't need it.
+> source: Reuters via Investing.com, "Trump says US will stop paying Israel after year-end" (Nov 3); AP, "Trump says US will halt $4 billion in aid to Israel" (Nov 3); NBC News (Nov 3); Jerusalem Post and Israel Hayom (Nov 3)
+// Story 2: Election Day update, Westchester scanners
+[ava] Story two, an Election Day update. In New York's Westchester County, ballot scanners were down countywide when polls opened at six. The Board of Elections first blamed the thickness of the paper ballots, then corrected itself to say only that there's an issue involving the ballots. Voters are filling out paper ballots that go into sealed orange emergency bags to be counted later. Both candidates in the closely watched seventeenth district race there, Republican Congressman Mike Lawler and Democrat Cait Conley, urged people to stay in line and vote. New York's polls close at nine tonight.
+[ava] Nationally, the University of Florida's Election Lab now puts early voting above fifty-nine million.
+> source: CBS News live updates, "2026 elections live updates" (Nov 3); NBC New York and FOX 5 New York on Westchester ballot scanners (Nov 3); BBC live updates (Nov 3)
+
+## International | sting=world
+// Story 3: Iran, no rush, Qatar's hope
+[ava] Story three, an update on Iran. President Trump told Axios he's in no rush to decide whether to resume strikes, so talks can continue while military options stay open. Axios also reports that C.I.A. Director John Ratcliffe is advising him to stick with what it calls a "no war, no deal" approach while keeping up economic pressure. Qatar, which is mediating, says it still sees hope, even after the strikes on Qeshm Island. Tehran says it will only reopen the Strait of Hormuz if the U.S. makes concessions, including sanctions relief and an end to the naval blockade. Iran's president, Masoud Pezeshkian, has signaled he's open to more diplomacy, though another Iranian official told Al-Monitor a deal is still out of reach.
+> source: Axios via Newsquawk (Nov 3); Euronews, "Qatar sees 'hope' for US-Iran deal despite fresh US strikes" (Nov 3); Al-Monitor (Nov 3); Al Jazeera, "Iran war latest" (Nov 3)
+// Story 4: UK-EU food checks deal
+[ava] Story four. Britain and the European Union have agreed on a draft deal to scrap many of the post-Brexit checks on food and farm goods, the BBC reports. The deal is estimated to be worth about five point one billion pounds a year. Supporters say it cuts costly paperwork and delays for farmers and food exporters. Critics of closer ties have long argued that deals like this tie Britain to E.U. rules it no longer has a say in. The details still have to be finalized.
+> source: BBC via Newsquawk, UK-EU agreement on food and agricultural trade (Nov 3)
+
+## Markets | sting=markets
+// Story 5: The open
+[andrew] Story five, the markets. Stocks opened mixed. A few minutes after the bell, the S and P 500 was up two-tenths of a percent at about seventy-five fifty-four, the Nasdaq was up half a percent at about twenty-five thousand two seventy-three, and the Dow was down three-tenths of a percent at about fifty-one thousand eight twenty-eight.
+[andrew] Chip stocks are leading. Nvidia was up about three percent early, and A.M.D. was up about six percent ahead of its earnings tonight. Memory maker Micron was up about four percent. On the other side, Apple fell about two to three percent on its weaker profit-margin forecast, and Palantir was down about four percent. Shopify was down about fifteen percent before the open even though revenue came in about as expected, at three point seven four billion dollars. Pfizer beat estimates, with adjusted earnings of eighty-seven cents a share against seventy-three expected. Today's job openings report came out at ten, and we'll have those numbers in the one o'clock update.
+> source: Investing.com, "S&P 500, Nasdaq open higher while Dow slips on U.S. midterm elections day" (Nov 3, 9:34 AM ET); Reuters via StreetInsider, premarket (Nov 3); Newsquawk US Daily Equity Opening News (Nov 3)
+
+## Technology | sting=tech
+// Story 6: Disney cuts, Nvidia China limits
+[andrew] Story six. Bloomberg reports that Disney is considering cutting thousands of jobs. Disney hasn't confirmed it, and there's no word yet on which divisions would be affected.
+[andrew] The Financial Times reports that Nvidia has told its cloud partners that, under future contracts, at least fifty-one percent of their services must go to customers outside China. That would limit how much of Nvidia's computing power ends up serving Chinese customers through other companies. Nvidia hasn't commented publicly on the report.
+> source: Bloomberg via Newsquawk on Disney (Nov 3); Financial Times via Newsquawk on Nvidia (Nov 3)
+
+## Artificial Intelligence | sting=ai
+// Story 7: Shared opt-out, Nvidia China limits, China AI rules
+[andrew] Story seven. OpenAI, Google, Microsoft and Anthropic have agreed to support a shared signal that website owners can put in their robots dot T X T file to say whether A.I. companies may use their content for training. It's a simple, common way to opt out. The catch is that it only works on crawlers that choose to follow it, so publishers who've been fighting scraping will probably keep using other defenses too.
+[andrew] And Bloomberg reports that China is planning comprehensive A.I. safety rules that would cover its big model makers, including DeepSeek, Moonshot and Alibaba.
+> source: TechRadar, "OpenAI, Google and Microsoft are backing a new way to opt out" (Nov 3); iTechPost (Nov 3); Bloomberg via Newsquawk on China AI rules (Nov 3)
+
+## Cybersecurity | sting=cyber
+// Story 8: PHP2Shell + Fragnesia; Node-RED
+[andrew] Story eight. Attackers are going after Palo Alto Networks firewalls through a pair of critical flaws called PHP2Shell, which hit firewalls whose management page is exposed to the internet. Singapore's cyber agency says attackers are then using a separate Linux kernel flaw, nicknamed Fragnesia, to get full root control of the device. PHP2Shell also affects some products from Cisco, Citrix, F5 and Siemens. The advice is to patch now and keep management interfaces off the open internet.
+[andrew] Also, VulnCheck says hackers are exploiting a maximum-severity flaw in Node-RED, a low-code tool used in some industrial gear, including Siemens devices, to install bots and backdoors.
+> source: Cyber Security Agency of Singapore, alert AL-2026-157 (Nov 3); SecurityWeek, "Critical Node-RED Flaw Exploited in Attacks" (Nov 3); The Hacker News on Siemens IoT2050 (Nov 3)
+
+## From Your X Feed | sting=x
+// Story 9: X feed roundup (non-political)
+[ava] Story nine, from your X feed. Ben Rothke welcomed Microsoft making passkeys the default sign-in for its Entra business accounts and phasing out text and voice codes. Microsoft started the rollout in September, and its own text and voice codes end for most users on February first. Autoblog posted about a BYD Yangwang U9 Xtreme hypercar that was wrecked during a high-speed test in the United Arab Emirates, ahead of a planned attempt at about three hundred ten miles an hour. Autoblog's headline suggested it crashed at that speed, but other outlets put the crash speed at around two hundred sixty to two hundred eighty miles an hour. The driver reportedly escaped unhurt. Variety says season two of the animated series Blue Eye Samurai streams on Netflix on January nineteenth. And Brian Roemmele highlighted a new paper about a so-called strategist A.I. agent that matched other systems' accuracy at about thirty-nine percent lower cost across thirty benchmarks. It's a preprint that hasn't been peer-reviewed yet.
+> source: X posts by @benrothke, @therealautoblog, @Variety and @BrianRoemmele (Nov 3); Microsoft Learn, Entra passkeys by default and SMS/voice retirement; Motor1 and CarToq on the U9 Xtreme crash
+// Fact check: U9 Xtreme crash speed per CarToq/WhichCar ~420-450 km/h.
+
+## Local News & Events | sting=local
+// Story 10: NH turnout
+[ava] Story ten, here at home. Early turnout looks heavy across New Hampshire. WMUR reports lines growing at polling places in Manchester and Portsmouth. In Concord, the Concord Monitor reports Ward Five had two hundred sixty-four votes by eight A.M., its busiest early hour. Secretary of State David Scanlan is still forecasting a record of about six hundred thirty-five thousand voters, and the mild weather, with highs near seventy in the Merrimack Valley, should help. Londonderry's polls at the high school gym are open until eight tonight.
+> source: WMUR live updates (Nov 3, 9:32 AM); Concord Monitor, "Concord voters come out in droves on Election Day" (Nov 3); NHPR Election Day live blog (Nov 3)
+
+## Uplifting Story | sting=feel
+// Story 11: Brayla Neel
+[ava] Story eleven, something good. In Lodi, Ohio, Connie Seal fell during a morning walk on October nineteenth and cracked her kneecap. Nine-year-old Brayla Neel saw it happen, stopped traffic, and went to help her. Lodi police recognized Brayla for it, and Officer Calvin Young praised her for stepping up. Brayla told News Five Cleveland she's the first person to get one of the department's recognitions.
+> source: News 5 Cleveland, "9-year-old Lodi girl praised for helping woman hurt on a morning walk" (Nov 3)
+
+## Close | sting=close
+[ava] That's your ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. We'll have the job openings numbers and more after lunch.
+[ava] If you haven't voted yet, the polls are open until eight. Thanks for listening to Gumshoe News Radio.
