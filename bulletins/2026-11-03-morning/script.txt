@@ -1,0 +1,76 @@
+// Gumshoe script format: see README.md
+# title: Tuesday Morning, Nov 3
+# description: The Tuesday morning bulletin from Gumshoe News Radio for November 3, 2026, Election Day: Londonderry weather with the seven-day outlook; polls open in the midterms, the Supreme Court turns away the Justice Department's California ballot request, and a deadly shooting near a California beach; U.S. "defensive" strikes on Iran's Qeshm Island as Qatari mediation continues, and Ukrainian drones set a major Russian refinery on fire; Apple and Palantir slide in premarket trading, plus a correction to Monday's closing numbers; inside Apple's first earnings report under John Ternus; a report that DeepSeek will train its next model on Huawei chips; Apple spyware warnings in 99 countries and a BTCPay Server wallet-draining attack; your X feed; voting in Londonderry and a record turnout forecast; and a Florida town's send-off for a drive-thru worker after 37 years. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Tuesday, November third, Election Day, and this is Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Voters head to the polls, Apple's numbers are in, and oil is climbing again after an overnight strike near the Strait of Hormuz.
+[ava] First, the full forecast for Londonderry, with the week ahead, so you know what to wear to the polls.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 3 at airtime
+
+## US News | sting=us
+// Story 1: Election Day
+[ava] Story one. Election Day is here. Polls opened at six this morning across much of the East, and control of both the House and the Senate is on the line. Democrats need to flip four Senate seats and three House seats to take control. The A.P. says all eyes are on Senate races in Alaska, Iowa, Kansas, Maine, Michigan, Ohio and Texas, plus North Carolina. More than fifty-seven million people had already voted as of Monday.
+[ava] Prediction markets favor Democrats, and the final New York Times and Siena polls had Democrats ahead in six of seven key Senate races. But Republicans point to the same polls, which found late-deciding voters leaning Republican by nine points. The first polls close at six p.m. Eastern in parts of Kentucky and Indiana, but close races may not be settled tonight, especially where mail ballots take longer to count. One more thing: heavy rain and flash flooding in parts of Arizona, Colorado, Utah and New Mexico could make it harder for some voters there to reach polling places.
+> source: AP live coverage, "Midterm elections live updates" (Nov 3); AP, "What to watch in Tuesday's midterm election" (Nov 3); AP on Southwest flooding and voting (Nov 3); New York Times/Siena polling (Nov 2)
+// Story 2: SCOTUS denies DOJ California ballot request
+[ava] Story two, an update on a story we brought you yesterday afternoon. The Supreme Court has turned down the Justice Department's emergency request to make California set aside about twenty thousand mail ballots from people the administration says are likely noncitizens. The one-line, unsigned order noted no dissents. That leaves in place rulings from a federal district judge, who called the government's list "rife with uncertainty and errors," and a divided appeals court panel. The administration says it's trying to keep ineligible votes from diluting legal ones. Opponents argue the list is too error-prone to use, and the lower courts agreed for now. A hearing in the underlying case is set for November thirteenth, so the legal fight will outlast Election Day.
+> source: Supreme Court order list, US v. California, 26A624 (Nov 2); CBS News, AP and BBC on the denial (Nov 2); CourtNews (Nov 3)
+// Story 3: Moss Landing shooting
+[ava] Story three. In California, two people were killed and two others wounded in a shooting just after midnight Monday at Moss Landing State Beach, in Monterey County. As of the last reports, no suspect had been identified and no arrests had been announced. The beach has since reopened.
+> source: CBS San Francisco, KCRA, Los Angeles Times, California State Parks (Nov 2)
+
+## International | sting=world
+// Story 4: Qeshm strikes and Qatari mediation
+[ava] Story four. The U.S. military carried out what officials call "defensive" strikes on Iran's Qeshm Island, in the Strait of Hormuz, late Monday. A U.S. official says the goal was to stop Iran from using surface-to-air missiles against American forces. Iran's Revolutionary Guard said Monday it had shot down two U.S. drones south of the island. Central Command hadn't publicly disclosed any strikes on Iran since September first, though officials told The Wall Street Journal that smaller strikes have been going on for weeks. President Trump said Monday it's "not a war."
+[ava] On the diplomatic track, Qatar says its mediators spent more than three hours in Tehran on Monday and that both sides are now reviewing its proposals for an interim deal, but it stressed there's no breakthrough. Vice President Vance says there's been "some progress" and no deadline has been set. Iran's parliament speaker says the ball is in America's court, while a senior Iranian official told Reuters the two sides remain far apart. Supporters of the strikes call them necessary protection for U.S. forces; critics worry they could undercut the talks.
+> source: USA Today, "US strikes Iran's Qeshm Island ahead of midterm elections" (Nov 3); Anadolu Agency morning briefing (Nov 3); The Peninsula Qatar on Al Ansari's briefing (Nov 3); Iran International and Reuters (Nov 3); Bloomberg via Business Standard (Nov 3)
+// Story 5: Yaroslavl refinery strike; Abu Dhabi talks
+[ava] Story five. In Russia, Ukrainian drones struck one of the country's largest oil refineries overnight, in the Yaroslavl region northeast of Moscow, setting off several fires. Two workers were hurt. Russia says it intercepted a hundred twenty-four drones overnight. Ukraine has been targeting Russian energy sites to squeeze the oil money that funds the war. Meanwhile, U.S. envoy Steve Witkoff says Washington will host working-level talks between Ukraine and Russia in Abu Dhabi on November tenth and eleventh.
+> source: Kyiv Independent, Kyiv Post, MarketScreener/Reuters on the Yaroslavl refinery (Nov 3); Anadolu Agency on the Abu Dhabi talks (Nov 3)
+
+## Markets | sting=markets
+// Story 6: Premarket, correction to Monday close
+[andrew] Story six, the markets. First, a correction. Yesterday afternoon we gave you closing numbers that turned out to be wrong. Here are the official ones: the Dow rose two hundred fourteen points, or four-tenths of a percent, to fifty-one thousand nine hundred eighty-four. The S and P 500 fell half a percent to seventy-five forty-one, and the Nasdaq fell about one percent to twenty-five thousand one hundred sixty-four. Reuters says the Nasdaq 100 closed more than ten percent below its record, which puts it officially in a correction. Sorry about that.
+[andrew] This morning, futures are mixed. Dow futures are down about four-tenths of a percent, S and P futures are flat, and Nasdaq futures are up a few tenths of a percent as chip stocks bounce, with Nvidia and A.M.D. higher ahead of A.M.D.'s earnings tonight. Apple is down about four percent premarket on a weak margin forecast; more on that in a moment. Palantir is down six to eight percent, even though revenue nearly doubled to two point three one billion dollars and its forecast beat estimates. Analysts point to slower growth in new contract bookings. Oil bounced back after the Qeshm strikes, with Brent near a hundred and six dollars and U.S. crude near ninety-eight. The ten-year Treasury yield is about four point nine percent. Overseas, Australia's central bank raised its key rate to four point eight five percent on a six-to-three vote, but hinted it may be done. Today brings job openings data at ten, plus earnings from A.M.D., Pfizer, Amgen and Shopify. Traders expect quiet trading during the day and real moves tonight as returns come in.
+> source: AP, "How major US stock indexes fared Monday 11/2/2026"; Reuters via Investing.com, "US stock futures mixed as Apple slides, midterms loom" (Nov 3); CNBC on Apple and Palantir premarket (Nov 3); Investing.com on Palantir results (Nov 3); Reuters Morning Bid (Nov 3); CNBC and Euronext on oil (Nov 3); Saxo Market Quick Take (Nov 3)
+
+## Technology | sting=tech
+// Story 7: Apple Q4 earnings
+[andrew] Story seven. Here are the numbers we promised from John Ternus's first quarter as Apple's C.E.O. Revenue was a hundred fourteen and a half billion dollars, up twelve percent and above Wall Street's forecast. iPhone sales rose seventeen percent to fifty-seven point six billion. The Mac jumped twenty-four percent, and Services hit an all-time high of thirty-one point six billion. Not everything beat. iPad and wearables sales both came in short of estimates.
+[andrew] The stock's problem is the outlook. Apple expects holiday-quarter revenue to grow seven to ten percent. But it sees gross margins of forty-five to forty-six percent, below forecasts, because memory chips keep getting more expensive and launching the new Siri costs money. Bulls point to record sales and twenty-one percent growth in Greater China. Bears say rising component costs could keep eating into profits for a while.
+> source: Apple Newsroom, "Apple reports fourth quarter results" (Nov 2); CNBC live coverage (Nov 2); Motley Fool earnings call transcript (Nov 2); AP and Axios (Nov 2)
+
+## Artificial Intelligence | sting=ai
+// Story 8: DeepSeek V5 on Huawei Ascend; OpenAI hires Driscoll
+[andrew] Story eight. Chinese financial outlets, citing industry sources, report that DeepSeek plans to train its next major model, V5, mainly on Huawei's Ascend 950 chips, with the model expected sometime in 2027. Huawei's chips have mostly been used to run A.I. models, not to train them, so if this pans out it would be a big test of whether China can build frontier A.I. without Nvidia. The reports say the shift is driven by U.S. export limits on Nvidia's best chips. Keep in mind this hasn't been confirmed by DeepSeek or Huawei, and the plan is reportedly still in an early stage.
+[andrew] And OpenAI has hired former Army Secretary Dan Driscoll for a new role as senior counselor on national security.
+> source: TrendForce, "DeepSeek V5 Could Complete Training on Huawei Ascend 950 in 2027" (Nov 3), citing Caiwen and Star Market Daily; Anadolu Agency on OpenAI's Driscoll appointment (Nov 3)
+
+## Cybersecurity | sting=cyber
+// Story 9: Apple mercenary spyware alerts; BTCPay
+[andrew] Story nine. Apple has sent a new wave of "mercenary spyware" warnings to iPhone users in ninety-nine countries. According to Der Spiegel, the people who got them include members of Germany's parliament, ministry staff, journalists, and people who traveled with Chancellor Friedrich Merz on his recent trip to Singapore, Japan and South Korea. Germany's cybersecurity agency tells anyone who got a warning to assume their phone may be compromised, since these attacks can work without the victim clicking anything. Apple doesn't say who's behind the attacks or whether any phone was actually infected. If you ever get one of these notices, take it seriously, keep your phone updated, and consider Apple's Lockdown Mode.
+[andrew] A quick one for crypto merchants: attackers are draining Bitcoin and Litecoin hot wallets on self-hosted BTCPay Server version two point four point one and earlier. The project says to take affected servers offline, move any remaining funds to a brand-new wallet, and rebuild on a fresh machine.
+> source: Der Spiegel and heise online on Apple threat notifications (Nov 2-3); Anadolu Agency (Nov 3); German BSI guidance on mercenary spyware; BTCPay Server blog security incident notice; The Hacker News (Nov 3)
+
+## From Your X Feed | sting=x
+// Story 10: X feed roundup (non-political)
+[ava] Story ten, from your X feed. Cremieux pointed out that some Japanese restaurants ask diners not to wear perfume, so it doesn't overpower the food. Pieter Levels, who posts as levelsio, says he got the classic Wake Island map working in the game remake he's building. Kimmonismus highlighted a researcher, Alex Krentsel, who says he repeated an M.I.T. experiment where A.I. models write a neural network's weights directly, and saw a big jump in ability with newer models. That's an informal experiment, not peer-reviewed research. And Variety reports that BTS and Katseye drove the K-pop company HYBE to record revenue.
+> source: X posts by @cremieuxrecueil, @levelsio, @kimmonismus and @Variety (Nov 3)
+
+## Local News & Events | sting=local
+// Story 11: Voting in Londonderry, record turnout forecast
+[ava] Story eleven, here at home. In Londonderry, polls are open until eight tonight at the Londonderry High School gym. At the top of the ballot: Governor Kelly Ayotte against Democrat Cinde Warmington, and for the open U.S. Senate seat, Democrat Chris Pappas against Republican John E. Sununu. Stefany Shaheen and Anthony DiLorenzo are running for Congress in the First District. The final U.N.H. Granite State Poll had Pappas and Shaheen ahead and the governor's race statistically tied, although most respondents expect Ayotte to win. Secretary of State David Scanlan predicts a record turnout of about six hundred thirty-five thousand voters. There are also the two constitutional questions we covered yesterday. And if you have a problem at the polls, the Attorney General's election hotline is one, eight six six, eight six eight, three seven oh three.
+[ava] Looking ahead to Saturday: there's a free holiday craft fair and bake sale at nine a.m. at the Londonderry Senior Center on Mammoth Road.
+> source: Londonderry Patch voter guide (Nov 2); UNH Survey Center, "NH Final 2026 Election Poll" (Nov 1); NHPR on Secretary Scanlan's turnout forecast (Oct 30); NH Attorney General election hotline; Londonderry Patch calendar, Holiday Craft Fair & Bake Sale (Nov 7)
+
+## Uplifting Story | sting=feel
+// Story 12: One Last Order
+[ava] Story twelve, something good. For thirty-seven years, a woman named Ms. Williams worked at Mac's Drive-Thru in Gainesville, Florida. On her last shift, the town lined up to say goodbye. That day is now a short documentary called One Last Order, from directors Lauren DeFilippo and Sam Soko. It won at this year's Aspen Shortsfest, and the twenty-minute film starts streaming on Netflix on November twenty-fourth. Its trailer came out this week, and it's a nice reminder that the people who hand you lunch every day can mean a lot to a town.
+> source: Awards Radar, "Exclusive: Watch the Trailer for Acclaimed Short 'One Last Order'" (Nov 2); Netflix title page; Insignia Films
+
+## Close | sting=close
+[ava] That's your Tuesday morning bulletin. Go vote if you haven't already, and we'll have updates through the day.
+[andrew] And A.M.D.'s numbers come out after the bell, right before the first polls close.
+[ava] I'm Ava. Thanks for listening to Gumshoe News Radio.
