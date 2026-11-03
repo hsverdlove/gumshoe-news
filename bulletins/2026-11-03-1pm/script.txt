@@ -1,0 +1,75 @@
+// Gumshoe script format: see README.md
+# title: Tuesday 1 PM Update, Nov 3
+# description: The Tuesday 1 p.m. update from Gumshoe News Radio for November 3, 2026, Election Day: Londonderry weather through tomorrow; Israeli officials say they were caught off guard by President Trump's plan to end U.S. military aid, and ballot-machine trouble in Georgia's Fulton County; Russia hits Ukraine's power grid in one of the war's largest attacks, Iran calls the latest U.S. response "not convincing," and Greenland's parliament approves a security pact with the U.S.; midday markets and a surprise jump in job openings; Netflix tests A.I. mood-based picks and G.T.A. Six sets its preload; OpenAI's Navier-Stokes claims and Anthropic's FlashProve; Barracuda patches critical email-gateway flaws; your X feed; heavy turnout in Derry and Rye; and an Australian police officer who gave his rare blood at all eighty-five of the country's donor centers. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's one o'clock on Tuesday, November third, Election Day, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Good afternoon, Ava. We've got those job openings numbers, and they were a surprise.
+[ava] First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 3 at airtime
+
+## US News | sting=us
+// Story 1: Israel reacts to aid announcement
+[ava] Story one, a follow-up on this morning's news that President Trump plans to end U.S. military aid to Israel after this year. Israeli officials say they were caught off guard. Hebrew media report that Finance Ministry officials knew the aid was eventually going to end, but not that it would happen this soon, and one senior official noted that losing the last two years of the current agreement means about eight billion dollars Israel would have to cover itself. Defense officials said the same, adding that a delegation had been in Alabama just two weeks ago, planning future purchases with the U.S. Army.
+[ava] Opposition leaders, including Gadi Eisenkot and Yair Golan, blamed Prime Minister Netanyahu and said the cut comes as Israel needs to restock after a long war. But some Finance Ministry officials told the Israeli outlet Calcalist that ending the aid is a good thing for Israel's independence, arguing it has skewed military buying for years. Netanyahu had said earlier this year he wanted aid phased out over a decade. The current agreement, about three point eight billion dollars a year, runs through 2028, and it's still not clear whether the president means ending it early or not renewing it. As of our latest check, Netanyahu's office was expected to comment but hadn't yet.
+> source: Times of Israel liveblog, Finance Ministry and Eisenkot reactions (Nov 3); Anadolu Agency on Yair Golan (Nov 3); Calcalist/Ctech, "Why some Finance Ministry officials welcome the end of U.S. aid" (Nov 3); Yeshiva World News citing KAN on defense officials (Nov 3)
+// Story 2: Election Day midday
+[ava] Story two, Election Day at midday. In Georgia's Fulton County, officials say two polling locations had ballot-machine problems, one with repeated paper jams and one with a power issue, affecting about a thousand early-voting ballots. The county plans to rescan those ballots in public view this evening. Georgia's secretary of state, Brad Raffensperger, says he expects the early vote to be posted by eight tonight. In Westchester, New York, paper ballots are still being collected in emergency bags after this morning's scanner trouble.
+[ava] Nationally, Democrats need to flip three House seats and four Senate seats to take control, and polls suggest they're in a strong position for the House, while the Senate could come down to races in states the president won. The first polls close at six eastern, in parts of Indiana and Kentucky.
+> source: CBS News live updates, Fulton County ballot machine issues (Nov 3); ABC News live updates, Raffensperger remarks (Nov 3); AP midterm live updates (Nov 3); NBC News live blog (Nov 3); Politico, poll closing times (Nov 3)
+
+## International | sting=world
+// Story 3: Russia hits Ukraine's grid
+[ava] Story three. Russia hit Ukraine's power grid in waves overnight and into Tuesday, in what Ukrainian officials call one of the largest attacks of the war. President Zelensky says Russia launched two hundred eighty-nine drones and seventy-six missiles, hitting power plants and substations from Odesa to Rivne. Kyiv and at least six other regions lost power, and in Dnipro, two people were killed and about twenty wounded. Ukraine's biggest private power company says three of its five thermal plants were knocked offline. Russia's Defense Ministry says it was targeting facilities that power military factories. Speaking in Berlin, Zelensky said the timing on America's Election Day was a signal, and German Chancellor Friedrich Merz urged Moscow to negotiate seriously before U.S.-brokered talks in Abu Dhabi next week.
+> source: Reuters via Investing.com, "Russia bombards Ukraine power grid before Abu Dhabi talks; Merz urges Moscow to engage" (Nov 3, 12:21 PM)
+// Story 4: Iran "not convincing"
+[ava] Story four, Iran. Mohsen Rezaei, head of Iran's top security council, says the latest U.S. response to Tehran's demands is "not convincing," and that the Strait of Hormuz will reopen only if all seven of Iran's conditions are met. A foreign ministry spokesman added there's been no new progress. Qatar's mediators are more upbeat. They say their talks in Tehran last night ran three hours instead of one, and Reuters reports they expect both sides to respond to a new proposal within thirty-six hours. President Trump called last night's U.S. strikes near the strait minor, saying "it wasn't war."
+> source: CBS News Iran war live updates (Nov 3); Iran International, Rezaei and al-Ansari remarks (Nov 3); Reuters via CBS on the 36-hour timeline (Nov 3); Al Jazeera Iran war live (Nov 3)
+// Story 5: Greenland ratifies security pact
+[ava] Story five. Greenland's parliament voted sixteen to nothing, with seven abstaining, to approve a security agreement with the United States and Denmark. It expands U.S. military activity on the island and allows new bases, while keeping Danish sovereignty and Greenland's right to decide its own future. Supporters call it a way to settle months of pressure from Washington on good terms. The abstentions reflect unease about how much ground it gives. Denmark's parliament is set to vote on November nineteenth.
+> source: AP, "Greenland lawmakers back security pact with US, Denmark following Trump's pressure" (Nov 3); USA Today (Nov 3); DR Nyheder (Nov 3)
+
+## Markets | sting=markets
+// Story 6: Midday markets, JOLTS
+[andrew] Story six, the markets at midday. Stocks are mixed. Just before noon, the S and P 500 was up four-tenths of a percent at about seventy-five seventy-two, the Nasdaq was up about eight-tenths at about twenty-five thousand three sixty, and the Dow was down about two hundred thirty points, or four-tenths of a percent, near fifty-one seven fifty.
+[andrew] Chips are leading again, a day after the Nasdaq-100 slipped into a correction. Nvidia was up about three percent and A.M.D. about five ahead of its results tonight, and the Philadelphia chip index was up about three percent. Apple was down a bit more than two percent on its warning that memory costs will squeeze holiday margins. Software was weak: Gartner was down about thirteen percent after earnings, and Shopify and Thomson Reuters were off about seven. Oil kept falling, with Brent down more than one percent.
+[andrew] And the job openings number was a surprise. Openings jumped by three hundred thirty-three thousand in September to seven point five two million, well above the roughly seven point one five million economists expected. Hiring and quits also ticked up. That's a sign the job market is sturdier than many feared, though the Labor Department's own summary calls openings "little changed," so one month isn't a trend.
+> source: Reuters via IEX, "S&P 500, Nasdaq rise as tech stocks gain ahead of midterm results" (Nov 3, 11:50 AM ET); AP, "Nvidia and other Big Tech stocks lift Wall Street" (Nov 3); Bureau of Labor Statistics, JOLTS September 2026 (Nov 3); CNBC on JOLTS consensus (Nov 3)
+
+## Technology | sting=tech
+// Story 7: Netflix AI Discover, GTA VI preload
+[andrew] Story seven. Netflix is testing an A.I. feature on TVs that recommends shows by mood. You can say something like "I need a good cry" and get picks. For now it's limited to select Google TV devices in the U.S., with Roku and Fire TV not included yet.
+[andrew] And for gamers, Rockstar says Grand Theft Auto Six will need up to two hundred twelve gigabytes of storage. Preloads start November tenth, ahead of the November nineteenth launch. The paper map isn't in the box this time. It's a free printable download, or ninety-nine cents as a poster from Rockstar's store.
+> source: The Verge, Netflix AI voice search (Nov 2026); X post by @Variety on Netflix AI recommendations (Nov 3); The Verge, "GTA VI's download will need up to 212GB" (Nov 2026); Push Square and GamesRadar on the GTA VI map (Nov 2026)
+
+## Artificial Intelligence | sting=ai
+// Story 8: OpenAI Navier-Stokes; Anthropic FlashProve; OpenAI bounty
+[andrew] Story eight. OpenAI says about ten thousand A.I. agents working at once produced proofs on problems tied to the Navier-Stokes equations, which describe how fluids move, along with machine-checked versions in the Lean proof language. Treat that carefully for now: the results cover specific settings, not the famous million-dollar problem, and mathematicians haven't independently confirmed them yet.
+[andrew] Anthropic's red team released FlashProve, an open-source prototype that uses zero-knowledge proofs to show that a specific A.I. model really produced a given answer, without revealing the model itself. It's research, not a product, and it's still slow, about seventy to ninety-five times the computing time of normal serving. And OpenAI says it will raise its bug bounty payouts more than fourfold.
+> source: OpenAI, Navier-Stokes proofs and Lean formalizations (Nov 3); Anthropic Frontier Red Team, "Progress on provable inference" (Nov 3); OpenAI on security sprint and bug bounty (Nov 3); DailyCited roundup (Nov 3)
+
+## Cybersecurity | sting=cyber
+// Story 9: Barracuda ESG flaws
+[andrew] Story nine. Barracuda Networks is telling customers to patch two flaws that, chained together, can give an attacker root control of its Email Security Gateway. One is a critical authentication weakness, and the other lets someone with admin access run system commands. Several other Barracuda products, including its web application firewall and load balancer, are affected by the second flaw. The attacker needs to reach the admin interface, so the advice is to patch and keep those interfaces on trusted internal networks. Barracuda hasn't reported attacks in the wild, but its email gateways were hit hard by Chinese espionage hackers in 2023.
+> source: BleepingComputer, "Barracuda warns of critical flaws allowing root access to devices" (Nov 3)
+
+## From Your X Feed | sting=x
+// Story 10: X feed roundup (non-political)
+[ava] Story ten, from your X feed. Autoblog reports Ford plans pricier trims of its Fathom electric pickup, but all of them still under forty thousand dollars, and it also notes the 2027 Mazda Three still starts under twenty-five thousand, with the manual hatchback surviving. levelsio says his revived Battlefield nineteen forty-two server is now listed as an official server, playable from both the original game and his web-based version. Brian Roemmele reposted "Tuesday in November," a seventeen-minute film the U.S. government made in 1945 to explain American elections to audiences overseas. And Fifty Years Ago Live reminded us that on this date in 1976, the horror film Carrie, based on Stephen King's novel, opened in theaters.
+> source: X posts by @therealautoblog, @levelsio, @BrianRoemmele and @50YearsAgoLive (Nov 3)
+
+## Local News & Events | sting=local
+// Story 11: NH turnout midday
+[ava] Story eleven, here at home. Turnout is running strong across New Hampshire. Right next door in Derry, more than two thousand people had voted at Pinkerton Academy by early morning, and the town clerk expects about thirteen thousand by the end of the day. Rye has received about eight hundred forty absentee ballots, which the moderator says is approaching COVID-era levels, and Northfield topped three hundred votes by ten. In a bit of hometown trivia, both First District candidates, Democrat Stefany Shaheen and Republican Anthony DiLorenzo, vote at the same Portsmouth school, and they cast their ballots around the same time this morning. Also on your ballot are two state questions, one removing an old probate job from the constitution and one on a local tax cap and limits on school district central office spending. Polls in Londonderry close at eight.
+> source: NHPR Election Day live blog (Nov 3, updated 1:01 PM); Concord Monitor (Nov 3)
+
+## Uplifting Story | sting=feel
+// Story 12: Trevor Bergman blood donor
+[ava] Story twelve, something good. In Australia, fifty-nine-year-old police officer Trevor Bergman has now given blood at all eighty-five of the country's donor centers. He's one of only about a hundred fifty Australians known to carry a rare antibody called anti-D, which is used to protect babies whose mothers' immune systems might attack their blood. Over the years he's donated five hundred forty-five times. He got the idea while on vacation in Perth, figuring it was a good way to see the country. His last stop was Canberra, where Australia's Governor-General, Sam Mostyn, gave blood right alongside him.
+> source: Good News Network, "He Donated His Ultra-rare Blood 545 Times While Visiting Every Blood Bank in Australia" (Nov 3), citing ABC News Australia
+
+## Close | sting=close
+[ava] That's your one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. We'll have the closing bell and the first poll closings in the four o'clock update.
+[ava] If you haven't voted yet, Londonderry's polls are open until eight. Thanks for listening to Gumshoe News Radio.
