@@ -1,0 +1,77 @@
+// Gumshoe script format: see README.md
+# title: Wednesday 10 AM Update, Nov 4
+# description: The Wednesday 10 a.m. update from Gumshoe News Radio for November 4, 2026: Londonderry weather through tomorrow; Democrats' House majority grows as Alaska's Senate lead flips to Mary Peltola and Mississippi stays deadlocked; Westchester counts its emergency ballots; BBC Verify finds no evidence for Iran's burning-tanker claim, Israel's chemical-weapons warning splits U.S. officials, and China confirms talks on a Xi, Trump and Putin meeting; the Dow jumps a thousand points at the open as ADP hiring beats forecasts, with Uber and McDonald's results; SpaceX picks Qualcomm for Starlink Mobile's 5G network; The New York Times sues Brave, and OpenAI buys Pierre; CISA warns of a WordPress flaw under attack; your X feed; New Hampshire's ballot questions and local events; and a bowl of water kimchi in South Korea. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's ten o'clock on Wednesday, November fourth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning again, Ava. Wall Street has opened, and it's a big one.
+[ava] We'll get there. First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 4 at airtime
+
+## US News | sting=us
+// Story 1: House majority grows; Alaska lead flips; Mississippi
+[ava] Story one, the counting continues. Democrats' House majority keeps growing. As of this morning, they'd won two hundred twenty-eight seats to one hundred thirty-nine for Republicans, with sixty-eight races still uncalled. That's a pickup of at least twenty-five seats, and likely the party's biggest majority in nearly two decades.
+[ava] Two Senate races are still open, and one has changed since our morning bulletin. In Alaska, Mary Peltola has moved ahead of Senator Dan Sullivan, by six hundred twenty-six first-choice votes, with three hundred ninety-four of four hundred one precincts reporting. Mailed ballots can still arrive, and the state won't run its ranked-choice tabulation until November eighteenth. One wrinkle: a second, unrelated Dan Sullivan on the ballot drew about thirty-five hundred votes, several times the margin, and some voters told local media they weren't sure which Sullivan they'd marked.
+[ava] In Mississippi, nothing has moved. Scott Colom still leads Senator Cindy Hyde-Smith by forty-three votes, with an estimated thirty to forty-four thousand ballots left to count. NBC News calls it too close to call.
+> source: 9News/TEGNA, "How many House seats did Democrats win in the 2026 election?" (Nov 4); Investing.com/Reuters, "Democrats win control of Congress" (Nov 4, citing AP as of 5:57 AM ET); The Alaska Story, "Peltola leads Sen. Sullivan by 626 votes" (Nov 4), citing Alaska Division of Elections unofficial results; NBC News Mississippi Senate results (Nov 4, 9:39 AM ET); polling-desk.com Mississippi results (Nov 4)
+// Story 2: Westchester emergency ballots
+[ava] Story two. In Westchester County, New York, officials began counting about ten thousand emergency ballots this morning, the ones set aside after Tuesday's scanner failures. Final totals are expected by the end of the day. The marquee race there is already settled: Congressman Mike Lawler conceded to Cait Conley last night.
+> source: Yonkers Times, "10,000 More Votes to Count in Westchester" (Nov 4); CBS New York, "Rep. Mike Lawler calls Cait Conley to concede" (Nov 4)
+
+## International | sting=world
+// Story 3: Iran tanker claim unverified; chemical weapons split; third carrier
+[ava] Story three, Iran. An update on this morning's claim from Iran's Revolutionary Guard that four tankers hit mines and caught fire near the Strait of Hormuz. BBC Verify says it has found no evidence that four tankers were destroyed. The Guard also claims it shot down another American M.Q.-nine drone; that's unconfirmed too. Separately, the U.K.'s maritime trade office confirmed a tanker was hit by two unidentified projectiles off Oman's Musandam peninsula Tuesday evening, with no injuries.
+[ava] The New York Times reports Israel has told U.S. and Gulf officials that Iran may be preparing chemical weapons, for missiles or covert attacks. U.S. officials are split. Some are alarmed; others doubt the intelligence and suspect Prime Minister Netanyahu wants to pull Washington back into major strikes. Gulf officials said Israel offered no evidence, and Iran denies it. Meanwhile, the carrier Theodore Roosevelt is headed to the region, which would make three U.S. carriers there by the end of the month.
+> source: BBC, "Iran's chief negotiator says Americans voted 'no to war'" (Nov 4), BBC Verify; Anadolu Agency, "Iran claims 4 oil tankers destroyed by naval mines" (Nov 4); Al Jazeera (Nov 4), citing UKMTO; The New York Times, "Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials" (Nov 3); The Times of Israel liveblog (Nov 4); The Wall Street Journal, "U.S. Sending Third Aircraft Carrier, Up to 10,000 More Troops, to Middle East"; defence-blog on USS Theodore Roosevelt (Nov 4)
+// Story 4: China confirms Xi-Trump-Putin talks
+[ava] Story four. For the first time, China has confirmed it's in contact with the United States and Russia about a possible three-way meeting of Xi Jinping, President Trump and Vladimir Putin. It could happen on the sidelines of the Asia-Pacific summit in Shenzhen on November eighteenth and nineteenth. Beijing hasn't confirmed it will happen. It would be the first such meeting. Supporters see a path to a Ukraine settlement; Ukraine's President Zelensky has warned it could become a new Yalta that carves up spheres of influence.
+> source: CNA/Reuters, "China in contact with US, Russia on possible leaders' meeting" (Nov 4); Politico Europe, "Talks underway for Trump-Xi-Putin meeting, China says" (Nov 4); Anadolu Agency (Nov 4)
+
+## Markets | sting=markets
+// Story 5: Big open, ADP, Uber, McDonald's
+[andrew] Story five. Stocks opened sharply higher. The Dow jumped nearly a thousand points at the bell and was up about eleven hundred seventy, or two point three percent, a few minutes later. The S and P 500 was up about one point two percent, on pace for its best day in six weeks, and the Nasdaq about one point one percent. Reuters says investors are betting a divided Washington means fewer sharp policy swings. The exceptions: data-center stocks, on worries about tighter A.I. rules, and Musk-linked names. Tesla and SpaceX are down early.
+[andrew] The A.D.P. jobs report helped. Private employers added eighty-six thousand jobs in October, beating forecasts of roughly seventy thousand. Trade and transportation led, while professional and business services lost jobs for a third straight month. Pay for job-changers rose four point eight percent. A.D.P. has been a shaky guide to the government's report, which comes out Friday.
+[andrew] Earnings: Uber's bookings jumped twenty percent, to almost sixty billion dollars, but its profit outlook came in light, and the stock is roughly flat. McDonald's beat on profit but missed on revenue, and U.S. same-store sales slipped two-tenths of a percent as customer traffic fell. The company points to cost-of-living pressure on lower-income diners. Qualcomm reports after the bell.
+> source: Reuters via Devdiscourse, "Wall St opens higher as Democrats win Congress; data center stocks slide" (Nov 4); AP, "US stocks rally, and the Dow soars more than 1,000 points" (Nov 4); Investor's Business Daily (Nov 4); ADP National Employment Report, October 2026 (Nov 4); CNBC, "Private companies added 86,000 jobs in October" (Nov 4); Reuters via Investing.com (Nov 4); CNBC, Uber Q3 2026 earnings (Nov 4); TipRanks (Nov 4); McDonald's Q3 2026 results release (Nov 4); AP, "McDonald's US foot traffic falls" (Nov 4)
+
+## Technology | sting=tech
+// Story 6: SpaceX picks Qualcomm for Starlink Mobile 5G
+[andrew] Story six. SpaceX has picked Qualcomm to supply the radio and baseband hardware for Starlink Mobile's ground-based 5G network in the U.S. It's a multiyear deal; SpaceX will build the rest of the network itself. Deployment starts in 2027 across tens of thousands of cell sites, alongside Starlink's satellite service. It's one more sign SpaceX wants to be a full mobile carrier. Elon Musk posted that Qualcomm's technology is excellent. Whether a new carrier can win customers from the big three is still an open question.
+> source: Qualcomm press release, "SpaceX Selects Qualcomm to Accelerate Starlink Mobile's Nationwide 5G Network" (Nov 4); CNBC, "SpaceX strikes deal with Qualcomm" (Nov 4); The Verge (Nov 4); X post by @elonmusk (Nov 4)
+// Story 7: NYT sues Brave
+[andrew] Story seven. The New York Times has sued Brave Software, the company behind the Brave browser. The Times says Brave's crawler copied its articles, and that the browser's paywall blocker lets people read them for free.
+[andrew] The suit also says Brave sells that material through its search service to A.I. companies, including Anthropic, Perplexity and x A I. The Times wants damages and an order to stop it. The Chicago Tribune and New York Daily News filed similar suits.
+[andrew] Brave hasn't responded publicly. In past fights with publishers, it has argued that browsers don't republish anyone's content.
+> source: The Verge, "The New York Times sues Brave web browser for AI scraping and bypassing paywalls" (Nov 2026); Ars Technica, "NYT demands Brave shut down its paywall blocker" (Nov 2026); New York Times complaint, S.D.N.Y. (Nov 2); TheWrap (Nov 2026)
+
+## Artificial Intelligence | sting=ai
+// Story 8: OpenAI to acquire Pierre
+[andrew] Story eight. OpenAI says it will buy Pierre Computer Company, a small developer-tools maker whose file-browsing and code-review libraries already power parts of OpenAI's Codex app. OpenAI wants to rebuild Git workflows for a world where A.I. agents write code alongside people. Pierre's open-source projects will stay open-source. No price was given, and the deal still needs regulatory approval.
+> source: OpenAI, "OpenAI to acquire Pierre Computer Company, Inc." (Nov 4)
+
+## Cybersecurity | sting=cyber
+// Story 9: WordPress RCE exploited
+[andrew] Story nine. If you run a WordPress site, update it now. CISA says attackers are exploiting a WordPress flaw that can let an outsider run code on a server during a core upgrade. It was patched in version seven point one point four on October twenty-eighth. The security firm Wordfence says it blocked more than thirteen thousand attacks on it in a single day. Federal agencies have until Friday to patch.
+> source: BleepingComputer, "CISA flags WordPress RCE flaw as actively exploited in attacks" (Nov 4); CISA KEV catalog addition (Nov 3); WordPress 7.1.4 security release (Oct 28)
+
+## From Your X Feed | sting=x
+// Story 10: X feed roundup (non-political)
+[ava] Story ten, from your X feed, with the politics left out. David Heinemeier Hansson, D.H.H., posted that version four point five of his Omarchy Linux setup will run on Apple's M1, M2 and M3 Macs with dual boot, with newer chips on the way. Autoblog posted that the Toyota Celica is officially back for 2027, but only as a World Rally Championship car, with no road version confirmed. And the Pictures Folder account shared Nicolas Cage saying he's "a little bit homeless." A big sinkhole damaged his Malibu property, and he's staying in hotels during repairs. The Los Angeles Times confirms that one.
+> source: X posts by @dhh, @therealautoblog and @PicturesFoIder (Nov 4); Car and Driver on the GR Celica rally car; Los Angeles Times, "Nicolas Cage 'a little bit homeless' due to sinkhole at his home" (Nov 3)
+
+## Local News & Events | sting=local
+// Story 11: NH ballot questions; local events
+[ava] Story eleven, here at home. New Hampshire's Question one, to drop the defunct register of probate from the state constitution, has failed. It got about sixty-four percent, short of the two-thirds it needed. Londonderry voted yes, six thousand fifty-two to five thousand six hundred seventy-eight. Question two, the school tax cap, was decided district by district and needed sixty percent. In Londonderry it got about fifty-two percent, so it failed here. Statewide results were mixed, with a twelve-vote win in Jaffrey-Rindge and a loss in Concord. Town turnout was twelve thousand five hundred seventy-nine ballots, including seven hundred fifty-one new registrations.
+[ava] Coming up: a holiday craft fair and bake sale at the Londonderry Senior Center this Saturday at nine, and the Jingle and Mingle vendor fair at the Fish and Game Club on Sunday. Leach Library has drop-in tech help tomorrow.
+> source: Courier-Journal/USA Today Network NH results, Question 1 (Nov 4); TownUnderground.com, "Londonderry General Election Results, 11/3/2026" (Nov 4, preliminary); WMUR, Question 2 results (Nov 3); Monadnock Ledger-Transcript, "School tax cap passes by 12 votes in Jaffrey-Rindge" (Nov 4); Concord Monitor (Nov 3); Patch Londonderry calendar, Holiday Craft Fair & Bake Sale (Nov 7); Leach Library calendar (Nov 2026)
+
+## Uplifting Story | sting=feel
+// Story 12: Water kimchi
+[ava] Story twelve, something good. In South Korea, a restaurant owner was closing up alone late on Halloween night when a call came in. A young man said his grandmother wouldn't eat anything but a little water kimchi. Could he buy some? He showed up out of breath, in slippers, holding out a crumpled ten-thousand-won bill. The owner refused it and told him to hurry home. A week later, about twenty-five people dressed in black walked in without a reservation. It was the young man and his family, straight from his grandmother's funeral. He introduced the owner to all of them as the person who'd helped. The owner said, "I was glad I could offer even a little warmth on his grandmother's final journey."
+> source: The Financial News (Korea), "'Grandma only eats this' ... A bowl of water kimchi handed over late at night works a miracle" (Nov 4), citing Yonhap News TV and the owner's Threads post
+
+## Close | sting=close
+[ava] That's your ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. At one, we'll check the Westchester count, Alaska and Mississippi, and how this rally holds up.
+[ava] Thanks for listening to Gumshoe News Radio.
