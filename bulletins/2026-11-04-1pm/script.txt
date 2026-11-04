@@ -1,0 +1,78 @@
+// Gumshoe script format: see README.md
+# title: Wednesday 1 PM Update, Nov 4
+# description: The Wednesday 1 p.m. update from Gumshoe News Radio for November 4, 2026: Londonderry weather through tomorrow; Vice President Vance blames the Iran war for the Republican losses as President Trump says he's "locked and loaded" but may not need to strike; Mississippi's 65-vote margin and the deadlines ahead; Ukraine's toll rises to 40 in Komyshuvakha, and Britain orders a review of Sky's ITV deal; the Dow's biggest one-day gain in 19 months as oil plunges; Apple opens Siri to app developers; OpenAI's new security partner and a Reuters look at its past warnings, plus Google's Search-or-AI choice for schools; hackers hijack the Kyiv Independent's newsletter, and mSecure tells users to change their passwords; your X feed; Governor Ayotte as the lone Republican at the State House; and 30,000 strangers at an orphan's wedding. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's one o'clock on Wednesday, November fourth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. That morning rally didn't fade. It grew.
+[ava] We'll get to it. First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 4 at airtime
+
+## US News | sting=us
+// Story 1: Vance blames Iran war; Trump's response
+[ava] Story one. Vice President J.D. Vance is blaming the war with Iran for Tuesday's Republican losses. In a long social media post, he wrote, "The reason we lost is the war. The president himself said so last night." He argued that voters who backed President Trump in 2024 turned on the party over the conflict, and he questioned whether it was worth losing control of Congress. He also pointed to the cost of living and to frustration over America's relationship with Israel.
+[ava] Several outlets note it's the closest Vance has come to criticizing the president, and he's widely seen as a likely candidate in 2028. The president's own read is narrower. He told Fox News that Iran was "a part of it," but said people agree with his Iran policy and mainly objected to paying more for gasoline. And he told the Financial Times there are no immediate plans for a major new strike, adding the U.S. is "locked and loaded if we need to go, but there may be no reason for it."
+> source: Politico, "Vance blames Iran war for GOP's midterm losses" (Nov 4); NBC News, "Vance says the 'real reason' for GOP rout was anger over Iran war" (Nov 4); New York Post (Nov 4); Al Jazeera (Nov 4); BBC, "Trump takes aim at Republicans but says Democrats did a 'good job'" (Nov 4); Benzinga, citing the Financial Times (Nov 4); Iran International (Nov 4)
+// Story 2: Mississippi, Alaska, Westchester
+[ava] Story two, the races still being counted. In Mississippi, Scott Colom's lead over Senator Cindy Hyde-Smith has edged up to about sixty-five votes in the latest unofficial count, out of more than nine hundred forty-five thousand. Still left are mailed ballots and affidavit ballots, cast by voters who couldn't show I.D. at the polls; those voters have until next Tuesday to show it at their circuit clerk's office. Counties must finish counting by November tenth, and the state certifies on the thirteenth. Hyde-Smith's campaign says it's confident she'll win once every legal vote is counted. Colom says, "We're going to win this." There's no runoff; the top vote-getter wins.
+[ava] Alaska hasn't moved since our last update: Mary Peltola leads by six hundred twenty-six, with about three-quarters of the vote counted. And in Westchester County, New York, the count of about ten thousand emergency ballots began at eleven this morning, with totals hoped for by tonight.
+> source: exa election data, Mississippi U.S. Senate results (updated Nov 4, 12:55 PM ET); WLBT, "Cindy Hyde-Smith's campaign releases statement as Senate race remains undecided" (Nov 4); WLOX/Gray News via KBTX (Nov 4); WAPT, "Mississippi election officials keep counting ballots" (Nov 4); CBS News, "Alaska Senate race unresolved" (Nov 4); Westfair Communications and Yonkers Times on the Westchester count (Nov 4)
+
+## International | sting=world
+// Story 3: Komyshuvakha toll 40
+[ava] Story three, Ukraine. The confirmed death toll from Russia's strike on a former school used as an aid center in Komyshuvakha, in the Zaporizhzhia region, has risen to forty, President Zelensky says. More than thirty people may still be under the rubble after three days of rescue work, and he's warned the final toll could approach seventy. Russia says it targets only military and energy sites. Kyiv also had more hours-long power and water cuts today after new strikes on the grid. U.S., Ukrainian and Russian negotiators are still set to meet in Abu Dhabi next Tuesday and Wednesday.
+> source: Interfax-Ukraine, "Zelenskyy says death toll from Russian strike on Komyshuvakha rises to 40" (Nov 4); AP, "Russian attacks cause Kyiv power outages as death reaches 40 in a stricken village" (Nov 4); CBS News (Nov 4); FDD Overnight Brief on the Abu Dhabi talks (Nov 4)
+// Story 4: UK reviews Sky-ITV deal
+[ava] Story four. Britain's culture secretary, Lisa Nandy, has ordered a formal review of Sky's planned purchase of ITV's channels and its ITVX streaming service, a deal worth about one point six billion pounds. Sky is owned by the American company Comcast. Regulators will look at competition and at whether the deal would narrow the range of news voices in Britain. Their reports are due January twenty-seventh, and then Nandy decides whether to order a deeper investigation. Sky says it will keep ITV's identity and its separate newsroom. Supporters of the deal say British broadcasters need scale to compete with the big streamers.
+> source: GOV.UK, "Public Interest Intervention Notice issued by Secretary of State Lisa Nandy" (Nov 4); Deadline, "Sky-ITV: Lisa Nandy Says Ofcom & CMA Can Probe Competition Concerns" (Nov 4); Variety (Nov 4); TVBEurope (Nov 4)
+
+## Markets | sting=markets
+// Story 5: Midday markets
+[andrew] Story five. At midday, the Dow was up about fifteen hundred points, or two point nine percent, to around fifty-three thousand three hundred. That would be its biggest one-day gain since April of last year, and it's back above fifty-three thousand for the first time since September. The S and P 500 was up about one point eight percent, near seventy-seven hundred, and the Nasdaq about two percent.
+[andrew] The new fuel this morning was oil. U.S. crude fell more than seven percent, to about eighty-nine dollars a barrel, and Brent more than eight percent, to near ninety-five. Traders are betting that this election result pushes Washington toward winding down the Iran war, especially after Vice President Vance's comments. Gold jumped about three percent, to around four thousand seventy dollars an ounce, the ten-year Treasury yield slipped to four point nine percent, and Bitcoin was back above eighty thousand.
+[andrew] Consumer stocks led, on cheaper gas and the prospect of affordability bills from a Democratic Congress. Amazon was up almost seven percent and Home Depot more than five. Energy was the worst sector, down more than five percent, and data-center builders and some A.I. names lagged. Among the big movers: Duolingo jumped about thirty percent on strong user growth, and Stanley Black and Decker about seventeen percent, helped partly by tariff refunds. F.I.S. fell about twenty-four percent after cutting its outlook again, and Amdocs about twenty-eight percent, citing a dispute with T-Mobile. One soft spot in the data: the I.S.M. services index cooled slightly more than expected. A caution, too: stocks usually rise in the months after midterms no matter who wins, and today's oil bet depends on Iran actually cooling down.
+> source: Benzinga, "Dow Rallies 2.9%, Oil Sinks 7% After Midterms: Stock Market Today" (Nov 4, data as of 12:01 PM ET); CNBC live updates (Nov 4, 12:21 PM ET); AP, "US stocks rally and oil prices ease following the Democrats' sweep of the midterms" (Nov 4); Investopedia (Nov 4); AInvest noon market summary (Nov 4)
+
+## Technology | sting=tech
+// Story 6: Apple opens Siri to developers; agent risk warning
+[andrew] Story six. Apple has opened its new Siri A.I. to app developers in the latest iOS twenty-seven point three beta. Apps can now hook their content and actions into Siri, including requests that take several steps, like checking an order and then arranging delivery. It's a developer preview for now, with wider release later. At the same time, Apple's annual filing warns investors that autonomous A.I. agents could exceed their permissions, make unauthorized transactions, or resist instructions, with consequences that are hard to undo. That's standard risk-factor language in one sense, but it's notable coming as Apple hands Siri more power to act inside other apps.
+> source: The Neuron, "Everything That Happened in AI Today, Wednesday, November 4" (Nov 4), citing Apple's developer betas and annual Form 10-K; TLDR AI (Nov 4)
+
+## Artificial Intelligence | sting=ai
+// Story 7: OpenAI security partner; Reuters report
+[andrew] Story seven. OpenAI has signed a security partnership with Cathedral Systems, a startup founded by former DOGE staffers. Cathedral previously got into parts of Anthropic's internal systems during a bug-bounty investigation. Anthropic disputed how that test was done, and said its model weights and Claude conversations weren't touched. OpenAI is also raising its bug-bounty rewards.
+[andrew] It comes alongside a Reuters investigation in which five people say OpenAI employees warned for years, going back before ChatGPT launched, that sensitive information was too widely accessible inside the company. OpenAI disputes that it neglected security, and says its most sensitive research sits on restricted systems.
+> source: The Neuron (Nov 4), citing OpenAI's announcement, Gizmodo and Reuters; Reuters investigation on OpenAI security warnings (Nov 4)
+// Story 8: Google schools Search-or-AI setting
+[andrew] Story eight. Google is changing its settings for schools. A district that switches off Google's A.I. tools entirely for students will now lose Google Search for those accounts too. Google says A.I. is now built into Search, and it's adding guided-learning features to help students reason through answers rather than just get them. Educators who want plain search for students are left with an A.I. version or nothing.
+> source: The Neuron (Nov 4); AI Pro Playbook, "Top AI Stories, November 4, 2026" (Nov 4)
+
+## Cybersecurity | sting=cyber
+// Story 9: Kyiv Independent hacked
+[andrew] Story nine. Hackers broke into the Kyiv Independent, the English-language Ukrainian news site, getting into its publishing system and one of its newsletter services. They sent subscribers fake emails in Russian and English, one falsely claiming President Zelensky had launched a nuclear warhead at Kyiv. Staff deleted the posts, and the outlet says payment data wasn't at risk. Its editor-in-chief, Olga Rudenko, said the content points to a Russian operation; Russia hasn't commented. It follows a hack of Ukraine's air-raid alert app three days ago that sent fake nuclear warnings.
+> source: The Kyiv Independent, "Kyiv Independent hit by suspected Russian cyberattack" (Nov 4); Hromadske (Nov 4); The New Voice of Ukraine (Nov 4)
+// Story 10: mSecure breach
+[andrew] Story ten. If you use the mSecure password manager, take note. Its maker, mSeven Software, is telling current and former customers to change their stored passwords, reset two-factor authentication, and remove passkeys. Support replies shared by customers say a hacker stole an encrypted database from mSecure Cloud, and that only people who synced through that cloud are affected. The company says it has no evidence the encrypted contents were opened, but stolen vaults can be cracked offline if the master password is weak, as happened after the LastPass breach.
+> source: BleepingComputer, "mSecure password manager hack prompts password reset warnings" (Nov 4)
+
+## From Your X Feed | sting=x
+// Story 11: X feed roundup (non-political)
+[ava] Story eleven, from your X feed, with the politics left out. The Interesting account posted that getting a game approved on Steam now takes longer. Valve says reviews can take up to twelve business days instead of the usual three to five, and developers now have to play their own game through Steam for at least five minutes before submitting. The Verge ties that to a flood of new submissions. Variety posted that the A.I. music company Suno wants Jason Isbell's lawsuit thrown out, arguing that using an artist's name to describe a style is just shorthand for a genre. And Autoblog posted that Mazda is dropping the CX-70 SUV even as its sales jumped almost three hundred percent.
+> source: X posts by @interesting_aIl, @Variety and @therealautoblog (Nov 4); The Verge, "Valve is making changes to deal with a 'significant increase' in Steam game submissions" (Nov 2026); Variety, "Suno Pushes to Dismiss Jason Isbell Lawsuit in First Response" (Nov 2026)
+
+## Local News & Events | sting=local
+// Story 12: Ayotte the lone Republican; events
+[ava] Story twelve, here at home. WMUR's political director calls Governor Kelly Ayotte the lone survivor at the State House. She won a second term while Democrats took the House, the Senate and the Executive Council. In her statement, Ayotte promised to keep working on affordability. WMUR notes that winning amid a statewide Republican wipeout makes her a bigger player in the 2028 first-in-the-nation presidential primary.
+[ava] On the calendar: the holiday craft fair and bake sale at the Londonderry Senior Center is Saturday at nine, and the Jingle and Mingle vendor fair at the Fish and Game Club is Sunday. And a heads-up for next week: Leach Library will be closed Wednesday the eleventh for Veterans Day.
+> source: WMUR, "Analysis: Breaking down key races, implications of elections in New Hampshire" (Nov 4); WCAX, "Kelly Ayotte to remain New Hampshire governor" (Nov 4); Patch Londonderry calendar, Holiday Craft Fair & Bake Sale (Nov 7); Leach Library calendar, Library Closed (Nov 11)
+
+## Uplifting Story | sting=feel
+// Story 13: 30,000 wedding guests
+[ava] Story thirteen, something good. In China's Yiliang County, a young man named Xu Chenghong had saved for years to marry the woman he loved. His father died when he was three, and he and his older brother largely raised themselves. When he sat down to write his guest list, his brother was the only name on it. So he posted a video asking strangers to come fill a table. On October thirty-first, by reports' estimates, about thirty thousand people showed up, some from hundreds of miles away. They brought apples, appliances, ducks, even live cows. Forty volunteer chefs fed the crowd, and afterward the guests scrubbed the town square clean. The crowd numbers come from reports of Chinese social media and local accounts, and we couldn't independently confirm them. But the groom who feared an empty room got a full one.
+> source: Upworthy, "Groom worried nobody would attend his wedding. Then 30,000 showed up with gifts and animals" (Nov 4), citing Dexerto (Nov 3)
+
+## Close | sting=close
+[ava] That's your one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. At four, we'll have the closing numbers, Qualcomm's results, and the latest from Mississippi and Westchester.
+[ava] Thanks for listening to Gumshoe News Radio.
