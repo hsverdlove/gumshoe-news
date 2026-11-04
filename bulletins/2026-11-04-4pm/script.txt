@@ -1,0 +1,82 @@
+// Gumshoe script format: see README.md
+# title: Wednesday 4 PM Update, Nov 4
+# description: The Wednesday 4 p.m. update from Gumshoe News Radio for November 4, 2026: Londonderry weather through tomorrow; Speaker Mike Johnson steps aside as House Republican leader, with Steve Scalise and Jim Jordan running to replace him; President Trump says he'd launch the Iran war again as Senator Schumer says it "must end"; Iran's leaders dismiss hopes of a U.S. shift, while Qatar awaits answers on a new proposal; Spain's economy minister takes over transport after a deadly crash; the Dow's best day since April 2025 and Qualcomm's results; Waymo's break from Uber and Canva's layoffs; Tencent's new A.I. model and a lawsuit over A.I. plate readers; DreamHost's breach and a phishing scheme that gets past two-factor codes; your X feed; a fight over New Hampshire's next chief justice; and good news for a baby elephant in Oregon. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's four o'clock on Wednesday, November fourth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. The closing bell confirmed it: a very big day on Wall Street.
+[ava] We'll get there. First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 4 at airtime
+
+## US News | sting=us
+// Story 1: Johnson steps aside; GOP leadership race; Hegseth questions
+[ava] Story one. House Speaker Mike Johnson won't try to stay on as Republican leader in the new Congress. He told staff this morning, according to four sources who spoke to NBC News. Two candidates are already running to replace him as minority leader. One is Majority Leader Steve Scalise, a close Johnson ally, who wrote colleagues that the result was "far worse than any of us expected," and that Republicans need to be honest about what happened. The other is Judiciary Chairman Jim Jordan, who pitched himself as "battle-tested" for the Democratic investigations he expects next year. Republicans vote on November tenth. Johnson won re-election to his own seat and is expected to stay in the House.
+[ava] Separately, CBS News reports, citing multiple sources, that President Trump has been asking advisers whether Defense Secretary Pete Hegseth should stay. Other sources say he hasn't decided anything, and the White House hasn't confirmed it.
+> source: NBC News (Nov 4, updated 1:12 PM ET); CBS News; The Hill; Roll Call (Nov 4); CBS News Iran war live updates on Hegseth, citing sources (Nov 4)
+// Story 2: Trump would do it again; Schumer "must end"
+[ava] Story two, the Iran war after the election. Speaking at an event this afternoon, President Trump said it's "largely true" the war cost Republicans, because it drove gas prices up in the short term. But he added, "if I had it to do again, I'd have to do it again," arguing that in the long run it's the only way to keep Iran from getting a nuclear weapon, and that Iran's military has been broken.
+[ava] Senate Democratic Leader Chuck Schumer, whose party takes control in January, said the war "must end." He suggested Democrats could use the power of the purse, meaning government funding, to press the issue. Supporters of the war say pulling back now would throw away military gains and let Iran rebuild; critics say Congress never authorized it. Exit polls showed most voters thought going to war was the wrong decision, including about a quarter of Republicans.
+> source: CBS News Iran war live updates (Nov 4), including Trump remarks and Schumer statement, with AFP; Wall Street Journal interview as cited by CBS
+
+## International | sting=world
+// Story 3: Iran's response; Qatar proposal; sanctions; Lebanon strike
+[ava] Story three. Iran's leadership is playing down the idea that the U.S. election changes anything. A statement attributed to the Supreme Leader, Mojtaba Khamenei, who hasn't been seen in public since taking over, says anyone expecting American policy to shift is "seriously mistaken," and warns any new attack would widen the war. Security official Mohsen Rezaei called the election a political defeat for President Trump. Still, the diplomacy continues. Reuters reports Qatari mediators have put a new proposal to both sides and expect answers within thirty-six hours. Washington, meanwhile, added sanctions today on what the Treasury calls a criminal network, run by two Indian nationals, that gave Iran's shadow-fleet tankers fake flags and certificates.
+[ava] And in southern Lebanon, an Israeli drone strike killed one man and wounded another, Lebanon's first deadly strike since September. Israel says the pair were watching its troops and posed a threat; Lebanese reports say the man killed was a medical worker. One widely shared post on X described "intense airstrikes" on Hezbollah, but news reports so far describe this single strike, plus shelling of several border towns.
+> source: CBS News Iran war live updates (Nov 4), citing Reuters, AFP and the U.S. Treasury; Arab News/AFP (Nov 4); Times of Israel liveblog (Nov 4); Ynetnews (Nov 4); Lebanon National News Agency and Anadolu Agency (Nov 4)
+// Story 4: Spain transport minister
+[ava] Story four, Spain. Transport Minister Óscar Puente has resigned over last week's train crash in Toledo province, which killed sixty-nine people. He called stepping down "a matter of political dignity." It was Spain's second deadly rail disaster this year. Prime Minister Pedro Sánchez has handed the ministry to his economy minister and first deputy, Carlos Cuerpo, until Spain's national election on November twenty-ninth. Sánchez praised Puente for taking responsibility, saying it would help restore confidence in the railways.
+> source: Politico Europe (Nov 3 and Nov 4); Bloomberg (Nov 3); Spain Boletín Oficial del Estado (Nov 4)
+
+## Markets | sting=markets
+// Story 5: The close; Qualcomm after hours
+[andrew] Story five, the closing numbers. Based on preliminary figures from Reuters, the Dow jumped about fifteen hundred seventy-five points, or three percent, to about fifty-three thousand three hundred sixty. It's the Dow's best day since April of last year. The S and P 500 rose about one point six percent, to about seventy-six hundred eighty-nine, and the Nasdaq about one point four percent, to near twenty-five thousand seven hundred thirty-seven.
+[andrew] Oil did much of the work. U.S. crude settled down more than eight percent, at eighty-eight dollars and twelve cents, and Brent down almost nine percent, at ninety-four sixty-two. Oil is down more than fourteen percent this week on hopes of an Iran settlement. The ten-year Treasury yield ended near four point nine percent, the two-year near four point six, and the dollar weakened against most currencies. Gold was up about three percent, around four thousand seventy dollars, and Bitcoin was holding around eighty thousand.
+[andrew] The split inside tech is worth noting. Cash-rich giants like Amazon, Meta and Alphabet rose, and Microsoft hit a record. But chipmakers and data-center operators fell, on worries that a Democratic Congress, with wins in data-center states like Texas and Georgia, could slow the buildout; the Philadelphia chip index hit a six-month low. Defense stocks slipped on doubts about the one-and-a-half-trillion-dollar defense budget request, while solar stocks climbed. Tesla also fell.
+[andrew] After the bell, Qualcomm beat estimates: revenue of ten point four four billion dollars and adjusted earnings of two seventeen a share. It forecast ten point four to eleven point two billion for this quarter, and shares were up about one percent in early after-hours trading. Arm reports this evening too. One caution: one day of relief doesn't settle the Iran question, and oil could snap back if talks stall.
+> source: Reuters via StreetInsider (Nov 4, preliminary closing data); CNBC (Nov 4, settlement prices); CNBC Treasury yields (Nov 4); Investing.com close of trade (Nov 4); Benzinga (Nov 4); 24/7 Wall St., Qualcomm Q4 live coverage (Nov 4, 4:04 PM ET)
+
+## Technology | sting=tech
+// Story 6: Waymo and Uber
+[andrew] Story six. Waymo says it will end its exclusive arrangement with Uber in Austin and Atlanta in January 2028. Riders there will be able to hail Waymo robotaxis through Waymo's own app, as they can in other cities. Co-CEO Tekedra Mawakana told Bloomberg the Uber experience has been "a little bit of a crapshoot," because riders can't be sure whether they'll get a robotaxi or a human driver. Uber says it still plans to offer Waymo rides as long as both sides agree, and says it was Waymo's choice not to let Uber riders book a robotaxi directly.
+> source: TechCrunch (Nov 4), citing Bloomberg News
+// Story 7: Canva layoffs
+[andrew] Story seven. Canva, the design software company, is cutting twenty-two percent of its staff, or twelve hundred seventy-one people, its first big layoff. Co-founder and CEO Melanie Perkins called this the company's "hardest year yet," with growth slowing for the first time in a decade. TechCrunch reports Canva had already cut its revenue-growth forecast to twenty percent, from thirty, partly because of rising A.I. costs, and it faces new competition from chatbots that can make posters and slides. Canva says departing staff get at least six months' pay.
+> source: TechCrunch (Nov 4); BBC (Nov 4); The Verge (Nov 4)
+
+## Artificial Intelligence | sting=ai
+// Story 8: Tencent Hy4
+[andrew] Story eight. China's Tencent has released Hy4, a big new A.I. model, its first that can operate a computer, reading the screen and taking actions. Tencent says it has a one-million-token memory for long documents, has improved at coding and game development, and keeps its low price, about ninety cents per million tokens of input. It promises to publish the model's weights in the coming days, which would put it among the leading open models. The performance claims are Tencent's own, and it hasn't released full benchmark numbers.
+> source: SiliconANGLE (Nov 4); Tencent press release (Nov 4)
+// Story 9: Axon license plate lawsuit
+[andrew] Story nine. Axon, best known for police body cameras and Tasers, is being sued over its A.I. license-plate cameras. A class action filed in federal court in San Francisco claims Axon broke a California privacy law by not disclosing how it collects, uses and shares plate data, calling the system "mass-surveillance infrastructure." It comes as Los Angeles moves ahead with hundreds of Axon's readers after cutting ties with rival Flock. Supporters of the cameras say they help police find stolen cars and suspects.
+> source: The Verge (Nov 4), citing Reuters
+
+## Cybersecurity | sting=cyber
+// Story 10: DreamHost breach
+[andrew] Story ten. Web host DreamHost says hackers sat inside its web-based File Manager for about two months, from August until October twenty-third. They stole the F.T.P. usernames and passwords of anyone who logged into that tool in that window, and may have grabbed webmail session information for a smaller number of users. DreamHost says there's no sign that billing data or control-panel logins were taken. It has reset the affected passwords and is offering a year of credit monitoring. If you have a site there, check your files for changes, check your email forwarding rules, and change any reused passwords.
+> source: BleepingComputer (Nov 4)
+// Story 11: Google Calendar phishing
+[andrew] Story eleven. The security firm Material Security describes a phishing campaign that uses Google Calendar invites, often from real contacts whose accounts were already hijacked. The links pass through Google's own addresses, then lead to a live copy of Google's sign-in page. The attacker passes along each two-factor code or approval in real time and takes over the logged-in session. Material says it has taken down nearly nine hundred domains and the campaign seems to have died down, but it's already switching to Google Drive share invites. The lesson: an approval prompt doesn't protect you on a fake page. Passkeys and hardware keys hold up better against this kind of attack.
+> source: BleepingComputer (Nov 4), research by Material Security
+
+## From Your X Feed | sting=x
+// Story 12: X feed roundup (non-political)
+[ava] Story twelve, from your X feed, with the politics left out. Variety posted that Maya Hawke, of "Stranger Things," will star in a "Magic: The Gathering" movie, with her role and the plot still under wraps. Variety also reports the Tony Awards will stay on CBS through 2032, a partnership going back to 1978. Autoblog posted that Honda just had its best October in six years. Honda's numbers show U.S. sales up eight percent, with hybrids making up more than half of C.R.-V. sales. And kimmonismus flagged Cognition's new SWE-2 Flash coding model, which Cognition says is three times faster than its bigger model at a fifth of the price. Paid users of its Devin agent can try it free through November thirtieth.
+> source: X posts by @Variety, @therealautoblog and @kimmonismus (Nov 4); American Honda October 2026 sales release; Cognition SWE-2 Flash announcement (Nov 4)
+
+## Local News & Events | sting=local
+// Story 13: Executive Council and the chief justice seat; events
+[ava] Story thirteen, here at home. The House clerk says Democrats may hold about two hundred ninety-two seats to Republicans' one hundred seven in the next New Hampshire House, though recounts could change that. The A.P. projects fifteen to nine in the state Senate, just short of a veto-proof majority. Democrats also appear to have won all five Executive Council seats, under a map drawn to favor Republicans. That sets up a fight over the state Supreme Court. Chief Justice Gordon MacDonald resigned in September after an ethics investigation, and Democratic Councilor Karen Liot Hill says Governor Ayotte should wait until the new council takes office in January to name a replacement. Ayotte hasn't set a timeline and says any candidate will go through her judicial selection commission. The current council, with its Republican majority, serves until January.
+[ava] On the calendar: Leach Library hosts a do-it-yourself gnome craft night for adults tomorrow evening from six thirty to eight. Registration is required.
+> source: NHPR, Todd Bookman (Nov 4, 1:29 PM ET); Leach Library events calendar, Adult Craft: DIY Gnomes (Nov 5)
+
+## Uplifting Story | sting=feel
+// Story 14: Tula-Tu the elephant
+[ava] Story fourteen, something hopeful. At the Oregon Zoo in Portland, a baby Asian elephant named Tula-Tu is fighting the same herpes virus that killed her older sister Lily in 2018. This time, things look better. The zoo's vet says her white-cell counts are nearly normal, her viral load is falling, and she's more alert and eating better. "She's a tough little elephant," he said. She's not out of danger yet; her condition is still listed as guarded. But keepers caught the warning signs early, and she got antiviral drugs and plasma transfusions within a day, care that didn't exist in Lily's time. Her mother, Rose-Tu, hasn't left her side.
+> source: The Oregonian/OregonLive (Nov 4), citing an Oregon Zoo news release
+
+## Close | sting=close
+[ava] That's your four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Tomorrow morning: Arm's results, Westchester's final count, and the full week-ahead forecast.
+[ava] Thanks for listening to Gumshoe News Radio.
