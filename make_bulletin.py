@@ -42,9 +42,12 @@ def tts(voice, text, out, rate="+0%"):
             r = subprocess.run(["edge-tts", "--voice", VOICES.get(voice, voice), f"--rate={rate}", "--text", text, "--write-media", mp3], capture_output=True, timeout=120)
         except subprocess.TimeoutExpired as e:
             r = subprocess.CompletedProcess(e.cmd, 1, b"", b"edge-tts timed out"); continue
-        if r.returncode == 0: break
+        if r.returncode == 0:
+            sh(["ffmpeg", "-loglevel", "error", "-y", "-i", mp3, "-ar", str(SR), "-ac", "1", out])
+            words = len(text.split())
+            if words < 15 or dur(out) >= words / 4.0: break  # guard: edge-tts sometimes returns truncated audio with exit 0
+            r = subprocess.CompletedProcess(r.args, 1, b"", f"truncated audio: {dur(out):.1f}s for {words} words".encode())
     else: sys.exit(f"edge-tts failed on {text[:80]!r}: {r.stderr.decode()[-400:]}")
-    sh(["ffmpeg", "-loglevel", "error", "-y", "-i", mp3, "-ar", str(SR), "-ac", "1", out])
 
 def nws_weather(loc):
     ua = {"User-Agent": "gumshoe-news (harry)"}
