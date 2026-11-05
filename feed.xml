@@ -6,6 +6,39 @@
 <itunes:author>Gumshoe</itunes:author><itunes:explicit>false</itunes:explicit><itunes:block>Yes</itunes:block>
 <itunes:image href="https://hsverdlove.github.io/gumshoe-news/cover.jpg"/><image><url>https://hsverdlove.github.io/gumshoe-news/cover.jpg</url><title>Gumshoe News Radio (Harry)</title><link>https://hsverdlove.github.io/gumshoe-news/</link></image>
 <itunes:category text="News"/><itunes:type>episodic</itunes:type>
+<item><title>Thursday 4 PM Update, Nov 5</title><description>The Thursday 4 p.m. update from Gumshoe News Radio for November 5, 2026: Londonderry weather through tomorrow; Governor Newsom commutes all California death sentences; Harmeet Dhillon resigns from the Justice Department Civil Rights Division; Cuban journalist Yoani Sanchez is detained in Havana; the Nasdaq closes in correction after a chip-led rout; Agility Robotics settles its first day; a patched ChatGPT Lockdown Mode bypass; Truffle Security moves to revoke 1.4 million live secrets; your X feed; weekend craft fairs in Londonderry; and giant burrowing frogs return to the wild in Australia. Anchor Ava, with Andrew at the business and tech desk.
+
+Chapters:
+0:00 Open &amp; Weather
+0:49 US News
+2:12 International
+2:58 Markets
+4:36 Technology
+5:14 Artificial Intelligence
+5:59 Cybersecurity
+6:49 From Your X Feed
+7:28 Local News &amp; Events
+7:59 Uplifting Story
+8:42 Close
+
+Sources:
+- NWS forecast for Londonderry, NH
+- National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 5 at airtime
+- AP News (Nov 5); BBC News (Nov 5); NBC News (Nov 5); California Governor's Office explanatory statement (Nov 5)
+- AP News (Nov 5); CBS News (Nov 5); Washington Post (Nov 5); Politico (Nov 5)
+- Committee to Protect Journalists (Nov 5); 14ymedio via Havana Times (Nov 5); CNN en Español (Nov 5); France 24 (Nov 5)
+- Yahoo Finance live quotes near the close (Nov 5); Investing.com market wrap (Nov 5, ~3:30 PM ET); Reuters / InvestmentNews on Nasdaq correction (Nov 5); CNBC TV18 on SOX (Nov 5)
+- Yahoo Finance AGLT quotes (Nov 5 close); TipRanks midday wrap (Nov 5); The Robot Report (Nov 5)
+- The Hacker News, Ravie Lakshmanan (Nov 5), citing Check Point Research / Eli Smadja
+- BleepingComputer, Bill Toulas (Nov 5, 3:15 PM ET), citing Truffle Security
+- X posts by @Variety, @levelsio, @anton_chuvakin and @interesting_aIl (Nov 5)
+- Londonderry Patch calendar; Eagle-Tribune minutes on St. Jude craft fair; HappeningNext Jingle &amp; Mingle listing
+- The Guardian, Donna Lu (Nov 4–5); Zoos Victoria via Guardian reporting</description>
+<content:encoded><![CDATA[The Thursday 4 p.m. update from Gumshoe News Radio for November 5, 2026: Londonderry weather through tomorrow; Governor Newsom commutes all California death sentences; Harmeet Dhillon resigns from the Justice Department Civil Rights Division; Cuban journalist Yoani Sanchez is detained in Havana; the Nasdaq closes in correction after a chip-led rout; Agility Robotics settles its first day; a patched ChatGPT Lockdown Mode bypass; Truffle Security moves to revoke 1.4 million live secrets; your X feed; weekend craft fairs in Londonderry; and giant burrowing frogs return to the wild in Australia. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>0:49 US News<br/>2:12 International<br/>2:58 Markets<br/>4:36 Technology<br/>5:14 Artificial Intelligence<br/>5:59 Cybersecurity<br/>6:49 From Your X Feed<br/>7:28 Local News & Events<br/>7:59 Uplifting Story<br/>8:42 Close<br/><br/>Sources:<br/>- NWS forecast for Londonderry, NH<br/>- National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 5 at airtime<br/>- AP News (Nov 5); BBC News (Nov 5); NBC News (Nov 5); California Governor's Office explanatory statement (Nov 5)<br/>- AP News (Nov 5); CBS News (Nov 5); Washington Post (Nov 5); Politico (Nov 5)<br/>- Committee to Protect Journalists (Nov 5); 14ymedio via Havana Times (Nov 5); CNN en Español (Nov 5); France 24 (Nov 5)<br/>- Yahoo Finance live quotes near the close (Nov 5); Investing.com market wrap (Nov 5, ~3:30 PM ET); Reuters / InvestmentNews on Nasdaq correction (Nov 5); CNBC TV18 on SOX (Nov 5)<br/>- Yahoo Finance AGLT quotes (Nov 5 close); TipRanks midday wrap (Nov 5); The Robot Report (Nov 5)<br/>- The Hacker News, Ravie Lakshmanan (Nov 5), citing Check Point Research / Eli Smadja<br/>- BleepingComputer, Bill Toulas (Nov 5, 3:15 PM ET), citing Truffle Security<br/>- X posts by @Variety, @levelsio, @anton_chuvakin and @interesting_aIl (Nov 5)<br/>- Londonderry Patch calendar; Eagle-Tribune minutes on St. Jude craft fair; HappeningNext Jingle & Mingle listing<br/>- The Guardian, Donna Lu (Nov 4–5); Zoos Victoria via Guardian reporting]]></content:encoded>
+<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-11-05-4pm.mp3?v=20261105T1711" length="4414783" type="audio/mpeg"/>
+<guid isPermaLink="false">gumshoe-2026-11-05-4pm-20261105T1711</guid><pubDate>Thu, 05 Nov 2026 17:11:38 -0400</pubDate>
+<itunes:duration>536</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
+<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-11-05-4pm.chapters.json?v=20261105T1711" type="application/json+chapters"/></item>
 <item><title>Thursday 1 PM Update, Nov 5</title><description>The Thursday 1 p.m. update from Gumshoe News Radio for November 5, 2026: Londonderry weather through tomorrow; Rep. Thomas Massie moves to force a Hegseth impeachment vote next week; Democrats' new state trifectas open a path to the National Popular Vote Compact, while Mississippi's Senate count stays uncalled; hoax bomb threats divert flights across Europe; a midday AI and chip selloff puts the Nasdaq into correction; Agility Robotics settles lower on day one; OpenAI's agents find hundreds of Linux root paths; a stealthy CWP server backdoor; your X feed; Londonderry's school tax cap falls short; and cardboard cottages for Singapore's community cats. Anchor Ava, with Andrew at the business and tech desk.
 
 Chapters:

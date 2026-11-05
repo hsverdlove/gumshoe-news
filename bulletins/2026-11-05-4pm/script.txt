@@ -1,0 +1,66 @@
+// Gumshoe script format: see README.md
+# title: Thursday 4 PM Update, Nov 5
+# description: The Thursday 4 p.m. update from Gumshoe News Radio for November 5, 2026: Londonderry weather through tomorrow; Governor Newsom commutes all California death sentences; Harmeet Dhillon resigns from the Justice Department Civil Rights Division; Cuban journalist Yoani Sanchez is detained in Havana; the Nasdaq closes in correction after a chip-led rout; Agility Robotics settles its first day; a patched ChatGPT Lockdown Mode bypass; Truffle Security moves to revoke 1.4 million live secrets; your X feed; weekend craft fairs in Londonderry; and giant burrowing frogs return to the wild in Australia. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's about four o'clock on Thursday, November fifth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Ava, the Nasdaq just closed in correction. Tech and chips got crushed into the close.
+[ava] We'll get the numbers. First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 5 at airtime
+
+## US News | sting=us
+// Story 1: Newsom death-row commutations
+[ava] Story one, California. Governor Gavin Newsom said today he is commuting the death sentences of all five hundred forty-eight people on the state's death row to life in prison without the possibility of parole. California has not executed anyone since two thousand six, and Newsom imposed a moratorium in twenty nineteen. About three hundred eighty-two of the cases still need California Supreme Court approval because those inmates have multiple felony convictions; the rest can take effect under his executive authority.
+[ava] Supporters call it overdue mercy in a system that hasn't carried out a sentence in twenty years. Opponents, including victims' families and some Republican lawmakers, say it overrides jurors' verdicts and weakens deterrence. Newsom framed the move as closing a chapter before he leaves office.
+> source: AP News (Nov 5); BBC News (Nov 5); NBC News (Nov 5); California Governor's Office explanatory statement (Nov 5)
+// Story 2: Dhillon resigns
+[ava] Story two, Washington. Harmeet Dhillon, the assistant attorney general who led the Justice Department's Civil Rights Division, resigned today, two days after Democrats won majorities in both houses of Congress. Attorney General Todd Blanche accepted the resignation and praised her service. Dhillon had overhauled the division's priorities under the Trump administration; civil-rights groups often criticized those shifts, while her allies said she was correcting what they called politicized enforcement. A successor has not been named.
+> source: AP News (Nov 5); CBS News (Nov 5); Washington Post (Nov 5); Politico (Nov 5)
+
+## International | sting=world
+// Story 3: Yoani Sanchez detained
+[ava] Story three, Cuba. Independent journalist Yoani Sanchez, founder and director of the outlet Fourteen Y Medio, was detained by State Security agents in Havana this morning after she left home to go shopping. She texted her newsroom that she had been stopped; her whereabouts were still unknown hours later. The Committee to Protect Journalists called for her immediate release and said the arrest fits a wider crackdown this week that also briefly detained other independent reporters. Cuban authorities have not publicly detailed charges. Sanchez's outlet has faced short-term detentions of its staff for years; supporters cast her as a press-freedom case, while the government has long cast independent outlets as enemies of the state.
+> source: Committee to Protect Journalists (Nov 5); 14ymedio via Havana Times (Nov 5); CNN en Español (Nov 5); France 24 (Nov 5)
+
+## Markets | sting=markets
+// Story 4: Close — Nasdaq correction
+[andrew] Story four, the close, and it was a rout for tech. The Dow finished near fifty-one thousand four hundred eighty-seven, down about eighteen hundred seventy points, or roughly three and a half percent. The S and P 500 closed near seventy-three fifty, off about four to four and a half percent. The Nasdaq Composite settled near twenty-four thousand three hundred thirteen, down about five and a half percent, more than ten percent below its October sixth record — that puts it into correction territory. The Philadelphia semiconductor index plunged around ten to eleven percent on the session.
+[andrew] Nvidia closed near one hundred eighty-two, down roughly nine to twelve percent depending on the print. A M D was among the hardest hit, off about sixteen percent near four hundred three to four hundred ten. Declining issues crushed advancers on both the New York Stock Exchange and the Nasdaq. Oil was firmer, with U.S. crude near ninety seventy. Gold futures were around forty-one hundred nine. Bitcoin slipped into the mid-seventies thousand. The ten-year yield was near four point eight four percent, and the dollar index was around one oh one point six. The V I X spiked near twenty-seven, a six-month high.
+[andrew] Wednesday's post-election bounce lasted one session. Investors are pricing tougher scrutiny of the A I buildout under a Democratic Congress, on top of soft chip outlooks. Friday's October jobs report is still ahead.
+> source: Yahoo Finance live quotes near the close (Nov 5); Investing.com market wrap (Nov 5, ~3:30 PM ET); Reuters / InvestmentNews on Nasdaq correction (Nov 5); CNBC TV18 on SOX (Nov 5)
+
+## Technology | sting=tech
+// Story 5: Agility day-one close
+[andrew] Story five, a close check on Agility Robotics. The Digit humanoid maker, trading as A G L T after its blank-check merger, opened at eleven twenty-six, briefly traded as low as the mid-eights, then recovered. Near the close it was around eleven forty-seven, still above the ten-dollar deal price and roughly flat to a bit above the open after a wild first day. For a company with under two million in revenue last year against a nine-figure loss, that kind of volatility isn't shocking — but buyers did show up into the close after the midday washout.
+> source: Yahoo Finance AGLT quotes (Nov 5 close); TipRanks midday wrap (Nov 5); The Robot Report (Nov 5)
+
+## Artificial Intelligence | sting=ai
+// Story 6: ChatGPT Lockdown Mode bypass
+[andrew] Story six. Check Point researchers say they found a now-patched way around Lockdown Mode in OpenAI's ChatGPT — the optional setting meant to block data from leaking out of a chat after a prompt injection. The flaw was in how HTML previews handled nested sandbox frames and popups, letting content escape the sandbox. In theory that could mean silent chat theft, phishing pages, or malware lures, including zero-click exfiltration on the desktop app. OpenAI fixed it in mid-September after responsible disclosure; Check Point published the details today. The researchers' broader point: A I safety toggles are only as strong as the app shell around them.
+> source: The Hacker News, Ravie Lakshmanan (Nov 5), citing Check Point Research / Eli Smadja
+
+## Cybersecurity | sting=cyber
+// Story 7: Truffle Security secrets revocation
+[andrew] Story seven. Truffle Security launched a free Secrets Revocation Program aimed at about one point four million publicly exposed A P I keys and other secrets that are still live. The company says eighty-one percent of keys it reported last year still worked six months later, and that A I coding tools have made leaks worse — more than twenty-six hundred working keys turned up in tool config files since early twenty twenty-five. Sixteen issuers have joined so far, including Hugging Face, Notion, Vercel and Twilio, so Truffle can push verified leaks to a revocation endpoint or webhook and kill keys within fourteen days even when owners ignore the email. Google's earlier move to auto-disable leaked cloud keys is the model they're pointing to.
+> source: BleepingComputer, Bill Toulas (Nov 5, 3:15 PM ET), citing Truffle Security
+
+## From Your X Feed | sting=x
+// Story 8: X feed roundup (non-political)
+[ava] Story eight, from your X feed, politics left out. Variety says H B O's The Gilded Age just posted its biggest Season Four premiere yet, about four million viewers across platforms, up a quarter from last year. Levelsio built his own expenses tracker with Claude Code and says it keeps proving that the big model labs will eat industry after industry. Anton Chuvakin looked at a Linux login that accepted any long password and asked what planet we're on. And a viral clip notes Nicolas Cage saying he's been a little bit homeless since a sinkhole wrecked the driveway of his Malibu place.
+> source: X posts by @Variety, @levelsio, @anton_chuvakin and @interesting_aIl (Nov 5)
+
+## Local News & Events | sting=local
+// Story 9: Weekend craft fairs
+[ava] Story nine, here in Londonderry. This weekend is packed with craft fairs. Saturday at nine, the holiday craft fair and bake sale is at the Londonderry Senior Center on Mammoth Road. Also Saturday, nine to four, St. Jude Parish holds its craft fair at four thirty-five Mammoth Road. And Sunday, the Jingle and Mingle vendor fair is at the Fish and Game Club from ten to three. Good days to get ahead on holiday shopping without leaving town.
+> source: Londonderry Patch calendar; Eagle-Tribune minutes on St. Jude craft fair; HappeningNext Jingle & Mingle listing
+
+## Uplifting Story | sting=feel
+// Story 10: Giant burrowing frogs
+[ava] Story ten, something good. In Victoria, Australia, scientists have returned fifty-three southern giant burrowing frogs to the wild in East Gippsland. After the twenty nineteen–twenty black summer fires, researchers found about one hundred sixty tadpoles in puddles, raised them at Melbourne Zoo, and bred the species in captivity for the first time. The males released now are about five years old, roughly the size of a cricket ball, and spend most of their lives buried until the rains come. Each frog was tagged, and song meters will listen for their calls. There are only five known breeding sites left in the state, so it's a small, careful step against extinction.
+> source: The Guardian, Donna Lu (Nov 4–5); Zoos Victoria via Guardian reporting
+
+## Close | sting=close
+[ava] That's your Thursday four o'clock update, and the last scheduled bulletin of the day. I'm Ava.
+[andrew] And I'm Andrew. Have a good evening.
+[ava] Thanks for listening to Gumshoe News Radio.
