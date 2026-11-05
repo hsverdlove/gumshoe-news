@@ -6,6 +6,39 @@
 <itunes:author>Gumshoe</itunes:author><itunes:explicit>false</itunes:explicit><itunes:block>Yes</itunes:block>
 <itunes:image href="https://hsverdlove.github.io/gumshoe-news/cover.jpg"/><image><url>https://hsverdlove.github.io/gumshoe-news/cover.jpg</url><title>Gumshoe News Radio (Harry)</title><link>https://hsverdlove.github.io/gumshoe-news/</link></image>
 <itunes:category text="News"/><itunes:type>episodic</itunes:type>
+<item><title>Thursday 1 PM Update, Nov 5</title><description>The Thursday 1 p.m. update from Gumshoe News Radio for November 5, 2026: Londonderry weather through tomorrow; Rep. Thomas Massie moves to force a Hegseth impeachment vote next week; Democrats' new state trifectas open a path to the National Popular Vote Compact, while Mississippi's Senate count stays uncalled; hoax bomb threats divert flights across Europe; a midday AI and chip selloff puts the Nasdaq into correction; Agility Robotics settles lower on day one; OpenAI's agents find hundreds of Linux root paths; a stealthy CWP server backdoor; your X feed; Londonderry's school tax cap falls short; and cardboard cottages for Singapore's community cats. Anchor Ava, with Andrew at the business and tech desk.
+
+Chapters:
+0:00 Open &amp; Weather
+1:14 US News
+3:36 International
+4:18 Markets
+6:10 Technology
+6:47 Artificial Intelligence
+8:02 Cybersecurity
+8:54 From Your X Feed
+9:34 Local News &amp; Events
+10:22 Uplifting Story
+11:06 Close
+
+Sources:
+- NWS forecast for Londonderry, NH
+- National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 5 at airtime
+- CNN via KTIV (Nov 5); Stars and Stripes (Nov 5); Al Jazeera (Nov 5); USA Today (updated Nov 5); Washington Examiner (Nov 5)
+- Axios, Andrew Pantazi (Nov 4); National Popular Vote state status; Ballot Access News (Nov 4); ABC News / CBS News Mississippi tallies (Nov 5, midday)
+- AP News (Nov 5); BBC News (Nov 5); AFP (Nov 5); NBC News (Nov 5)
+- Reuters via Yahoo Finance (Nov 5, ~12:24 PM ET); AP News (Nov 5); NBC News (Nov 5); CNBC Treasury yields (Nov 5); FXStreet on gold and bitcoin (Nov 5)
+- The Robot Report (Nov 5); The Oregonian / OregonLive (Nov 5); Agility Robotics release (Nov 5)
+- OpenAI, "A thousand fewer paths to root" (Nov 4); Cyber Security News and Silicon Report summaries (Nov 5)
+- BleepingComputer, Bill Toulas (Nov 5, 11:24 AM ET), citing XLab / QiAnXin
+- X posts by @Variety, @beffjezos, @garrytan and @BrianRoemmele (Nov 5)
+- TownUnderground Londonderry election results (Nov 4); Union Leader / WMUR / NHPR on school tax caps (Nov 4–5); Londonderry Patch calendar; HappeningNext
+- Mothership.SG, Chloe Loh (Nov 5); The Straits Times on Chin's cat cottages</description>
+<content:encoded><![CDATA[The Thursday 1 p.m. update from Gumshoe News Radio for November 5, 2026: Londonderry weather through tomorrow; Rep. Thomas Massie moves to force a Hegseth impeachment vote next week; Democrats' new state trifectas open a path to the National Popular Vote Compact, while Mississippi's Senate count stays uncalled; hoax bomb threats divert flights across Europe; a midday AI and chip selloff puts the Nasdaq into correction; Agility Robotics settles lower on day one; OpenAI's agents find hundreds of Linux root paths; a stealthy CWP server backdoor; your X feed; Londonderry's school tax cap falls short; and cardboard cottages for Singapore's community cats. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>1:14 US News<br/>3:36 International<br/>4:18 Markets<br/>6:10 Technology<br/>6:47 Artificial Intelligence<br/>8:02 Cybersecurity<br/>8:54 From Your X Feed<br/>9:34 Local News & Events<br/>10:22 Uplifting Story<br/>11:06 Close<br/><br/>Sources:<br/>- NWS forecast for Londonderry, NH<br/>- National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 5 at airtime<br/>- CNN via KTIV (Nov 5); Stars and Stripes (Nov 5); Al Jazeera (Nov 5); USA Today (updated Nov 5); Washington Examiner (Nov 5)<br/>- Axios, Andrew Pantazi (Nov 4); National Popular Vote state status; Ballot Access News (Nov 4); ABC News / CBS News Mississippi tallies (Nov 5, midday)<br/>- AP News (Nov 5); BBC News (Nov 5); AFP (Nov 5); NBC News (Nov 5)<br/>- Reuters via Yahoo Finance (Nov 5, ~12:24 PM ET); AP News (Nov 5); NBC News (Nov 5); CNBC Treasury yields (Nov 5); FXStreet on gold and bitcoin (Nov 5)<br/>- The Robot Report (Nov 5); The Oregonian / OregonLive (Nov 5); Agility Robotics release (Nov 5)<br/>- OpenAI, "A thousand fewer paths to root" (Nov 4); Cyber Security News and Silicon Report summaries (Nov 5)<br/>- BleepingComputer, Bill Toulas (Nov 5, 11:24 AM ET), citing XLab / QiAnXin<br/>- X posts by @Variety, @beffjezos, @garrytan and @BrianRoemmele (Nov 5)<br/>- TownUnderground Londonderry election results (Nov 4); Union Leader / WMUR / NHPR on school tax caps (Nov 4–5); Londonderry Patch calendar; HappeningNext<br/>- Mothership.SG, Chloe Loh (Nov 5); The Straits Times on Chin's cat cottages]]></content:encoded>
+<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-11-05-1pm.mp3?v=20261105T1428" length="5574463" type="audio/mpeg"/>
+<guid isPermaLink="false">gumshoe-2026-11-05-1pm-20261105T1428</guid><pubDate>Thu, 05 Nov 2026 14:28:10 -0400</pubDate>
+<itunes:duration>681</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
+<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-11-05-1pm.chapters.json?v=20261105T1428" type="application/json+chapters"/></item>
 <item><title>Thursday 10 AM Update, Nov 5</title><description>The Thursday 10 a.m. update from Gumshoe News Radio for November 5, 2026: Londonderry weather through tomorrow; President Trump says the other Dan Sullivan's votes should go to the senator, as Alaska's count continues; the Brooklyn fire victims still unidentified as investigators look at lithium-ion batteries; Washington weighs renewed Iran strikes against continued pressure while Qatar mediates; Russell Brand convicted of rape in London; the Bank of England raises rates for the first time in three years, jobless claims match a 57-year low, and the Nasdaq slips at the open; Agility Robotics' first trades; OpenAI's new promises to data center towns; a hacked game launcher; your X feed; Londonderry's $173 million wish list; and seabirds come back to an English harbor. Anchor Ava, with Andrew at the business and tech desk.
 
 Chapters:
@@ -114,40 +147,4 @@ Sources:
 <guid isPermaLink="false">gumshoe-2026-11-04-4pm-20261104T1723</guid><pubDate>Wed, 04 Nov 2026 17:23:05 -0400</pubDate>
 <itunes:duration>798</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
 <podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-11-04-4pm.chapters.json?v=20261104T1723" type="application/json+chapters"/></item>
-<item><title>Wednesday 1 PM Update, Nov 4</title><description>The Wednesday 1 p.m. update from Gumshoe News Radio for November 4, 2026: Londonderry weather through tomorrow; Vice President Vance blames the Iran war for the Republican losses as President Trump says he's "locked and loaded" but may not need to strike; Mississippi's 65-vote margin and the deadlines ahead; Ukraine's toll rises to 40 in Komyshuvakha, and Britain orders a review of Sky's ITV deal; the Dow's biggest one-day gain in 19 months as oil plunges; Apple opens Siri to app developers; OpenAI's new security partner and a Reuters look at its past warnings, plus Google's Search-or-AI choice for schools; hackers hijack the Kyiv Independent's newsletter, and mSecure tells users to change their passwords; your X feed; Governor Ayotte as the lone Republican at the State House; and 30,000 strangers at an orphan's wedding. Anchor Ava, with Andrew at the business and tech desk.
-
-Chapters:
-0:00 Open &amp; Weather
-0:48 US News
-2:48 International
-4:08 Markets
-6:01 Technology
-6:45 Artificial Intelligence
-7:59 Cybersecurity
-9:16 From Your X Feed
-10:00 Local News &amp; Events
-10:44 Uplifting Story
-11:36 Close
-
-Sources:
-- NWS forecast for Londonderry, NH
-- National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 4 at airtime
-- Politico, "Vance blames Iran war for GOP's midterm losses" (Nov 4); NBC News, "Vance says the 'real reason' for GOP rout was anger over Iran war" (Nov 4); New York Post (Nov 4); Al Jazeera (Nov 4); BBC, "Trump takes aim at Republicans but says Democrats did a 'good job'" (Nov 4); Benzinga, citing the Financial Times (Nov 4); Iran International (Nov 4)
-- exa election data, Mississippi U.S. Senate results (updated Nov 4, 12:55 PM ET); WLBT, "Cindy Hyde-Smith's campaign releases statement as Senate race remains undecided" (Nov 4); WLOX/Gray News via KBTX (Nov 4); WAPT, "Mississippi election officials keep counting ballots" (Nov 4); CBS News, "Alaska Senate race unresolved" (Nov 4); Westfair Communications and Yonkers Times on the Westchester count (Nov 4)
-- Interfax-Ukraine, "Zelenskyy says death toll from Russian strike on Komyshuvakha rises to 40" (Nov 4); AP, "Russian attacks cause Kyiv power outages as death reaches 40 in a stricken village" (Nov 4); CBS News (Nov 4); FDD Overnight Brief on the Abu Dhabi talks (Nov 4)
-- GOV.UK, "Public Interest Intervention Notice issued by Secretary of State Lisa Nandy" (Nov 4); Deadline, "Sky-ITV: Lisa Nandy Says Ofcom &amp; CMA Can Probe Competition Concerns" (Nov 4); Variety (Nov 4); TVBEurope (Nov 4)
-- Benzinga, "Dow Rallies 2.9%, Oil Sinks 7% After Midterms: Stock Market Today" (Nov 4, data as of 12:01 PM ET); CNBC live updates (Nov 4, 12:21 PM ET); AP, "US stocks rally and oil prices ease following the Democrats' sweep of the midterms" (Nov 4); Investopedia (Nov 4); AInvest noon market summary (Nov 4)
-- The Neuron, "Everything That Happened in AI Today, Wednesday, November 4" (Nov 4), citing Apple's developer betas and annual Form 10-K; TLDR AI (Nov 4)
-- The Neuron (Nov 4), citing OpenAI's announcement, Gizmodo and Reuters; Reuters investigation on OpenAI security warnings (Nov 4)
-- The Neuron (Nov 4); AI Pro Playbook, "Top AI Stories, November 4, 2026" (Nov 4)
-- The Kyiv Independent, "Kyiv Independent hit by suspected Russian cyberattack" (Nov 4); Hromadske (Nov 4); The New Voice of Ukraine (Nov 4)
-- BleepingComputer, "mSecure password manager hack prompts password reset warnings" (Nov 4)
-- X posts by @interesting_aIl, @Variety and @therealautoblog (Nov 4); The Verge, "Valve is making changes to deal with a 'significant increase' in Steam game submissions" (Nov 2026); Variety, "Suno Pushes to Dismiss Jason Isbell Lawsuit in First Response" (Nov 2026)
-- WMUR, "Analysis: Breaking down key races, implications of elections in New Hampshire" (Nov 4); WCAX, "Kelly Ayotte to remain New Hampshire governor" (Nov 4); Patch Londonderry calendar, Holiday Craft Fair &amp; Bake Sale (Nov 7); Leach Library calendar, Library Closed (Nov 11)
-- Upworthy, "Groom worried nobody would attend his wedding. Then 30,000 showed up with gifts and animals" (Nov 4), citing Dexerto (Nov 3)</description>
-<content:encoded><![CDATA[The Wednesday 1 p.m. update from Gumshoe News Radio for November 4, 2026: Londonderry weather through tomorrow; Vice President Vance blames the Iran war for the Republican losses as President Trump says he's "locked and loaded" but may not need to strike; Mississippi's 65-vote margin and the deadlines ahead; Ukraine's toll rises to 40 in Komyshuvakha, and Britain orders a review of Sky's ITV deal; the Dow's biggest one-day gain in 19 months as oil plunges; Apple opens Siri to app developers; OpenAI's new security partner and a Reuters look at its past warnings, plus Google's Search-or-AI choice for schools; hackers hijack the Kyiv Independent's newsletter, and mSecure tells users to change their passwords; your X feed; Governor Ayotte as the lone Republican at the State House; and 30,000 strangers at an orphan's wedding. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>0:48 US News<br/>2:48 International<br/>4:08 Markets<br/>6:01 Technology<br/>6:45 Artificial Intelligence<br/>7:59 Cybersecurity<br/>9:16 From Your X Feed<br/>10:00 Local News & Events<br/>10:44 Uplifting Story<br/>11:36 Close<br/><br/>Sources:<br/>- NWS forecast for Londonderry, NH<br/>- National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 4 at airtime<br/>- Politico, "Vance blames Iran war for GOP's midterm losses" (Nov 4); NBC News, "Vance says the 'real reason' for GOP rout was anger over Iran war" (Nov 4); New York Post (Nov 4); Al Jazeera (Nov 4); BBC, "Trump takes aim at Republicans but says Democrats did a 'good job'" (Nov 4); Benzinga, citing the Financial Times (Nov 4); Iran International (Nov 4)<br/>- exa election data, Mississippi U.S. Senate results (updated Nov 4, 12:55 PM ET); WLBT, "Cindy Hyde-Smith's campaign releases statement as Senate race remains undecided" (Nov 4); WLOX/Gray News via KBTX (Nov 4); WAPT, "Mississippi election officials keep counting ballots" (Nov 4); CBS News, "Alaska Senate race unresolved" (Nov 4); Westfair Communications and Yonkers Times on the Westchester count (Nov 4)<br/>- Interfax-Ukraine, "Zelenskyy says death toll from Russian strike on Komyshuvakha rises to 40" (Nov 4); AP, "Russian attacks cause Kyiv power outages as death reaches 40 in a stricken village" (Nov 4); CBS News (Nov 4); FDD Overnight Brief on the Abu Dhabi talks (Nov 4)<br/>- GOV.UK, "Public Interest Intervention Notice issued by Secretary of State Lisa Nandy" (Nov 4); Deadline, "Sky-ITV: Lisa Nandy Says Ofcom & CMA Can Probe Competition Concerns" (Nov 4); Variety (Nov 4); TVBEurope (Nov 4)<br/>- Benzinga, "Dow Rallies 2.9%, Oil Sinks 7% After Midterms: Stock Market Today" (Nov 4, data as of 12:01 PM ET); CNBC live updates (Nov 4, 12:21 PM ET); AP, "US stocks rally and oil prices ease following the Democrats' sweep of the midterms" (Nov 4); Investopedia (Nov 4); AInvest noon market summary (Nov 4)<br/>- The Neuron, "Everything That Happened in AI Today, Wednesday, November 4" (Nov 4), citing Apple's developer betas and annual Form 10-K; TLDR AI (Nov 4)<br/>- The Neuron (Nov 4), citing OpenAI's announcement, Gizmodo and Reuters; Reuters investigation on OpenAI security warnings (Nov 4)<br/>- The Neuron (Nov 4); AI Pro Playbook, "Top AI Stories, November 4, 2026" (Nov 4)<br/>- The Kyiv Independent, "Kyiv Independent hit by suspected Russian cyberattack" (Nov 4); Hromadske (Nov 4); The New Voice of Ukraine (Nov 4)<br/>- BleepingComputer, "mSecure password manager hack prompts password reset warnings" (Nov 4)<br/>- X posts by @interesting_aIl, @Variety and @therealautoblog (Nov 4); The Verge, "Valve is making changes to deal with a 'significant increase' in Steam game submissions" (Nov 2026); Variety, "Suno Pushes to Dismiss Jason Isbell Lawsuit in First Response" (Nov 2026)<br/>- WMUR, "Analysis: Breaking down key races, implications of elections in New Hampshire" (Nov 4); WCAX, "Kelly Ayotte to remain New Hampshire governor" (Nov 4); Patch Londonderry calendar, Holiday Craft Fair & Bake Sale (Nov 7); Leach Library calendar, Library Closed (Nov 11)<br/>- Upworthy, "Groom worried nobody would attend his wedding. Then 30,000 showed up with gifts and animals" (Nov 4), citing Dexerto (Nov 3)]]></content:encoded>
-<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-11-04-1pm.mp3?v=20261104T1418" length="5835008" type="audio/mpeg"/>
-<guid isPermaLink="false">gumshoe-2026-11-04-1pm-20261104T1418</guid><pubDate>Wed, 04 Nov 2026 14:18:52 -0400</pubDate>
-<itunes:duration>714</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
-<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-11-04-1pm.chapters.json?v=20261104T1418" type="application/json+chapters"/></item>
 </channel></rss>

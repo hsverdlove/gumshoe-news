@@ -1,0 +1,70 @@
+// Gumshoe script format: see README.md
+# title: Thursday 1 PM Update, Nov 5
+# description: The Thursday 1 p.m. update from Gumshoe News Radio for November 5, 2026: Londonderry weather through tomorrow; Rep. Thomas Massie moves to force a Hegseth impeachment vote next week; Democrats' new state trifectas open a path to the National Popular Vote Compact, while Mississippi's Senate count stays uncalled; hoax bomb threats divert flights across Europe; a midday AI and chip selloff puts the Nasdaq into correction; Agility Robotics settles lower on day one; OpenAI's agents find hundreds of Linux root paths; a stealthy CWP server backdoor; your X feed; Londonderry's school tax cap falls short; and cardboard cottages for Singapore's community cats. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's about one o'clock on Thursday, November fifth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Ava, the open bounce is gone. Tech and chips are getting hammered at midday, and the Nasdaq is in correction territory.
+[ava] We'll get the numbers in a minute. First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 5 at airtime
+
+## US News | sting=us
+// Story 1: Massie / Hegseth impeachment
+[ava] Story one, Capitol Hill. Kentucky Republican Thomas Massie says he will force a House vote next week on impeaching Defense Secretary Pete Hegseth unless Hegseth resigns first. Massie filed eight articles in September, accusing Hegseth of waging the Iran war without congressional authorization and of other abuses. He lost his primary in May, so this lame-duck stretch is his last window.
+[ava] Multiple Republican sources told CNN they expect the House vote to pass. Impeachment in the House takes a simple majority; removal would still need a two-thirds Senate conviction, which would require a chunk of Republican votes either now or after Democrats take larger majorities in January. The White House says President Trump is backing Hegseth and wants him to fight it. Hegseth's allies call the push scapegoating after midterm losses tied to the war; Massie and other critics say the war itself was unauthorized and badly planned. No vote has been scheduled yet.
+> source: CNN via KTIV (Nov 5); Stars and Stripes (Nov 5); Al Jazeera (Nov 5); USA Today (updated Nov 5); Washington Examiner (Nov 5)
+// Story 2: National Popular Vote Compact path
+[ava] Story two. Democrats' new trifectas in Pennsylvania, Michigan, Arizona, Wisconsin and Nevada have opened a path to activate the National Popular Vote Interstate Compact before 2028. The compact, already law in eighteen states and D.C. for two hundred twenty-two electoral votes, would have member states award their electors to the national popular-vote winner once they collectively hold two hundred seventy. Those five states would push the total to about two hundred eighty-three if they all enact it.
+[ava] That's a big if. The states still have to pass the bills, Michigan stalled when it last had a trifecta, and Nevada's then-governor vetoed it in 2019. Legal scholars disagree on whether Congress must approve an interstate compact like this, and court challenges are expected. Supporters say it would end presidents who lose the popular vote; opponents say it sidelines the Electoral College without a constitutional amendment and could dilute smaller states' influence.
+[ava] One quick count note: in Mississippi, Democrat Scott Colom's lead over Republican Senator Cindy Hyde-Smith has widened to roughly seventeen hundred votes with about ninety-six percent counted. Counties have until November thirteenth to certify. The race is still uncalled.
+> source: Axios, Andrew Pantazi (Nov 4); National Popular Vote state status; Ballot Access News (Nov 4); ABC News / CBS News Mississippi tallies (Nov 5, midday)
+
+## International | sting=world
+// Story 3: Europe bomb threat hoaxes
+[ava] Story three, Europe. A second wave of hoax bomb threats hit airlines and airports today, disrupting more than a dozen flights. An Aer Lingus flight from Dublin to Rome diverted to a French military base; Ryanair flights into Bulgaria were inspected at Sofia and Plovdiv; and a Finnair plane into Rome got a fighter escort. Authorities say searches found no explosives. An unconfirmed email to Rome's airport claimed responsibility from a group using anti-feminist language; officials are treating the threats as malicious hoaxes while investigations continue. Hundreds of passengers were delayed, and so far there are no reports of injuries.
+> source: AP News (Nov 5); BBC News (Nov 5); AFP (Nov 5); NBC News (Nov 5)
+
+## Markets | sting=markets
+// Story 4: Midday AI/chip rout
+[andrew] Story four, midday markets, and it's ugly for tech. As of about twelve twenty-five Eastern, the Dow was down roughly fourteen hundred points, or about two point six percent, near fifty-one thousand nine hundred fifty. The S and P 500 was off about three point four percent, near seventy-four twenty-six. The Nasdaq Composite was down about four and a half to five percent, near twenty-four thousand five hundred sixty, more than ten percent below its October sixth record, which puts it into correction territory.
+[andrew] The Philadelphia semiconductor index was plunging around ten to eleven percent. Nvidia was off roughly seven to eight percent; Qualcomm was down double digits after last night's soft phone-chip outlook; A M D was among the hardest hit. Tesla and SpaceX were also sharply lower. Banks and some defensives held up better earlier, but by midday almost every S and P sector was red. Oil was firmer, with U.S. crude near the high eighty-eights to low eighty-nines. Gold was around forty-one hundred to forty-one thirty. Bitcoin was holding near eighty thousand. The two-year yield was roughly four and a half percent, the ten-year near four point eight to four point nine, and the dollar a touch softer.
+[andrew] The drivers: Qualcomm and Arm's mixed reports overnight, plus fresh worries that a Democratic Congress and tougher A I rules in some data-center states will slow the buildout that powered this year's rally. Declining issues heavily outnumbered advancers on both the New York Stock Exchange and the Nasdaq. Wednesday's post-election bounce lasted one session. Friday's October jobs report is still ahead, and economists will watch whether soft claims data still translate into solid payrolls.
+> source: Reuters via Yahoo Finance (Nov 5, ~12:24 PM ET); AP News (Nov 5); NBC News (Nov 5); CNBC Treasury yields (Nov 5); FXStreet on gold and bitcoin (Nov 5)
+
+## Technology | sting=tech
+// Story 5: Agility midday
+[andrew] Story five, a midday check on Agility Robotics, as we flagged this morning. The Digit humanoid maker is trading on Nasdaq as A G L T after its blank-check merger. Shares opened around eleven twenty-six, above the ten-dollar deal price, then slid; by midday they were roughly in the ten-dollar area after touching the high eights, down double digits from the open on some prints. For a company that reported under two million in revenue last year against a nine-figure loss, day-one volatility isn't shocking, but it's a cool reception after the morning debut.
+> source: The Robot Report (Nov 5); The Oregonian / OregonLive (Nov 5); Agility Robotics release (Nov 5)
+
+## Artificial Intelligence | sting=ai
+// Story 6: OpenAI Linux cyber pipeline
+[andrew] Story six. OpenAI published results from an autonomous security pipeline that scanned the Linux kernel. In a mid-October run, using an upcoming cyber model, the system reproduced about seventeen hundred vulnerabilities and produced nine hundred forty-eight working local privilege-escalation exploits that could take an unprivileged user to root, plus hundreds of information-leak proofs of concept, at an A P I cost of about one point two million dollars. OpenAI says agents also used at least ten novel exploitation techniques, and that human researchers are reviewing patches with Linux maintainers through its Patch the Planet effort.
+[andrew] The company frames this as defense: find and fix faster than attackers can, and it says it is sending critical patches first with human review. Critics and outside researchers will watch how cleanly those patches land, and whether the same capability lowers the bar for offense once similar models spread. OpenAI's own write-up warns that, for a well-resourced actor, an unpatched low-privilege account should increasingly be treated as equivalent to root, which is why sandboxes and isolation matter more, not less.
+> source: OpenAI, "A thousand fewer paths to root" (Nov 4); Cyber Security News and Silicon Report summaries (Nov 5)
+
+## Cybersecurity | sting=cyber
+// Story 7: CWPdoor
+[andrew] Story seven. Researchers at XLab, part of China's QiAnXin group, say a stealthy Linux backdoor called C W P door is spreading through a trojanized copy of C W P serve, the web server behind Control Web Panel, a hosting control panel similar to cPanel. The malware sits quiet until an attacker sends signed, encrypted H T T P headers, then runs commands while trying to keep the trigger out of the access logs. XLab says more than three hundred forty thousand C W P instances have shown up on the public internet in the past month, and a VirusTotal sample with zero detections suggests real victims already exist. Admins are advised to check for odd helper processes and integrity-header strings in the binary, replace a bad binary with a clean build, update, and rotate credentials.
+> source: BleepingComputer, Bill Toulas (Nov 5, 11:24 AM ET), citing XLab / QiAnXin
+
+## From Your X Feed | sting=x
+// Story 8: X feed roundup (non-political)
+[ava] Story eight, from your X feed, politics left out. Variety says NBC's Rockford Files reboot has a release date and even a Jim Rockford hotline, and that hoax artist Oobah Butler is developing an H B O series called Scams for a Better Tomorrow. Beff posted about Blue Origin's lunar launcher. Garry Tan highlighted Capy A I's multi-agent coding setup, captains coordinating subagents through merge queues. And Brian Roemmele put the assistant shift in one image: in eighteen seventy-six you walked to the ringing phone; now the model has already booked the ride and is waiting for a yes.
+> source: X posts by @Variety, @beffjezos, @garrytan and @BrianRoemmele (Nov 5)
+
+## Local News & Events | sting=local
+// Story 9: School tax cap + weekend events
+[ava] Story nine, here in Londonderry. On the local ballot Tuesday, the proposed school property-tax cap got about six thousand one hundred thirty-eight yes votes to five thousand six hundred seventy-eight no, roughly fifty-two percent. It needed a sixty percent supermajority, so it failed. Statewide, more than a hundred New Hampshire communities did pass similar caps; Londonderry was not one of them. Supporters wanted a hard brake on school-tax growth; opponents warned of program cuts and said the existing budget process is enough.
+[ava] This weekend is still craft-fair season: the holiday craft fair and bake sale at the Londonderry Senior Center is Saturday at nine, and the Jingle and Mingle vendor fair at the Fish and Game Club is Sunday from ten to three.
+> source: TownUnderground Londonderry election results (Nov 4); Union Leader / WMUR / NHPR on school tax caps (Nov 4–5); Londonderry Patch calendar; HappeningNext
+
+## Uplifting Story | sting=feel
+// Story 10: Janet Chin cat houses
+[ava] Story ten, something good. In northern Singapore, Janet Chin, who's in her mid-fifties, has hand-built close to two hundred cardboard houses for community cats. She started in twenty twenty-one after seeing feeders use plain carton boxes as shelters, and after bringing home rescued cats of her own. She uses clean cartons, water-resistant wallpaper and recycled bits, and the fancier designs can take a week or more. Neighbors photograph the cats napping inside castles, photo booths and even M R T-inspired cabins. When someone pays for a custom house, she says the money goes back into her rescue work. It's a small, practical kindness, one box at a time.
+> source: Mothership.SG, Chloe Loh (Nov 5); The Straits Times on Chin's cat cottages
+
+## Close | sting=close
+[ava] That's your Thursday one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. At four, we'll see whether the Nasdaq finds a floor.
+[ava] Thanks for listening to Gumshoe News Radio.
