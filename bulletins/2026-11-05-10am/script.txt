@@ -1,0 +1,71 @@
+// Gumshoe script format: see README.md
+# title: Thursday 10 AM Update, Nov 5
+# description: The Thursday 10 a.m. update from Gumshoe News Radio for November 5, 2026: Londonderry weather through tomorrow; President Trump says the other Dan Sullivan's votes should go to the senator, as Alaska's count continues; the Brooklyn fire victims still unidentified as investigators look at lithium-ion batteries; Washington weighs renewed Iran strikes against continued pressure while Qatar mediates; Russell Brand convicted of rape in London; the Bank of England raises rates for the first time in three years, jobless claims match a 57-year low, and the Nasdaq slips at the open; Agility Robotics' first trades; OpenAI's new promises to data center towns; a hacked game launcher; your X feed; Londonderry's $173 million wish list; and seabirds come back to an English harbor. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's ten o'clock on Thursday, November fifth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning again, Ava. Wall Street is open, and the split we saw in the futures held up at the bell.
+[ava] We'll get there. First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 5 at airtime
+
+## US News | sting=us
+// Story 1: Trump on the two Dan Sullivans
+[ava] Story one, Alaska. President Trump posted this morning that the votes for the, quote, "Fake Dan Sullivan," and for the other trailing candidate, should be given immediately to the real Senator Dan Sullivan, and the election declared over. That's not how Alaska's ranked-choice system works. If no one tops fifty percent, the last-place candidates are eliminated one at a time, and their voters' next choices are counted, a process that starts after the final count on November eighteenth.
+[ava] As of this morning, Democrat Mary Peltola led the senator by about six hundred votes, roughly forty-eight point two percent to forty-seven point nine. The other Dan Sullivan, a retired teacher, has about thirty-six hundred votes, and a second Republican on the ballot has about forty-eight hundred, so both could matter. Republicans accuse Peltola's campaign of recruiting the second Sullivan as a spoiler, citing New York Times reporting. Peltola, her campaign and Sullivan himself deny it, and no investigation has found wrongdoing so far. A federal judge threw out the Justice Department's suit over the race on Sunday, and the department is appealing.
+> source: Axios (Nov 5); Just the News (Nov 5); Reuters on Judge Gleason's dismissal (Nov 1); View from the Gallery fact check (Nov 5)
+// Story 2: Brooklyn fire update
+[ava] Story two, an update on the Sunset Park fire in Brooklyn. Six adults died, Mayor Zohran Mamdani confirmed, and none has been identified yet; the medical examiner is handling that. Firefighters rescued two people trapped behind window bars, and the fire spread to a neighboring home. Eight residents are displaced, and the Red Cross is putting them up in hotels. Two lithium-ion batteries were found in the house, but the fire department says it hasn't determined whether they played a role. This comes less than a week after four members of one family died in a Bronx fire blamed on a lithium-ion battery.
+> source: ABC7 New York (Nov 5); New York Post (Nov 5); Gothamist (Nov 5); AP via ABC News (Nov 5)
+
+## International | sting=world
+// Story 3: Iran: strikes or pressure
+[ava] Story three, Iran. Axios and The Wall Street Journal report a real debate in Washington. Some officials want to step up strikes, and Axios says the military is finishing preparations in case major combat resumes. Others, reportedly including C.I.A. Director John Ratcliffe and Treasury Secretary Scott Bessent, favor keeping the naval blockade and sanctions in place while testing whether Tehran will deal. The president hasn't announced a decision. He also says Defense Secretary Pete Hegseth is, quote, "doing a very good job," pushing back on reports he might be replaced.
+[ava] Meanwhile, Iran's foreign minister, Abbas Araghchi, spoke by phone today with his Saudi and Qatari counterparts, as Qatar keeps pressing both sides on its proposal. And the Financial Times reports Russian production documents show an order for ninety missile launchers from a buyer coded as Iran; the paper says it couldn't establish whether they were ever delivered.
+> source: Iran International, citing Axios, The Wall Street Journal, Reuters and the Financial Times (Nov 5)
+// Story 4: Russell Brand verdict
+[ava] Story four, from London. A jury at Southwark Crown Court found the comedian and actor Russell Brand guilty of one count of rape and three counts of sexual assault, dating back to the late nineties and two thousands. He was acquitted of two other rape charges and one count of attempted indecent assault. Brand, who is fifty-one, had pleaded not guilty to everything, telling the court the encounters were consensual and that he regrets what he called reckless philandering. The judge told him to expect a significant prison term; he's being held until sentencing on Monday. London police say they're investigating further allegations from two more women.
+> source: NBC News, Adela Suliman (Nov 5); BBC News live (Nov 5); Variety (Nov 5)
+
+## Markets | sting=markets
+// Story 5: Open, BoE, claims
+[andrew] Story five, the markets at the open. The Dow rose about three hundred thirty points, or six tenths of a percent, to around fifty-three thousand six hundred eighty-seven. The S and P 500 slipped about two tenths of a percent, and the Nasdaq fell about eight tenths, as chip and data-center stocks kept sliding. Barron's says Nvidia was set to open below two hundred dollars a share for the first time since July, while banks and retailers, like JPMorgan, Goldman, Walmart and Home Depot, are leading the Dow. Qualcomm is down sharply after a weak outlook tied to a memory-chip shortage, and Tesla and SpaceX are lower on worries about more scrutiny from a Democratic Congress.
+[andrew] The jobs data were strong. First-time jobless claims fell to one hundred eighty-nine thousand, matching July's reading, which was the lowest since nineteen sixty-nine. Some economists caution that a smaller labor force, after the immigration crackdown, may be part of why claims are so low. Friday's October jobs report is expected to show about sixty-five thousand new jobs.
+[andrew] Overseas, the Bank of England raised its key rate a quarter point, to four percent, its first hike in over three years. The vote was eight to one, and the one dissenter wanted a bigger, half-point hike. The Bank blamed energy prices from the Iran war and now expects British inflation near five percent by the middle of next year. Governor Andrew Bailey said this shouldn't be seen as the first of a long series of hikes, but unless the war is resolved, it probably won't be the last. In other markets, U.S. crude is up about one and a half percent, near eighty-nine fifty, gold is up more than one percent, near forty-one thirty, and bitcoin is around seventy-nine thousand six hundred.
+> source: Reuters via StreetInsider (Nov 5, 9:37 AM ET); Investopedia via Yahoo Finance (Nov 5, 8:09 AM ET); Barron's live coverage (Nov 5); Reuters via Investing.com and AP on jobless claims (Nov 5); Bank of England Monetary Policy Summary (Nov 5); BBC and CNBC (Nov 5)
+
+## Technology | sting=tech
+// Story 6: Agility's first trades
+[andrew] Story six. Agility Robotics, maker of the Digit humanoid robot, made its Nasdaq debut this morning. The stock opened at eleven twenty-six, above the ten-dollar price used in its blank-check merger, then drifted down to about ten thirty in early trading, according to The Robot Report. For context on the business: Agility reported just under one point eight million dollars in revenue last year, with a net loss of about one hundred thirty-eight million. It says Digit has logged more than sixty-five thousand hours of work at nine customer sites, and that it has more than three hundred million dollars in committed orders for its next model, with deliveries starting in 2027.
+> source: The Robot Report, Steve Crowe (Nov 5); Investor's Business Daily (Nov 5)
+
+## Artificial Intelligence | sting=ai
+// Story 7: OpenAI community compact
+[andrew] Story seven. With local opposition to data centers on the ballot in a lot of places Tuesday, OpenAI published what it calls a National Community Compact for its future "compute campuses," its new name for data centers. The company pledges to pay the full cost of the electricity and grid upgrades it needs, with financial guarantees so other ratepayers aren't stuck if a project is canceled. It also promises to publish water, power, noise and hiring numbers for each site, and to stop using nondisclosure agreements with public officials, except for narrow security and trade-secret protections. It's asking lawmakers to make rules like these mandatory for the whole industry. Critics note these are voluntary promises for now, and they'll judge them by what happens at actual sites.
+> source: OpenAI, "Setting a new standard for responsible AI infrastructure" (Nov 5); Bloomberg via Techmeme (Nov 5); Benzinga (Nov 5); TechCrunch (Nov 1)
+
+## Cybersecurity | sting=cyber
+// Story 8: NIKKE launcher hack
+[andrew] Story eight, for PC gamers. The makers of the popular shooter game NIKKE confirmed that someone tampered with the scripts in the game's Windows launcher, in what's called a supply-chain attack. According to an independent researcher's analysis, which BleepingComputer partly verified, the altered files date back to late September and quietly installed a remote-access backdoor that could steal passwords, browser data and screenshots, and in some cases cryptocurrency wallet details. The publisher pushed a fix on Tuesday and has posted instructions for checking whether a computer was affected. If you or someone in the house plays it on PC, run a full antivirus scan, and if anything turns up, change passwords from a clean device.
+> source: BleepingComputer, Bill Toulas (Nov 4, updated Nov 5)
+
+## From Your X Feed | sting=x
+// Story 9: X feed roundup (non-political)
+[ava] Story nine, from your X feed, with the politics left out. D H H, David Heinemeier Hansson, showed off his desk: an older MacBook M2 Pro driving Apple's six-K display, running his own Linux setup, Omarchy. Whatever his beefs with Apple, he says, they aren't with the hardware. Geiger Capital summed up this morning's tape in five words: "There goes the midterm relief rally." And from Variety, "Rings of Power" actor Eddie Marsan, who plays a power-hungry dwarf, explains why he once had two thousand pairs of Orlando Bloom's elf ears in his attic.
+> source: X posts by @dhh, @Geiger_Capital and @Variety (Nov 5)
+
+## Local News & Events | sting=local
+// Story 10: Londonderry CIP
+[ava] Story ten, here in Londonderry. The Planning Board's review of the town's capital improvement plan for 2028 through 2033 turned into a debate over what belongs in it. Chair Jake Butler noted the draft lists about one hundred seventy-three million dollars in town and school projects. Member John Farrell said the plan is supposed to be "not a wish list," and warned the total would top what the town has put into the plan in the last thirty years. Even so, the board recommended a new public works facility, fire station repairs, a Leach Library children's room addition, the high school addition and renovation, and turf field improvements. Any spending still needs the Town Council or School Board, and in most cases, voters.
+[ava] This weekend, the holiday craft fair and bake sale at the Londonderry Senior Center is Saturday at nine, and the Jingle and Mingle vendor fair at the Fish and Game Club is Sunday from ten to three.
+> source: Londonderry Times, Alex Malm (Nov 1); Londonderry Patch calendar; HappeningNext event listing
+
+## Uplifting Story | sting=feel
+// Story 11: Terns return to Pagham
+[ava] Story eleven, something good. In 2022, bird flu wiped out the sandwich tern colony at Pagham Harbour, on England's south coast between Brighton and Southampton, and the birds abandoned it. This year, the count went from zero to seven hundred fifty-six. Britain's Royal Society for the Protection of Birds credits years of work: predator-proof fencing, rat patrols, clearing vegetation so the terns can nest, and volunteers asking dog walkers to give the ground-nesting birds some room. Little terns, ringed plovers and oystercatchers are up too. As the project manager put it, things began to "tern" around last year.
+> source: Good News Network, Andy Corbley (Nov 5), citing the RSPB and The Guardian
+
+## Close | sting=close
+[ava] That's your Thursday ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. At one, we'll check midday markets and see where Agility settles.
+[ava] Thanks for listening to Gumshoe News Radio.
