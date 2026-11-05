@@ -1,0 +1,81 @@
+// Gumshoe script format: see README.md
+# title: Thursday Morning, Nov 5
+# description: The Thursday morning bulletin from Gumshoe News Radio for November 5, 2026: Londonderry weather with the full seven-day forecast; where the uncalled races stand, including Alaska's Senate count; Vice President Vance says the Iran war cost Republicans the election; a deadly overnight fire in Brooklyn; Iran's negotiator says Americans voted "no to war" as Qatar waits on answers; Armenia says it's done with a Russian-led military alliance; futures split as chip stocks slide again, plus Arm, Qualcomm and the Bank of England; Amazon swaps Grubhub for Uber Eats; Claude Code's product lead moves to OpenAI and a humanoid robot maker goes public; an Android flaw that can trap phones in a reboot loop, and a Russian campaign against phones; your X feed; the Wild River Fire in the White Mountains and weekend events in town; and a six-year-old found safe in the Kentucky hills. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Thursday, November fifth, and this is Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. After Wednesday's big rally, futures are split this morning, and the chip stocks are under pressure again.
+[ava] We'll get to that. First, Londonderry weather, with the week ahead.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 5 at airtime
+
+## US News | sting=us
+// Story 1: Where the count stands
+[ava] Story one, the count goes on. Two days after the election, the Associated Press still had fifty-nine House races uncalled as of Wednesday afternoon. Ballotpedia's tally puts Democrats at a minimum of two hundred thirty-three seats to one hundred thirty-eight, with more than sixty races open. In the Senate, Democrats hold at least fifty-four seats to forty-four, with Alaska and Mississippi still undecided.
+[ava] In Alaska, Democrat Mary Peltola leads Republican Senator Dan Sullivan by only about six hundred votes, with roughly seventy-eight percent counted. Neither has fifty percent, so it could go to ranked-choice tabulation on November eighteenth. One quirk: a second candidate named Dan Sullivan, not the senator, is also on the ballot, and his voters' second choices could matter.
+> source: AP, races not yet called (Nov 4, 4 PM ET); Ballotpedia News (Nov 5); ABC10/Tegna, Alaska Senate latest numbers (Nov 5)
+// Story 2: Vance and the war; what comes next
+[ava] Story two. Vice President J.D. Vance went further than the president overnight, posting on X that "the reason we lost is the war" with Iran. President Trump has called that "largely true" while saying he'd make the same decision again. According to Axios, Vance has been among the advisers privately urging a deal with Tehran, and Gulf News reports the president has said there are no immediate plans for new strikes. Reports that the president has asked advisers whether Defense Secretary Pete Hegseth should stay remain unconfirmed by the White House.
+[ava] Supporters of the war argue Iran's nuclear program was a threat that couldn't wait, and that the military gains shouldn't be traded away now. Incoming House Speaker Hakeem Jeffries says Democrats will focus on lowering costs for groceries, gas, housing and health care. "We ran on affordability. We won on affordability," he said.
+> source: Yahoo Finance live coverage quoting Vance's X post (Nov 5); Iran International, citing Axios (Nov 5); Gulf News live blog (Nov 5); AP live updates (Nov 5)
+// Story 3: Brooklyn fire
+[ava] Story three. Six people were killed and seven hurt, including three firefighters, when fire tore through a two-story home on Fifty-Eighth Street in Brooklyn's Sunset Park neighborhood early this morning. More than two hundred firefighters and medics responded around one forty a.m. The second floor and the staircase collapsed. Investigators found lithium-ion batteries in the home, but the fire department says it hasn't determined whether they caused the fire. The victims haven't been identified.
+> source: AP (Nov 5); CBS New York (Nov 5, 6:19 AM ET); NBC New York (Nov 5); ABC7 New York (Nov 5)
+
+## International | sting=world
+// Story 4: Iran says "no to war"; Qatar proposal; Hormuz
+[ava] Story four. Iran's chief negotiator, parliament speaker Mohammad Bagher Ghalibaf, posted that "Americans said NO TO WAR, and we endorse this message," then warned that if Washington ignores its voters, Iran's answer would come "with a nightmare." President Masoud Pezeshkian says no one benefits if fighting resumes, and that the Supreme Leader has given the government room to negotiate on issues once off-limits. Qatar's mediators are waiting for both sides to respond to a new proposal, which Iran says has been compressed into steps that could be carried out in two days. Iran still wants the U.S. naval blockade lifted, sanctions eased and frozen money released before it reopens the Strait of Hormuz, and CBS reports several ships came under attack in the strait this week, even as the talks go on.
+> source: BBC (Nov 5); CBS News Iran war live updates (Nov 4 to 5); Gulf News live blog (Nov 5); Iran International (Nov 5)
+// Story 5: Armenia and the CSTO
+[ava] Story five, Armenia. Prime Minister Nikol Pashinyan said today that his country's interest in the Collective Security Treaty Organization, a Russian-led military alliance, "has run its course." Armenia froze its participation in 2024, after concluding the alliance didn't help it against Azerbaijan, and it has stopped paying dues. The alliance's secretary general says expelling Armenia isn't on the table, but a council meeting in Moscow this month could strip its voting rights until it pays. Moscow sees the alliance as central to regional security; Yerevan has been moving closer to the West.
+> source: Armenpress (Nov 5); News.am (Nov 5)
+
+## Markets | sting=markets
+// Story 6: Premarket, Arm, Qualcomm, BoE
+[andrew] Story six, the markets. First, Wednesday's final numbers: the Dow gained fifteen hundred sixty-nine points, about three percent, to fifty-three thousand three hundred fifty-six. The S and P 500 rose one point six percent, to seventy-six hundred eighty-nine, and the Nasdaq one point four percent, to twenty-five thousand seven hundred thirty-seven.
+[andrew] This morning, futures are split. As of about seven, Dow futures were up around four tenths of a percent, S and P futures roughly flat, and Nasdaq-100 futures down about seven tenths. Chip and data-center stocks are sliding again, on worries that a Democratic Congress and new Democratic governors in Texas and Georgia could slow data-center construction. UBS strategists estimate about thirty percent of the data centers planned for 2028 could be affected, though they note chip valuations are already near multi-year lows. The big tech platforms, Amazon, Meta and Alphabet, are edging higher on the view that slower spending helps their profits.
+[andrew] Qualcomm is down about ten percent before the bell, because smartphone chip sales and Apple-related revenue came in light. Arm is off three to five percent, even though it beat estimates, with revenue up twenty-seven percent. Snap and Fair Isaac are also down sharply on misses, while AppLovin is up about sixteen percent.
+[andrew] Oil is steadier after Wednesday's plunge, with Brent in the mid-nineties and U.S. crude around eighty-eight dollars. Gold hit a two-week high, Treasury yields are lower, and the dollar is near a one-month low. Still ahead: weekly jobless claims at eight thirty, Airbnb and ConocoPhillips earnings, and Friday's October jobs report. Overseas, the Bank of England announces its rate decision this morning, and markets widely expect its first hike in about three years, to four percent.
+> source: AP, how major indexes fared (Nov 4); Reuters via Investing.com (Nov 5, 6:35 AM ET); Yahoo Finance (Nov 5, 7:00 AM ET); Morningstar/Dow Jones morning briefing (Nov 5); Benzinga (Nov 5); RTE and BBC Bank of England previews (Nov 5)
+
+## Technology | sting=tech
+// Story 7: Amazon and Uber Eats
+[andrew] Story seven. Amazon has dropped Grubhub and made Uber Eats the official restaurant-delivery partner for U.S. Prime members. You'll be able to order Uber Eats food right from the Amazon site and app without an Uber account, with no delivery fee on orders over twenty-five dollars. The Grubhub deal ends today, although Prime members who already activated Grubhub-plus can keep using it through the end of 2027. To launch the switch, there's twenty dollars off each of your first two orders of twenty-five dollars or more for the next two weeks.
+> source: TechCrunch, Kirsten Korosec (Nov 5)
+
+## Artificial Intelligence | sting=ai
+// Story 8: Cat Wu to OpenAI
+[andrew] Story eight. Cat Wu, the product leader behind Anthropic's Claude Code, is joining OpenAI to run product management for its core products. Business Insider calls it a coup: Claude Code grew from an internal prototype into one of the most important A.I. tools for programmers, and OpenAI's rival, Codex, has been playing catch-up in business sales. Her move comes only weeks before Anthropic's planned stock market debut. OpenAI confirmed the hire; Anthropic declined to comment. Wu says she'll build A.I. agents that "keep you in control."
+> source: Business Insider (Nov 5); India Today (Nov 5); Cat Wu's post on X as reported by Business Insider
+// Story 9: Agility goes public
+[andrew] Story nine. Agility Robotics, maker of the humanoid warehouse robot Digit, starts trading on the Nasdaq today under the ticker A-G-L-T. It's the first U.S. company that makes only humanoid robots to go public. It got there by merging with a blank-check company, a deal valuing it at about two and a half billion dollars and raising about four hundred sixty-five million. Investors will now get a daily price on whether humanoid robots are a real business yet; skeptics point out these robots are still in early, small-scale deployments.
+> source: Agility Robotics press release (Nov 4); OregonLive (Nov 2026); Manufacturing Dive
+
+## Cybersecurity | sting=cyber
+// Story 10: GhostMap
+[andrew] Story ten, for Android users. Researchers at Bitdefender found a flaw they call GhostMap that lets a booby-trapped app, needing no permissions and never even opened, trap a phone in an endless reboot loop, even in safe mode. The fix is either a factory reset, which erases your data, or a technical cleanup that only works if developer debugging was already turned on. Bitdefender says Google closed its report in August as not reproducible and out of scope for a security patch. Google hasn't commented yet. The advice: install apps only from the Play Store and trusted developers.
+> source: BleepingComputer, Bill Toulas (Nov 5), research by Bitdefender
+// Story 11: APT29 phone exploits
+[andrew] Story eleven. The security firm Sekoia says a Russian state hacking group, A.P.T. twenty-nine, booby-trapped real websites, plus fake copies of the America 250 anniversary site and a London hotel, to attack iPhones and Android phones that simply visited. The attacks used already-patched flaws to steal browser cookies, passwords, and even WhatsApp and Telegram data from phones that hadn't been updated. Apple and Google have fixed every flaw involved, and the malware doesn't survive a restart. So the takeaway is simple: keep your phone updated.
+> source: BleepingComputer (Nov 4), research by Sekoia
+
+## From Your X Feed | sting=x
+// Story 12: X feed roundup (non-political)
+[ava] Story twelve, from your X feed, with the politics left out. Visegrad24 flagged the end of an era: Cristiano Ronaldo is retiring from Portugal's national team at forty-one, after a world-record two hundred thirty-four appearances and one hundred forty-six goals. It follows a falling-out with coach Jorge Jesus, who benched him in September. Portugal's federation promises a proper tribute, and Ronaldo keeps playing for his club, Al-Nassr. Variety posted that Liam Neeson only just learned Meryl Streep will voice Aslan in Greta Gerwig's "Narnia," the role he once played, and he says there's nobody better. And Autoblog asks whether a thousand horsepower is the new starting line for performance cars.
+> source: X posts by @visegrad24, @Variety and @therealautoblog (Nov 5); AP, BBC Sport and the Portuguese Football Federation on Ronaldo (Nov 5)
+
+## Local News & Events | sting=local
+// Story 13: Wild River Fire; events
+[ava] Story thirteen, here in New Hampshire. The Wild River Fire in the White Mountain National Forest, about seven miles southeast of Gorham near the Maine line, has grown to nine hundred eighty-two acres, with containment at eleven percent. A Forest Service spokesperson calls it the forest's largest fire on record. About ninety firefighters, three helicopters and two drones are on it, with crews wading across the Wild River to reach steep, drought-dried slopes. Investigators believe it was human-caused. Wild River Road and several trails are closed through January first, and there's a public meeting tonight from six to seven at Shelburne Town Hall. No homes are threatened.
+[ava] Closer to home this weekend: a holiday craft fair and bake sale Saturday at nine at the Londonderry Senior Center on Mammoth Road, and the Jingle and Mingle vendor fair Sunday from ten to three at the Londonderry Fish and Game Club. And tonight, Leach Library's gnome craft night runs from six thirty, registration required.
+> source: White Mountain National Forest incident updates (Nov 4) via HeyDay News (Nov 5) and WBUR (Nov 4); Londonderry Patch calendar; HappeningNext event listing; Leach Library events calendar
+
+## Uplifting Story | sting=feel
+// Story 14: Roman found safe
+[ava] Story fourteen, something good. In the hills of Lawrence County, Kentucky, six-year-old Roman Heilman, who has autism and doesn't speak, went missing on Sunday afternoon. Hundreds of volunteers searched through two cold, rainy nights, with drones, thermal cameras and helicopters. On Tuesday morning, a volunteer on horseback named Jonah Lainhart spotted him about a mile and a half from home. Roman ran to him and clung to his neck. He was scratched, bruised and hungry, but alive, and a small dog was with him, which searchers think may have kept him company the whole time. The riders, who drove two and a half hours to help a child they'd never met, carried him out on a horse named Macee.
+> source: The Mountain Citizen, Annie Holler (Nov 4); Kentucky State Police statement as reported
+
+## Close | sting=close
+[ava] That's your Thursday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. Coming up later: the Bank of England's decision, jobless claims, and how Agility trades on day one.
+[ava] Thanks for listening to Gumshoe News Radio.
