@@ -6,6 +6,39 @@
 <itunes:author>Gumshoe</itunes:author><itunes:explicit>false</itunes:explicit><itunes:block>Yes</itunes:block>
 <itunes:image href="https://hsverdlove.github.io/gumshoe-news/cover.jpg"/><image><url>https://hsverdlove.github.io/gumshoe-news/cover.jpg</url><title>Gumshoe News Radio (Harry)</title><link>https://hsverdlove.github.io/gumshoe-news/</link></image>
 <itunes:category text="News"/><itunes:type>episodic</itunes:type>
+<item><title>Friday 1 PM Update, Nov 6</title><description>The Friday 1 p.m. update from Gumshoe News Radio for November 6, 2026: Londonderry weather through tomorrow; midterm winners pledge tighter rules on A I data centers, with Texas governor-elect Gina Hinojosa promising a pause on new approvals; Kenya sentences doomsday cult leader Paul Mackenzie to two hundred years; Iran sends a nuclear proposal to Washington via Qatar; the morning jobs bounce holds at midday as chips rebound; the New York Times is in exclusive talks to buy Letterboxd for about three hundred thirty million dollars; researchers show a Claude Dispatch path from a browser extension to code on your desktop; Chainalysis says a breach exposed credentials for all customers; your X feed; Monday at Leach Library; and Barbados eliminates mother-to-child H I V transmission. Anchor Ava, with Andrew at the business and tech desk.
+
+Chapters:
+0:00 Open &amp; Weather
+1:09 US News
+2:18 International
+3:53 Markets
+5:10 Technology
+6:15 Artificial Intelligence
+7:31 Cybersecurity
+8:37 From Your X Feed
+9:29 Local News &amp; Events
+10:18 Uplifting Story
+11:01 Close
+
+Sources:
+- NWS forecast for Londonderry, NH
+- National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 6 at airtime
+- AP News (Nov 6); Texas Tribune (Nov 4–5); Houston Chronicle (Nov 2026); Data Center Dynamics on Hinojosa (Nov 2026)
+- BBC News (Nov 6); AP News (Nov 6); The Guardian (Nov 6); Daily Nation (Nov 6)
+- Reuters via Al-Monitor / Straits Times / Arab News (Nov 5–6); AP live midterm updates (Nov 6)
+- Yahoo Finance market live (Nov 6, ~12:40–1:00 p.m. ET); Pomegra / Barchart midday briefs (Nov 6); CNBC / Seeking Alpha midday (Nov 6); FXStreet / CoinDesk on gold and bitcoin (Nov 6)
+- New York Times / Reuters (Nov 5); Variety (Nov 5); Deadline (Nov 5); TechCrunch (Nov 5); IndieWire (Nov 5)
+- The Hacker News / Forever Security (Nov 6); Forever Security technical write-up (Nov 2026)
+- BleepingComputer, Sergiu Gatlan (Nov 6); Chainalysis customer advisories (Nov 2026); BleepingComputer on QNAP / Plex2Shell (Nov 6)
+- X posts by @dhh, @therealautoblog, @elonmusk, @Variety and @levelsio (Nov 6)
+- Leach Library November calendar (londonderrynh.assabetinteractive.com); Londonderry Historical Society events list; Leach Library wrapping-paper swap listing
+- WHO news release (Oct 30, 2026); PAHO / UNAIDS statements (Oct 2026); Positive News week-45 roundup (Nov 6); Barbados Today (Oct 30)</description>
+<content:encoded><![CDATA[The Friday 1 p.m. update from Gumshoe News Radio for November 6, 2026: Londonderry weather through tomorrow; midterm winners pledge tighter rules on A I data centers, with Texas governor-elect Gina Hinojosa promising a pause on new approvals; Kenya sentences doomsday cult leader Paul Mackenzie to two hundred years; Iran sends a nuclear proposal to Washington via Qatar; the morning jobs bounce holds at midday as chips rebound; the New York Times is in exclusive talks to buy Letterboxd for about three hundred thirty million dollars; researchers show a Claude Dispatch path from a browser extension to code on your desktop; Chainalysis says a breach exposed credentials for all customers; your X feed; Monday at Leach Library; and Barbados eliminates mother-to-child H I V transmission. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>1:09 US News<br/>2:18 International<br/>3:53 Markets<br/>5:10 Technology<br/>6:15 Artificial Intelligence<br/>7:31 Cybersecurity<br/>8:37 From Your X Feed<br/>9:29 Local News & Events<br/>10:18 Uplifting Story<br/>11:01 Close<br/><br/>Sources:<br/>- NWS forecast for Londonderry, NH<br/>- National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 6 at airtime<br/>- AP News (Nov 6); Texas Tribune (Nov 4–5); Houston Chronicle (Nov 2026); Data Center Dynamics on Hinojosa (Nov 2026)<br/>- BBC News (Nov 6); AP News (Nov 6); The Guardian (Nov 6); Daily Nation (Nov 6)<br/>- Reuters via Al-Monitor / Straits Times / Arab News (Nov 5–6); AP live midterm updates (Nov 6)<br/>- Yahoo Finance market live (Nov 6, ~12:40–1:00 p.m. ET); Pomegra / Barchart midday briefs (Nov 6); CNBC / Seeking Alpha midday (Nov 6); FXStreet / CoinDesk on gold and bitcoin (Nov 6)<br/>- New York Times / Reuters (Nov 5); Variety (Nov 5); Deadline (Nov 5); TechCrunch (Nov 5); IndieWire (Nov 5)<br/>- The Hacker News / Forever Security (Nov 6); Forever Security technical write-up (Nov 2026)<br/>- BleepingComputer, Sergiu Gatlan (Nov 6); Chainalysis customer advisories (Nov 2026); BleepingComputer on QNAP / Plex2Shell (Nov 6)<br/>- X posts by @dhh, @therealautoblog, @elonmusk, @Variety and @levelsio (Nov 6)<br/>- Leach Library November calendar (londonderrynh.assabetinteractive.com); Londonderry Historical Society events list; Leach Library wrapping-paper swap listing<br/>- WHO news release (Oct 30, 2026); PAHO / UNAIDS statements (Oct 2026); Positive News week-45 roundup (Nov 6); Barbados Today (Oct 30)]]></content:encoded>
+<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-11-06-1pm.mp3?v=20261106T1413" length="5542973" type="audio/mpeg"/>
+<guid isPermaLink="false">gumshoe-2026-11-06-1pm-20261106T1413</guid><pubDate>Fri, 06 Nov 2026 14:13:24 -0400</pubDate>
+<itunes:duration>677</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
+<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-11-06-1pm.chapters.json?v=20261106T1413" type="application/json+chapters"/></item>
 <item><title>Friday 10 AM Update, Nov 6</title><description>The Friday 10 a.m. update from Gumshoe News Radio for November 6, 2026: Londonderry weather through tomorrow; Mississippi's Senate race still uncalled with Colom's lead near two thousand; Nithya Raman ousts Karen Bass as Los Angeles mayor; Pope Leo starts a Latin America tour after lung surgery; a deadly school-bus crash in eastern France; the October jobs report blows past forecasts as stocks open mixed; Fox completes its twenty-two-billion-dollar Roku deal; Meta buys the AI coding orchestrator Conductor; an OpenSSH flaw nicknamed sshole hits Alpine Linux; your X feed; tomorrow's Londonderry craft fairs; and beavers return to Loch Ness after five centuries. Anchor Ava, with Andrew at the business and tech desk.
 
 Chapters:
@@ -141,38 +174,4 @@ Sources:
 <guid isPermaLink="false">gumshoe-2026-11-05-1pm-20261105T1428</guid><pubDate>Thu, 05 Nov 2026 14:28:10 -0400</pubDate>
 <itunes:duration>681</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
 <podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-11-05-1pm.chapters.json?v=20261105T1428" type="application/json+chapters"/></item>
-<item><title>Thursday 10 AM Update, Nov 5</title><description>The Thursday 10 a.m. update from Gumshoe News Radio for November 5, 2026: Londonderry weather through tomorrow; President Trump says the other Dan Sullivan's votes should go to the senator, as Alaska's count continues; the Brooklyn fire victims still unidentified as investigators look at lithium-ion batteries; Washington weighs renewed Iran strikes against continued pressure while Qatar mediates; Russell Brand convicted of rape in London; the Bank of England raises rates for the first time in three years, jobless claims match a 57-year low, and the Nasdaq slips at the open; Agility Robotics' first trades; OpenAI's new promises to data center towns; a hacked game launcher; your X feed; Londonderry's $173 million wish list; and seabirds come back to an English harbor. Anchor Ava, with Andrew at the business and tech desk.
-
-Chapters:
-0:00 Open &amp; Weather
-1:17 US News
-3:06 International
-4:47 Markets
-6:41 Technology
-7:25 Artificial Intelligence
-8:16 Cybersecurity
-9:02 From Your X Feed
-9:42 Local News &amp; Events
-10:40 Uplifting Story
-11:22 Close
-
-Sources:
-- NWS forecast for Londonderry, NH
-- National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 5 at airtime
-- Axios (Nov 5); Just the News (Nov 5); Reuters on Judge Gleason's dismissal (Nov 1); View from the Gallery fact check (Nov 5)
-- ABC7 New York (Nov 5); New York Post (Nov 5); Gothamist (Nov 5); AP via ABC News (Nov 5)
-- Iran International, citing Axios, The Wall Street Journal, Reuters and the Financial Times (Nov 5)
-- NBC News, Adela Suliman (Nov 5); BBC News live (Nov 5); Variety (Nov 5)
-- Reuters via StreetInsider (Nov 5, 9:37 AM ET); Investopedia via Yahoo Finance (Nov 5, 8:09 AM ET); Barron's live coverage (Nov 5); Reuters via Investing.com and AP on jobless claims (Nov 5); Bank of England Monetary Policy Summary (Nov 5); BBC and CNBC (Nov 5)
-- The Robot Report, Steve Crowe (Nov 5); Investor's Business Daily (Nov 5)
-- OpenAI, "Setting a new standard for responsible AI infrastructure" (Nov 5); Bloomberg via Techmeme (Nov 5); Benzinga (Nov 5); TechCrunch (Nov 1)
-- BleepingComputer, Bill Toulas (Nov 4, updated Nov 5)
-- X posts by @dhh, @Geiger_Capital and @Variety (Nov 5)
-- Londonderry Times, Alex Malm (Nov 1); Londonderry Patch calendar; HappeningNext event listing
-- Good News Network, Andy Corbley (Nov 5), citing the RSPB and The Guardian</description>
-<content:encoded><![CDATA[The Thursday 10 a.m. update from Gumshoe News Radio for November 5, 2026: Londonderry weather through tomorrow; President Trump says the other Dan Sullivan's votes should go to the senator, as Alaska's count continues; the Brooklyn fire victims still unidentified as investigators look at lithium-ion batteries; Washington weighs renewed Iran strikes against continued pressure while Qatar mediates; Russell Brand convicted of rape in London; the Bank of England raises rates for the first time in three years, jobless claims match a 57-year low, and the Nasdaq slips at the open; Agility Robotics' first trades; OpenAI's new promises to data center towns; a hacked game launcher; your X feed; Londonderry's $173 million wish list; and seabirds come back to an English harbor. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>1:17 US News<br/>3:06 International<br/>4:47 Markets<br/>6:41 Technology<br/>7:25 Artificial Intelligence<br/>8:16 Cybersecurity<br/>9:02 From Your X Feed<br/>9:42 Local News & Events<br/>10:40 Uplifting Story<br/>11:22 Close<br/><br/>Sources:<br/>- NWS forecast for Londonderry, NH<br/>- National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 5 at airtime<br/>- Axios (Nov 5); Just the News (Nov 5); Reuters on Judge Gleason's dismissal (Nov 1); View from the Gallery fact check (Nov 5)<br/>- ABC7 New York (Nov 5); New York Post (Nov 5); Gothamist (Nov 5); AP via ABC News (Nov 5)<br/>- Iran International, citing Axios, The Wall Street Journal, Reuters and the Financial Times (Nov 5)<br/>- NBC News, Adela Suliman (Nov 5); BBC News live (Nov 5); Variety (Nov 5)<br/>- Reuters via StreetInsider (Nov 5, 9:37 AM ET); Investopedia via Yahoo Finance (Nov 5, 8:09 AM ET); Barron's live coverage (Nov 5); Reuters via Investing.com and AP on jobless claims (Nov 5); Bank of England Monetary Policy Summary (Nov 5); BBC and CNBC (Nov 5)<br/>- The Robot Report, Steve Crowe (Nov 5); Investor's Business Daily (Nov 5)<br/>- OpenAI, "Setting a new standard for responsible AI infrastructure" (Nov 5); Bloomberg via Techmeme (Nov 5); Benzinga (Nov 5); TechCrunch (Nov 1)<br/>- BleepingComputer, Bill Toulas (Nov 4, updated Nov 5)<br/>- X posts by @dhh, @Geiger_Capital and @Variety (Nov 5)<br/>- Londonderry Times, Alex Malm (Nov 1); Londonderry Patch calendar; HappeningNext event listing<br/>- Good News Network, Andy Corbley (Nov 5), citing the RSPB and The Guardian]]></content:encoded>
-<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-11-05-10am.mp3?v=20261105T1117" length="5712896" type="audio/mpeg"/>
-<guid isPermaLink="false">gumshoe-2026-11-05-10am-20261105T1117</guid><pubDate>Thu, 05 Nov 2026 11:17:37 -0400</pubDate>
-<itunes:duration>698</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
-<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-11-05-10am.chapters.json?v=20261105T1117" type="application/json+chapters"/></item>
 </channel></rss>

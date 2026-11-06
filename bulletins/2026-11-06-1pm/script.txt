@@ -1,0 +1,69 @@
+// Gumshoe script format: see README.md
+# title: Friday 1 PM Update, Nov 6
+# description: The Friday 1 p.m. update from Gumshoe News Radio for November 6, 2026: Londonderry weather through tomorrow; midterm winners pledge tighter rules on A I data centers, with Texas governor-elect Gina Hinojosa promising a pause on new approvals; Kenya sentences doomsday cult leader Paul Mackenzie to two hundred years; Iran sends a nuclear proposal to Washington via Qatar; the morning jobs bounce holds at midday as chips rebound; the New York Times is in exclusive talks to buy Letterboxd for about three hundred thirty million dollars; researchers show a Claude Dispatch path from a browser extension to code on your desktop; Chainalysis says a breach exposed credentials for all customers; your X feed; Monday at Leach Library; and Barbados eliminates mother-to-child H I V transmission. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's one o'clock on Friday, November sixth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Ava, the morning bounce is still mostly holding — Nasdaq and chips up, Dow flat to soft, and the fear gauge has cooled off.
+[ava] We'll get the tape. First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 6 at airtime
+
+## US News | sting=us
+// Story 1: Data centers / midterm backlash
+[ava] Story one. Artificial-intelligence data centers took a political beating in Tuesday's midterms, and a tougher local climate for the biggest server farms may be next. The Associated Press reports that opposition to data centers featured in hundreds of millions of dollars of campaign ads, and hard-line stances against the energy-hungry warehouses helped Democrats who flipped longtime Republican governorships in Texas, Ohio and Georgia — all major data-center states.
+[ava] In Texas, governor-elect Gina Hinojosa says she wants approvals for new data centers kept on pause until the Legislature writes stronger protections for residents, electricity bills and water. Supporters call that overdue local control after years of projects racing ahead of the grid. Industry backers warn a long pause could push investment and jobs to friendlier states, and note that President Trump remains one of the sector's loudest federal champions, so any national crackdown is far from automatic. Data-center rules themselves were not on most ballots; the fight is shifting to statehouses and permitting boards.
+> source: AP News (Nov 6); Texas Tribune (Nov 4–5); Houston Chronicle (Nov 2026); Data Center Dynamics on Hinojosa (Nov 2026)
+
+## International | sting=world
+// Story 2: Kenya Mackenzie sentencing
+[ava] Story two, Kenya. A court in Nairobi has sentenced doomsday cult leader Paul Mackenzie to two hundred years in prison for murdering one hundred ninety-one people — one hundred ninety of them children — in the Shakahola forest starvation case. Justice Diana Mochache said Mackenzie bore primary culpability for ordering followers to fast to death so they could "meet Jesus." Prosecutors had sought the death penalty; the judge declined it, saying capital punishment would erase any chance of rehabilitation. Kenya has not carried out an execution since nineteen eighty-seven.
+[ava] More than four hundred bodies were later exhumed from the forest; this murder case covers one hundred ninety-one of those deaths. Twenty-eight co-accused received sentences of up to one hundred sixty years. Mackenzie still faces separate manslaughter and terrorism charges, which he denies. Families who lost relatives said they wanted a sentence that matched what happened in the forest.
+> source: BBC News (Nov 6); AP News (Nov 6); The Guardian (Nov 6); Daily Nation (Nov 6)
+// Story 3: Iran nuclear proposal via Qatar
+[ava] Story three. A senior Iranian official told Reuters that Tehran has sent a nuclear proposal to the United States through Qatar. Iran says it will discuss the package only after Washington meets demands that include sanctions relief, release of frozen assets and war reparations. The proposal's full contents were not disclosed. The White House is reviewing it; no breakthrough has been announced. The outreach lands as President Trump, after midterm losses partly tied to the unpopular Iran war, says he would "do it again" while weighing his next moves.
+> source: Reuters via Al-Monitor / Straits Times / Arab News (Nov 5–6); AP live midterm updates (Nov 6)
+
+## Markets | sting=markets
+// Story 4: Midday — bounce held
+[andrew] Story four, midday markets, and the morning jobs bounce mostly stuck. As of about one Eastern, the Nasdaq Composite was up roughly one and a half to two percent near twenty-four thousand seven hundred, reclaiming ground after Thursday's slide into correction. The S and P 500 was higher by about one percent near seventy-four twenty. The Dow was little changed to slightly lower near fifty-one thousand four hundred fifty — a split screen again, with tech leading and industrials lagging.
+[andrew] Chip and A I names led: Nvidia roughly six percent higher after Thursday's nine-percent drop; A M D jumped double digits in some midday prints; Micron and the semiconductor E T F were also strongly higher. The VIX cooled from Thursday's spike near twenty-eight toward the mid-twenties. Strong payrolls kept the ten-year yield around four point eight six to four point eight eight percent. Oil eased around or just under a hundred dollars a barrel; gold slipped about one percent toward four thousand forty; Bitcoin hovered near seventy-five to seventy-six thousand. The bounce recovers only part of Thursday's roughly two-point-three-trillion-dollar wipeout.
+> source: Yahoo Finance market live (Nov 6, ~12:40–1:00 p.m. ET); Pomegra / Barchart midday briefs (Nov 6); CNBC / Seeking Alpha midday (Nov 6); FXStreet / CoinDesk on gold and bitcoin (Nov 6)
+
+## Technology | sting=tech
+// Story 5: NYT / Letterboxd
+[andrew] Story five. The New York Times Company is in exclusive talks to buy Letterboxd, the cinephile social app, for about three hundred thirty million dollars, according to reporting from the Times, Reuters, Variety and Deadline. No deal is final and talks could still collapse. The price would be more than twenty times Letterboxd's projected twenty twenty-six earnings of about fifteen million dollars. Co-founders Matthew Buchanan and Karl von Randow are expected to stay in charge, reporting to a Times executive, and the app would likely keep running as a standalone platform while plugging into Times ad tech.
+[andrew] Letterboxd has roughly thirty million users who log and rate films. A twenty-four had been a late bidder promising independence but dropped out as the price rose. Fans are relieved a studio didn't win, and nervous about future paywalls or heavier ads. The Times has been buying beyond news — The Athletic, Wirecutter, Wordle — and added hundreds of thousands of digital subscribers last quarter.
+> source: New York Times / Reuters (Nov 5); Variety (Nov 5); Deadline (Nov 5); TechCrunch (Nov 5); IndieWire (Nov 5)
+
+## Artificial Intelligence | sting=ai
+// Story 6: Claude Dispatch / browser extensions
+[andrew] Story six. Security researchers at Forever Security showed that a browser extension able to run scripts on Claude's website could push tasks through Claude Dispatch and make Claude Desktop run code on a user's computer. Dispatch is the feature that sends jobs from a phone — or, in this case, a hijacked web session — to the desktop agent. In a lab test, an extension queued prompts that installed an n p m package; Claude asked for approval, but the extension auto-clicked Allow, and Calculator opened as a harmless proof. The same path could steal files or drop a backdoor if Claude has broad permissions.
+[andrew] Anthropic, which makes Claude, told the researchers in mid-October that Dispatch would be retired; the help page still says existing Pro, Max and Ultra users can keep using it for now, closed to new sign-ups. Researchers Gal Weizman and colleagues say related remote-control features may share the design risk. No real-world attacks were reported. Practical steps: turn off cross-device Dispatch if you don't need it, treat extensions like other software you install, and watch for unexpected package installs or setting changes when an agent is running.
+> source: The Hacker News / Forever Security (Nov 6); Forever Security technical write-up (Nov 2026)
+
+## Cybersecurity | sting=cyber
+// Story 7: Chainalysis breach
+[andrew] Story seven. Blockchain intelligence firm Chainalysis says a recent attack exposed credentials and live tokens for all of its customers — including law enforcement, banks and crypto firms that use its tools to trace illicit funds. An earlier note had downplayed the hit as non-sensitive identity metadata; later updates said usernames, password hashes and live tokens for every user were exposed in what the company called an on-path, or man-in-the-middle, attack, after attackers used what it described as offensive agentic A I techniques.
+[andrew] Chainalysis says it still has no evidence that investigative graph data was read or attribution repositories altered. It has taken the login portal and several products offline, asked customers for trusted I P addresses for an allowlist, and will require password resets and A P I key rotation. Separately, Q N A P warned of active Plex2Shell compromises on some N A S devices — update Plex, and treat exposed vulnerable boxes as compromised.
+> source: BleepingComputer, Sergiu Gatlan (Nov 6); Chainalysis customer advisories (Nov 2026); BleepingComputer on QNAP / Plex2Shell (Nov 6)
+
+## From Your X Feed | sting=x
+// Story 8: X feed roundup (non-political)
+[ava] Story eight, from your X feed, politics left out. David Heinemeier Hansson — D H H — said Omarchy is up and running on Anduril's BlueChip hardware, with Snapdragon compatibility work paying off, and thanked Palmer Luckey. Autoblog flagged a red-hot manual nineteen sixty-eight Pontiac G T O convertible for sale with about thirty-eight thousand miles. Elon Musk posted that SpaceX revenue this quarter alone will be substantially higher than NASA's entire annual budget. Variety noted Godzilla Minus Zero took six point seven million dollars in Thursday box-office previews and is eyed for about a thirty-million opening this weekend. And Pieter Levels — levelsio — wrote about building web games partly because modern game downloads have gotten so slow to load.
+> source: X posts by @dhh, @therealautoblog, @elonmusk, @Variety and @levelsio (Nov 6)
+
+## Local News & Events | sting=local
+// Story 9: Leach Library Monday + upcoming
+[ava] Story nine, here in Londonderry — and we're leaving the weekend craft fairs to this morning's bulletin. Looking to Monday, November ninth: at two thirty at the Senior Center on Mammoth Road, Leach Library staff will help you get started with free e-books and e-audiobooks on your own device — cloudLibrary, Libby, Hoopla and the rest — bring your library card. At four the same day in the library meeting room on Mammoth Road, it's Magic the Gathering learn-and-play; all levels welcome. Further out, the Londonderry Historical Society's monthly business meeting is Tuesday, November seventeenth, at six at the library — all welcome. And if you're already thinking wrapping paper, the library's swap collects paper from November fourteenth through the twentieth for a swap day on the twenty-first.
+> source: Leach Library November calendar (londonderrynh.assabetinteractive.com); Londonderry Historical Society events list; Leach Library wrapping-paper swap listing
+
+## Uplifting Story | sting=feel
+// Story 10: Barbados eliminates mother-to-child HIV
+[ava] Story ten, something good. The World Health Organization has certified that Barbados has eliminated mother-to-child transmission of H I V as a public health problem. Over three years of assessment, ninety-eight percent of pregnant women were tested and ninety-eight percent of those with H I V received treatment, with no new infant infections attributed to vertical transmission. Testing and treatment are free under Barbados's universal care system. Barbados joins a short list of countries WHO recognizes for wiping out that path of infection. A Unicef official put it simply: an H I V diagnosis in pregnancy there no longer has to mean transmission to a child.
+> source: WHO news release (Oct 30, 2026); PAHO / UNAIDS statements (Oct 2026); Positive News week-45 roundup (Nov 6); Barbados Today (Oct 30)
+
+## Close | sting=close
+[ava] That's your one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. We'll be back later with the close and anything else that breaks.
+[ava] Thanks for listening to Gumshoe News Radio. Have a good Friday afternoon.
