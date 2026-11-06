@@ -1,0 +1,67 @@
+// Gumshoe script format: see README.md
+# title: Friday 10 AM Update, Nov 6
+# description: The Friday 10 a.m. update from Gumshoe News Radio for November 6, 2026: Londonderry weather through tomorrow; Mississippi's Senate race still uncalled with Colom's lead near two thousand; Nithya Raman ousts Karen Bass as Los Angeles mayor; Pope Leo starts a Latin America tour after lung surgery; a deadly school-bus crash in eastern France; the October jobs report blows past forecasts as stocks open mixed; Fox completes its twenty-two-billion-dollar Roku deal; Meta buys the AI coding orchestrator Conductor; an OpenSSH flaw nicknamed sshole hits Alpine Linux; your X feed; tomorrow's Londonderry craft fairs; and beavers return to Loch Ness after five centuries. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's ten o'clock on Friday, November sixth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning again, Ava. The October jobs report landed hot, and the open is a split screen — Nasdaq bouncing, Dow lagging.
+[ava] We'll get there. First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 6 at airtime
+
+## US News | sting=us
+// Story 1: Mississippi Senate count
+[ava] Story one, a count update from Mississippi. Democrat Scott Colom still leads Republican Senator Cindy Hyde-Smith by roughly one thousand nine hundred votes, with about ninety-five to ninety-six percent of the expected ballots counted. The Associated Press has not called the race. Both campaigns are watching remaining absentee and provisional ballots from Republican-leaning counties; the state has until mid-November to finish counting and certify. If Colom holds on, he would be Mississippi's first Black U.S. senator since Reconstruction. Hyde-Smith's allies say outstanding ballots could still flip it; Colom's team says the lead has widened, not shrunk, since election night.
+> source: Washington Examiner (Nov 6); Decision Desk HQ / Mississippi unofficial returns (Nov 6); AP race tracker (Nov 6)
+// Story 2: LA mayor
+[ava] Story two, Los Angeles. City Council member Nithya Raman has defeated incumbent Mayor Karen Bass, according to The Associated Press and the Los Angeles Times. Raman, a democratic socialist who ran on housing and homelessness, took roughly fifty-three percent to Bass's forty-seven. Bass conceded. Supporters call it a mandate for a harder line on tent encampments and rent; critics warn that city budgets and public-safety partnerships with the state will get harder, not easier. Raman is due to take office in December.
+> source: AP News (Nov 5–6); Los Angeles Times (Nov 5); NPR (Nov 6); NBC Los Angeles (Nov 5)
+
+## International | sting=world
+// Story 3: Pope Leo Latin America
+[ava] Story three. Pope Leo left Rome this morning for a twelve-day trip across Uruguay, Argentina and Peru — his first major overseas tour since lung-cancer surgery last month. The seventy-one-year-old, the first U.S.-born pope, starts in secular Uruguay before what the Vatican expects will be huge crowds in Argentina and Peru. Aides say doctors cleared him for the schedule; the trip is still one of the more demanding papal itineraries in years.
+> source: AP News (Nov 6); Vatican News (Nov 6); Reuters world summary (Nov 6)
+// Story 4: France bus crash
+[ava] Story four, eastern France. An intercity bus carrying forty-three people, including fifteen minors, veered off a damp road near Lent in the Ain department this morning and hit a tree. Officials say a child and a young adult were killed, and about sixteen others were hurt, some critically. The driver was hospitalized; early tests reportedly found no alcohol or drugs. Prosecutors opened a vehicular-homicide inquiry. Cause is still under investigation.
+> source: AP News (Nov 6); BBC News (Nov 6); BFMTV / French officials (Nov 6)
+
+## Markets | sting=markets
+// Story 5: Jobs print + open
+[andrew] Story five, the markets at the open, starting with the jobs report. The Labor Department says employers added one hundred sixty-five thousand jobs in October — roughly a hundred thousand above the Wall Street forecast near sixty-five thousand. The unemployment rate edged down to four point one percent. August and September were revised up by a combined eighty-four thousand. Average hourly earnings rose four tenths of a percent on the month, three point one percent over the year. Professional and business services, health care, transportation and manufacturing all added jobs. One caution in the household survey: long-term unemployment jumped, and the broader underemployment rate rose to about seven point nine percent.
+[andrew] At the open, it was a mixed tape. Dip buyers showed up in chips after Thursday's rout: the Nasdaq Composite was up roughly one to one and a half percent near twenty-four thousand six hundred. The S and P 500 was little changed to slightly higher near seventy-three seventy. The Dow lagged, down about one percent near fifty-one thousand. Nvidia, A M D and Micron were bouncing several percent after Thursday's double-digit slides. Strong payrolls pushed Treasury yields higher — the ten-year near four point eight eight percent, the two-year near four point five two — and December rate-hike odds firmed toward the high seventies. The dollar index firmed near one oh two. Oil eased some, with Brent back under a hundred and U.S. crude around the low nineties. Gold slipped toward about four thousand fifty. Bitcoin hovered near seventy-five to seventy-six thousand.
+> source: BLS Employment Situation (Nov 6); CNBC / Jeff Cox (Nov 6); AP (Nov 6); Reuters via Investing.com (Nov 6); Yahoo Finance market live (Nov 6); StreetInsider / Reuters open (Nov 6)
+
+## Technology | sting=tech
+// Story 6: Fox closes Roku deal
+[andrew] Story six. Fox Corporation says it has completed its roughly twenty-two-billion-dollar acquisition of Roku. Roku shares stop trading on the Nasdaq today. Founder Anthony Wood joins the Fox board and will co-chair a new Digital Platforms group that folds in Roku, Tubi and Fox One. Fox pitches about four hundred million dollars a year in cost synergies within two years and says Roku's open connected-TV platform — more than a hundred million households — will stay open to outside apps. Fans of the little purple remote hope that stays true; media skeptics note big broadcasters have a mixed record keeping acquired platforms independent.
+> source: Fox Corporation press release (Nov 6); Deadline (Nov 6); TheWrap (Nov 6); Reuters (Nov 6)
+
+## Artificial Intelligence | sting=ai
+// Story 7: Meta buys Conductor
+[andrew] Story seven. Meta is buying Conductor, a startup that lets developers run several coding agents — Claude Code, Codex and others — in parallel across isolated workspaces. Terms weren't disclosed. Conductor's team is joining Meta Superintelligence Labs. Conductor Cloud goes read-only next week and shuts down by November twentieth; the Mac app gets support into early twenty twenty-seven while Meta plans a new interface. Developers who built workflows on Conductor are scrambling for replacements; Meta casts it as fuel for multi-agent coding inside its own labs.
+> source: Axios (Nov 4–6); TechCrunch (Nov 4); Conductor build announcement and changelog (Nov 2026)
+
+## Cybersecurity | sting=cyber
+// Story 8: OpenSSH sshole
+[andrew] Story eight. Researchers disclosed an OpenSSH flaw nicknamed sshole that can let attackers log into certain Alpine Linux and other musl-based systems even when an account's password is disabled with an asterisk in the shadow file. The trick is an oversized password — longer than two hundred fifty-six characters — that makes musl's crypt function return a star, which then matches the disabled hash. It needs password auth on, PAM off, and at least one real passworded account nearby. Official Alpine cloud images were among the worry cases. OpenSSH ten point six p two patches it; Alpine has backports. Workaround if you can't update yet: turn off password authentication and restart sshd. Systems on glibc with PAM, like most Ubuntu and Debian boxes, aren't hit the same way.
+> source: BleepingComputer, Lawrence Abrams (Nov 5); Alpine Linux security advisory (Nov 5); SecurityWeek (Nov 5); oss-security / OpenSSH (Nov 5)
+
+## From Your X Feed | sting=x
+// Story 9: X feed roundup (non-political)
+[ava] Story nine, from your X feed, politics left out. Autoblog noted that painting a Bentley Continental G T for the twelve-car line can take fifty-six hours, and later flagged Mercedes research into windshields that become screens and then disappear. Semafor interviewed former Twitter C E O Parag Agrawal, now building Parallel, on his bet that A I agents will search the web a thousand times more than humans ever did. FilmLadd dropped the classic Blade Runner enhance bit — "computer, enhance thirty-four to forty-six" — over a photo people were zooming. And Brian Roemmele shared factory footage of two Xiaomi CyberOne humanoids working an eight-hour shift sorting console panels.
+> source: X posts by @therealautoblog, @semafor, @FilmLadd and @BrianRoemmele (Nov 6)
+
+## Local News & Events | sting=local
+// Story 10: Weekend craft fairs
+[ava] Story ten, here in Londonderry. Tomorrow is craft-fair Saturday. The Holiday Craft Fair and Bake Sale opens at nine at the Senior Center on Mammoth Road — free admission, handmade gifts and baked goods supporting community projects. The same day, St. Jude's annual craft fair runs nine to four at four thirty-five Mammoth Road, including a quilt raffle with proceeds partly for Liberty House. Sunday, Jingle and Mingle is ten to three at the Fish and Game Club. Looking further out: the Methodist Church's Tis the Season fair is November fourteenth, and the high school's craft and vendor fair is November twenty-first.
+> source: Londonderry Patch calendar (Nov 7 Senior Center fair); Eagle-Tribune on St. Jude craft fair; AllEvents / Londonderry UMC; FestivalNet LHS craft fair listing
+
+## Uplifting Story | sting=feel
+// Story 11: Beavers return to Loch Ness
+[ava] Story eleven, something good. A family of six beavers has been released into the Loch Ness catchment in Scotland — the first in that area in about five hundred years. The Ness Beaver Project, led with the Dundreggan rewilding estate, plans more family groups over the next three years. Conservationists say the dams and channels should rebuild wetlands that help frogs, dragonflies, birds and bats. Locals joked that Nessie finally has neighbors; biologists just hope the beavers stick around.
+> source: BBC News (Nov 4–6); Trees for Life / Ness Beaver Project; The Independent (Nov 2026)
+
+## Close | sting=close
+[ava] That's your ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. We'll be back this afternoon with how the bounce held and anything else that breaks.
+[ava] Thanks for listening to Gumshoe News Radio. Have a good Friday.

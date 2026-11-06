@@ -6,6 +6,40 @@
 <itunes:author>Gumshoe</itunes:author><itunes:explicit>false</itunes:explicit><itunes:block>Yes</itunes:block>
 <itunes:image href="https://hsverdlove.github.io/gumshoe-news/cover.jpg"/><image><url>https://hsverdlove.github.io/gumshoe-news/cover.jpg</url><title>Gumshoe News Radio (Harry)</title><link>https://hsverdlove.github.io/gumshoe-news/</link></image>
 <itunes:category text="News"/><itunes:type>episodic</itunes:type>
+<item><title>Friday 10 AM Update, Nov 6</title><description>The Friday 10 a.m. update from Gumshoe News Radio for November 6, 2026: Londonderry weather through tomorrow; Mississippi's Senate race still uncalled with Colom's lead near two thousand; Nithya Raman ousts Karen Bass as Los Angeles mayor; Pope Leo starts a Latin America tour after lung surgery; a deadly school-bus crash in eastern France; the October jobs report blows past forecasts as stocks open mixed; Fox completes its twenty-two-billion-dollar Roku deal; Meta buys the AI coding orchestrator Conductor; an OpenSSH flaw nicknamed sshole hits Alpine Linux; your X feed; tomorrow's Londonderry craft fairs; and beavers return to Loch Ness after five centuries. Anchor Ava, with Andrew at the business and tech desk.
+
+Chapters:
+0:00 Open &amp; Weather
+1:13 US News
+2:34 International
+3:35 Markets
+5:19 Technology
+6:04 Artificial Intelligence
+6:43 Cybersecurity
+7:39 From Your X Feed
+8:25 Local News &amp; Events
+9:06 Uplifting Story
+9:39 Close
+
+Sources:
+- NWS forecast for Londonderry, NH
+- National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 6 at airtime
+- Washington Examiner (Nov 6); Decision Desk HQ / Mississippi unofficial returns (Nov 6); AP race tracker (Nov 6)
+- AP News (Nov 5–6); Los Angeles Times (Nov 5); NPR (Nov 6); NBC Los Angeles (Nov 5)
+- AP News (Nov 6); Vatican News (Nov 6); Reuters world summary (Nov 6)
+- AP News (Nov 6); BBC News (Nov 6); BFMTV / French officials (Nov 6)
+- BLS Employment Situation (Nov 6); CNBC / Jeff Cox (Nov 6); AP (Nov 6); Reuters via Investing.com (Nov 6); Yahoo Finance market live (Nov 6); StreetInsider / Reuters open (Nov 6)
+- Fox Corporation press release (Nov 6); Deadline (Nov 6); TheWrap (Nov 6); Reuters (Nov 6)
+- Axios (Nov 4–6); TechCrunch (Nov 4); Conductor build announcement and changelog (Nov 2026)
+- BleepingComputer, Lawrence Abrams (Nov 5); Alpine Linux security advisory (Nov 5); SecurityWeek (Nov 5); oss-security / OpenSSH (Nov 5)
+- X posts by @therealautoblog, @semafor, @FilmLadd and @BrianRoemmele (Nov 6)
+- Londonderry Patch calendar (Nov 7 Senior Center fair); Eagle-Tribune on St. Jude craft fair; AllEvents / Londonderry UMC; FestivalNet LHS craft fair listing
+- BBC News (Nov 4–6); Trees for Life / Ness Beaver Project; The Independent (Nov 2026)</description>
+<content:encoded><![CDATA[The Friday 10 a.m. update from Gumshoe News Radio for November 6, 2026: Londonderry weather through tomorrow; Mississippi's Senate race still uncalled with Colom's lead near two thousand; Nithya Raman ousts Karen Bass as Los Angeles mayor; Pope Leo starts a Latin America tour after lung surgery; a deadly school-bus crash in eastern France; the October jobs report blows past forecasts as stocks open mixed; Fox completes its twenty-two-billion-dollar Roku deal; Meta buys the AI coding orchestrator Conductor; an OpenSSH flaw nicknamed sshole hits Alpine Linux; your X feed; tomorrow's Londonderry craft fairs; and beavers return to Loch Ness after five centuries. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>1:13 US News<br/>2:34 International<br/>3:35 Markets<br/>5:19 Technology<br/>6:04 Artificial Intelligence<br/>6:43 Cybersecurity<br/>7:39 From Your X Feed<br/>8:25 Local News & Events<br/>9:06 Uplifting Story<br/>9:39 Close<br/><br/>Sources:<br/>- NWS forecast for Londonderry, NH<br/>- National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 6 at airtime<br/>- Washington Examiner (Nov 6); Decision Desk HQ / Mississippi unofficial returns (Nov 6); AP race tracker (Nov 6)<br/>- AP News (Nov 5–6); Los Angeles Times (Nov 5); NPR (Nov 6); NBC Los Angeles (Nov 5)<br/>- AP News (Nov 6); Vatican News (Nov 6); Reuters world summary (Nov 6)<br/>- AP News (Nov 6); BBC News (Nov 6); BFMTV / French officials (Nov 6)<br/>- BLS Employment Situation (Nov 6); CNBC / Jeff Cox (Nov 6); AP (Nov 6); Reuters via Investing.com (Nov 6); Yahoo Finance market live (Nov 6); StreetInsider / Reuters open (Nov 6)<br/>- Fox Corporation press release (Nov 6); Deadline (Nov 6); TheWrap (Nov 6); Reuters (Nov 6)<br/>- Axios (Nov 4–6); TechCrunch (Nov 4); Conductor build announcement and changelog (Nov 2026)<br/>- BleepingComputer, Lawrence Abrams (Nov 5); Alpine Linux security advisory (Nov 5); SecurityWeek (Nov 5); oss-security / OpenSSH (Nov 5)<br/>- X posts by @therealautoblog, @semafor, @FilmLadd and @BrianRoemmele (Nov 6)<br/>- Londonderry Patch calendar (Nov 7 Senior Center fair); Eagle-Tribune on St. Jude craft fair; AllEvents / Londonderry UMC; FestivalNet LHS craft fair listing<br/>- BBC News (Nov 4–6); Trees for Life / Ness Beaver Project; The Independent (Nov 2026)]]></content:encoded>
+<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-11-06-10am.mp3?v=20261106T1112" length="4887870" type="audio/mpeg"/>
+<guid isPermaLink="false">gumshoe-2026-11-06-10am-20261106T1112</guid><pubDate>Fri, 06 Nov 2026 11:12:44 -0400</pubDate>
+<itunes:duration>595</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
+<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-11-06-10am.chapters.json?v=20261106T1112" type="application/json+chapters"/></item>
 <item><title>Friday Morning, Nov 6</title><description>The Friday morning bulletin from Gumshoe News Radio for November 6, 2026: Londonderry weather with the full seven-day forecast; Salon ceases publication after thirty-one years; Defense Secretary Hegseth posts a defiant video; a quick Alaska Senate count update; Irish newsrooms evacuated after bomb-threat emails; Paraguay's president resigns over a bank crisis; futures bounce after Thursday's Nasdaq correction with the October jobs report ahead; the FAA finally retires floppy disks from air traffic control; OpenAI's GPT-6 Cyber finds nearly a thousand Linux kernel flaws; the F.B.I. and CISA warn of attacks on refrigeration systems; your X feed; the Wild River Fire update and weekend craft fairs; and astronauts finish a five-year power upgrade on the space station. Anchor Ava, with Andrew at the business and tech desk.
 
 Chapters:
@@ -141,41 +175,4 @@ Sources:
 <guid isPermaLink="false">gumshoe-2026-11-05-10am-20261105T1117</guid><pubDate>Thu, 05 Nov 2026 11:17:37 -0400</pubDate>
 <itunes:duration>698</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
 <podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-11-05-10am.chapters.json?v=20261105T1117" type="application/json+chapters"/></item>
-<item><title>Thursday Morning, Nov 5</title><description>The Thursday morning bulletin from Gumshoe News Radio for November 5, 2026: Londonderry weather with the full seven-day forecast; where the uncalled races stand, including Alaska's Senate count; Vice President Vance says the Iran war cost Republicans the election; a deadly overnight fire in Brooklyn; Iran's negotiator says Americans voted "no to war" as Qatar waits on answers; Armenia says it's done with a Russian-led military alliance; futures split as chip stocks slide again, plus Arm, Qualcomm and the Bank of England; Amazon swaps Grubhub for Uber Eats; Claude Code's product lead moves to OpenAI and a humanoid robot maker goes public; an Android flaw that can trap phones in a reboot loop, and a Russian campaign against phones; your X feed; the Wild River Fire in the White Mountains and weekend events in town; and a six-year-old found safe in the Kentucky hills. Anchor Ava, with Andrew at the business and tech desk.
-
-Chapters:
-0:00 Open &amp; Weather
-1:59 US News
-4:17 International
-5:47 Markets
-7:49 Technology
-8:24 Artificial Intelligence
-9:34 Cybersecurity
-10:51 From Your X Feed
-11:37 Local News &amp; Events
-12:42 Uplifting Story
-13:29 Close
-
-Sources:
-- NWS forecast for Londonderry, NH
-- National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 5 at airtime
-- AP, races not yet called (Nov 4, 4 PM ET); Ballotpedia News (Nov 5); ABC10/Tegna, Alaska Senate latest numbers (Nov 5)
-- Yahoo Finance live coverage quoting Vance's X post (Nov 5); Iran International, citing Axios (Nov 5); Gulf News live blog (Nov 5); AP live updates (Nov 5)
-- AP (Nov 5); CBS New York (Nov 5, 6:19 AM ET); NBC New York (Nov 5); ABC7 New York (Nov 5)
-- BBC (Nov 5); CBS News Iran war live updates (Nov 4 to 5); Gulf News live blog (Nov 5); Iran International (Nov 5)
-- Armenpress (Nov 5); News.am (Nov 5)
-- AP, how major indexes fared (Nov 4); Reuters via Investing.com (Nov 5, 6:35 AM ET); Yahoo Finance (Nov 5, 7:00 AM ET); Morningstar/Dow Jones morning briefing (Nov 5); Benzinga (Nov 5); RTE and BBC Bank of England previews (Nov 5)
-- TechCrunch, Kirsten Korosec (Nov 5)
-- Business Insider (Nov 5); India Today (Nov 5); Cat Wu's post on X as reported by Business Insider
-- Agility Robotics press release (Nov 4); OregonLive (Nov 2026); Manufacturing Dive
-- BleepingComputer, Bill Toulas (Nov 5), research by Bitdefender
-- BleepingComputer (Nov 4), research by Sekoia
-- X posts by @visegrad24, @Variety and @therealautoblog (Nov 5); AP, BBC Sport and the Portuguese Football Federation on Ronaldo (Nov 5)
-- White Mountain National Forest incident updates (Nov 4) via HeyDay News (Nov 5) and WBUR (Nov 4); Londonderry Patch calendar; HappeningNext event listing; Leach Library events calendar
-- The Mountain Citizen, Annie Holler (Nov 4); Kentucky State Police statement as reported</description>
-<content:encoded><![CDATA[The Thursday morning bulletin from Gumshoe News Radio for November 5, 2026: Londonderry weather with the full seven-day forecast; where the uncalled races stand, including Alaska's Senate count; Vice President Vance says the Iran war cost Republicans the election; a deadly overnight fire in Brooklyn; Iran's negotiator says Americans voted "no to war" as Qatar waits on answers; Armenia says it's done with a Russian-led military alliance; futures split as chip stocks slide again, plus Arm, Qualcomm and the Bank of England; Amazon swaps Grubhub for Uber Eats; Claude Code's product lead moves to OpenAI and a humanoid robot maker goes public; an Android flaw that can trap phones in a reboot loop, and a Russian campaign against phones; your X feed; the Wild River Fire in the White Mountains and weekend events in town; and a six-year-old found safe in the Kentucky hills. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>1:59 US News<br/>4:17 International<br/>5:47 Markets<br/>7:49 Technology<br/>8:24 Artificial Intelligence<br/>9:34 Cybersecurity<br/>10:51 From Your X Feed<br/>11:37 Local News & Events<br/>12:42 Uplifting Story<br/>13:29 Close<br/><br/>Sources:<br/>- NWS forecast for Londonderry, NH<br/>- National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 5 at airtime<br/>- AP, races not yet called (Nov 4, 4 PM ET); Ballotpedia News (Nov 5); ABC10/Tegna, Alaska Senate latest numbers (Nov 5)<br/>- Yahoo Finance live coverage quoting Vance's X post (Nov 5); Iran International, citing Axios (Nov 5); Gulf News live blog (Nov 5); AP live updates (Nov 5)<br/>- AP (Nov 5); CBS New York (Nov 5, 6:19 AM ET); NBC New York (Nov 5); ABC7 New York (Nov 5)<br/>- BBC (Nov 5); CBS News Iran war live updates (Nov 4 to 5); Gulf News live blog (Nov 5); Iran International (Nov 5)<br/>- Armenpress (Nov 5); News.am (Nov 5)<br/>- AP, how major indexes fared (Nov 4); Reuters via Investing.com (Nov 5, 6:35 AM ET); Yahoo Finance (Nov 5, 7:00 AM ET); Morningstar/Dow Jones morning briefing (Nov 5); Benzinga (Nov 5); RTE and BBC Bank of England previews (Nov 5)<br/>- TechCrunch, Kirsten Korosec (Nov 5)<br/>- Business Insider (Nov 5); India Today (Nov 5); Cat Wu's post on X as reported by Business Insider<br/>- Agility Robotics press release (Nov 4); OregonLive (Nov 2026); Manufacturing Dive<br/>- BleepingComputer, Bill Toulas (Nov 5), research by Bitdefender<br/>- BleepingComputer (Nov 4), research by Sekoia<br/>- X posts by @visegrad24, @Variety and @therealautoblog (Nov 5); AP, BBC Sport and the Portuguese Football Federation on Ronaldo (Nov 5)<br/>- White Mountain National Forest incident updates (Nov 4) via HeyDay News (Nov 5) and WBUR (Nov 4); Londonderry Patch calendar; HappeningNext event listing; Leach Library events calendar<br/>- The Mountain Citizen, Annie Holler (Nov 4); Kentucky State Police statement as reported]]></content:encoded>
-<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-11-05-morning.mp3?v=20261105T0819" length="6737595" type="audio/mpeg"/>
-<guid isPermaLink="false">gumshoe-2026-11-05-morning-20261105T0819</guid><pubDate>Thu, 05 Nov 2026 08:19:40 -0400</pubDate>
-<itunes:duration>826</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
-<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-11-05-morning.chapters.json?v=20261105T0819" type="application/json+chapters"/></item>
 </channel></rss>
