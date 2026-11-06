@@ -1,0 +1,66 @@
+// Gumshoe script format: see README.md
+# title: Friday 4 PM Update, Nov 6
+# description: The Friday 4 p.m. update from Gumshoe News Radio for November 6, 2026: Londonderry weather through tomorrow; President Trump replaces Susie Wiles with Stephen Miller as White House chief of staff; Russell Brand is convicted of rape and sexual assault in London; Malaysia puts Najib Razak's house-arrest transfer on hold; Wall Street closes mixed with Nasdaq and chips higher and the Dow soft; Straight Arrow News shuts down; Claude rolls out a Personal Finance beta with Plaid; Barracuda patches a no-login root chain on its Email Security Gateway; your X feed; weekend craft fairs in Londonderry; and Appalachian Bear Rescue releases six cubs. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's about four o'clock on Friday, November sixth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Ava, the tape closed mixed — Nasdaq and chips finished higher, the Dow slipped, and the fear gauge cooled off from Thursday's spike.
+[ava] We'll get the numbers. First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 6 at airtime
+
+## US News | sting=us
+// Story 1: Miller replaces Wiles as chief of staff
+[ava] Story one, Washington. President Trump said today that Stephen Miller is replacing Susie Wiles as White House chief of staff, effective Monday, days after Republicans lost both chambers of Congress. Wiles resigned Thursday night and is moving to the Trump political operation; Trump called her service outstanding. Miller, a longtime adviser and architect of the administration's hard-line immigration agenda, was deputy chief of staff for policy.
+[ava] Allies cast the pick as a signal to the base that Trump wants a loyalist who executes aggressively in the final two years. House Minority Leader Hakeem Jeffries, expected to become speaker in January, demanded Miller be fired, calling him a dangerous extremist. Midterm exit polling found most voters saying immigration enforcement had gone too far — so the promotion is also a bet that base intensity matters more than wooing the middle.
+> source: AP News (Nov 6); NBC News (Nov 6); Washington Post (Nov 6); Guardian live midterm updates (Nov 6)
+
+## International | sting=world
+// Story 2: Russell Brand conviction
+[ava] Story two, London. A jury at Southwark Crown Court has found entertainer Russell Brand guilty of one count of rape and three counts of sexual assault against women he encountered between two thousand four and two thousand nine. He was cleared of two other rape counts and one attempted indecent assault. Brand was refused bail and held in custody; sentencing is Monday, and the judge said to expect a significant prison term.
+[ava] Prosecutors described a pattern of using fame and power; Brand denied wrongdoing and claimed consent. Detectives praised the women who testified. Brand also faces further rape allegations under a separate Metropolitan Police inquiry that remains open — those claims have not been tested in court.
+> source: BBC News (Nov 5–6); Crown Prosecution Service statement (Nov 2026); ABC News (Nov 2026)
+// Story 3: Najib house-arrest pause
+[ava] Story three, Malaysia. The attorney general on Friday temporarily halted former prime minister Najib Razak's transfer from prison to house arrest while officials clarify how a large fine payment interacts with the rest of his sentence. Najib was jailed over the one-M-D-B scandal and had been cleared by a court to begin serving the remainder of a royal-pardon term at home. Supporters call the pause unfair delay; critics say the review is necessary given the scale of the corruption case. He remains in Kajang Prison for now.
+> source: AP News (Nov 6); Malay Mail / The Star (Nov 6); Channel News Asia (Nov 6)
+
+## Markets | sting=markets
+// Story 4: Friday close — mixed relief after Thursday rout
+[andrew] Story four, the Friday close, and it was a split screen after Thursday's A I rout. The Dow finished near fifty-one thousand two hundred eighty-six, down about two hundred thirty-seven points, or roughly half a percent. The S and P 500 rose about two-thirds of a percent near seventy-four hundred. The Nasdaq Composite gained roughly one and a half percent near twenty-four thousand six hundred fifty, recovering part of Thursday's slide into correction.
+[andrew] Chips led the bounce: Nvidia closed near one hundred eighty-eight, up about three and a half percent; A M D jumped about eleven and a half percent near four hundred fifty-one. The V I X cooled into the mid-twenties, down double digits on the day from Thursday's spike. The ten-year yield was near four point eight six percent. U.S. crude settled near ninety seventy a barrel; gold slipped toward four thousand seventy-four; Bitcoin hovered near seventy-five to seventy-six thousand. Advancers beat decliners on both the New York Stock Exchange and the Nasdaq. The relief rally trims — but does not erase — a rough post-election week still dominated by A I-regulation and data-center jitters after October's hotter jobs print.
+> source: Yahoo Finance Dow history (Nov 6 close); Investing.com market close wrap (Nov 6, ~3:30 p.m. ET); Fox Business / Reuters / AP market briefs (Nov 6); CoinDesk / FXStreet on bitcoin and gold (Nov 6)
+
+## Technology | sting=tech
+// Story 5: Straight Arrow News closes
+[andrew] Story five. Straight Arrow News, the Omaha-based outlet founded by billionaire Joe Ricketts in twenty twenty-one to pitch fact-first journalism without a partisan slant, is shutting down. In a note to readers today, Ricketts said belief in the mission was not enough to make the business sustainable after considerable investment. Staff learned in a Friday meeting that operations would cease; paying subscribers are being told about refunds, and the archive will stay up for a limited wind-down. It is the second newsroom Ricketts has closed after D N A info and Gothamist in twenty seventeen — a reminder that even well-funded digital news startups can fail when advertising and subscriptions do not cover the bill.
+> source: Straight Arrow News CEO note, Joe Ricketts (Nov 6); Mediagazer / staff posts (Nov 6); X search_news roundup (Nov 6)
+
+## Artificial Intelligence | sting=ai
+// Story 6: Claude Personal Finance
+[andrew] Story six. Anthropic is rolling out a Personal Finance beta in Claude for U.S. users on Pro, Max and Ultra plans. Through Plaid, people can connect bank, card, loan and investment accounts and ask Claude everyday questions about balances, spending categories, duplicate charges and rising bills. Anthropic says access is read-only — Claude cannot move, manage or invest money — and Personal Finance chats are not used to train models. The company is playing catch-up to ChatGPT's similar money tools. Privacy-minded users will still weigh handing an A I any window into two years of transactions, even with those limits.
+> source: TechCrunch, Aisha Malik (Nov 5); Anthropic Claude blog / help center (Nov 2026); The Verge; Plaid blog (Nov 2026)
+
+## Cybersecurity | sting=cyber
+// Story 7: Barracuda Email Security Gateway chain
+[andrew] Story seven. Security firm watchTowr detailed a chain of two flaws in Barracuda's Email Security Gateway that can give an attacker root access with no login. One bug is an authorization bypass that lets someone restore a crafted backup without signing in; the other is a command injection that normally needs an admin account. Chained, they reach the highest privilege on the appliance. Mandiant scored the bypass nine point three out of ten. Barracuda released patches Monday — Email Security Gateway nine point four point zero point zero three zero and later — and watchTowr published a detector, not an exploit. No public attacks are tied to this pair yet; still, if you run Barracuda email filtering, patch and keep the admin interface off the open internet.
+> source: The Hacker News, Swati Khandelwal (Nov 6), citing watchTowr and Barracuda advisories
+
+## From Your X Feed | sting=x
+// Story 8: X feed roundup (non-political)
+[ava] Story eight, from your X feed, politics left out. Elon Musk posted that roughly doubling revenue at scale for a large company used to be special — and that super intelligence makes that look slow. Autoblog flagged a Ford EcoBoost V-six teardown that shows what skipping oil changes really costs. Eric S. Raymond — E S R — argued that today's rationalists are Spock's children, tracing the pop-culture idea of living by logic back to Star Trek. And Rob Henderson shared research finding celebrities score higher on narcissism, with reality-TV personalities at the top of the list.
+> source: X posts by @elonmusk, @therealautoblog, @esrtweet and @robkhenderson (Nov 6)
+
+## Local News & Events | sting=local
+// Story 9: Weekend craft fairs + next week
+[ava] Story nine, here in Londonderry — and if you are still hunting holiday gifts without leaving town, this weekend is packed. Saturday at nine, the holiday craft fair and bake sale is at the Senior Center on Mammoth Road. Also Saturday, nine to four, St. Jude Parish holds its craft fair at four thirty-five Mammoth Road. Sunday, the Jingle and Mingle vendor fair is at the Fish and Game Club from ten to three. Looking ahead, teens can catch a Hunger Games screening with snacks at Leach Library on Thursday, November twelfth, from three to five thirty — before the new prequel hits theaters — and Rockingham Superior Court has another hearing that day on the former town-manager case.
+> source: Londonderry Patch calendar; Eagle-Tribune / HappeningNext craft-fair listings; Leach Library November calendar (Hunger Games Nov 12); TownUnderground / WMUR on Mulholland hearing (Nov 12)
+
+## Uplifting Story | sting=feel
+// Story 10: Appalachian Bear Rescue cubs
+[ava] Story ten, something good. Appalachian Bear Rescue in Blount County, Tennessee, has released its first six rehabilitated bear cubs back into the wild since reopening after a year-and-a-half closure. The cubs arrived this summer as light as seven and a half pounds and left around fifty-five pounds, each fitted with a tracker. The rescue had shut down after earlier bears contracted pneumonia; new protocols include a two-week quarantine and earlier releases so cubs do not over-fatten before hibernation. If soil tests clear older pens, capacity could rise from six to eighteen cubs by spring — a small, careful comeback for a place that exists to give orphaned bears a second chance.
+> source: WVLT, Jared Austin (Nov 5–6); Appalachian Bear Rescue / TWRA via WVLT
+
+## Close | sting=close
+[ava] That's your Friday four o'clock update, and the last scheduled bulletin of the day. I'm Ava.
+[andrew] And I'm Andrew. Have a good weekend.
+[ava] Thanks for listening to Gumshoe News Radio.
