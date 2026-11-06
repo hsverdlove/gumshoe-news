@@ -1,0 +1,71 @@
+// Gumshoe script format: see README.md
+# title: Friday Morning, Nov 6
+# description: The Friday morning bulletin from Gumshoe News Radio for November 6, 2026: Londonderry weather with the full seven-day forecast; Salon ceases publication after thirty-one years; Defense Secretary Hegseth posts a defiant video; a quick Alaska Senate count update; Irish newsrooms evacuated after bomb-threat emails; Paraguay's president resigns over a bank crisis; futures bounce after Thursday's Nasdaq correction with the October jobs report ahead; the FAA finally retires floppy disks from air traffic control; OpenAI's GPT-6 Cyber finds nearly a thousand Linux kernel flaws; the F.B.I. and CISA warn of attacks on refrigeration systems; your X feed; the Wild River Fire update and weekend craft fairs; and astronauts finish a five-year power upgrade on the space station. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Friday, November sixth, and this is Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Futures are trying to rebound after yesterday's tech rout, and the October jobs report hits at eight thirty.
+[ava] We'll get to that. First, Londonderry weather, with the week ahead.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 6 at airtime
+
+## US News | sting=us
+// Story 1: Salon shuts down
+[ava] Story one. Salon, one of the web's pioneering online magazines, announced yesterday that it is ceasing publication after thirty-one years. The San Francisco-based outlet launched in November nineteen ninety-five, when the commercial web was still young, and helped invent a voice-driven form of digital journalism that mixed politics, culture and criticism. In a goodbye note, the staff said its independent publishing model is no longer sustainable after profound changes in the business, though the archive is expected to remain available for now. Admirers mourned a distinctive early-internet brand; longtime critics of the site's later years called the end overdue. Either way, another founding-era web publication is gone.
+> source: Salon goodbye note (Nov 5); AP News (Nov 5); The Verge (Nov 5); Deadline (Nov 5)
+// Story 2: Hegseth defiant
+[ava] Story two. Defense Secretary Pete Hegseth posted a roughly six-minute video outside the Pentagon defending the Iran war and rejecting calls for his removal or impeachment. "It didn't work against Trump, and it won't work against me," he said, while urging Congress to approve a one-point-five-trillion-dollar defense budget. Democrats who just flipped both chambers say oversight and accountability are coming; Hegseth's allies argue the military gains shouldn't be walked back because of midterm losses. The White House has not confirmed any plan to replace him.
+> source: Washington Post (Nov 5); CBS News (Nov 5); RealClearPolitics video transcript (Nov 5); NBC Nightly News (Nov 5)
+// Story 3: Alaska count update
+[ava] Story three, a quick count update from Alaska. Democrat Mary Peltola still leads Republican Senator Dan Sullivan by about six hundred thirty-seven votes — roughly one hundred two thousand nine hundred sixty-two to one hundred two thousand three hundred twenty-five — with about three-quarters of expected ballots in. Neither has fifty percent, so ranked-choice tabulation is still set for November eighteenth. Both campaigns are already projecting victory once second choices are counted; the Associated Press has not called the race.
+> source: Alaska's News Source / KTUU (updated Nov 6); Alaska Division of Elections unofficial results
+
+## International | sting=world
+// Story 4: Irish media bomb threats
+[ava] Story four, Ireland. This morning, R T E and several other Irish newsrooms evacuated after identical emailed bomb threats. Gardaí searched the Donnybrook campus with sniffer dogs; R T E switched much of its schedule to pre-recorded programs and kept one radio show on air from a mobile unit. The Irish Independent, Newstalk and Today F M also cleared offices for a time. Taoiseach Micheál Martin called the threats worrying and said authorities will pursue whoever is behind them, especially with a European summit in Dublin next week. Officials link the emails to a wave of hoax bomb threats that disrupted at least two dozen European flights yesterday. No explosives have been reported found.
+> source: RTÉ News (Nov 6); BBC News (Nov 6); The Irish Times (Nov 6); The Journal.ie live updates (Nov 6)
+// Story 5: Paraguay president resigns
+[ava] Story five, Paraguay. President Santiago Peña announced his resignation on Thursday amid a crisis at digital lender Ueno Bank, whose solvency collapse froze access for roughly three million depositors. Peña said he was stepping aside to protect national stability; Congress instead advanced impeachment proceedings, so the political outcome is still unsettled. Vice President Pedro Alliana would take over if Peña leaves office. Supporters cast the move as putting the country first; critics say regulators and political leaders ignored warning signs at a lightly supervised digital bank.
+> source: BBC News (Nov 5–6); The Guardian (Nov 5); AP News (Nov 5); ABC News Australia (Nov 6)
+
+## Markets | sting=markets
+// Story 6: Premarket bounce; jobs report
+[andrew] Story six, the markets. Quick reminder of Thursday's close: the Dow finished near fifty-one thousand four hundred eighty-seven, down about eighteen hundred seventy points. The S and P 500 closed near seventy-three fifty, off roughly four to four and a half percent. The Nasdaq Composite settled near twenty-four thousand three hundred thirteen, down about five and a half percent and more than ten percent below its October sixth high — that's official correction territory. The Philadelphia semiconductor index plunged around ten to twelve percent on the session.
+[andrew] This morning, dip buyers are showing up in tech. As of roughly five to seven Eastern, Nasdaq-100 futures were up about one to one point eight percent. S and P futures were up a few tenths. Dow futures were the laggard, down about half a percent to nine tenths, weighed by energy and financials. Nvidia was up about three to four percent premarket after Thursday's double-digit slide; A M D, Micron and Broadcom were bouncing roughly five to eight percent. Asia took the hangover first: South Korea's Kospi fell more than six percent, with a brief trading halt, and Japan's Nikkei slid toward correction territory.
+[andrew] Oil eased a bit after yesterday's jump, with Brent near ninety-six and U.S. crude around the low nineties. Gold slipped back under forty-one hundred. Bitcoin was roughly seventy-five to seventy-six thousand. The ten-year yield hovered near four point eight four percent, and the dollar index was around one oh one. Still ahead at eight thirty: the October jobs report. Economists look for about sixty-five thousand new jobs and an unemployment rate near four point two percent. A hot print could firm December rate-hike odds; a soft one may give beaten-down tech a breather into the weekend.
+> source: Barron's live coverage (Nov 6); Yahoo Finance market live (Nov 6); Reuters via Investing.com (Nov 6, ~4:40 AM ET); MarketScreener / Dow Jones (Nov 6); CNBC gold wrap (Nov 6)
+
+## Technology | sting=tech
+// Story 7: FAA floppy disks
+[andrew] Story seven. The Federal Aviation Administration says it will finally retire floppy disks from air traffic control by the end of twenty twenty-eight. Controllers at more than four hundred facilities still get weather and other critical updates from systems dating to the nineteen eighties that rely on those disks. The replacement is called the Enterprise Information Display System, which puts alerts, airspace restrictions, pilot reports and notices to airmen on one modern screen. Transportation Secretary Sean Duffy framed it as overdue modernization. Controllers, one suspects, will be glad to stop hunting for a working three-and-a-half-inch disk.
+> source: FAA newsroom release (Nov 5); Reuters (Nov 5); The Verge (Nov 5); Engadget (Nov 5)
+
+## Artificial Intelligence | sting=ai
+// Story 8: GPT-6 Cyber
+[andrew] Story eight. OpenAI launched GPT-6 Cyber, a model built to find and validate software flaws while staying inside the scope researchers set. In one campaign it helped develop working local privilege-escalation exploits for nine hundred forty-eight Linux kernel vulnerabilities and uncovered eighty-one previously unknown high-severity issues in Firefox, which Mozilla is patching. OpenAI rates the model Critical under its preparedness framework and is rolling it out first to approved Daybreak Red security customers, with stronger misuse monitors aimed at critical infrastructure. Defenders call it a force multiplier; critics worry the same capabilities could speed up attackers if access controls fail.
+> source: OpenAI, Introducing GPT-6 Cyber (Nov 5); OpenAI, A thousand fewer paths to root (Nov 5); Axios (Nov 5); TechRadar Pro (Nov 5–6); SecurityWeek (Nov 5)
+
+## Cybersecurity | sting=cyber
+// Story 9: Refrigeration attacks
+[andrew] Story nine. The F B I and CISA, joined by Health and Human Services, Agriculture and Transportation, warn that hackers are actively targeting industrial refrigeration and cold-chain controllers worldwide. Attackers hit unpatched or internet-exposed temperature systems, sometimes forcing continuous defrost or heating cycles that spoil food, damage equipment and create fire risk. Recent waves hit hundreds of European grocery stores and even altered settings at French blood-storage sites. The advice from the agencies: pull controllers off the public internet, change default passwords, patch promptly, and isolate those systems from office networks.
+> source: BleepingComputer, Lawrence Abrams (Nov 5, 7:56 PM ET), citing joint FBI/CISA/HHS/USDA/DOT advisory
+
+## From Your X Feed | sting=x
+// Story 10: X feed roundup (non-political)
+[ava] Story ten, from your X feed, politics left out. Autoblog flagged a nineteen sixty-five Mustang two eighty-nine with seventy-five thousand miles for sale, and later noted Shaquille O'Neal once spent one point three million on three Rolls-Royces to spite a salesman. Levelsio said he shut down Tommy, the thirteen-year-old Linode server that hosted more than a hundred of his sites for over a decade. Naval wrote, "You can be either loved and hated, or merely liked and tolerated." And Interesting A I L shared archaeology news: scientists found two-thousand-eight-hundred-year-old cannabis traces in a Siberian burial, including in preserved human hair.
+> source: X posts by @therealautoblog, @levelsio, @naval and @interesting_aIl (Nov 6)
+
+## Local News & Events | sting=local
+// Story 11: Wild River Fire update; weekend fairs
+[ava] Story eleven, here in New Hampshire. Updated mapping puts the Wild River Fire in the White Mountain National Forest at eight hundred fifty-six acres, down from nearly a thousand earlier in the week, with containment still around eleven percent. Crews are mopping up hot spots along established lines; steep, rocky ground and missed rain are slowing full containment. About ninety firefighters and several helicopters remain on it, and officials still believe it was human-caused. No homes are threatened. Wild River Road and several trails stay closed. Closer to home this weekend: Saturday's holiday craft fair and bake sale at nine at the Londonderry Senior Center on Mammoth Road, St. Jude's craft fair the same day from nine to four at four thirty-five Mammoth Road, and Sunday's Jingle and Mingle from ten to three at the Fish and Game Club.
+> source: White Mountain National Forest release (Nov 5); WMUR (Nov 5, 11 PM ET); NHPR (Nov 5); WGME (Nov 5); Londonderry Patch calendar; Eagle-Tribune on St. Jude craft fair
+
+## Uplifting Story | sting=feel
+// Story 12: ISS solar arrays complete
+[ava] Story twelve, something good. On the International Space Station, astronauts Joshua Kutryk and Anil Menon finished a five-year project to add eight new roll-out solar arrays. Thursday's nearly seven-hour spacewalk unfurled the last sixty-three-foot wing after a brief power-connector snag that Mission Control worked through in orbital night. NASA says the eight arrays can boost available power by up to thirty percent and help keep the station running through its planned retirement around twenty thirty. Menon called it a privilege of a lifetime — a staircase, he said, toward the moon and eventually Mars.
+> source: Spaceflight Now, Houston Harwood (Nov 5); NASA Expedition 75 spacewalk coverage (Nov 5)
+
+## Close | sting=close
+[ava] That's your Friday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. Coming up later: the jobs report, the open, and whether tech can hold this bounce.
+[ava] Thanks for listening to Gumshoe News Radio. Have a good Friday.
