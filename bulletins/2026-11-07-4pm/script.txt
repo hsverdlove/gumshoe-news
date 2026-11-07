@@ -1,0 +1,65 @@
+// Gumshoe script format: see README.md
+# title: Saturday 4 PM Update, Nov 7
+# description: The Saturday 4 p.m. update from Gumshoe News Radio for November 7, 2026: Londonderry weather through tomorrow; President Trump says he's offered the White House press secretary job to UFC chief Dana White, and new reporting on Stephen Miller urging a wind-down of the Iran war; Polish officials say the Krakow gunman appears to have been influenced by far-right ideology, with a British citizen among the six dead; a quick weekend markets check; Shigeru Miyamoto recovering after a sudden illness; Google DeepMind's AI agents find weaknesses in legacy 1024-bit RSA; an exploited WordPress core flaw and how to patch it safely; your X feed; Sunday events nearby; and a doberman who sensed a baby's racing heart. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon. It's just before four on Saturday, November seventh, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. A couple of surprises out of Washington and some sobering updates from Poland.
+[ava] First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 7 at airtime
+
+## US News | sting=us
+// Story 1: Dana White press secretary offer
+[ava] Story one. President Trump said Saturday he has offered the job of White House press secretary to his friend Dana White, the chief executive of the U F C. In a Truth Social post from his Florida golf club, the president called White "a violent Fighter and Warrior," asked him to bring several current and former U F C champions along as assistants, and ended with, "Dana, please take the job!" White responded with an Instagram story showing himself at the briefing-room lectern captioned "On to the next chapter," but neither he nor the White House has confirmed whether he's actually accepted, and the Associated Press reports no one would say whether the offer is serious. The post follows last month's exit of Katie Zacharia after less than a week in the role. Supporters see a combative communicator for a tougher stretch with a Democratic Congress; critics call it unserious for a job that speaks for the government. Treat it as an offer, not an appointment, for now.
+// Story 2: Miller and the Iran war
+[ava] Story two. The New York Times reports that Stephen Miller, who takes over as White House chief of staff on Monday, argued in his pitch for the job that the president needed to wind down the Iran war, which many of the president's core supporters see as a break with his no-new-wars promise. Other reporting describes a divided administration, with Defense Secretary Pete Hegseth reportedly favoring renewed strikes and others worried that would derail talks with Tehran. The president has not announced a decision and still says the war was necessary to keep Iran from a nuclear weapon. These accounts rely on unnamed sources, and Miller has publicly backed the Iran policy in the past.
+> source: AP, Washington Post, CNBC, and The Hill on Trump's offer to Dana White (Nov 7); New York Times reporting via Mediaite and Report.az, and Politico Playbook, on Stephen Miller and the Iran war (Nov 6-7)
+
+## International | sting=world
+// Story 3: Krakow update
+[ava] Story three, an update on the shooting in Krakow, Poland. Interior Minister Marcin Kierwinski said Saturday evening that everything points to the gunman having been influenced by far-right ideology, with indications of ultra-nationalist views; anti-terrorism agents are searching the family home, and investigators believe he may have taken guns from there. Defense Minister Wladyslaw Kosiniak-Kamysz called it a terror attack. Six people were killed, including one foreign national, and Polish officials say that victim was a British citizen. Sixteen people were hurt, including the suspect, five foreign nationals, and two police officers. One officer, who confronted the gunman and was shot three times, is in critical condition after surgery. Police opened fire on the attacker about three minutes after the first call. The suspect, a young Polish man, is in custody undergoing surgery. Officials stress the motive is still under investigation.
+> source: BBC live coverage and The Independent quoting Interior Minister Kierwinski (Nov 7); Gazeta.pl on injured officers (Nov 7); Polish government statements via @visegrad24 on the British victim (Nov 7)
+
+## Weekend Markets | sting=markets
+[andrew] Story four, a quick weekend markets check. U.S. stock markets are closed until Monday, and futures reopen Sunday evening. Bitcoin is around seventy-five thousand five hundred, down a fraction of a percent on the day, and Ether near twenty-two hundred. Nothing new to change the picture from Friday's mixed close. Next week's watch list includes Congress returning, with an Iran war powers vote expected.
+> source: CoinGecko spot prices (Nov 7, about 4 PM ET); Friday closes via Reuters / Yahoo (Nov 6); Politico Playbook on next week's Congress agenda (Nov 7)
+
+## Technology | sting=tech
+// Story 5: Miyamoto
+[andrew] Story five, tech and gaming. Nintendo says Shigeru Miyamoto, the seventy-four-year-old creator of Mario, Zelda, and Donkey Kong, missed the company's investor question-and-answer session this week because of a sudden illness. Nintendo says he's in stable condition and expected to recover within a few days to about a week, without sharing a diagnosis. He'd also skipped a Tokyo ceremony this month for Japan's Order of Culture, the first time a game developer has received it. Fans have flooded social media with get-well wishes.
+> source: Kotaku, GoNintendo, and Nintendo Insider on Miyamoto's absence from Nintendo's investor Q&A (Nov 6-7)
+
+## Artificial Intelligence | sting=ai
+// Story 6: DeepMind RSA-1024
+[andrew] Story six, A I. Google DeepMind says A I agents, working under human supervision with researchers at U C San Diego and France's Inria, found two new weaknesses in legacy ten-twenty-four-bit R S A encryption. One shows that when an attacker controls about half or more of a signed data block, the standard padding adds essentially no protection against forged signatures; a related algorithm is, in theory, around sixteen hundred times better than the previous best attack in a harder case. The other cuts the average cost of cracking each additional key when many ten-twenty-four-bit keys are attacked together, by about thirty times. The important caveat: DeepMind says modern twenty-forty-eight-bit and larger keys, the kind protecting banking, messaging, and software updates, are not affected, and the headline speedups are theoretical estimates. Still, it's another sign A I is speeding up the hunt for cracks in old crypto, so anything still on ten-twenty-four-bit keys should move.
+> source: Interesting Engineering, "Google DeepMind agents expose weaknesses in older encryption methods" (Nov 6); Neural Brew and Crypto Briefing summaries of DeepMind's cryptanalysis research (Nov 2026)
+
+## Cybersecurity | sting=cyber
+// Story 7: WordPress core flaw
+[ava] Story seven, the cyber desk. CISA has flagged an actively exploited flaw in WordPress itself, not a plugin. It's a race condition in core updates for versions four point seven through seven point one point three: during a full core upgrade, temporary staging files under the wp-content upgrade folder can be reached from the web, which can let an unauthenticated attacker run code on the server. The fix is WordPress seven point one point four or the patched release for your branch. The Hacker News points out a catch: installing the fix is itself an update, so security teams advise blocking web access to the wp-content slash upgrade folder first, confirming it returns a forbidden error, and then updating. Afterwards, check logs and files for signs of access during recent upgrades. CISA's deadline for federal agencies has already passed.
+> source: CISA Known Exploited Vulnerabilities alert (Nov 3); BleepingComputer, "CISA flags WordPress RCE flaw as actively exploited in attacks"; The Hacker News, "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time" (Nov 2026)
+
+## From Your X Feed | sting=x
+[ava] Story eight, from your X feed, politics left out.
+[andrew] Engineers Feed shared video of NASA Administrator Jared Isaacman lighting up the sky over Kennedy Space Center in his MiG-twenty-nine at full afterburner.
+[ava] Calvin Coolidge's account posted Saturday college football results: number three Utah stays unbeaten at nine and oh after beating number nine B Y U twenty-eight to twenty, and number seven Texas won at number eighteen Missouri, thirty-four to twenty.
+[andrew] Brian Roemmele flagged that Samsung is developing nearline solid-state drives from two hundred fifty terabytes up to a full petabyte. Worth noting, those are still in development; reports point to twenty twenty-seven at the earliest.
+[ava] Andrew Curran shared a teaser for Nvidia researcher Jim Fan's keynote Monday showing robot hands with strikingly fluid movement; Fan says it's real hardware, fully autonomous, and not sped up.
+[andrew] Autoblog listed a two thousand four Ferrari three-sixty Spider with about twenty-two thousand miles.
+[ava] And Mike Pat posted that he asked Grok Bot to buy him something on Amazon today and it handled it flawlessly. We'll take the compliment.
+> source: Harry's X home timeline, Nov 7 (@engineers_feed, @TheCalvinCooli1, @BrianRoemmele, @AndrewCurran_, @therealautoblog, @mikepat711); Yahoo Sports / NCAA.com scores (Nov 7); Blocks & Files on Samsung nearline SSD development
+
+## Local News & Events | sting=local
+// Story 9: Sunday reminders
+[ava] Story nine, a quick look at tomorrow around Londonderry. Jingle and Mingle runs ten to three at the Londonderry Fish and Game Club, and the Timberlane Community Music Association's free veterans concert is at two in Plaistow. Looking ahead to Wednesday's Veterans Day, Pinkerton Academy hosts a breakfast at seven, and Derry's ceremony is at ten thirty at MacGregor Park.
+> source: HappeningNext Jingle & Mingle listing (Nov 8); Macaroni KID Derry weekend roundup; Derry Veterans Day listings
+
+## Uplifting Story | sting=feel
+[ava] And finally, from Somerset, England. Kim Reynolds couldn't figure out why her doberman, Saraya, wouldn't leave six-month-old Alexander's side one morning, crying whenever he was carried away. When the baby started looking unwell, Kim took him to the hospital, where doctors found his heart racing at two hundred eighty beats a minute. He was diagnosed with Wolff-Parkinson-White syndrome, which is manageable when treated but can be deadly if missed, and he's now doing well on daily medication. Saraya isn't a trained assistance dog, but this month she fussed over him again, and it turned out to be tonsillitis. "Now, I one hundred percent trust Saraya," Kim says. Good dog.
+> source: Good News Network / SWNS, "Baby Saved After Racing Heartbeat Detected by Family Doberman" (Nov 7)
+
+## Close | sting=close
+[ava] That's your four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Futures reopen Sunday evening, and we'll be back tomorrow morning with the full week's forecast.
+[ava] Thanks for listening to Gumshoe News Radio. Enjoy your Saturday evening.
