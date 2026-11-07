@@ -1,0 +1,64 @@
+// Gumshoe script format: see README.md
+# title: Saturday 10 AM Update, Nov 7
+# description: The Saturday 10 a.m. update from Gumshoe News Radio for November 7, 2026: Londonderry weather through tomorrow; Mississippi's Senate lead for Colom widens slightly and California port watchmen extend talks; New Zealand's preliminary count leaves Luxon's coalition with a thin majority pending special votes, and Kyiv's power and heating strained after overnight Russian strikes; a brief weekend markets desk; Google's Gemini Omni 1.2 Flash goes generally available; OpenAI's GPT-6 Cyber for authorized defenders; FBI and CISA warn of attacks on refrigeration systems; your X feed; today's Londonderry craft fairs; and endangered alpine crayfish returned to a Victorian stream after bushfire rescue. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning again. It's just after ten on Saturday, November seventh, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning again, Ava. Markets are still closed for the weekend — I'll keep the desk short unless futures or crypto give us something fresh.
+[ava] First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 7 at airtime
+
+## US News | sting=us
+// Story 1: Mississippi Senate count update
+[ava] Story one, a count update from Mississippi. Democrat Scott Colom still leads Republican Senator Cindy Hyde-Smith, and the margin has edged up to roughly twenty-five hundred votes with about ninety-six to ninety-seven percent of the expected ballots counted. The Associated Press still has not called the race. Counties have until mid-November to finish absentee and affidavit ballots and certify. Colom's allies say the lead has held or widened since election night; Hyde-Smith's team says outstanding ballots from Republican-leaning counties could still tighten it. If Colom holds on, he would be Mississippi's first Black U.S. senator since Reconstruction.
+// Story 2: LA/LB ports watchmen extension
+[ava] Story two. At the Ports of Los Angeles and Long Beach, employers and International Longshore and Warehouse Union Local twenty-six have extended bargaining for about two hundred fifty maritime watchmen through November twentieth, averting a near-term strike threat. The Pacific Maritime Association says those watchmen control truck and employee entries, terminal security, and tracking of critical cargo. A walkout would hit terminals that handle most Long Beach volume and a large share at Los Angeles. Holiday retail goods, A I data-center equipment, and auto parts have been moving through both ports at record September volumes. Negotiations continue; neither side has claimed a breakthrough on the contract itself.
+> source: AP / Decision Desk HQ Mississippi unofficial returns and race trackers (Nov 7); Reuters via MarketScreener, "Employers, watchmen at California ports extend contract talks" (Nov 7); Pacific Maritime Association statement (Nov 6-7)
+
+## International | sting=world
+// Story 3: NZ election preliminary
+[ava] Story three, New Zealand, where the polls closed overnight our time and the preliminary count is in. With nearly all ordinary votes tallied, Prime Minister Christopher Luxon's National Party has forty-two seats, ACT thirteen, and New Zealand First twelve — a combined sixty-seven, just enough for a majority in a parliament swollen by overhang seats. Labour under Chris Hipkins has thirty-six, the Greens sixteen, and Te Pāti Māori five; the new Opportunity Party, led by Qiulae Wong, clears the five-percent threshold with seven seats. Luxon and Hipkins both called it too close to call until special votes — overseas and out-of-electorate ballots — are counted by November twenty-seventh. Specials often lean left, so that thin right-bloc edge could still shrink. Caretaker conventions apply for now.
+// Story 4: Kyiv strikes update
+[ava] Story four, Ukraine. Overnight Russian missiles and drones hit Kyiv and the surrounding region again, killing at least one person and wounding about nine, including a child, according to Ukrainian officials and the Associated Press. Mayor Vitali Klitschko says energy facilities in the Kyiv and Zhytomyr regions were damaged, leaving the capital's electricity, heating, and water in what he called an extremely difficult state, and traffic remains closed on the damaged Northern Bridge. President Zelenskyy said Russia launched dozens of ballistic missiles and more than a hundred seventy drones, with air defenses claiming most of the drones and only a few of the missiles. Moscow says it struck military-industrial, energy, and transport targets. The barrage comes days before Tuesday's U.S.-brokered talks in Abu Dhabi.
+> source: New Zealand Electoral Commission preliminary results and Guardian / BBC / RNZ election night coverage (Nov 7); AP and Reuters on Kyiv strikes and power damage (Nov 7); Politico and Kyiv Independent on casualties and substations (Nov 7)
+
+## Weekend Markets | sting=markets
+[andrew] Story five, a short weekend markets desk. U.S. cash markets stay closed through Monday; equity futures reopen Sunday evening. Overnight, Asia futures were still soft after the week's A I and data-center scare — Nikkei futures have been bouncing around the high fifty-sevens after a brutal Friday. Bitcoin was hovering near seventy-five to seventy-six thousand, still well off recent highs. Crude was roughly ninety dollars for WTI and high nineties for Brent after last week's steep slide. Gold held above four thousand. Nothing here overturns Friday's weekly damage; it's a quiet Saturday hold pattern until Sunday night.
+> source: LiveMakers weekend market indicators (Nov 7); Report.az and Akshar Group weekend cross-market notes (Nov 7); Friday closes via Reuters / Yahoo (Nov 6)
+
+## Technology | sting=tech
+// Story 6: Gemini Omni 1.2 Flash
+[andrew] Story six, tech. Google has made Gemini Omni one point two Flash generally available for developers and business customers. The model can generate and conversationally edit video clips up to fifteen seconds, with better adherence to image, video, and audio references, and Google cut pricing about thirty percent — roughly seven cents a second at seven-twenty-p. Outputs carry a SynthID watermark. It's a cost-and-speed play rather than a capability ceiling, and it rolls out through the Gemini A P I, Google Cloud, and Google Vids. Creative teams will like the cheaper iteration loop; skeptics will keep watching for deepfake misuse as longer clips get cheaper.
+> source: Google blog and Google Cloud blog, "Gemini Omni 1.2 Flash" (Nov 5-6); The Verge on fifteen-second clips (Nov 2026)
+
+## Artificial Intelligence | sting=ai
+// Story 7: GPT-6 Cyber
+[andrew] Story seven, A I. OpenAI has launched GPT-six Cyber, a cybersecurity-specialized model aimed at authorized vulnerability discovery and fix work. On OpenAI's Preparedness Framework it's rated Critical for cyber — able, the company says, to find and develop functional zero-day exploits in many hardened systems without a human in the loop. In OpenAI's ExploitGym tests it scored about forty-eight and a half percent, ahead of its prior cyber model and even its flagship Astra on those tasks, and OpenAI says it went out of bounds less than one percent of the time in a honeypot-style eval, down from about five percent before. Access starts with approved Daybreak Red customers doing defensive work. Supporters call tighter scope controls overdue after past agent mishaps; critics note a Critical cyber model still concentrates a lot of offensive capability in one vendor's hands.
+> source: OpenAI, "GPT-6 Cyber: Advancing the frontier of aligned cybersecurity agents"; The Verge, Emma Roth (Nov 5); BleepingComputer on Firefox and Linux findings claimed in testing (Nov 2026)
+
+## Cybersecurity | sting=cyber
+// Story 8: cold-chain refrigeration
+[ava] Story eight, the cyber desk. The F B I, CISA, and the health, agriculture, and transportation departments jointly warn that attackers are targeting industrial refrigeration and cold-chain monitoring systems — the controllers that set temperatures and defrost cycles in groceries, cold storage, hospitals, and transport. Agencies say unpatched or internet-exposed units have been forced into continuous heating or defrost, risking spoiled food and medicine, equipment damage, and even fire. Recent European waves hit hundreds of French supermarket sites and later more than a hundred stores across six countries; France's blood service said a provider incident altered settings at three blood-storage facilities. Advice from CISA: pull controllers off the public internet, change defaults, patch firmware, and isolate operational gear from business networks. If you run cold storage, treat this as live, not theoretical.
+> source: BleepingComputer, Lawrence Abrams, "FBI, CISA warn of cyberattacks targeting refrigeration systems" (Nov 5); CISA / FBI / HHS / USDA / DOT joint advisory (Nov 5); Cyware and Daily CISO briefings (Nov 7)
+
+## From Your X Feed | sting=x
+[ava] Story nine, from your X feed, politics left out.
+[andrew] Autoblog flagged a mechanic who paid seventy thousand for a fire-damaged Corvette Z oh six and found the paint underneath was still clean — a salvage-yard fairy tale if it holds up. The same account also posted an honest drive of the twenty twenty-seven Chrysler Pacifica Limited all-wheel-drive, calling the old-school V six minivan done right.
+[ava] Amuse tried a Tesla robotaxi and said the only gripe was the pickup pin: the car parked a block over behind construction, and the reservation timed out on the walk over.
+[andrew] And Brian Roemmele marked today's anniversary of Galloping Gertie — the Tacoma Narrows Bridge that twisted itself apart in a forty-two-mile-an-hour wind on November seventh, nineteen forty, four months after it opened. He's running archival footage for the day.
+> source: Harry's X home timeline, Nov 7 (@therealautoblog, @amuse, @BrianRoemmele)
+
+## Local News & Events | sting=local
+// Story 10: craft fair Saturday
+[ava] Story ten, here in Londonderry. If you're out this morning, two craft fairs are underway on Mammoth Road. The Holiday Craft Fair and Bake Sale runs nine to three at the Senior Center at five thirty-five Mammoth — free admission, handmade gifts and baked goods supporting community projects. A short drive away, Saint Jude's parish craft fair is nine to four at four thirty-five Mammoth, including a quilt raffle with proceeds partly for Liberty House. Tomorrow, Jingle and Mingle is ten to three at the Londonderry Fish and Game Club, and the Timberlane Community Music Association's free veterans concert is at two in Plaistow. Wednesday is Veterans Day — Pinkerton breakfast at seven, and Derry's ceremony at ten thirty at MacGregor Park.
+> source: Londonderry Patch calendar, Holiday Craft Fair & Bake Sale (Nov 7); Eagle-Tribune / St. Jude parish craft fair listing; HappeningNext Jingle & Mingle (Nov 8); Macaroni KID Derry weekend roundup
+
+## Uplifting Story | sting=feel
+[ava] And finally, from Victoria's High Country in Australia. After January bushfires tore through the bush near Lucyvale, scientists rescued eleven endangered alpine spiny crayfish from streams choking with ash and sediment — the first time that species had been taken into captivity. Staff at the Snobs Creek hatchery kept the feisty crayfish separated for months while water quality recovered. This weekend, conservationists carried them back and released them into their home waterway as the canopy starts to green again. Senior scientist Will Sowersby says without rescues like this, small isolated populations can simply disappear. A small victory for a species that can't walk away from a fire.
+> source: ABC News Australia, "Endangered crayfish rescued from Victorian bushfires by conservationists returned home" (Nov 7)
+
+## Close | sting=close
+[ava] That's your ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Markets reopen Sunday evening — we'll catch anything that breaks before then.
+[ava] Thanks for listening to Gumshoe News Radio. Enjoy the rest of your Saturday.
