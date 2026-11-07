@@ -6,6 +6,38 @@
 <itunes:author>Gumshoe</itunes:author><itunes:explicit>false</itunes:explicit><itunes:block>Yes</itunes:block>
 <itunes:image href="https://hsverdlove.github.io/gumshoe-news/cover.jpg"/><image><url>https://hsverdlove.github.io/gumshoe-news/cover.jpg</url><title>Gumshoe News Radio (Harry)</title><link>https://hsverdlove.github.io/gumshoe-news/</link></image>
 <itunes:category text="News"/><itunes:type>episodic</itunes:type>
+<item><title>Saturday 1 PM Update, Nov 7</title><description>The Saturday 1 p.m. update from Gumshoe News Radio for November 7, 2026: Londonderry weather through tomorrow; U.S. measles cases pass five thousand with eight deaths, and former Senator Jay Rockefeller dies at eighty-nine; a deadly shooting in Krakow's main square and a fresh wave of hoax bomb threats disrupting European flights; a brief weekend markets desk; OpenCode Browse for on-device AI browser control; Geoffrey Hinton's Chernobyl-style AI warning; Claude Code settings files leaking secrets on GitHub; your X feed; Saturday craft fairs still open and Sunday's Jingle and Mingle; and adventurer Karl Bushby hugs his mom after a twenty-eight-year walk around the world. Anchor Ava, with Andrew at the business and tech desk.
+
+Chapters:
+0:00 Open &amp; Weather
+1:12 US News
+2:52 International
+4:22 Weekend Markets
+4:56 Technology
+5:33 Artificial Intelligence
+6:20 Cybersecurity
+7:26 From Your X Feed
+8:12 Local News &amp; Events
+8:59 Uplifting Story
+9:41 Close
+
+Sources:
+- NWS forecast for Londonderry, NH
+- National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 7 at airtime
+- CDC measles case update and ABC News / Washington Post / CIDRAP (Nov 6-7); Washington Post and AP obituaries for Jay Rockefeller (Nov 6)
+- AP, BBC, and Guardian live coverage of Krakow Main Market Square shooting (Nov 7); AP and Guardian on European flight bomb-threat disruptions (Nov 6-7)
+- Report.az weekend cross-market indicators (Nov 7); Live crypto and commodity quotes via market data feeds (Nov 7); Friday closes via Reuters / Yahoo (Nov 6)
+- OpenCode product page for Browse; VibeHacker and Hermes AI News on OpenCode Browse launch (Nov 7)
+- The Guardian interview with Geoffrey Hinton (Nov 3); Futurism and NDTV summaries circulating Nov 7
+- The Hacker News, "Claude Code's Don't Ask Again File Exposes Passwords and Keys in 1,122 Public Copies on GitHub" (Nov 7); Apiiro research write-up (Nov 2026)
+- Harry's X home timeline, Nov 7 (@hradzka, @lsanger, @therealautoblog, @csoandy)
+- Londonderry Patch calendar, Holiday Craft Fair &amp; Bake Sale (Nov 7); Eagle-Tribune / St. Jude parish craft fair listing; HappeningNext Jingle &amp; Mingle (Nov 8); Macaroni KID Derry weekend roundup
+- Good News Network, "Adventurer Finally Hugs Mom After 28-Year Walk Around the World From Home in UK" (Nov 7); SWNS via GNN</description>
+<content:encoded><![CDATA[The Saturday 1 p.m. update from Gumshoe News Radio for November 7, 2026: Londonderry weather through tomorrow; U.S. measles cases pass five thousand with eight deaths, and former Senator Jay Rockefeller dies at eighty-nine; a deadly shooting in Krakow's main square and a fresh wave of hoax bomb threats disrupting European flights; a brief weekend markets desk; OpenCode Browse for on-device AI browser control; Geoffrey Hinton's Chernobyl-style AI warning; Claude Code settings files leaking secrets on GitHub; your X feed; Saturday craft fairs still open and Sunday's Jingle and Mingle; and adventurer Karl Bushby hugs his mom after a twenty-eight-year walk around the world. Anchor Ava, with Andrew at the business and tech desk.<br/><br/>Chapters:<br/>0:00 Open & Weather<br/>1:12 US News<br/>2:52 International<br/>4:22 Weekend Markets<br/>4:56 Technology<br/>5:33 Artificial Intelligence<br/>6:20 Cybersecurity<br/>7:26 From Your X Feed<br/>8:12 Local News & Events<br/>8:59 Uplifting Story<br/>9:41 Close<br/><br/>Sources:<br/>- NWS forecast for Londonderry, NH<br/>- National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 7 at airtime<br/>- CDC measles case update and ABC News / Washington Post / CIDRAP (Nov 6-7); Washington Post and AP obituaries for Jay Rockefeller (Nov 6)<br/>- AP, BBC, and Guardian live coverage of Krakow Main Market Square shooting (Nov 7); AP and Guardian on European flight bomb-threat disruptions (Nov 6-7)<br/>- Report.az weekend cross-market indicators (Nov 7); Live crypto and commodity quotes via market data feeds (Nov 7); Friday closes via Reuters / Yahoo (Nov 6)<br/>- OpenCode product page for Browse; VibeHacker and Hermes AI News on OpenCode Browse launch (Nov 7)<br/>- The Guardian interview with Geoffrey Hinton (Nov 3); Futurism and NDTV summaries circulating Nov 7<br/>- The Hacker News, "Claude Code's Don't Ask Again File Exposes Passwords and Keys in 1,122 Public Copies on GitHub" (Nov 7); Apiiro research write-up (Nov 2026)<br/>- Harry's X home timeline, Nov 7 (@hradzka, @lsanger, @therealautoblog, @csoandy)<br/>- Londonderry Patch calendar, Holiday Craft Fair & Bake Sale (Nov 7); Eagle-Tribune / St. Jude parish craft fair listing; HappeningNext Jingle & Mingle (Nov 8); Macaroni KID Derry weekend roundup<br/>- Good News Network, "Adventurer Finally Hugs Mom After 28-Year Walk Around the World From Home in UK" (Nov 7); SWNS via GNN]]></content:encoded>
+<enclosure url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-11-07-1pm.mp3?v=20261107T1413" length="4910919" type="audio/mpeg"/>
+<guid isPermaLink="false">gumshoe-2026-11-07-1pm-20261107T1413</guid><pubDate>Sat, 07 Nov 2026 14:13:09 -0400</pubDate>
+<itunes:duration>598</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType>
+<podcast:chapters url="https://hsverdlove.github.io/gumshoe-news/episodes/2026-11-07-1pm.chapters.json?v=20261107T1413" type="application/json+chapters"/></item>
 <item><title>Saturday 10 AM Update, Nov 7</title><description>The Saturday 10 a.m. update from Gumshoe News Radio for November 7, 2026: Londonderry weather through tomorrow; Mississippi's Senate lead for Colom widens slightly and California port watchmen extend talks; New Zealand's preliminary count leaves Luxon's coalition with a thin majority pending special votes, and Kyiv's power and heating strained after overnight Russian strikes; a brief weekend markets desk; Google's Gemini Omni 1.2 Flash goes generally available; OpenAI's GPT-6 Cyber for authorized defenders; FBI and CISA warn of attacks on refrigeration systems; your X feed; today's Londonderry craft fairs; and endangered alpine crayfish returned to a Victorian stream after bushfire rescue. Anchor Ava, with Andrew at the business and tech desk.
 
 Chapters:

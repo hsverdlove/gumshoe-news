@@ -1,0 +1,65 @@
+// Gumshoe script format: see README.md
+# title: Saturday 1 PM Update, Nov 7
+# description: The Saturday 1 p.m. update from Gumshoe News Radio for November 7, 2026: Londonderry weather through tomorrow; U.S. measles cases pass five thousand with eight deaths, and former Senator Jay Rockefeller dies at eighty-nine; a deadly shooting in Krakow's main square and a fresh wave of hoax bomb threats disrupting European flights; a brief weekend markets desk; OpenCode Browse for on-device AI browser control; Geoffrey Hinton's Chernobyl-style AI warning; Claude Code settings files leaking secrets on GitHub; your X feed; Saturday craft fairs still open and Sunday's Jingle and Mingle; and adventurer Karl Bushby hugs his mom after a twenty-eight-year walk around the world. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon. It's just after one on Saturday, November seventh, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. Cash markets are still closed — I'll keep the weekend desk short.
+[ava] First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 7 at airtime
+
+## US News | sting=us
+// Story 1: Measles surpasses 5,000
+[ava] Story one. Measles cases in the United States have climbed past five thousand this year. The Centers for Disease Control and Prevention counts five thousand one hundred eighty-two confirmed cases as of November fifth, across forty-five states and Washington, D.C. — the highest annual total since nineteen ninety-one. State health departments have reported eight measles-associated deaths so far, including three confirmed in a single week: an infant in Wisconsin, a Pennsylvania resident, and a child in upstate New York. The C D C has confirmed four of those deaths so far and says its tally may change. Nearly all of the people infected were unvaccinated or had unknown vaccination status, and children and adolescents make up a large share of cases. Public-health officials urge catching up on M M R shots; critics of vaccine mandates argue parental choice and prior infection risk should weigh more heavily. A Pan American Health Organization committee meets next week on whether measles has re-established itself in the United States.
+// Story 2: Jay Rockefeller dies
+[ava] Story two. Former West Virginia Governor and five-term Democratic U.S. Senator Jay Rockefeller has died at eighty-nine at his home in Washington. An heir to the Rockefeller fortune who made his political career in Appalachia, he served two terms as governor and sat on the Senate from nineteen eighty-five to twenty fifteen, known for health-care and intelligence work and for opposing the Iraq War. Governor Patrick Morrisey and colleagues across the aisle issued remembrances. He is survived by his family; funeral arrangements had not been detailed at airtime.
+> source: CDC measles case update and ABC News / Washington Post / CIDRAP (Nov 6-7); Washington Post and AP obituaries for Jay Rockefeller (Nov 6)
+
+## International | sting=world
+// Story 3: Krakow shooting
+[ava] Story three, breaking this afternoon from Poland. A gunman opened fire in Krakow's Main Market Square shortly before three local time, killing six people — four women and two men — and wounding about fifteen, including two police officers, one described as in very critical condition. Polish police say a twenty-four-year-old Polish citizen drove into the square and fired at random from his car; officers shot and wounded him, and he is under arrest in hospital. Authorities say he wore military-style attire and acted alone; motive is not confirmed, and Prime Minister Donald Tusk called the attack tragic while saying all circumstances are under investigation. Unverified local media claims about military service have not been confirmed by police.
+// Story 4: Europe flight bomb threats
+[ava] Story four. A fresh wave of hoax bomb threats is disrupting flights across Europe for another day. Airlines and airports in countries including the Czech Republic, France, Italy, Bulgaria, and Hungary have diverted planes, ordered emergency landings, run security searches, and in some cases scrambled fighter escorts. Authorities say no explosives have been found and no injuries are reported. Italian Prime Minister Giorgia Meloni called the pattern concerning. Investigators have not publicly named a responsible group or state actor; some European officials frame it as possible hybrid disruption, while others caution against jumping to attribution without evidence.
+> source: AP, BBC, and Guardian live coverage of Krakow Main Market Square shooting (Nov 7); AP and Guardian on European flight bomb-threat disruptions (Nov 6-7)
+
+## Weekend Markets | sting=markets
+[andrew] Story five, a short weekend markets desk. U.S. cash equities stay closed through Monday; equity futures reopen Sunday evening. Bitcoin was hovering near seventy-six thousand, little changed on the day. W T I crude was about ninety dollars and eighty cents, Brent near ninety-eight. Gold held around four thousand seventy. Nothing here overturns Friday's mixed close — Nasdaq up, Dow soft after the week's A I scare. Quiet hold until Sunday night.
+> source: Report.az weekend cross-market indicators (Nov 7); Live crypto and commodity quotes via market data feeds (Nov 7); Friday closes via Reuters / Yahoo (Nov 6)
+
+## Technology | sting=tech
+// Story 6: OpenCode Browse
+[andrew] Story six, tech. OpenCode has launched Browse, a tool that lets A I coding agents drive your real browser through an M C P server and a Chromium extension. Agents can work in background tabs, take screenshots, and use your existing logins without shipping the session to the cloud, with a handoff when you need to click through a login, two-factor prompt, or payment. It works with Chrome, Edge, Brave, and similar browsers. Privacy-minded developers like keeping control on-device; skeptics will want tight allow-lists so an agent can't wander into the wrong account.
+> source: OpenCode product page for Browse; VibeHacker and Hermes AI News on OpenCode Browse launch (Nov 7)
+
+## Artificial Intelligence | sting=ai
+// Story 7: Hinton Chernobyl warning
+[andrew] Story seven, A I. Geoffrey Hinton, the so-called godfather of A I and a Nobel laureate, told The Guardian he sees early warning signs in recent A I mishaps and expects a Chernobyl-style incident later this year or next — something like a major power brownout or a week-long financial outage that finally forces leaders to regulate. He wants an independent gatekeeper akin to the F D A for advanced models, and he criticized industry leaders for putting profit ahead of safety, while still acknowledging A I's upside. Optimists call the timeline speculative and note that today's systems are far from controlling grids; Hinton says waiting for proof is how nuclear and finance disasters get missed.
+> source: The Guardian interview with Geoffrey Hinton (Nov 3); Futurism and NDTV summaries circulating Nov 7
+
+## Cybersecurity | sting=cyber
+// Story 8: Claude Code settings.local.json secrets
+[ava] Story eight, the cyber desk. Security firm Apiiro says more than eleven hundred public GitHub copies of Claude Code's local settings file contain at least one secret — passwords, A P I keys, database logins, even cloud admin credentials — because the "yes, and don't ask again" option can save the full approved command, secret and all, in plain text. Across those files they counted about thirteen hundred seventy-nine distinct secrets; more than a third open a database. Claude Code tries to keep the file out of git on one machine, but that does not travel with the project, and the researchers say Claude often co-authors commits that add it. Advice: search your orgs and git history for dot-claude settings files, rotate every secret those files ever held, add the local file to the project's gitignore, and approve command patterns instead of exact lines with secrets in them. Anthropic had not posted a detailed public response at airtime; earlier user bug reports on the same behavior were closed without a human reply.
+> source: The Hacker News, "Claude Code's Don't Ask Again File Exposes Passwords and Keys in 1,122 Public Copies on GitHub" (Nov 7); Apiiro research write-up (Nov 2026)
+
+## From Your X Feed | sting=x
+[ava] Story nine, from your X feed, politics left out.
+[andrew] Holly Hradzka posted that her dog Moose has built and fortified a castle — and is now besieging it. She called him a good boy.
+[ava] Larry Sanger announced what he says is the first high-quality public-domain audio of the King James Bible, made for about a hundred twenty-five dollars and free for anyone to reuse.
+[andrew] Autoblog flagged a restored nineteen seventy Ford Shelby Mustang G T five hundred with about fifty-one thousand miles showing, up for sale — classic-car candy if the restoration holds up.
+[ava] And Andy Ellis noted the crowd turning out for Rob Gronkowski's Hall of Fame-style induction festivities.
+> source: Harry's X home timeline, Nov 7 (@hradzka, @lsanger, @therealautoblog, @csoandy)
+
+## Local News & Events | sting=local
+// Story 10: afternoon craft fairs + Sunday
+[ava] Story ten, here in Londonderry. If you're still out this afternoon, two craft fairs remain open on Mammoth Road. The Holiday Craft Fair and Bake Sale at the Senior Center at five thirty-five Mammoth runs until three — free admission, handmade gifts and baked goods. A short drive away, Saint Jude's parish craft fair at four thirty-five Mammoth goes until four, including a quilt raffle with proceeds partly for Liberty House. Tomorrow, Jingle and Mingle is ten to three at the Londonderry Fish and Game Club, and the Timberlane Community Music Association's free veterans concert is at two in Plaistow. Wednesday is Veterans Day — Pinkerton breakfast at seven, and Derry's ceremony at ten thirty at MacGregor Park.
+> source: Londonderry Patch calendar, Holiday Craft Fair & Bake Sale (Nov 7); Eagle-Tribune / St. Jude parish craft fair listing; HappeningNext Jingle & Mingle (Nov 8); Macaroni KID Derry weekend roundup
+
+## Uplifting Story | sting=feel
+[ava] And finally, from Hull in England. After twenty-eight years and more than thirty-one thousand miles on foot, British adventurer Karl Bushby has hugged his mother Angela at her gate. He left in nineteen ninety-eight determined to walk home without mechanized transport, crossed the frozen Bering Strait, swam more than a hundred seventy miles of the Caspian Sea, and later swam the English Channel over three days when the tunnel operator refused a walk-through. Crowds welcomed him in Queen Victoria Square earlier this week; today the tears were private. "You've changed a bit," he told her. "I'm older," she said. "Well done for hanging in there." A long way home.
+> source: Good News Network, "Adventurer Finally Hugs Mom After 28-Year Walk Around the World From Home in UK" (Nov 7); SWNS via GNN
+
+## Close | sting=close
+[ava] That's your one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Markets reopen Sunday evening — we'll catch anything that breaks before then.
+[ava] Thanks for listening to Gumshoe News Radio. Enjoy the rest of your Saturday.
