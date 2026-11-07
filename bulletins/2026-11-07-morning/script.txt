@@ -1,0 +1,78 @@
+// Gumshoe script format: see README.md
+# title: Saturday Morning, Nov 7
+# description: The Saturday morning bulletin from Gumshoe News Radio for November 7, 2026: Londonderry weather with the seven-day outlook; more Justice Department departures after the midterms, the court-blocked triumphal arch, and a new federal homelessness count; Russian missiles hit Kyiv ahead of Tuesday's peace talks in Abu Dhabi, Iran lifts its missile-range limit, another deadly attack on worshippers in Ethiopia, and a too-close-to-call New Zealand election; a weekend look at the worst week for stocks in more than a year; SpaceX plans a double Starship catch; Mira Murati's Thinking Machines nears a big raise and OpenAI drops data-center NDAs; a SonicWall flaw under attack; your X feed; Veterans Day weekend events around Derry and Londonderry; and twenty-five thousand people who bought an 800-year-old estate for wildlife. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Saturday, November seventh, and this is Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Markets are closed for the weekend, so I'll take a look back at a bruising week on Wall Street.
+[ava] First, the full forecast for Londonderry, with the week ahead.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 7 at airtime
+
+## US News | sting=us
+// Story 1: DOJ departures
+[ava] Story one, Washington, where the post-election shake-up keeps spreading. The Justice Department's top national security official, John Eisenberg, resigned Friday, Attorney General Todd Blanche said. So did Jason Reding Quiñones, the U.S. attorney in Miami who had been overseeing what the administration called a grand-conspiracy investigation into President Trump's political foes. They follow Thursday's resignation of civil rights chief Harmeet Dhillon. The president has also said he plans Cabinet changes. Critics of those investigations say the departures show how politicized they had become; administration allies say the president is entitled to reshape his team for the final two years.
+// Story 2: Arch
+[ava] Story two. A federal judge has temporarily blocked groundbreaking on President Trump's planned Military Triumphal Arch, a two-hundred-fifty-foot structure between the Lincoln Memorial and Arlington National Cemetery. The fourteen-day order came less than an hour after a federal planning commission approved the project. The administration still launched a website Friday showcasing the design, which AP reports includes an event space and munitions storage. Backers call it a fitting tribute to the military; the groups that sued object to it, and the judge's order pauses construction while the case proceeds. With Democrats taking Congress in January, scrutiny of the president's building projects is expected to grow.
+// Story 3: Homelessness count
+[ava] Story three. Housing and Urban Development's annual one-night count found about six hundred ninety-eight thousand people homeless last January, down six point three percent from the count when President Trump took office, the largest drop in nearly two decades. HUD credits tighter border enforcement and a shift toward a treatment-first approach for addiction, and is moving away from the Housing First model. Advocacy groups welcomed the decline but say the number is still far too high, and note the count is a single-night snapshot that can miss people living in cars or doubled up with family.
+> source: AP, "2 Justice Department officials resign, including US attorney who oversaw 'grand conspiracy' probe" and "Trump's arch is blocked for now, but a glitzy new website highlights the plans" (Nov 6-7); Anadolu morning briefing (Nov 7); HUD news release No. 26-090 and National Alliance to End Homelessness (Nov 6)
+
+## International | sting=world
+// Story 4: Kyiv strikes, Abu Dhabi talks
+[ava] Story four, Ukraine. Russian missiles struck Kyiv and other cities this morning, wounding at least nine people, according to the Associated Press, closing traffic on a Kyiv bridge and knocking out some power and water. It comes days before negotiators from Russia, Ukraine and the U.S. meet Tuesday in Abu Dhabi, the fourth round of talks brokered by the Trump administration. Vladimir Putin confirmed the date. Ukraine's foreign minister, Andrii Sybiha, said Kyiv wants security guarantees, calm in the Black Sea, an energy ceasefire and prisoner swaps, and that nothing about Ukraine will be decided without Ukraine. Meanwhile, the death toll from Monday's Russian airstrike on a school building in Komyshuvakha has risen to fifty-five, Ukrainian officials say.
+// Story 5: Iran missile range
+[ava] Story five. Iran's Revolutionary Guard says it has lifted its self-imposed two-thousand-kilometer limit on ballistic missile range, hinting it may develop longer-range missiles. AP notes it comes amid fears of renewed all-out war; Iran says its program is for deterrence. In Gaza, heavy rains flooded tent camps for hundreds of thousands of displaced Palestinians.
+// Story 6: Ethiopia
+[ava] Story six. Gunmen killed at least thirty-four Ethiopian Orthodox Christians in a new attack in the Oromia region, bringing the reported toll from attacks on worshippers to at least ninety-four in under three weeks. Responsibility hasn't been independently established.
+// Story 7: New Zealand
+[ava] And story seven. New Zealand votes today, and with about a third of ballots counted, AP says it's too close to call. Prime Minister Christopher Luxon's National Party and Chris Hipkins's Labour are neck and neck just under thirty percent each, and the governing coalition is hovering near a bare majority. A newcomer, the Opportunity Party, looks set to enter Parliament. Results are expected by the end of the night there, which is this morning for us.
+> source: AP, "Missiles target Kyiv and wound 5 as Ukraine prepares for talks with Russia and the US" (Nov 7, updated); Reuters via MarketScreener, "Putin confirms trilateral talks... starting Nov 10" (Nov 7); Ukrainska Pravda and Kyiv Post on the Komyshuvakha toll (Nov 7); AP, "Iran says it has lifted its self-imposed limit on missile ranges" (Nov 7); Anadolu morning briefing on Ethiopia (Nov 7); AP, "Early count in New Zealand's election suggests result too close to call" (Nov 7)
+
+## Weekend Markets | sting=markets
+[andrew] Story eight, a weekend look at markets. Friday's tech bounce wasn't enough to save the week. The S and P five hundred ended at seven thousand three hundred seventy-six, down two point seven percent for the week, its worst week since April of last year. The Nasdaq lost three point four percent and is in correction, more than ten percent off last month's peak. The Dow slipped about one percent. All three have now fallen four weeks in a row.
+[andrew] What drove it: worries over the pace of A I spending, and fears that states will clamp down on new data centers after the midterms. Thursday was the worst day, with the S and P down more than four percent. Energy was the other big loser, down about twelve percent for the week as crude fell roughly twelve percent to about ninety and a half dollars. Gold rose nearly five percent to around four thousand sixty-five. The ten-year Treasury yield eased to four point eight six percent.
+[andrew] Some strategists, like Truist's Keith Lerner, call the selloff a longer-term buying opportunity; skeptics say A I valuations still have room to fall. Futures reopen Sunday evening.
+> source: Reuters via StreetInsider, "Nasdaq rebounds but posts fourth straight weekly decline" (Nov 6); UPI, "Nasdaq tech stocks recover but Wall Street posts 4th weekly loss" (Nov 6); Morningstar weekly market update (Nov 6)
+
+## Technology | sting=tech
+// Story 9: Starship double catch
+[andrew] Story nine, tech. SpaceX is targeting November thirteenth for Starship's next test flight, and Elon Musk says it will try to catch both the Super Heavy booster and the Starship upper stage with the launch tower arms at Starbase in Texas. SpaceX has caught boosters before, but never the ship. If both catches work, it would be the first time every part of an orbital rocket came back intact, a key step toward rapid, cheaper reuse. As always with Starship tests, the date can slip.
+> source: Space.com, "SpaceX will attempt 1st-ever double Starship rocket catch on next test launch" (Nov 6); Teslarati on the Nov 13 target (Nov 6); Xinhua world news summary (Nov 7)
+
+## Artificial Intelligence | sting=ai
+// Story 10: Thinking Machines; OpenAI NDAs
+[andrew] Story ten, A I. Business Insider reports Mira Murati's Thinking Machines Lab is closing in on a roughly five-billion-dollar funding round led by Accel at about a forty-billion-dollar valuation, with Nvidia reportedly eyeing a big piece. That's a striking bet in a week when A I stocks sold off hard, and it's not final.
+[andrew] And after voters in several states pushed back on data centers, OpenAI says it will no longer require local officials to sign non-disclosure agreements for future data-center campuses it owns and operates, and promises more public reporting and community input. Supporters call it overdue transparency; skeptics note it covers only future projects and keeps carve-outs for trade secrets and security.
+> source: Business Insider, "Thinking Machines Lab Is Closing in on a $5 Billion New Funding Round" (Nov 2026); Dataconomy (Nov 6); OpenAI, "Setting a new standard for responsible AI infrastructure"; The Verge and DatacenterDynamics on OpenAI dropping NDAs (Nov 5-6)
+
+## Cybersecurity | sting=cyber
+// Story 11: SonicWall
+[ava] Story eleven, the cyber desk. SonicWall has patched seven flaws in its firewalls, including one already being exploited. It lets someone with valid credentials for another login method slip past SAML sign-in on the S S L V P N, potentially skipping multi-factor authentication. Only V P Ns set up for SAML are affected. CISA added it to its exploited list Friday and gave federal agencies until November twentieth. If you run a SonicWall, update SonicOS now.
+> source: BleepingComputer, "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks" (Nov 6); CISA, "CISA Adds One Known Exploited Vulnerability to Catalog" (Nov 6)
+
+## From Your X Feed | sting=x
+[ava] Story twelve, from your X feed, politics left out.
+[andrew] D H H says his team got Linux running in production on Apple's new MacBook Neo with its A eighteen chip, using his Omarchy setup. He also noted, a little surprised, that comparably priced Windows laptops are now beating the Neo on battery life.
+[ava] Picture Folder passed along reports that Robert Pattinson auditioned for James Bond, and in a separate post, that Harry Styles is in talks. Neither is confirmed, so file both under rumor.
+[andrew] Salvatore Sanfilippo, better known as antirez, the creator of Redis, posted a nostalgic photo of the cheap office in Catania where he wrote Redis Streams nine years ago.
+[ava] In Spain and Portugal, Burger King is selling a Bacon King Pop, a burger you top with popcorn for crunch, via the account Interesting All.
+[andrew] For the Tesla driver, a post making the rounds says Musk claims the Cybercab, with no steering wheel or pedals, is already running commercially in Texas, with Florida and Nevada next. That's his claim; we haven't seen independent confirmation.
+[ava] And Political Math, with the sweetest one: his daughter and her best friend decided to sleep out on the trampoline, and he says his heart may break because he doesn't have many more years of this.
+> source: Harry's X home timeline, Nov 6-7 (@dhh, @PicturesFoIder, @antirez, @interesting_aIl, @newstart_2024, @politicalmath)
+
+## Local News & Events | sting=local
+// Story 13: Veterans Day weekend
+[ava] Story thirteen, close to home, with Veterans Day on Wednesday. This morning from eight thirty to ten thirty, Liberty House holds its twelfth annual Veterans Day Breakfast at the LaBelle Winery event center on Route one-eleven in Derry, a ticketed fundraiser for its housing programs for struggling veterans.
+[ava] Also today, the Londonderry XtremeCraze has family jump time for little ones until twelve thirty, Home Depot stores including Londonderry run free kids' workshops until noon, and tonight at seven, the Derry Opera House hosts An Evening of Magic and Mystery.
+[ava] Tomorrow, the Jingle and Mingle vendor fair is listed for ten to three at the Londonderry Fish and Game Club, and the Timberlane Community Music Association plays a free veterans concert at two in Plaistow. On Wednesday, Pinkerton Academy serves veterans breakfast from seven, and Derry's Veterans Day ceremony is at ten thirty at MacGregor Park.
+> source: Derry News, "Veterans breakfasts on tap in Derry, Windham" (Nov 5); Macaroni KID Derry, "Top Weekend Events in Greater Derry" (Nov 4); HappeningNext listing for Jingle & Mingle Vendor Fair (Nov 8)
+
+## Uplifting Story | sting=feel
+[ava] And finally, from northern England. For eight hundred years, the Rothbury Estate in Northumberland belonged to the Dukes of Northumberland. Now it belongs to the wildlife. The Wildlife Trusts raised thirty million pounds from more than twenty-five thousand supporters in fifty countries, plus lottery and government partners, to buy its nine thousand four hundred acres of moorland, woods and rivers, home to curlews, red squirrels, merlins and salmon. It will anchor a forty-mile nature corridor from the coast at Druridge Bay inland, farmed in a nature-friendly way alongside the local community. Sir David Attenborough's verdict: together, we've achieved something amazing.
+> source: Good News Network, "People Around the World Help Buy Royal Estate for Wildlife Conservation" (Nov 6)
+
+## Close | sting=close
+[ava] That's your Saturday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. Enjoy the weekend.
+[ava] Thanks for listening to Gumshoe News Radio.
