@@ -1,0 +1,69 @@
+// Gumshoe script format: see README.md
+# title: Sunday 4 PM Update, Nov 8
+# description: The Sunday 4 p.m. update from Gumshoe News Radio for November 8, 2026: Londonderry weather through tomorrow; the Thomas Markle case and the economic-relief test facing Washington; a deadly train collision in Egypt, Pope Leo's arrival in Argentina, and Syria's reported help for Saudi Arabia; a brief weekend markets desk; Nvidia's board investigation and Google's Wyoming data-center purchase; OpenAI's GPT-6 Cyber results; the SSHole OpenSSH flaw; your X feed; the week ahead in Londonderry; and a coat returned after thirty years. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon. It's four o'clock on Sunday, November eighth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. Cash markets are still closed, so I'll keep my desk short and focus on tech and security.
+[ava] First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 8 at airtime
+
+## US News | sting=us
+// Story 1: Thomas Markle charged
+[ava] Story one. Thomas Markle Senior, the eighty-two-year-old estranged father of Meghan, the Duchess of Sussex, was arrested Friday at a senior care facility in Florida and charged with one count of possessing child sexual abuse material. According to a federal complaint, F B I agents seized about seventy-eight items, including slides, film negatives, and books, from two storage units in the Los Angeles area that he had rented since two thousand eight. The Justice Department alleges they include sexually explicit photographs of himself with prepubescent girls. Mr. Markle appeared before a magistrate judge in Tampa, entered no plea, and was released on his own recognizance under home detention and electronic monitoring. His arraignment in California is expected to be weeks away. These are allegations in a complaint, not a conviction. Mr. Markle has previously denied similar accusations, calling them "sick lies." The Duchess has said she is deeply distressed and that her thoughts are with any children who may have been harmed.
+// Story 2: Economic relief test for Trump and Democrats
+[ava] Story two. Four days after the midterms, the Associated Press looks at what voters asked for: relief from the cost of living. President Trump has said the economy is booming and that he is willing to work with the new Democratic majorities, though he has done little of that before. Democrats, for their part, will face hard choices over spending, deficits, tariffs, and Social Security. The A P notes Friday's jobs report showed employers adding a hundred sixty-five thousand jobs. Supporters of the president argue that strong hiring and falling crime back his case. Democrats counter that prices, not payroll numbers, are what households feel. Both sides will be tested quickly, since neither can deliver relief without the other's votes.
+> source: AP, "Meghan's estranged father arrested and charged with possessing child sexual abuse materials" (Nov 6); NBC News and CBS News on the Justice Department complaint (Nov 6); BBC News live coverage (Nov 6); AP, "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver" (Nov 8)
+
+## International | sting=world
+// Story 3: Egypt train collision
+[ava] Story three, Egypt. Two trains collided Sunday in the al-Ayyat district of Giza province, south of Cairo, killing seven people and injuring more than a hundred, according to Egyptian officials. The Associated Press reports that a train bound for Fayoum struck the rear of a stationary train headed to Aswan. Egypt's chief prosecutor's office is investigating, President Abdel-Fattah el-Sissi ordered a prompt inquiry, and crews worked into the evening to clear the wreckage. The A P notes that crashes are not uncommon in Egypt and are often tied to poor maintenance and mismanagement. The cause of this one has not been announced.
+// Story 4: Pope Leo in Argentina
+[ava] Story four. Pope Leo the Fourteenth arrived in Buenos Aires this afternoon from Uruguay, the second stop on a three-nation South American tour that ends in Peru. President Javier Milei greeted him at the airport. The A P calls it the most delicate leg of the trip: the Catholic Church in Argentina has criticized Mr. Milei's austerity measures, while the president's supporters say those cuts are needed to stabilize the economy. The pope is traveling about three weeks after lung cancer surgery.
+// Story 5: Syria and Saudi Arabia
+[ava] Story five. The A P reports that Syria is preparing to send fighters to Saudi Arabia as fighting with Yemen's Houthis escalates. A regional official and two Syrian officials, all unnamed, say Syrian military advisers are already in the kingdom and that no fighters have yet been deployed to Yemen. Syria is also reportedly discussing a joint defense pact with Saudi Arabia, Turkey, and Pakistan. None of this has been confirmed on the record.
+> source: AP, "Collision between 2 trains in Egypt kills 7 and injures at least 125" and AP News Summary (Nov 8); AFP, "Egypt train collision kills 7, injures 112: health ministry" (Nov 8); Vatican News and AP on Pope Leo XIV's arrival in Argentina (Nov 8); AP, "Saudi Arabia turns to Syria for help as fighting with Houthis escalates" (Nov 8)
+
+## Weekend Markets | sting=markets
+[andrew] Story six, a very short markets note. Cash markets are closed until Monday morning, and equity futures reopen tonight at six. This week brings fresh inflation data, a heavy earnings schedule, and a Wednesday Veterans Day closure for the bond market. Friday's strong jobs number and the recent wobble in A I stocks are the two things traders will be weighing when futures open.
+> source: CNBC, "Stock market next week: Outlook for Nov. 9-13, 2026" (Nov 6); AP on Friday's jobs report (Nov 8)
+
+## Technology | sting=tech
+// Story 7: Nvidia board investigation
+[andrew] Story seven, tech. Nvidia's board says it has opened an independent investigation after reports that chief executive Jensen Huang was targeted by a foreign intelligence effort. A committee of independent directors, with outside counsel, will oversee it. The board says it has no reason to believe national security or company secrets were compromised and that it has confidence in Mr. Huang and his team. News reports describe the operation as Chinese-linked, and Bloomberg Law reports Mr. Huang acknowledged an affair. Critics, including members of a House committee, want more answers about what was shared. Nvidia's defenders note the board's statement and that no wrongdoing by Mr. Huang has been established.
+// Story 8: Google buys Crusoe's Wyoming site
+[andrew] Story eight. Google has bought Crusoe's unfinished data-center site in southeast Wyoming, Crusoe confirmed Friday. Google says it plans to invest seventeen billion dollars to build out the campus. That figure is Google's planned build-out, not the purchase price, which was not disclosed. TechCrunch describes the project as troubled: Crusoe had pitched it to Google as a customer without landing a deal, and Google had raised concerns about cost and timeline. Supporters see needed capacity; opponents, including Senator Bernie Sanders and some newly elected Democrats, renewed calls for a national pause on new data centers.
+> source: NVIDIA Newsroom, "Statement from NVIDIA Board of Directors" (Nov 2026); NBC News and The Verge on the Nvidia investigation; Bloomberg Law (Nov 2026); Crusoe newsroom and TechCrunch, "Crusoe sells troubled Wyoming data center project to Google" (Nov 6); Reuters via Investing.com (Nov 6)
+
+## Artificial Intelligence | sting=ai
+// Story 9: OpenAI GPT-6 Cyber
+[andrew] Story nine, A I. OpenAI says its new G P T six Cyber model found and validated more than seventeen hundred Linux kernel vulnerabilities, and produced working local privilege-escalation exploits for nine hundred forty-eight distinct flaws. The company also reports eighty-one previously unknown high-severity Firefox vulnerabilities, with Mozilla already shipping fixes for many. OpenAI says human researchers reviewed the patches, hundreds of reports have gone to maintainers, and it is withholding technical details of the new exploitation techniques. Defenders will welcome the faster bug-finding. Skeptics point out that the same capability, in other hands, could speed up attacks, and the results come from the company's own testing rather than an independent audit.
+> source: OpenAI, "A thousand fewer paths to root" and "Introducing GPT-6 Cyber" (Nov 2026); BleepingComputer, "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs"; SecurityWeek, "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research"
+
+## Cybersecurity | sting=cyber
+// Story 10: SSHole
+[ava] Story ten, the cyber desk. A flaw nicknamed SSHole, tracked as C V E twenty twenty-six, one-two-three-one-five-eight, is now being exploited. It affects OpenSSH on systems built with the musl library and without P A M, which includes Alpine Linux and potentially OpenWrt, Buildroot, and Yocto builds. An attacker can log into an account that has no usable password by submitting a password longer than two hundred fifty-six characters. The monitoring firm GreyNoise recorded six successful sessions on its honeypots, where attackers ran reconnaissance commands. Those are decoy systems, and the reports do not identify real victims. The fix is OpenSSH ten point six p-two; otherwise, administrators can turn off password authentication.
+> source: Ars Technica, "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices" (Nov 2026); iSec News, "OpenSSH Password Bypass Used Against Alpine Honeypots After Disclosure" (Nov 8), citing GreyNoise; The Hacker News and BleepingComputer on the SSHole flaw (Nov 2026)
+
+## From Your X Feed | sting=x
+[ava] Story eleven, from your X feed, politics left out.
+[andrew] Variety reported that Taylor Swift and Karlie Kloss attended the Chiefs-Jets game at Arrowhead Stadium, their first public appearance together in years.
+[ava] Autoblog says Honda is teasing a new hybrid wagon aimed at the Subaru Outback.
+[andrew] Engineers Feed shared a video asking NASA administrator Jared Isaacman and the Moon Base team which engineering disciplines will be most needed to build humanity's first lunar base.
+[ava] And Brian Roemmele posted a bit of history: in the nineteen twenties, a telephone time service had operators reading out the time all day, so that, in his telling, nobody would ever be late again.
+> source: Harry's X home timeline, Nov 8 (@Variety, @therealautoblog, @engineers_feed, @BrianRoemmele)
+
+## Local News & Events | sting=local
+// Story 12: Londonderry week ahead
+[ava] Story twelve, close to home. A look at the week ahead in Londonderry. Tomorrow, the Leach Library has Magic the Gathering Learn and Play from four to five, and the senior center hosts Getting Started with Digital Resources from two thirty to three thirty. Tuesday brings baby lapsit at nine, toddler storytime at ten thirty, and Spill the Tea at three. Wednesday is Veterans Day, and the Leach Library will be closed.
+> source: Leach Library November 2026 events calendar (londonderrynh.assabetinteractive.com)
+
+## Uplifting Story | sting=feel
+[ava] And finally, a story about a coat. Thirty years ago in Japan, a high school student named Norihisa Koyama saw a Korean schoolgirl crouched and crying after her traditional hanbok uniform had been slashed in one of the racist attacks of that era. He gave her his brand-new winter coat so she could cover up and get home safely. She kept it for three decades, his full name written inside. Earlier this year she saw a newspaper article about his charity work, recognized his name, and returned the coat. Mr. Koyama, now fifty, works with a Japanese nonprofit supporting single mothers and struggling families. The painter Park Chung-moon, whose work Chogori was inspired by those attacks, invited him to Tokyo and has launched an art project on their story. "He is like a treasure to us Koreans," the artist said.
+> source: Good News Network, "She Kept His Coat for 30 Years, Then Finally Found the Boy Who Gave It to Her After Racial Attack" (Nov 8), citing Choson Sinbo
+
+## Close | sting=close
+[ava] That's your four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Futures reopen at six tonight.
+[ava] Thanks for listening to Gumshoe News Radio. Enjoy the rest of your Sunday.
