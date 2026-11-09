@@ -1,0 +1,77 @@
+// Gumshoe script format: see README.md
+# title: Monday 10 AM Update, Nov 9
+# description: The Monday 10 a.m. update from Gumshoe News Radio for November 9, 2026: Londonderry weather through tomorrow; the lame-duck Congress returns with an Epstein-files petition two signatures short and GOP leadership votes tomorrow; Secretary Rubio defends the Iran war as necessary if unpopular; U.S. school closures hit a post-pandemic high; Russell Brand sentenced to ten and a half years; the Turkish steel-plant death toll rises to ten; Novaya Gazeta leaves its Moscow newsroom; who's at the table in Abu Dhabi; stocks rally at the open as Nvidia slides; Tesla robotaxis reach San Antonio; Google's new TPUs and the Elvis and Eminem suits against Suno; an FBI agent's crypto theft and a 7.7 million-customer breach in Japan; your X feed; Senator-elect Pappas and Secretary of State Scanlan; and a surprise right whale calf. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's ten o'clock on Monday, November ninth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning again, Ava. The rebound we saw in the futures held at the bell, and the Dow is leading the way. Nvidia is the big exception.
+[ava] We'll get there. First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 9 at airtime
+
+## US News | sting=us
+// Story 1: Lame duck day one
+[ava] Story one. Congress is back today for a five-week lame-duck session, and beyond the Hegseth impeachment push we told you about this morning, the agenda is crowded. A B C News reports that Representative Thomas Massie's new Epstein-files discharge petition, aimed at Attorney General Todd Blanche, has two hundred sixteen signatures, two short of the two hundred eighteen needed to force a House vote. The bill would let victims, state attorneys general and members of Congress sue the Justice Department over withheld or improperly redacted records. Blanche has acknowledged mistakes in redacting some victims' names but says the department fixed them quickly and complied with the law. Tomorrow, House Republicans choose a new leader, Steve Scalise or Jim Jordan, and Senate Republicans hold their own closed-door leadership vote. Government funding runs out after December eleventh, and the Senate holds a test vote today on a bipartisan permitting-reform package.
+// Story 2: Rubio on the Iran war
+[ava] Story two. Secretary of State Marco Rubio, speaking to reporters Sunday in Florida, said the Iran war may not have been "necessarily popular," but was necessary to stop Iran's nuclear ambitions. He declined to comment directly on the midterm results or on Vice President J D Vance's post last week largely blaming the war for Republican losses. Supporters say national security can't be run by polls; critics argue the war's cost at the gas pump was a choice voters clearly rejected.
+// Story 3: School closures
+[ava] Story three. School closures are speeding up. An A P analysis of federal data with Big Local News at Stanford found that one thousand one hundred fifty-six U.S. schools closed last year, the most since the pandemic. Public school enrollment fell by more than one point four million students, about three percent, between fall twenty nineteen and twenty twenty-four, as birth rates dropped and more families chose charters, private schools or homeschooling. Because enrollment is falling faster than schools are closing, the A P says many districts face more budget pain ahead. Some parents see closures as a loss for neighborhoods; budget officials say half-empty buildings drain money from classrooms.
+> source: ABC News, "Congress returns for crowded lame-duck session as Hegseth impeachment, government funding deadline loom" (Nov 9); AP via AP News Summary, Rubio remarks at Homestead Air Reserve Base (Nov 8); AP, "School closures are accelerating in US, but more financial pain lies ahead" (Nov 9)
+
+## International | sting=world
+// Story 4: Russell Brand sentenced
+[ava] Story four. In London, comedian Russell Brand was sentenced this morning to ten and a half years in prison for raping one woman and sexually assaulting three others between two thousand four and two thousand nine. The judge called him a "sexual predator" and praised the women for coming forward. Brand, who is fifty-one, has denied all wrongdoing and says he never had non-consensual sex; the jury acquitted him on three other counts. Under British rules he's likely to serve about two-thirds of the sentence. Police say he is under investigation over two further rape allegations.
+// Story 5: Turkey steel plant toll rises
+[ava] Story five, an update on this morning's steel-plant explosion near Izmir, Turkey. The death toll has risen to ten, with fifteen injured, four critically, and rescuers still searching for four missing workers at the Habas plant in Aliaga. Officials' first assessment is that an overhead crane broke loose and fell into an electric arc furnace during steel casting. An investigation is under way, and A F P reports two labor activists were detained outside a hospital as they tried to speak about workplace safety.
+// Story 6: Novaya Gazeta leaves Moscow
+[ava] Story six. Novaya Gazeta, Russia's best-known independent newspaper, walked out of its Moscow newsroom for the last time today after three decades, citing years of official pressure, including blocked websites, a revoked registration and an eviction. Staff took down portraits of six colleagues killed over the years, including Anna Politkovskaya. Editor Sergey Sokolov said, "This isn't goodbye." Kremlin spokesman Dmitry Peskov rejected the idea that independent Russian media is ending, calling closures a normal turnover in a competitive market.
+// Story 7: Abu Dhabi talks lineup
+[ava] Story seven. More on tomorrow's Russia-Ukraine talks in Abu Dhabi, the first three-way round since February. Envoys Steve Witkoff and Jared Kushner lead the U.S. side; Rustem Umerov leads Ukraine's team. Security guarantees top the agenda, and analysts tell Al Jazeera that smaller deals, on grain shipments, a Black Sea or energy ceasefire, or a prisoner swap, are more realistic than a breakthrough. The Washington Post reports Moscow is already claiming a win after Washington agreed to discuss a broader European security framework; U.S. officials frame that as the path to a durable peace.
+> source: AP, "Russell Brand is sentenced to 10 1/2 years in a British prison for rape and sexual assault" (Nov 9); BBC News live; The Guardian (Nov 9); AP, "Explosion at steel plant in western Turkey leaves 10 dead and 4 missing" (Nov 9); AFP via France 24 (Nov 9); Novaya Gazeta Europe, "'This isn't goodbye'" (Nov 9); AP on Novaya Gazeta's closure (Nov 9); AP, "US-led peace talks for Russia and Ukraine will look at security guarantees" (Nov 9); Al Jazeera explainer (Nov 9); The Washington Post (Nov 9)
+
+## Markets | sting=markets
+[andrew] Story eight, the market open. Stocks are bouncing back from last week's A I sell-off. At the bell, Reuters had the Dow up about one percent, and the S&P five hundred and Nasdaq each up about eight-tenths. By about ten, the Dow had stretched its gain to roughly one point four percent, near fifty-two thousand.
+[andrew] The exception is Nvidia, down roughly six to eight percent in early trading as its board investigates chief executive Jensen Huang. Other chip and A I names are rallying. A M D is up after an Oppenheimer upgrade, Alphabet is higher after unveiling new A I chips, and Amazon and Meta are up after J P Morgan named them top picks. On the downside, DraftKings slipped after a U B S downgrade.
+[andrew] Behind the move: last week's slide left bargains, and oil's retreat is easing inflation worries. U.S. crude fell about four percent this morning, to around eighty-seven dollars, near its lowest since early September, on hopes for Iran diplomacy. The ten-year Treasury yield is about four point eight five percent. Gold is up more than one percent, around forty-one hundred thirty dollars. Bitcoin is near seventy-four thousand six hundred, off its weekend highs.
+[andrew] Today's data is light, just wholesale inventories. Constellation Energy and Barrick reported before the bell; Hims and Hers, Rocket Lab and Monday dot com report after the close. Consumer prices come out tomorrow.
+> source: Reuters via MarketScreener, "Wall St opens higher after last week's AI rout" (Nov 9); Yahoo Finance live, "Stock market today" (Nov 9, 9:59 a.m. ET); Yahoo Finance/Investopedia, "Futures Jump as Market Looks to Rebound" (Nov 9); CNBC, "Stocks making the biggest moves premarket" (Nov 9); TokenPost (Nov 9)
+
+## Technology | sting=tech
+// Story 9: Tesla robotaxi San Antonio
+[andrew] Story nine, tech. Tesla launched robotaxi service in San Antonio at five this morning, local time, joining Austin, Dallas, Fort Worth, Houston, Miami and Orlando. Tesla hasn't said how many cars, what hours, or whether safety monitors ride along. TechCrunch notes that outside Austin, where Tesla has more than four hundred registered autonomous vehicles, its fleets range from a handful to a few dozen, for example twenty-four in Fort Worth and five in Miami. Waymo already runs driverless rides in San Antonio. Fans see steady expansion; skeptics point out Tesla's paid robotaxi miles fell from the first quarter to the second.
+> source: TechCrunch, "Tesla expands robotaxi service to San Antonio" (Nov 9); Tesla on X (Nov 9)
+
+## Artificial Intelligence | sting=ai
+// Story 10: Google TPUs; Suno lawsuits
+[andrew] Story ten, A I. Google unveiled two more eighth-generation T P U chips this morning: the T P U eight T X, built for confidential computing so governments and regulated businesses can keep data and model weights protected in hardware, and the eight I Max, which pairs two chips to double compute and memory bandwidth for very long context windows. That makes four new Google A I chips this year, and they're widely seen as a challenge to Nvidia.
+[andrew] Also, the Elvis Presley estate and Eminem's publisher, Eight Mile Style, have filed separate federal lawsuits against the A I music company Suno in California. The Elvis suit cites copyright and Tennessee's ELVIS Act, which protects voice likeness; the Eminem suit covers two hundred sixty-nine songs, including "Lose Yourself." Suno has argued in earlier cases that training on recordings is fair use.
+> source: Google blog, "Introducing TPU 8tx and TPU 8i Max" (Nov 9); The Verge (Nov 9); SiliconANGLE (Nov 9); Variety, "Elvis Estate, Eminem Publisher File Lawsuits Against AI Startup Suno"; The Verge, "Elvis and Eminem rights holders are suing Suno"; Justia docket 3:2026cv13398 (N.D. Cal.)
+
+## Cybersecurity | sting=cyber
+// Story 11: FBI agent crypto theft; Iris Ohyama breach
+[ava] Story eleven, the cyber desk. A former F B I agent in Virginia has pleaded guilty to wire fraud and money laundering after stealing nearly two and a half million dollars in cryptocurrency. Prosecutors say he used wallet credentials gathered in thirty-five F B I cases, including wallets tied to nation-state hackers and to fraud victims, then laundered the money. He faces up to twenty years; sentencing is set for March.
+[ava] And in Japan, homeware giant Iris Ohyama has suspended its online store after attackers got into a third-party cloud service. Data on up to seven point seven million customers may be exposed, including names, addresses, phone numbers, emails and birth dates, plus some encrypted passwords. The company says card numbers weren't stored there and no misuse has been reported.
+> source: U.S. Attorney's Office, Eastern District of Virginia, "Former FBI agent pleads guilty to cryptocurrency theft"; The Record; BleepingComputer (Nov 9); BleepingComputer, "Iris Ohyama data cloud breach exposes info of 7.7 million customers"; The Register (Nov 9)
+
+## From Your X Feed | sting=x
+[ava] Story twelve, from your X feed, politics left out.
+[andrew] Semafor reported that a campaign against Waymo placed op-eds in local newspapers that the detection tool Pangram scored as sixty-eight to ninety-five percent A I-written, with no disclosure. Some were drafted by P R firms and edited by the people who signed them.
+[ava] Autoblog says the best Tesla Model 3 lease deal this November isn't on the cheapest trim, so it pays to compare.
+[andrew] Variety posted that the final two episodes of "Heated Rivalry" will play in four D X at Regal theaters starting November sixteenth, with moving seats and effects.
+[ava] And Engineers Feed reminded everyone that the International Space Station circles Earth every ninety minutes, so astronauts see sixteen sunrises and sixteen sunsets a day.
+> source: Harry's X home timeline, Nov 9 (@semafor, @therealautoblog, @Variety, @engineers_feed)
+
+## Local News & Events | sting=local
+// Story 13: Pappas, Scanlan, events
+[ava] Story thirteen, close to home. On W M U R's CloseUp, Senator-elect Chris Pappas, who becomes the first openly gay man elected to the U.S. Senate, cautioned fellow Democrats against over-interpreting their election mandate. On the same program, Secretary of State David Scanlan, who has held the job since early twenty twenty-two, signaled he's ready to fight to keep it, and talked about how ballot-counting machines performed last week.
+[ava] Tomorrow, the Greater Derry Londonderry Chamber has its Lunch and Leads networking at eleven forty-five, and Leach Library hosts Spill the Tea for teens at three.
+> source: WMUR CloseUp, "Pappas warns against 'over-interpreting' voter mandate" and "Scanlan indicates he is ready to fight for Sec. of State" (Nov 9); Greater Derry Londonderry Chamber calendar; Leach Library calendar (Nov 10)
+
+## Uplifting Story | sting=feel
+[ava] And finally, a whale of a surprise. Scientists at the New England Aquarium have confirmed a North Atlantic right whale calf nobody knew existed. Researchers photographed a mother and calf off Anticosti Island, Quebec, in late September; the mother, a whale named Silt, is at least thirty-eight and has survived five fishing-gear entanglements. The calf apparently slipped past all the winter surveys. It's the twenty-fourth calf of the season, for a species with only about three hundred eighty left. As one Aquarium scientist put it, it's an exciting discovery so late in the year.
+> source: New England Aquarium, "In surprise sighting, previously unknown North Atlantic right whale calf is spotted in Canadian waters" (Nov 2); AP, "Scientists discovered an unknown baby right whale off Canada" (Nov 9)
+
+## Close | sting=close
+[ava] That's your Monday ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Watch Nvidia and the Qatar meeting at the White House today, and consumer prices tomorrow morning.
+[ava] Thanks for listening to Gumshoe News Radio.
