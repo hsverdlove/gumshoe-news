@@ -1,0 +1,76 @@
+// Gumshoe script format: see README.md
+# title: Monday Morning, Nov 9
+# description: The Monday morning bulletin from Gumshoe News Radio for November 9, 2026: Londonderry weather with the seven-day outlook; President Trump tells 60 Minutes his deportation policy was "too tough" as Stephen Miller starts as chief of staff, the Justice Department and Democrats square off over oversight, and the lame-duck Congress opens with a Hegseth impeachment push and a fight over Senate GOP leadership elections; Qatar's prime minister brings an Iran proposal to the White House, Russia and Ukraine trade heavy strikes before Abu Dhabi talks, the Krakow gunman dies in hospital, and a deadly steel-plant blast in western Turkey; a pre-market look at futures, Nvidia, yields, oil, gold, bitcoin and this week's inflation data; Tesla winds down the Cybertruck; Trump on A.I. guardrails and Anthropic's IPO roadshow; the Web3Auth wallet breach and an LNbits shutdown alert; your X feed; the Wild River Fire and tonight's council budget workshop; and dogs that sniff out invasive plants. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Monday, November ninth, and this is Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Futures are higher after a rough week, and it's a big week for inflation data. I'll have the full pre-market picture shortly.
+[ava] First, the full forecast for Londonderry, with the week ahead.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 9 at airtime
+
+## US News | sting=us
+// Story 1: Trump 60 Minutes on immigration; Miller starts today
+[ava] Story one. In his first sit-down interview since last week's midterm losses, President Trump told C B S's 60 Minutes that his deportation policy "might have been too tough." He said removing people with criminal records helped him, but deporting longtime workers whose only violation was entering illegally hurt Republicans, and he said he'd "love to do something on immigration" with the incoming Democratic majority. On Iran, he said voters didn't like the war or the gas prices, but he'd make the same call again and isn't looking to escalate. The interview was taped Friday, hours before he named Stephen Miller, the architect of the deportation program, as chief of staff; Miller starts today. Supporters hear openness to a deal; skeptics question whether a softer tone fits with Miller running the White House.
+// Story 2: DOJ vs Democrats over oversight
+[ava] Story two. A clash is building over congressional oversight. On Saturday, President Trump called Democrats' threats of investigations and impeachment "extortion" and said he was ordering the Justice Department to look into it. On Sunday, Attorney General Todd Blanche acknowledged Congress's oversight power but would not rule out prosecuting Democratic lawmakers if their statements crossed a line; he named no crime and confirmed no investigation. Representative Robert Garcia, expected to chair House Oversight next year, said Democrats won't be intimidated. Administration allies say some Democratic rhetoric amounts to threats against officials and donors; critics warn that prosecuting lawmakers over oversight would test the separation of powers.
+// Story 3: Lame duck opens: Hegseth resolution, GOP leadership vote
+[ava] Story three. The lame-duck Congress opens this week. Roll Call and Punchbowl News report that Representative Thomas Massie is expected to bring up his privileged resolution to impeach Defense Secretary Pete Hegseth as soon as today, which could force a House vote within two legislative days. Democratic leader Hakeem Jeffries says he's a "hard yes"; President Trump calls the effort "very unfair" and says he has confidence in Hegseth. In the Senate, Republican leadership elections are still set for tomorrow, but Senators Dave McCormick and Ron Johnson are urging a delay to first debate what went wrong. No one has formally challenged John Thune.
+> source: AP, "Trump says his deportation policy 'might have been too tough'" (Nov 8); CBS News, "10 takeaways from Trump's 60 Minutes interview" (Nov 8); Axios, "Blanche won't rule out prosecuting Democrats over oversight threats" (Nov 8); AP on the administration's stance toward Democratic investigations (Nov 9); Roll Call, "This week: Lame duck kicks off with Hegseth impeachment effort" (Nov 9); Punchbowl News (Nov 9); Axios, "McCormick calls for delay in Senate GOP leadership elections" (Nov 9)
+
+## International | sting=world
+// Story 4: Qatar PM at White House on Iran
+[ava] Story four, the Iran war. Qatar's prime minister, Sheikh Mohammed bin Abdulrahman Al Thani, meets President Trump at the White House today. Axios describes a two-step proposal from mediators: first, the U.S. lifts its naval blockade and releases some frozen Iranian funds while Iran invites U.N. nuclear inspectors back; then the Strait of Hormuz reopens and nuclear talks resume. Secretary of State Marco Rubio, at G7 talks in Paris, called Iran's conditions "outrageous"; Iran says it's the most reasonable offer on the table. Some senior U.S. officials reportedly oppose a deal now, arguing it could rescue Iran's government as its economy weakens. Separately, Houthi authorities now say Saturday's airstrikes near Yemen's capital killed forty-four people, a figure not independently confirmed.
+// Story 5: Russia-Ukraine strikes before Abu Dhabi talks
+[ava] Story five. A day before U.S.-brokered talks in Abu Dhabi, Russia and Ukraine traded heavy strikes. A Russian attack on Odesa killed three people, and Russia hit power substations in several regions. Ukrainian drones set fire to the Kirishi refinery near Saint Petersburg, Russia's second-largest, where officials say one woman was killed by debris. President Trump says the two sides are "very close" to a deal; the Kremlin insists the talks stay three-way, even as France says Europe will be represented.
+// Story 6: Krakow gunman dies
+[ava] Story six. Polish police say the gunman who killed six people in Krakow's main square on Saturday died in hospital this morning, after being critically wounded by police. The terrorism investigation continues.
+// Story 7: Turkey steel plant explosion
+[ava] Story seven. An explosion and fire hit a steel plant in the Aliaga district of Izmir, in western Turkey, this morning. The A P, citing officials, reports at least three dead and about ten workers missing; some Turkish outlets report a higher toll. Early accounts of the cause differ.
+> source: Axios, "Trump to meet Qatari prime minister about mediation efforts with Iran" (Nov 9); Al Jazeera and NBC News on the Iran proposal and Rubio's remarks (Nov 9); Israel Hayom (Nov 9); AP Mideast roundup on the Houthi-reported toll (Nov 9); Reuters via Al Jazeera, "At least four people killed as Russia and Ukraine trade strikes overnight" (Nov 9); AP on Krakow gunman's death (Nov 9); AP, "Explosion at steel plant in western Turkey" (Nov 9); Daily Sabah (Nov 9)
+
+## Markets | sting=markets
+[andrew] Story eight, the pre-market picture. Stock futures are higher after a bruising week: around seven, Dow futures were up about one percent, S&P futures about six-tenths, and Nasdaq futures four-tenths. Last week the Nasdaq fell three point four percent, its fourth straight weekly loss, and the S&P lost two point seven. On Friday, a strong jobs report, a hundred sixty-five thousand jobs, helped chip stocks bounce; the Nasdaq rose one point one percent, the S&P three-tenths, and the Dow slipped half a percent.
+[andrew] The drag this morning is Nvidia, down roughly four to five percent pre-market as its board investigates whether chief executive Jensen Huang was targeted by a foreign intelligence operation. China today called the spy claims a smear campaign.
+[andrew] The ten-year Treasury yield is near four point eight seven percent, and futures put the odds of a Fed rate hike in December around eighty percent. The dollar is a bit softer. Oil is down about two percent, U.S. crude near ninety dollars, on the Iran diplomacy. Gold is up nearly one percent, around forty-one hundred dollars. Bitcoin is weaker, near seventy-four thousand. Overseas, Japan's Nikkei rose more than two percent and Taiwan jumped nearly five.
+[andrew] This week: October consumer prices tomorrow, with a three-tenths monthly rise expected, and producer prices Friday. The bond market closes Wednesday for Veterans Day. Earnings today include Constellation Energy, Take-Two and Rocket Lab, with CoreWeave, Cisco and Applied Materials later in the week.
+> source: Barchart, "U.S. Stock Futures Gain as Oil Drop Offsets Nvidia Slump; Inflation Data Awaited" (Nov 9); Reuters via Investing.com, "Wall St futures rise after rough week, but Nvidia unsettles investors" (Nov 9); Regards of Wallstreet futures quotes, 6:56 a.m. ET (Nov 9); Invested Alpha / AP on Friday's close (Nov 6); CNBC, "Gold gains as lower oil prices temper inflation fears" (Nov 9); AP on China's response to the Huang reports (Nov 9); Exa bitcoin quote (Nov 9)
+
+## Technology | sting=tech
+// Story 9: Tesla ends Cybertruck
+[andrew] Story nine, tech. Tesla is winding down the Cybertruck. Elon Musk said Friday that Texas production ends around the middle of next year to make room for the Cybercab, and posted on X this morning that orders exceed production, so Tesla will build as many as it can before the line shuts in about eight months but will have to return many deposits. TechCrunch notes the truck drew about a million reservations but an estimated seventy-one thousand sales, and missed early promises on range and price. Fans call it a bold design; critics, an expensive detour.
+> source: TechCrunch Mobility, "The Cybertruck experiment is over" (Nov 8); Elon Musk on X (Nov 9); Invested Alpha on Tesla shares (Nov 6)
+
+## Artificial Intelligence | sting=ai
+// Story 10: Trump on AI guardrails; Anthropic IPO roadshow
+[andrew] Story ten, A I. President Trump told 60 Minutes that A I risks can be managed and that he "doesn't mind guardrails," and he signaled he could work with Democrats on safeguards, as long as rules don't leave the U.S. in "a deep second position" behind China. Reuters calls it a shift in tone from his preference for industry self-policing. Safety advocates see an opening; industry voices warn heavy rules could slow U.S. labs.
+[andrew] Also this week, Anthropic is expected to start its I P O roadshow ahead of a planned Nasdaq listing targeted for the week of November sixteenth. Timing and price aren't final.
+> source: Reuters via Investing.com, "Trump says AI risks can be managed, signals openness to guardrails" (Nov 8); The Information, "Anthropic to Proceed With IPO Roadshow"; Anthropic S-1/A filing (SEC); Barchart (Nov 9)
+
+## Cybersecurity | sting=cyber
+// Story 11: Web3Auth / Keplr; LNbits
+[ava] Story eleven, the cyber desk. Some Keplr crypto wallet users who signed up with Google or Apple have had money stolen through a flaw at Web3Auth, the company that runs that sign-in. In an unusual move, Web3Auth says it then used the same route to empty other at-risk wallets first, moving about six million dollars from more than forty-four thousand wallets into recovery accounts, so an empty balance may mean a rescue, not a theft. Wallets made with a recovery phrase or hardware wallet aren't affected. Neither company has said how much was actually stolen. Separately, the Bitcoin Lightning platform L N bits has told server operators to shut down immediately after attacks drained funds; it says fixes are coming within a day or two.
+> source: The Hacker News, "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety" (Nov 9); The Block (Nov 8); Bitquery analysis; The Hacker News on the LNbits shutdown alert (Nov 9)
+
+## From Your X Feed | sting=x
+[ava] Story twelve, from your X feed, politics left out.
+[andrew] Autoblog says a BMW iX3 went four hundred thirty-six miles in a real-world range test, beating rivals from Mercedes and Volvo.
+[ava] D H H posted that his Linux setup, Omarchy, is adding secure boot so it can install without fiddling with BIOS settings, and that version four point six will recommend the best local A I model for your machine.
+[andrew] The Hacker News flagged research in which a default admin-admin password helped researchers unlock and start connected cars remotely, through account takeovers at two car brands.
+[ava] Engineers Feed shared a simple life tip for the cold mornings: rinse your thermos with hot water before filling it, and your coffee stays hot longer.
+> source: Harry's X home timeline, Nov 9 (@therealautoblog, @dhh, @TheHackersNews, @engineers_feed)
+
+## Local News & Events | sting=local
+// Story 13: Wild River Fire update + today's events + Veterans Day
+[ava] Story thirteen, close to home. The Wild River Fire near Gorham is now about twenty-nine percent contained after a wetter weekend, still covering more than eight hundred acres. The Forest Service calls it the largest in the White Mountain National Forest's history and says it will take a season-ending soaking to fully control. There's a public update tomorrow at six at Shelburne Town Hall.
+[ava] Here in Londonderry, the Town Council holds a budget workshop tonight at six at Moose Hill Council Chambers, and the Leach Library has Magic the Gathering Learn and Play from four to five. Wednesday is Veterans Day; Derry's ceremony is at ten thirty at MacGregor Park, and the library will be closed.
+> source: NHPR, "Abnormally dry conditions, warm temps intensified Wild River Fire in NH's White Mountains" (Nov 9); Londonderry Town Council calendar (Nov 9 budget workshop); Leach Library November 2026 events calendar; Derry News, "Veterans Day observed throughout region" (Oct 29)
+
+## Uplifting Story | sting=feel
+[ava] And finally, some very good dogs. Scientists in Leipzig, Germany, trained volunteer dogs and their owners to sniff out invasive plants like Himalayan balsam, ragweed, and knotweed, which crowd out native species. Of the twelve teams that finished the field test, eleven passed, finding their targets in the wild about seventy-five percent of the time. The study, in the journal P L O S One, suggests everyday dog walks could become an early-warning system for conservation, turning something people already love into a gift to biodiversity.
+> source: Good News Network, "Dogs Can Sniff-Out Invasive Plant Species With High Accuracy to Curb Their Destruction" (Nov 8), citing PLOS One and UFZ
+
+## Close | sting=close
+[ava] That's your Monday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. The opening bell is at nine thirty, and consumer prices are out tomorrow.
+[ava] Thanks for listening to Gumshoe News Radio. Have a good start to your week.
