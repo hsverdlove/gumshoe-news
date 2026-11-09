@@ -1,0 +1,74 @@
+// Gumshoe script format: see README.md
+# title: Monday 4 PM Update, Nov 9
+# description: The Monday 4 p.m. update from Gumshoe News Radio for November 9, 2026: Londonderry weather through tomorrow; Representative Massie formally files Hegseth impeachment articles on the House floor as Speaker Johnson pushes back; the FDA orders a rare vision-loss warning on all GLP-1 drugs; a possible Trump, Xi and Putin meeting in China; the Turkey steel-plant toll climbs to 17; Germany's Merz ties the EU budget to more Ukraine aid; stocks close with their best day in months while Nvidia slides; Chinese robots open Web Summit in Lisbon; Anthropic and Meta ship new A I models; France blames Iran's Revolutionary Guards for the supermarket fridge hack as U.S. agencies warn about refrigeration controllers; your X feed; a White Mountains wildfire update and a Concord Monitor investigation; and a cat rescued from a landfill couch. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's four o'clock on Monday, November ninth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. The closing bell just rang on the best day for stocks in months, and Nvidia still couldn't join the party.
+[ava] We'll get there. First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 9 at airtime
+
+## US News | sting=us
+// Story 1: Massie files on the floor
+[ava] Story one, an update on the Hegseth impeachment push. This afternoon, Republican Representative Thomas Massie formally introduced his eight articles of impeachment against Defense Secretary Pete Hegseth on the House floor, which starts the clock: House leaders now have two legislative days to act, so a vote, or a vote to table or refer it, could come as soon as Wednesday.
+[ava] Speaker Mike Johnson opposes the effort. He argues that impeaching a Cabinet secretary while American forces are engaged abroad would send a terrible message, and he calls it a political stunt. Supporters of the resolution, including most Democrats, say Congress has to answer for a war it never authorized. Hegseth's Pentagon press conference is still set for tomorrow.
+// Story 2: GLP-1 vision warning
+[ava] Story two, a health headline that touches a lot of households. The Food and Drug Administration is requiring every G L P one drug, including Ozempic, Wegovy, Mounjaro and Zepbound, to add a warning about a rare eye condition called NAION, which cuts blood flow to the optic nerve and can cause sudden, painless and sometimes permanent vision loss in one eye.
+[ava] For perspective: in the F D A's analysis of a hundred twenty-six clinical trials, the rate was about six point four cases per hundred thousand patient-years on these drugs, versus about three point eight on placebo or other diabetes drugs. The agency calls the risk potential, notes the numbers are small, and says patients should call their doctor right away about any sudden vision change, but shouldn't stop their medication without talking to them.
+// Story 3: Possible trilateral at APEC
+[ava] Story three. President Trump says he expects to meet both China's Xi Jinping and Russia's Vladimir Putin at the Asia-Pacific summit in Shenzhen, China, on November eighteenth and nineteenth, and talk about nuclear arms and ending the Iran war. Beijing said today it is "in communication with relevant parties," which stops short of confirming it. If it happens, it would be a rare three-way meeting of those leaders, but for now, treat it as possible, not scheduled.
+> source: AP, "Rep. Thomas Massie of Kentucky launches bid to impeach Defense Secretary Pete Hegseth" (Nov 9); MS NOW, "Rep. Thomas Massie files resolution on Hegseth impeachment, teeing up a vote" (Nov 9); FDA Drug Safety Communication on GLP-1 RAs and NAION (Nov 9); NBC News; Pharmacy Times (Nov 9); AP, "China confirms discussions are underway on a historic Xi-Trump-Putin meeting" (Nov 9); The Japan Times (Nov 9); Reuters
+
+## International | sting=world
+// Story 4: Turkey steel plant
+[ava] Story four, an update on today's steel-plant disaster in western Turkey. The death toll at the Habas plant in Aliaga, north of Izmir, has risen to seventeen, after one of the critically injured workers died. Officials say an overhead crane carrying a replacement boiler collapsed into an electric arc furnace; one worker told A F P that molten steel hit water-cooled panels and caused the blast. President Erdogan has promised to find out whether there was negligence, and Turkish media report five people have been detained.
+// Story 5: Merz ties EU budget to Ukraine aid
+[ava] Story five. Germany's chancellor, Friedrich Merz, is raising the stakes in Europe's budget fight. In a letter to European Council President Antonio Costa, he said there will be no deal on the European Union's long-term budget unless members also approve an extra forty-five billion euros for Ukraine, calling support for Kyiv "a matter of our indivisible European security." Some member states have resisted more aid, so expect hard bargaining, and it lands the same week as the Abu Dhabi peace talks.
+> source: AFP via France 24, "Anger as 17 killed in Turkey steel factory blast" (Nov 9); AP; BBC News (Nov 9); Euronews, "No deal on Ukraine aid? Then no deal on EU budget, Merz says" (Nov 9)
+
+## Markets | sting=markets
+[andrew] Story six, the closing bell. A big rebound day. Reuters puts the Dow up about eleven hundred thirty points, or two point two percent, at fifty-two thousand four hundred seventeen. The S&P five hundred gained two point four percent to about seventy-five fifty-five, and the Nasdaq rose two point seven percent. Reuters says that's on track for the S&P's best day since April and the Nasdaq's best since late July. All eleven S&P sectors rose, led by industrials and consumer stocks.
+[andrew] Nvidia was the glaring exception, down about five percent, near one seventy-eight and a half, and the only decliner in the Philadelphia chip index, as its board investigates C E O Jensen Huang. Everything else in chips ran: the chip index jumped more than six percent after losing over twelve last week, A M D gained about fourteen percent, Broadcom nearly ten, and Micron about seven. Tesla rose about six percent and Meta nearly six.
+[andrew] The drivers: bargain hunting after last week's post-election A I sell-off, which Morgan Stanley and U B S called overdone, and oil. U.S. crude fell more than three and a half percent to about eighty-seven fifty, and Brent nearly five percent, after President Trump played down new strikes on Iran. The ten-year Treasury yield edged up to about four point eight eight percent, because fears of a Fed rate hike in December haven't gone away. Tomorrow morning's October consumer price report is the next big test, with C P I watchers looking for annual inflation around two point seven percent.
+> source: Reuters, "Wall St jumps back as oil slide eases inflation worries; Nvidia slumps" (Nov 9); Reuters, "Stocks rally even as Nvidia falls, oil drops" (Nov 9); Quartz, "Dow rallies over 1,000 points and Nasdaq gains 2.5% as stocks rebound" (Nov 9); Yahoo Finance live blog (Nov 9)
+
+## Technology | sting=tech
+// Story 7: Web Summit
+[andrew] Story seven, tech. Web Summit opened tonight in Lisbon with a statement: nine dancing humanoid robots from the Chinese company AgiBot took the main stage, and China sent its biggest delegation ever. Founder Paddy Cosgrave told the crowd, "The superstars of the future are not coming from California; they're coming from China," pointing to Chinese open-source A I. Not everyone on stage agreed on the mood. Asked about Nvidia's turmoil, Cloudflare C E O Matthew Prince called it "very salacious" but said Jensen Huang did a lot to build the A I ecosystem. Organizers expect close to seventy thousand attendees this week.
+> source: Euronews, "China's robots, AI agents and Nvidia probe: Web Summit 2026 Opens in Lisbon" (Nov 9); Portugal Global (Nov 9)
+
+## Artificial Intelligence | sting=ai
+// Story 8: Anthropic and Meta models
+[andrew] Story eight, A I, with two launches today. Anthropic released Claude Mythos five point two and Fable five point two, saying they improve coding, reasoning and vision. Fable gets a price cut, to eight dollars per million input tokens, which TechCrunch notes undercuts OpenAI's G P T six Astra, and Anthropic says it answers about thirty percent faster. The candid part is in the safety notes: Anthropic says both models more often voice suspicion that they're being tested, which makes it harder to judge how they'll behave in the real world, though it says Mythos can't act covertly against its users. It's Anthropic's first release since an outside report from the group METR suggested its internal models are roughly doubling the pace of its own research, with plenty of uncertainty in that estimate.
+[andrew] And Meta released Muse Ember, its smallest, cheapest model yet, at ten cents per million input tokens. It's built to handle the repetitive work inside A I agents, like tool calls, routing and document parsing, while a bigger model does the planning. As Meta puts it, "Muse Wonder plans, Muse Ember handles the volume."
+> source: TechCrunch, "Anthropic releases new Mythos and Fable models amid RSI concerns" (Nov 9); CNBC (Nov 9); TechCrunch, "Meta releases Muse Ember, a new lightweight model for agent execution" (Nov 9)
+
+## Cybersecurity | sting=cyber
+// Story 9: France blames Iran for fridge hack; US advisory
+[ava] Story nine, the cyber desk. France today formally blamed Iran's Revolutionary Guards for last month's attack that overrode the temperature controls on refrigerators at about seven hundred French supermarkets, spoiling food and even starting some fires, with losses estimated in the tens of millions of euros. Foreign Minister Jean-Noël Barrot called it the first large-scale sabotage cyberattack on French soil, summoned Iran's ambassador, and said France will push for European Union sanctions. Paris prosecutors have requested international arrest warrants for the head of a Guards cyber unit called Shahid Kaveh and two deputies. Iran hasn't commented, and it routinely denies such attacks. Reuters notes the targeted units were often obsolete or running outdated software.
+[ava] It's not just France. Five U.S. agencies, including C I S A and the F B I, issued a joint warning today that attackers are targeting industrial refrigeration and cold-chain controllers worldwide, forcing units into constant heating and defrost cycles. The advice: get those controllers off the open internet, change default passwords, and patch.
+> source: AP, "France blames Iran for last month's cyberattack on supermarket fridges" (Nov 9); Reuters via NBC News (Nov 9); Euronews (Nov 9); CNN (Nov 9); The Hacker News, "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses" (Nov 9)
+
+## From Your X Feed | sting=x
+[ava] Story ten, from your X feed, politics left out.
+[andrew] Tara Bull shared video of a pilot flying Gravity Industries' jet suit at a NASA aerospace technology expo. The suit is built from three-D printed polymer, aluminum and titanium, with tiny turbines on the arms and back.
+[ava] Variety reports Daniel Radcliffe isn't sure he'll watch HBO's new "Harry Potter" series. He says he's been in a lot of Harry Potter already, doesn't watch any TV, and that the new young star doesn't need any advice from him.
+[andrew] Robert Scoble posted a list of three hundred forty-nine gadgets headed to C E S in January, and says it'll be his twenty-ninth trip to the show.
+[ava] And for spooky season stragglers, a post making the rounds shows a monster sculpture left behind in an abandoned mausoleum in Poland after a horror-movie shoot. It's a viral post we couldn't independently confirm, so enjoy it as a curiosity.
+> source: Harry's X home timeline, Nov 9 (@TaraBull, @Variety, @Scobleizer, @interesting_aIl)
+
+## Local News & Events | sting=local
+// Story 11: White Mountains fire; Concord Monitor investigation
+[ava] Story eleven, around New Hampshire. Recent rain is helping crews on the wildfire in the White Mountain National Forest, about seven miles southeast of Gorham. W C A X reports it's now twenty-nine percent contained after burning about eight hundred twenty-one acres. Crews are strengthening containment lines and watching for flare-ups, and residents can get an in-person briefing tomorrow from six to seven p.m. at the Shelburne town hall.
+[ava] And the Concord Monitor today launched "Fragile Futures," an investigation into families of medically complex children in New Hampshire. Reporter Rachel Wachman found insurers cut home-nursing hours, often without explanation, after federal Medicaid changes, in some cases cutting family earnings by up to half. The state stepped in to require thirty days' notice and a review, but families say the restored hours are only a temporary fix.
+> source: WCAX, "White Mountain National Forest wildfire 29% contained after rain" (Nov 9); Concord Monitor, "Fragile Futures: An investigation into the realities facing medically complex kids in N.H." (Nov 9)
+
+## Uplifting Story | sting=feel
+[ava] And finally, a cat with lives to spare. In Saskatoon, Canada, a four-year-old cat named Moze loves hiding inside the family couch, so when her owners, Ryan Nitschke and his girlfriend, had the old couch hauled away, they realized about an hour later where she probably was. Nitschke raced to the landfill, where workers were just hooking up the bin holding his couches. One worker happened to take an early lunch, so the bin hadn't been dumped and crushed yet. The crew cut into the furniture and found Moze curled up inside an armrest, completely unharmed. As the worker put it, "Perfect happy ending." By that night, Moze was back to her usual self, presumably looking for a new couch.
+> source: CBC News, "A purr-fect ending: Cat who hid in couch rescued from Saskatoon landfill" (Nov 9)
+
+## Close | sting=close
+[ava] That's your Monday four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Tomorrow brings the October inflation report, the Abu Dhabi talks and Hegseth's press conference, with the House clock now ticking on Massie's resolution.
+[ava] Thanks for listening to Gumshoe News Radio.
