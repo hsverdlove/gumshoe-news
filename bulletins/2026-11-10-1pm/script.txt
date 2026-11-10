@@ -1,0 +1,86 @@
+// Gumshoe script format: see README.md
+# title: Tuesday 1 PM Update, Nov 10
+# description: The Tuesday 1 p.m. update from Gumshoe News Radio for November 10, 2026: Londonderry weather through tomorrow; Speaker Johnson says Republicans have the votes to sideline the Hegseth impeachment as Don Bacon comes out against it and Massie plans article-by-article votes; Senate Republicans air grievances and weigh a delay while House Republicans vote this afternoon; Russia pounds Ukraine's power grid during the Abu Dhabi talks, the U.S. moves tankers out of a British base over a reported Iran threat, Qatar sees progress with Tehran, and a deadly fog pileup in Bulgaria; midday markets slide on rate-hike bets, with the biggest jump in the two-year yield in more than a year and a new report on Nvidia's China chip sales; Ring's flying home security drone; Google's Gemini 4 Carbon goes public; Barracuda flaws now under attack and a Paint fix that Windows Update won't deliver; your X feed; Veterans Day across southern New Hampshire, a new veterans plate and a Lancers playoff rematch and a Doberman who sensed her baby's heart was racing. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's one o'clock on Tuesday, November tenth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. Stocks are still in the red at midday, and the bond market is doing most of the talking. I'll explain shortly.
+[ava] First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 10 at airtime
+
+## US News | sting=us
+// Story 1: Hegseth impeachment, the vote math
+[ava] Story one. Since Defense Secretary Pete Hegseth's news conference, the House vote math has sharpened ahead of tonight's procedural vote, expected around five-thirty.
+[ava] Speaker Mike Johnson told reporters the motion to set aside the impeachment resolution is, quote, "not going to fail. We have the votes." Nebraska Republican Don Bacon, undecided yesterday, now says he'll oppose impeachment, though he says party leaders "can't just be a rubber stamp for the president."
+[ava] Representative Thomas Massie says some colleagues back some of his eight articles but not all, so if the motion to kill or refer his resolution fails, he'll ask for a separate vote on each one.
+[ava] Vice President J D Vance called the impeachment question "absurd" and "a ridiculous show that stands in for actual policymaking." But Senator Ted Cruz predicted on his podcast that the House will likely impeach, and that Hegseth would then step down or be fired. Only tonight's roll call will settle it, and removal would still take sixty-seven Senate votes.
+// Story 2: GOP leadership, where things stand
+[ava] Story two. As of airtime, neither chamber has announced results in the Republican leadership races. House Republicans return at one-thirty to vote by secret ballot, Steve Scalise versus Jim Jordan for minority leader. Scalise says "I've got a proven record" and can win back swing districts; Jordan says he's best positioned to counter Democratic investigations.
+[ava] In the Senate, the morning meeting turned into what some called an "open-mic session" on the midterm losses. Senators return at two to decide whether to vote today or postpone. No one has challenged John Thune, and Kevin Cramer said the criticism "hasn't been about John Thune." Rand Paul's diagnosis: "The cost of living defeated us."
+> source: CBS News, "Congress live updates as GOP elects leaders, Hegseth faces impeachment vote" (Nov 10, updated 12:13 PM ET); The Guardian US politics live (Nov 10); NBC News live blog (Nov 10); Roll Call, "Senate Republicans lament midterms, weigh leadership election delay" (Nov 10, 12:43 PM ET); NBC News, "Republicans, reeling from an election drubbing, will choose their leadership in Congress" (Nov 10)
+
+## International | sting=world
+// Story 3: Grid strikes during talks; Mildenhall
+[ava] Story three. As the Abu Dhabi talks opened, Russia launched a ballistic missile and a hundred sixty-two drones at Ukraine overnight, hitting power substations and forcing emergency blackouts in Kyiv and eastern regions. Attacks over the past day killed nine people and injured thirty-nine, including a one-year-old. President Volodymyr Zelensky still called day one of the talks "constructive and quite substantive."
+[ava] Also new: The Wall Street Journal reports the U.S. moved several K C one thirty-five refueling tankers from R A F Mildenhall in England to bases in Germany and elsewhere because of a reported threat from Iran. Security at Mildenhall and nearby Lakenheath was raised to the second-highest level. U.S. European Command wouldn't discuss the threat, noting aircraft rotate between bases for many reasons. Last month, B one bombers left R A F Fairford after a suspected Iranian-backed plot.
+// Story 4: Qatar mediation; Bulgaria pileup
+[ava] Story four. Qatar says its mediation between Washington and Tehran has gained momentum, with "positive responses" from both sides, but cautions "we cannot say how close or how far away an agreement is."
+[ava] And in Bulgaria, at least twelve people were killed and about fifty injured in two pileups involving some seventy vehicles in thick fog on the Trakia motorway near Yambol.
+> source: Kyiv Independent, "Russian attacks kill 9, injure 39 including a 1-year-old across Ukraine over past day" (Nov 10); Ukrainska Pravda (Nov 10); The Guardian Ukraine live (Nov 10); Stars and Stripes, "US moves refueling aircraft from Britain to Germany amid reported Iran threat," citing The Wall Street Journal (Nov 10); Euronews, "Qatar sees 'progress' in US-Iran talks after White House meeting" (Nov 10); Qatar News Agency (Nov 10); BBC and DW on the Bulgaria pileups (Nov 10)
+
+## Markets | sting=markets
+// Story 5: Midday markets
+[andrew] Story five, markets at midday. The selloff has deepened. Around noon, the Dow was down about three hundred forty points, or two-thirds of a percent, the S&P five hundred down about eight-tenths, and the Nasdaq off about one and a quarter percent. Decliners outnumbered gainers more than three to one.
+[andrew] The real story is bonds. After the hot inflation report, the two-year Treasury yield jumped about twenty-one basis points, its biggest one-day jump since April of last year, and the ten-year is near five percent. Traders put December rate-hike odds at about ninety-nine percent, and Dallas Fed President Lorie Logan said the Fed may need at least two more quarter-point hikes. One economist told Reuters it's less a panic than markets pricing back tightening they'd priced out. Gold is down nearly three percent.
+[andrew] Tech is the weakest sector. Nvidia is down about five to six percent after The Information reported, citing two people who know her, that Jensen Huang's relationship with Alice Huang, whom U.S. officials believe worked for Chinese intelligence, helped route at least seven and a half billion dollars of Nvidia chips to Chinese companies through firms in China and Singapore. Reuters couldn't independently verify it, and Nvidia hasn't commented; it has previously said its own review found no sign of diversion.
+[andrew] A M D bucked the trend, up about three percent, while Skydance fell almost nine percent after warning weak Warner Brothers films could cut fourth-quarter profit by up to two hundred million dollars.
+> source: Reuters via IEX, "Wall St falls as hot inflation data fuels rate-hike jitters" (Nov 10, 12:03 PM ET); The Motley Fool, "Stock Market Midday, Nov. 10" (Nov 10); Il Sole 24 Ore Radiocor via Borsa Italiana, "US midday shares lower after higher-than-expected inflation" (Nov 10); Reuters via Investing.com, "Nvidia CEO's affair with alleged spy aided $7.5 billion in China chip shipments, Information reports" (Nov 10); Quartz (Nov 10); The Information (Nov 10)
+
+## Technology | sting=tech
+// Story 6: Ring Drone Cam and Rover Cam
+[andrew] Story six, tech. Amazon's Ring has finally launched the flying indoor camera it first teased in twenty twenty. The two-hundred-fifty-dollar Ring Drone Cam, about the size of a textbook, flies a preset route through the house, upstairs included, when a door, window or alarm sensor trips, and flies about eight minutes per charge. It's indoors only and ships January twenty-seventh, pending F C C approval.
+[andrew] For businesses, the one-thousand-dollar Ring Rover Cam, a rebuilt Amazon Astro robot, patrols offices and warehouses starting December sixteenth.
+[andrew] The other side: Ring has faced years of privacy criticism, largely over its partnerships with police, and a camera that roams your whole house raises the stakes. Ring says both devices flash a light whenever they record.
+> source: CNBC, "Amazon's Ring unveils flying drone and robot to patrol homes and businesses" (Nov 10); TechCrunch (Nov 10); Amazon, "Ring announces Ring Robotics" (Nov 10)
+
+## Artificial Intelligence | sting=ai
+// Story 7: Gemini 4 Carbon public rollout
+[andrew] Story seven, A I. After first giving it to security defenders, Google is rolling out Gemini four Carbon, its strongest model yet, to the public, plus a preview "swarm" feature that turns a single prompt into a coordinated team of A I agents.
+[andrew] It's available to paying developers and businesses, and to A I Ultra subscribers in the Gemini app and Search; no word on cheaper tiers.
+[andrew] The eye-catcher is the price: an introductory two dollars per million tokens in, and ten dollars out. The Verge figures that's about a fifth the cost of OpenAI's top model and a quarter of Anthropic's Fable five point two. Those prices double at the end of November, and cheaper per token isn't always cheaper per task. Google's own benchmarks put Carbon just behind Fable, and companies pick benchmarks that flatter them.
+> source: The Verge, "Google releases Gemini 4 Carbon with agent 'swarm' feature" (Nov 10); Google, "Gemini 4 Carbon is now available" (Nov 10)
+
+## Cybersecurity | sting=cyber
+// Story 8: Barracuda exploited; Paint fix
+[ava] Story eight, the cyber desk. A follow-up from last week: Barracuda confirms attackers are now exploiting the two chained Email Security Gateway flaws that grant root control, at a small number of organizations. Patch, and lock down the admin page.
+[ava] And one for your own P C. Microsoft has fixed a remote-code-execution bug in Windows Paint, but here's the catch: Windows Update won't deliver it. Paint updates only through the Microsoft Store. In Paint, check Settings, then About, for version eleven point twenty-six oh nine point four oh one or later, or update it in the Store. It's rated important, not critical, and wasn't known to be exploited.
+> source: BleepingComputer, "Hackers now exploit critical Barracuda ESG flaws to gain root access" (Nov 2026); Barracuda Trust Center advisory; The Hacker News, "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It" (Nov 6); Dark Reading, "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion" (Nov 10)
+
+## From Your X Feed | sting=x
+[ava] Story nine, from your X feed, politics left out.
+[andrew] Andrew Curran flagged a new forecast from the A I Futures Project, the group behind the "A I twenty twenty-seven" scenario. It now says an A I matching top human A I researchers will likely arrive in twenty twenty-seven, median guess July. That's a forecast, and many researchers think it's too aggressive.
+[ava] mattyp posted a rundown of what's new in Grok Bot, including phone calls, a share sheet and team bots.
+[andrew] Tim Dodd, the Everyday Astronaut, posted a long interview with NASA administrator Jared Isaacman about Artemis, recorded inside the giant Vehicle Assembly Building at Kennedy Space Center.
+[ava] Dirty Tesla says he's been invited to order the Starlink Mini two.
+[andrew] Variety reports Johnny Depp took five million dollars for his comeback film "Ebenezer," a fraction of his old paydays.
+[ava] And the account Fifty Years Ago Live marked a somber anniversary: on this date in nineteen seventy-five, the freighter Edmund Fitzgerald sank in a Lake Superior storm, taking all twenty-nine crew.
+> source: Harry's X home timeline, Nov 10 (@AndrewCurran_, @mattyp, @Erdayastronaut, @DirtyTesLa, @Variety, @50YearsAgoLive); AI Futures Project, "Q3.5 Timelines Update" (Nov 10)
+
+## Local News & Events | sting=local
+// Story 10: Veterans Day; plate; Lancers
+[ava] Story ten, around southern New Hampshire. Tomorrow is Veterans Day. Nashua has a Rotary pancake breakfast at eight at the Church of the Good Shepherd, and a parade at Holman Stadium at eleven-eleven. Hooksett hosts a veterans luncheon at eleven-thirty at the Oscar Barn.
+[ava] Governor Kelly Ayotte has unveiled a new "First for Veterans" license plate. Anyone can buy one for sixty dollars at the D M V starting January first, with proceeds supporting veteran jobs and health programs.
+[ava] In sports, the Londonderry Lancers beat Merrimack in the Division One playoffs, and their quarterback set a record along the way. Next up: Pinkerton visits Londonderry Friday night in the quarterfinals, a rematch of their regular-season game.
+> source: NHPR, "Communities across NH will mark Veterans Day this week" (Nov 10); 5AM Manchester, citing New Hampshire Union Leader (Nov 10); NH High School Sports, "Daron sets record, helps Londonderry football get win over Merrimack in D1 playoffs" (Nov 7)
+
+## Uplifting Story | sting=feel
+[ava] And finally. In Shepton Mallet, in the English county of Somerset, Kim Reynolds noticed her Doberman, Saraya, acting strangely around her six-month-old son, Alexander. The dog wouldn't leave his side, and cried every time he was carried away.
+[ava] It nagged at her, so she took him to the emergency room, half worried she was wasting doctors' time. She wasn't. His heart was racing at about two hundred eighty beats a minute. Doctors brought it down with medication and diagnosed Wolff-Parkinson-White syndrome, an extra electrical pathway in the heart. Alexander now takes daily medicine and is doing well.
+[ava] Saraya isn't a trained medical dog, but Kim trusts her completely, and she and her sister are now walking a hundred miles to raise money for Tiny Tickers, a charity that helps catch heart conditions in babies early.
+> source: The Washington Post, "Her dog sensed something was wrong with her baby. It may have saved his life." (Nov 10); Somerset County Gazette, "Somerset dog alerts mum to baby's dangerously fast heart"
+
+## Close | sting=close
+[ava] That's your one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Watch for the Republican leadership results this afternoon, CoreWeave after the bell, and the House vote on Hegseth around five-thirty.
+[ava] Thanks for listening to Gumshoe News Radio.
