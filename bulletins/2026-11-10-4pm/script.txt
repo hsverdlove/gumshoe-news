@@ -1,0 +1,85 @@
+// Gumshoe script format: see README.md
+# title: Tuesday 4 PM Update, Nov 10
+# description: The Tuesday 4 p.m. update from Gumshoe News Radio for November 10, 2026: Londonderry weather through tomorrow; Jim Jordan beats Steve Scalise to lead House Republicans and John Thune keeps the Senate GOP top job after a failed delay push, as the Hegseth impeachment vote nears; the House Oversight Committee's Epstein report and the Democratic pushback; the Justice Department charges three Iranian-backed operatives in nearly 20 attacks and the foiled RAF Fairford plot, while Rubio tells the G7 economic pressure on Iran is working and the Abu Dhabi talks wrap day one; stocks close lower on rate-hike bets as Nvidia slides again and a House chairman threatens Jensen Huang with a subpoena; SpaceX's Starlink Mini 2 with a swappable battery; Anthropic sets its IPO price range; Microsoft's November Patch Tuesday and an Outlook flaw under attack; your X feed; a New Hampshire admiral home for Veterans Day; and an orphaned baby walrus who found a new herd. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's four o'clock on Tuesday, November tenth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. The closing bell just rang on a down day, and Washington had a busy afternoon of its own.
+[ava] First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 10 at airtime
+
+## US News | sting=us
+// Story 1: GOP leadership results; Hegseth vote ahead
+[ava] Story one. The Republican leadership races are settled. In a secret ballot, House Republicans chose Judiciary Committee Chairman Jim Jordan of Ohio as their leader for the next Congress, when they'll be in the minority. He beat Majority Leader Steve Scalise, a decade-long member of leadership, one hundred six to seventy-three. Tom Emmer kept his job as whip, beating August Pfluger one hundred three to seventy-six.
+[ava] Supporters see Jordan, a founder of the Freedom Caucus, as the fighter the party needs against a Democratic majority. Skeptics, including some Republicans, worry he's better at confrontation than at winning back swing districts.
+[ava] In the Senate, John Thune was re-elected Republican leader without a challenger, after a group led by Ron Johnson tried to delay the vote at least a week. Axios reports that push failed thirty-one to fifteen. The rest of the Senate GOP team stays in place, except that Bernie Moreno of Ohio will take over the party's Senate campaign arm.
+[ava] For scale, Democrats have now won at least two hundred fifty-four House seats, with about a dozen races still uncalled.
+[ava] Still ahead tonight: the House procedural vote on the Hegseth impeachment resolution, expected around five-thirty. If a motion to table or refer it passes, there's no impeachment vote. If it fails, a vote on the resolution itself could come Wednesday.
+// Story 2: Epstein report
+[ava] Story two. House Oversight Republicans released their final report on the Jeffrey Epstein investigation, after fifteen months and nineteen interviews and depositions. It concludes Epstein's crimes after two thousand five could have been prevented if not for failures by federal prosecutors and investigators, starting with the two thousand seven non-prosecution deal in Florida.
+[ava] It urges the Justice Department to re-interview key witnesses, give survivors unredacted access to their own records, and investigate allegations against some Epstein associates, and asks Congress to limit nondisclosure agreements that silence abuse survivors. It also says nothing the committee found implicates President Trump in Epstein's crimes.
+[ava] The committee's top Democrat, Robert Garcia, called the report incomplete, misleading and partisan, noting there were no public hearings, and says Democrats will keep investigating when they take control in January. The Justice Department says the Attorney General has repeatedly said the case isn't closed.
+> source: AP, "Rep. Jim Jordan of Ohio elected to lead House Republicans in the minority" (Nov 10); NBC News (Nov 10, updated 2:28 PM ET); USA Today (Nov 10); AP, "Senate Republicans vote to keep Thune as leader" (Nov 10); Axios, "John Thune reelected as Senate GOP leader despite midterm angst" (Nov 10); The Washington Post politics live (Nov 10); BBC Hegseth live page (Nov 10); House Oversight Committee release, "A Review of the Federal Government's Mishandling of the Jeffrey Epstein and Ghislaine Maxwell Criminal Investigations" (Nov 10); NBC News, "House Republican report on Jeffrey Epstein rips DOJ" (Nov 10); The Guardian (Nov 10)
+
+## International | sting=world
+// Story 3: Iran-backed operatives indicted; Rubio at G7
+[ava] Story three. The Justice Department unsealed terrorism charges against three men it says worked for Iran's Revolutionary Guard and the Iraqi militia Kata'ib Hizballah. Prosecutors allege they were involved in nearly twenty attacks and attempted attacks in Europe and the U.S., including arsons and explosives this spring, many aimed at Jewish communities in and around London.
+[ava] They're also accused in the September plot at R A F Fairford in England, where U.S. aircraft were based. Prosecutors say vans disguised as fuel-delivery trucks and loaded with barrels of fuel were turned back at a security roadblock, and British police arrested the occupants. One defendant was already in a New York jail and allegedly passed coded messages through family phone calls. Two are believed to have been in Iran at the time. These are allegations, and the men are presumed innocent.
+[ava] Meanwhile in Paris, Secretary of State Marco Rubio told G7 foreign ministers that America will keep imposing what he called "devastating" economic costs on Iran, and said the pressure is working so well that the president doesn't need major combat operations. Diplomats tell Reuters Vice President Vance would prefer a deal, while Rubio and others favor continued pressure.
+// Story 4: Abu Dhabi day one wrap
+[ava] Story four. The first day of U.S.-brokered talks between Russia and Ukraine in Abu Dhabi ended after about four hours. Rubio called them "very productive," and U.S. envoys said there are "some good ideas" for bridging the gap. But the core dispute is unchanged: Moscow wants Ukraine to give up the rest of the Donetsk region, and Kyiv wants to freeze the front line. Talks resume Wednesday morning.
+> source: U.S. Department of Justice, "Three Iranian-Backed Operatives Indicted for Their Roles in Nearly 20 Terrorist Attacks and Attempted Attacks Across Europe and the United States" (Nov 10); AP, "US charges 3 men with plotting terror attacks, including planned assault on UK airbase" (Nov 10); AP, "Rubio urges nations to 'step up' on Strait of Hormuz security" (Nov 10); Reuters via Al-Monitor, "Rubio tells G7 US will keep imposing 'devastating' costs on Iran, diplomats say" (Nov 10); BBC, "First day of Ukraine peace talks constructive, Zelensky says" (Nov 10); DW live (Nov 10); RIA Novosti (Nov 10)
+
+## Markets | sting=markets
+// Story 5: Closing markets
+[andrew] Story five, the close. Stocks finished lower but well off the morning lows. Reuters has the Dow down about three hundred points, or six-tenths of a percent, at fifty-two thousand eighty-seven. The S&P five hundred lost seven-tenths of a percent, and the Nasdaq about nine-tenths.
+[andrew] The driver was this morning's inflation report. October consumer prices rose four-tenths of a percent, a bit hotter than expected, and core inflation was hotter too. Fed Governor Christopher Waller said that kind of core reading would make him consider a half-point hike at the December eighth and ninth meeting. The two-year Treasury yield jumped about nineteen basis points, its biggest one-day jump since April of last year, and the ten-year ended near five percent. The dollar rose, gold fell more than two percent, and oil hit two-month lows, with U.S. crude near eighty-five dollars, after officials played down more military action against Iran.
+[andrew] Nvidia fell almost six percent, its second big drop in two days. New this afternoon: House Foreign Affairs Chairman Brian Mast told ABC News he's prepared to subpoena Jensen Huang if he doesn't answer a request for a closed-door briefing by Wednesday about his reported relationship with an alleged Chinese spy. Nvidia hasn't commented on the latest reports.
+[andrew] Bright spots: Broadcom gained almost four percent, and Take-Two jumped about eight percent on huge preorders for Grand Theft Auto six, even though its quarterly results missed. After the bell, CoreWeave reports, a key test of how investors feel about the cost of the A I buildout.
+> source: Reuters via Financial Newsletter, "US yields rise, stocks fall as inflation data boosts odds of larger December rate hike" (Nov 10); Investopedia, "Stock Market Today" (Nov 10, 2:59 PM ET); Yahoo Finance (Nov 10); ABC News, "House Republicans consider issuing subpoena to Nvidia CEO Jensen Huang" (Nov 10, 2:38 PM ET); House Foreign Affairs Committee letter (Nov 4)
+
+## Technology | sting=tech
+// Story 6: Starlink Mini 2
+[andrew] Story six, tech, and one for the road. SpaceX has announced the Starlink Mini two, its laptop-sized satellite internet dish, and the big change is a built-in battery. SpaceX says it runs up to four and a half hours on a charge, and you can hot-swap in spare batteries, sold separately, or power it from a sixty-watt U S B C source.
+[andrew] It's also thinner than the original, under an inch, a bit heavier at about three and a half pounds, and still rated waterproof and dustproof for outdoor use.
+[andrew] Preorders are invitation-only for select U.S. customers for now. Screenshots shared by invitees show nine hundred ninety-nine dollars, including a year of the Roam Unlimited plan. Lower prices, two hundred forty-nine for the kit and fifty for a battery, have turned up in the website's code, but SpaceX hasn't confirmed them, so treat those as unconfirmed.
+> source: The Verge, "Starlink Mini 2 adds a swappable battery" (Nov 10); PCMag (Nov 10); DISHYtech (Nov 10)
+
+## Artificial Intelligence | sting=ai
+// Story 7: Anthropic IPO range
+[andrew] Story seven, A I. Anthropic has kicked off its I P O roadshow and set a price range of seventy to seventy-eight dollars a share. It's selling eight hundred twenty-five million shares, which would raise up to about sixty-four billion dollars, and at the top of the range the company would be worth about one point four trillion. It plans to list on the Nasdaq under the ticker A N T, reportedly around November nineteenth, with up to twenty percent of the shares set aside for retail investors.
+[andrew] The filing shows run-rate revenue of eighty-one billion dollars at the end of October, but also a hundred four billion dollars in losses over nine months, and about nine hundred billion in compute commitments. Separately, Google, Nvidia, Microsoft and others agreed to buy twenty-six billion dollars of stock at the I P O price.
+[andrew] The caution: that valuation is below the two trillion Anthropic was reportedly targeting a couple of months ago, and buyers of the public shares get little say, since the founders hold majority voting power.
+> source: TechCrunch, "Anthropic sets IPO price range of $70 to $78 per share" (Nov 10); Anthropic, "Anthropic launches roadshow for proposed initial public offering" (Nov 10); CNBC (Nov 10); Investopedia (Nov 10)
+
+## Cybersecurity | sting=cyber
+// Story 8: Patch Tuesday
+[ava] Story eight, the cyber desk. It's Patch Tuesday. Microsoft fixed well over a thousand flaws this month, its second giant release in a row, but only one is known to be under attack: an Outlook bug where opening a booby-trapped message file makes Outlook quietly connect to an attacker's server and leak your Windows login hash, which can then be used to impersonate you. Just previewing the message isn't enough to trigger it.
+[ava] For businesses, the Zero Day Initiative flags critical fixes in Windows Search through Exchange, LDAP and Schannel. For your own P C, the advice is simple: run Windows Update and Office updates tonight, and don't open unexpected attachments. Adobe also patched a hundred ten flaws, none known to be exploited.
+> source: Zero Day Initiative, "The November 2026 Security Update Review" (Nov 10); BleepingComputer, "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day" (Nov 10); SecurityWeek (Nov 10)
+
+## From Your X Feed | sting=x
+[ava] Story nine, from your X feed, politics left out.
+[andrew] The account Interesting All reports Grand Theft Auto five fans are planning one last peaceful cruise through Los Santos on November eighteenth, the night before Grand Theft Auto six comes out. No chases, no crashes, just a farewell drive after thirteen years.
+[ava] Variety has an exclusive: ABC is making a competition show called "Can You Hide Shaq?", hosted by Nicole Byer, where eight contestants try to hide Shaquille O'Neal in plain sight in Dallas. Good luck with that.
+[andrew] In football, a trade-deadline deal flagged in your feed checks out: the Raiders sent quarterback Kirk Cousins back to the Minnesota Vikings for a twenty twenty-seven third-round pick, clearing the way for rookie Fernando Mendoza in Las Vegas.
+[ava] And Twenty-Five Years Ago Live revisited a strange bit of history: on this date in two thousand one, a Lhasa Apso named Word, sentenced to death in nineteen ninety-three for biting people in Seattle, was finally released after eight years of appeals, thought to be the longest stay ever on doggie death row.
+> source: Harry's X home timeline, Nov 10 (@interesting_aIl, @Variety, @TheCalvinCooli1, @25YearsAgoLive); NFL.com, "Vikings trade for Raiders QB Kirk Cousins on deadline day" (Nov 10)
+
+## Local News & Events | sting=local
+// Story 10: Rear admiral home for Veterans Day
+[ava] Story ten, around southern New Hampshire. Rear Admiral Matthew Case, a Nottingham native and the most senior active-duty Navy officer from New Hampshire, is back home this week on a community tour. He stopped at the Red Arrow Diner in Manchester, where he says he used to sit at the counter as a teenager. "I don't think of myself as iconic," he said.
+[ava] He'll join Mayor Jay Ruais and Governor Kelly Ayotte at Manchester's Veterans Day parade tomorrow. Post offices are closed tomorrow for the federal holiday.
+> source: WMUR, "Rear admiral from New Hampshire returns to Granite State for Veterans Day" (Nov 10, 1:34 PM ET)
+
+## Uplifting Story | sting=feel
+[ava] And finally. In September, a college student named Violet Anniskett was surveying a remote beach in northwestern Alaska with a U.S. Geological Survey biologist, Tony Fischbach, when she spotted something alive between two dead adult walruses: an orphaned calf, about five months old.
+[ava] With gulls circling and polar bears nearby, they got permission from wildlife officials and the local Inupiaq community, and sheltered him in an abandoned building for nearly four days while storms grounded flights. With no formula, they fed him honey and water. He slept curled against Fischbach in his sleeping bag, and if Violet moved away, he'd wake up and call for her.
+[ava] The calf, named Annautaq after Violet's father, recovered at the Alaska SeaLife Center. He can't go back to the wild, so he now lives at SeaWorld Orlando, up to about two hundred fifty pounds, and just met another rescued walrus, Uki. The two bopped noses through a barrier, the start of his new herd.
+> source: Smithsonian Magazine, "This Adorable, Orphaned Baby Walrus Was Rescued by Two Researchers in Alaska" (Nov 10); The New York Times and Alaska Public Media, as cited by Smithsonian
+
+## Close | sting=close
+[ava] That's your four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Watch for CoreWeave's results tonight, the House Hegseth vote around five-thirty, and day two of the Abu Dhabi talks in the morning.
+[ava] Thanks for listening to Gumshoe News Radio.
