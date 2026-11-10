@@ -1,0 +1,78 @@
+// Gumshoe script format: see README.md
+# title: Tuesday 10 AM Update, Nov 10
+# description: The Tuesday 10 a.m. update from Gumshoe News Radio for November 10, 2026: Londonderry weather through tomorrow; Hegseth calls his impeachment a "political spectacle" ahead of a 5:30 p.m. House vote; Republicans pick their leaders amid calls to delay; day one of the Abu Dhabi talks ends without a breakthrough; a hotter-than-expected October inflation report sinks stocks at the open and lifts rate-hike bets, while gas dips below four dollars; Meta's teen age detection and Apple's A I usage packs; Anthropic's IPO price range and new Claude models; Microsoft's Patch Tuesday and a breach at Fireworks A I; your X feed; the Wild River Fire and a hospital network outage in New Hampshire; and a doorbell-camera moment that raised seventy-six thousand dollars for a caregiver. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's ten o'clock on Tuesday, November tenth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning again, Ava. That inflation number came in hot, and stocks opened in the red. I'll walk through it.
+[ava] First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 10 at airtime
+
+## US News | sting=us
+// Story 1: Hegseth presser, House vote tonight
+[ava] Story one. Defense Secretary Pete Hegseth came out swinging at his first Pentagon news conference since May. He called Representative Thomas Massie's impeachment effort "a political spectacle, a personal manifesto driven by ego and resentment," and said, quote, "This is not patriotism. This is sabotage." He argued no defense secretary has ever been impeached for carrying out lawful military operations, and compared the effort to President Trump's two impeachments. The briefing ran under half an hour, and the president posted that Hegseth earned an "A plus, plus, plus."
+[ava] Now the timing: CBS News reports the House is set to vote at five-thirty this evening on whether to move forward. Massie's resolution centers on the Iran war, which he says Congress never authorized, and also cites operations in Yemen and Venezuela. Supporters call it overdue oversight; Hegseth and the White House call it a policy disagreement dressed up as high crimes. What counts as an impeachable offense is left to Congress, so tonight's vote is the real test.
+// Story 2: GOP leadership votes
+[ava] Story two. Republicans in both chambers are choosing their leaders this morning, a week after losing both majorities. In the Senate, John Thune is unopposed, but a group led by Wisconsin's Ron Johnson wants the vote delayed so the party can talk through what went wrong first. Missouri's Josh Hawley called it "the worst set of losses since Watergate" and said he hadn't heard from the leader. On the other side, South Dakota's Mike Rounds says most senators are "probably ready to vote." In the House, Speaker Mike Johnson is stepping aside and says the vote can't be delayed, leaving Steve Scalise and Jim Jordan in a secret-ballot race for minority leader. Results are expected later today.
+> source: AP and PBS News, "Hegseth says House impeachment push is about 'policy disagreements' not high crimes" (Nov 10); Axios, "Hegseth slams Massie impeachment push in press conference" (Nov 10); The Guardian US politics live (Nov 10); CBS News, "Congress live updates as GOP elects leaders, Hegseth faces impeachment vote" (Nov 10); NBC News and Reuters on the leadership elections (Nov 10); The Hill on Scott and Hawley (Nov 10)
+
+## International | sting=world
+// Story 3: Abu Dhabi day one; Rubio on Iran
+[ava] Story three. The first day of three-way talks between Russia, Ukraine and the United States in Abu Dhabi has wrapped after roughly four to four and a half hours. The delegations covered security guarantees after the war, how to end the fighting, humanitarian issues including prisoner exchanges, and Ukraine's rebuilding. Secretary of State Marco Rubio called the talks "very productive," but no agreement was announced, and the two sides remain far apart on a ceasefire and on who controls the Donetsk region. Talks resume tomorrow.
+[ava] And on Iran, in remarks the White House posted today, Rubio said that the economic pressure campaign against Tehran is working well enough that the president doesn't need major combat operations, while warning the military stands ready if Iran crosses certain red lines. Critics counter that Congress never authorized the war in the first place, the same argument behind the Hegseth impeachment push.
+> source: AP, "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi" (Nov 10); Kyiv Independent and TASS on day one (Nov 10); The Guardian Europe live, "Russia-Ukraine talks 'very productive,' says US's Rubio" (Nov 10); White House Rapid Response video of Secretary Rubio (Nov 10)
+
+## Markets | sting=markets
+// Story 4: CPI and the open
+[andrew] Story four, and the big one for your wallet. October consumer prices rose four tenths of a percent for the month, more than the three tenths economists expected. Core prices, without food and energy, rose three tenths, also above forecasts. There's no year-over-year number this time, because last fall's shutdown wiped out the October twenty twenty-five data.
+[andrew] Inside the report: food prices jumped half a percent, with beef up nearly a full percent. Shelter rose three tenths and made up more than thirty percent of the increase. Energy rose seven tenths, far less than September's spike, and used cars fell more than one percent. To be fair to both readings, headline inflation did slow from September's six tenths. But core has now run at three tenths for three straight months, which one strategist told CBS shows price pressures "have yet to meaningfully ease."
+[andrew] That matters because Fed Governor Christopher Waller said this morning a December rate hike is likely, and the Fed should consider a half-point hike if inflation worsens. Traders now see a December hike as a near certainty. The ten-year Treasury yield jumped about eight basis points, to around four point nine five percent.
+[andrew] Stocks opened lower. Around nine-fifty, the S&P five hundred was down about seven tenths of a percent, the Dow down roughly two hundred fifty points, and the Nasdaq off about nine tenths, led by chip stocks. Micron and Marvell fell about three percent, and Nvidia was down more than three percent as its board launches an independent investigation, led by outside directors with outside lawyers, into Jensen Huang's relationship with an alleged Chinese intelligence operative. The board says it has no reason to believe company or national security secrets were compromised.
+[andrew] One bit of relief: oil is down around three percent again, and AAA says the national average for gas slipped below four dollars a gallon today for the first time in nearly four months.
+> source: CNBC, "Consumer prices rose 0.4% in October, more than expected" (Nov 10); AP, "Inflation ran hotter than expected last month" (Nov 10); CBS News, "Inflation remained elevated in October" (Nov 10); USA Today on the October CPI (Nov 10); Reuters via MarketScreener, "Wall St opens lower after October's hot inflation print" (Nov 10); CNBC markets live updates (Nov 10); Yahoo Finance live blog (Nov 10); Nvidia, "Statement From NVIDIA Board of Directors"; CNBC, "Nvidia Jensen Huang probe: What to know" (Nov 9)
+
+## Technology | sting=tech
+// Story 5: Meta teen age detection; Apple usage packs; Qantas
+[andrew] Story five, tech. Meta is expanding its A I age detection worldwide. It will try to spot Instagram users aged thirteen to seventeen and automatically move them into more restrictive teen accounts, even if they signed up with an adult birthday, with wider use coming to Facebook and Threads. Parents' groups have pushed for this; privacy advocates worry about how accurately an algorithm can guess age.
+[andrew] Apple has started selling one-time Apple Intelligence usage packs for forty-nine ninety-nine, for people who hit their monthly limits. Logic Pro is the first supported app, and unused credit expires after a year.
+[andrew] And Qantas plans to cut eight hundred fifty corporate jobs in Australia as it outsources technology work to Accenture, with most roles expected to move to India. The airline cites I T modernization and A I.
+> source: The Neuron AI digest, "Everything That Happened in AI Today, Tuesday, November 10" (Meta age detection, Apple usage packs, Qantas) (Nov 10)
+
+## Artificial Intelligence | sting=ai
+// Story 6: Anthropic IPO range; Claude Fable and Mythos 5.2
+[andrew] Story six. After yesterday's mixup, Anthropic has made it official. The company launched its I P O roadshow this morning, offering eight hundred twenty-five million shares at seventy to seventy-eight dollars each, under the Nasdaq ticker A N T. At the top of the range, that raises about sixty-four billion dollars. CNBC's sources say pricing is planned for November eighteenth with trading the next day, and that about twenty percent could go to retail investors, well above the usual share.
+[andrew] Valuations depend on how you count: TechCrunch puts it at up to about one point four trillion dollars on a fully diluted basis, while Reuters calculates about one trillion using outstanding shares. Separately, A M D, Broadcom, Google, Micron, Microsoft, Nvidia and T S M C agreed to buy twenty-six billion dollars of non-voting stock at the I P O price. The filing says Anthropic's annualized revenue run rate hit eighty-one billion dollars at the end of October. Buyers should know the founders keep fifty point one percent of the votes, so public shareholders will have limited say.
+[andrew] Anthropic also released two new models, Claude Fable five point two for general use and Mythos five point two for verified organizations, which keeps more advanced cybersecurity and biology capabilities. Anthropic says that in testing, Fable coordinated more than a thousand A I agents over eight days to build a working operating system that boots on a laptop. That's the company's own claim, and it doesn't show the model can handle every real-world engineering project.
+> source: Anthropic, "Anthropic launches roadshow for proposed initial public offering" (Nov 10); CNBC, "Anthropic sets IPO price range of $70 to $78" (Nov 10); TechCrunch (Nov 10); Reuters via CBC News (Nov 10); The Neuron AI digest on Claude Fable 5.2 and Mythos 5.2 (Nov 10)
+
+## Cybersecurity | sting=cyber
+// Story 7: Patch Tuesday; Fireworks AI
+[ava] Story seven, the cyber desk. It's Patch Tuesday. Microsoft's November updates contain no newly exploited zero-days, according to early trackers, but they do fix a critical flaw rated a maximum ten in Entra, Microsoft's sign-in and device-registration service, plus more than a hundred other bugs by one tally. Windows Update will handle it on home P Cs; just let it restart.
+[ava] And Fireworks A I, a company that hosts A I models for businesses, disclosed several cyberattacks that exposed customer information and parts of unfinished models. Two customers told Forbes they've moved substantial business elsewhere over security and communication concerns.
+> source: Zero Day Watch, "Patch Tuesday November 2026"; PatchaPalooza, "Microsoft Patch Tuesday Nov 2026"; The Neuron AI digest citing Forbes on Fireworks AI (Nov 10)
+
+## From Your X Feed | sting=x
+[ava] Story eight, from your X feed, politics left out.
+[andrew] Autoblog had two car stories: Mazda reworked the C X five to cut costs, and U.S. sales hit records. And Bentley is adding Apple CarPlay to older cars, but takes away the physical climate buttons in the process.
+[ava] Variety reports Adobe is adding A I agent features across its products, with executives stressing that creators get to choose how much A I they use.
+[andrew] Robert Scoble showed off a gadget for people juggling too many A I coding agents: a little desk controller with a screen showing each agent's status, so you can jump to the one that needs you.
+[ava] Dirty Tesla wondered why, if Tesla can't yet use every Cybercab its line can build, the company doesn't just open orders to customers. That's his idea, not a Tesla plan.
+[andrew] And Jesse Kelly, a former Marine mortarman, wished his fellow Marines a happy birthday. The Corps was founded on this date in seventeen seventy-five, so today is its two hundred fifty-first.
+> source: Harry's X home timeline, Nov 10 (@therealautoblog, @Variety, @Scobleizer, @DirtyTesLa, @JesseKellyDC)
+
+## Local News & Events | sting=local
+// Story 9: Wild River Fire; Monadnock hospital outage
+[ava] Story nine, around New Hampshire. The Wild River Fire in the White Mountains, near Evans Notch southeast of Gorham, is now fifty-three percent contained at eight hundred twenty-one acres. Fire lines are holding, the firefighting force is down to eighty-eight from more than a hundred forty, and officials believe the fire was human-caused. A forest closure order is still in effect, and there's a public information meeting tonight from six to seven at Shelburne Town Hall, also online.
+[ava] And in Peterborough, Monadnock Community Hospital canceled some outpatient appointments today as a network outage stretched into a second day. The hospital hasn't said what caused it. If you have an appointment there, call ahead.
+> source: WMTW, "White Mountains wildfire now more than half contained" (Nov 10); Keene Sentinel, "Monadnock Community Hospital network outage enters second day" (Nov 10)
+
+## Uplifting Story | sting=feel
+[ava] And finally. In Castle Rock, Colorado, a pizza delivery driver named Suzanna Metcalf showed up at a pastor's home with the wrong order and apologized, blaming "getting old." She was working delivery shifts while caring full-time for her eighty-two-year-old mother. Instead of getting annoyed, the family, including three young daughters, stepped outside, put their hands on her shoulders, and prayed for her.
+[ava] Their doorbell camera caught it, the clip went viral, and hundreds of people asked the same question: how can we help? With her permission, the family started a fundraiser with a ten-thousand-dollar goal. More than twenty-six hundred donors have now given over seventy-six thousand dollars, a little breathing room for someone who's spent years putting others first.
+> source: Good News Network, "A Viral Video Led Strangers to Raise $76,000 for a Full-Time Caregiver" (Nov 10)
+
+## Close | sting=close
+[ava] That's your ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Watch for the Republican leadership results and the House vote on Hegseth at five-thirty. We'll be back with more through the day.
+[ava] Thanks for listening to Gumshoe News Radio.
