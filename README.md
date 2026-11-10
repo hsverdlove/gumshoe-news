@@ -30,6 +30,10 @@ X feed segment rules (privacy): NO political posts in "From Your X Feed" — pol
 Tech, business, science, culture, sports, fun posts are fine, with handles. The X `> source:` line must list ONLY the
 handles of posts that actually aired (never the full fetched list), so the follow list isn't exposed.
 
+## Weather
+The first bulletin of each day (scheduled or on-demand) includes the full 7-day forecast; later same-day bulletins cover only current conditions through the next 24 hours.
+Wind is mentioned only when a forecasted speed is 20 miles an hour or higher, including a range or gusts that reach 20. If wind is below 20, omit it entirely from both the rest-of-today and 7-day forecasts. `make_bulletin.py` strips those lighter-wind phrases from the NWS text automatically (wind chill is left alone).
+
 ## Location & privacy
 - Precise coordinates live ONLY in `/workspace/newsfeed-private/location.json` (outside the repo; override with env
   `GUMSHOE_PRIVATE_LOC`): `{"lat","lon","place":"City, ST","country":"US","updated_at"}`. The iPhone webhook writes there.

@@ -49,6 +49,45 @@ def tts(voice, text, out, rate="+0%"):
             r = subprocess.CompletedProcess(r.args, 1, b"", f"truncated audio: {dur(out):.1f}s for {words} words".encode())
     else: sys.exit(f"edge-tts failed on {text[:80]!r}: {r.stderr.decode()[-400:]}")
 
+
+_SPEED = re.compile(r"(\d+)\s*(?:to\s*(\d+)\s*)?(?:mph|miles\s+(?:an|per)\s+hour)", re.I)
+_WINDY = re.compile(r"(?:,\s*)?(?:\s*\band\s+)?(?:very\s+)?(?:breezy|windy|blustery)\b", re.I)
+_HAS_WIND = re.compile(r"\bwind(?:s|y)?\b(?!\s+chill)|\bbreezy\b|\bblustery\b", re.I)
+
+def _wind_speeds(text):
+    speeds = []
+    for m in _SPEED.finditer(text):
+        speeds.append(int(m.group(1)))
+        if m.group(2): speeds.append(int(m.group(2)))
+    return speeds
+
+def scrub_light_wind(text):
+    """Omit wind unless a stated speed (including a range high or gusts) is 20 mph or more."""
+    if not text: return text
+    kept = []
+    for part in re.split(r"(?<=\.)\s+", text.strip()):
+        if not _HAS_WIND.search(part):
+            kept.append(part.strip())
+            continue
+        speeds = _wind_speeds(part)
+        if speeds and max(speeds) >= 20:
+            kept.append(part.strip())
+            continue
+        cleaned = re.sub(
+            r"(?:,|\.)?\s*(?:and\s+)?(?:with\s+(?:a\s+)?)?"
+            r"(?:(?:calm|light(?:\s+and\s+variable)?|north(?:east|west)?|south(?:east|west)?|east|west|variable)\s+)*"
+            r"winds?(?!\s+chill)"
+            r"(?:(?!\bwind\s+chill)[^.])*",
+            "", part, flags=re.I)
+        cleaned = _WINDY.sub("", cleaned)
+        cleaned = re.sub(r"\s{2,}", " ", cleaned).strip(" ,;")
+        if cleaned and not re.fullmatch(r"\.+", cleaned):
+            kept.append(cleaned)
+    out = " ".join(kept)
+    out = re.sub(r"\s+([.,])", r"\1", out)
+    out = re.sub(r"\.\s*\.", ".", out)
+    return re.sub(r"\s{2,}", " ", out).strip()
+
 def nws_weather(loc):
     ua = {"User-Agent": "gumshoe-news (harry)"}
     get = lambda u: json.load(urllib.request.urlopen(urllib.request.Request(u, headers=ua), timeout=30))
@@ -57,20 +96,22 @@ def nws_weather(loc):
     hourly = get(p["forecastHourly"])["properties"]["periods"][:4]
     lines = [f"Here's your {loc.get('place','local')} forecast from the National Weather Service."]
     h = hourly[0]
-    lines.append(f"Right now it's about {h['temperature']} degrees and {h['shortForecast'].lower()}, and over the next few hours it's {', then '.join(dict.fromkeys(x['shortForecast'].lower() for x in hourly))}.")
+    now = scrub_light_wind(h["shortForecast"].lower())
+    nxt = ", then ".join(dict.fromkeys(scrub_light_wind(x["shortForecast"].lower()) for x in hourly))
+    lines.append(f"Right now it's about {h['temperature']} degrees and {now}, and over the next few hours it's {nxt}.")
     # First bulletin of the day gets the full 7-day; later ones only the next 24 hours.
     stamp = "/workspace/newsfeed-private/last_full_forecast_date"
     today = dt.date.today().isoformat()
     try: full = open(stamp).read().strip() != today
     except FileNotFoundError: full = True
     if full:
-        for x in per[:3]: lines.append(f"{x['name']}: {x['detailedForecast']}")
+        for x in per[:3]: lines.append(f"{x['name']}: {scrub_light_wind(x['detailedForecast'])}")
         rest = [x for x in per[3:] if x["isDaytime"]][:5]
-        lines.append("Looking further ahead. " + " ".join(f"{x['name']}, {x['shortForecast'].lower()}, high near {x['temperature']}." for x in rest))
+        lines.append("Looking further ahead. " + " ".join(f"{x['name']}, {scrub_light_wind(x['shortForecast'].lower())}, high near {x['temperature']}." for x in rest))
         if "--dry-run" not in sys.argv: open(stamp, "w").write(today)
     else:
-        for x in per[:2]: lines.append(f"{x['name']}: {x['detailedForecast']}")
-    txt = " ".join(lines).replace("mph", "miles an hour")
+        for x in per[:2]: lines.append(f"{x['name']}: {scrub_light_wind(x['detailedForecast'])}")
+    txt = scrub_light_wind(" ".join(lines).replace("mph", "miles an hour"))
     return txt, "NWS forecast for %s" % (loc.get("place") or "your location")
 
 PRIVATE_LOC = os.environ.get("GUMSHOE_PRIVATE_LOC", os.path.join(os.path.dirname(ROOT), "newsfeed-private", "location.json"))
