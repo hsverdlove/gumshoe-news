@@ -1,0 +1,84 @@
+// Gumshoe script format: see README.md
+# title: Tuesday Morning, Nov 10
+# description: The Tuesday morning bulletin from Gumshoe News Radio for November 10, 2026: Londonderry weather with the seven-day outlook; Defense Secretary Hegseth faces reporters as the House impeachment clock runs, Senate Republicans vote on their leadership, a disputed report on Stephen Miller and leak probes, the Supreme Court lets Big Bend border-wall work resume, and Lindsay Clancy can be retried; Russia, Ukraine and the U.S. open talks in Abu Dhabi, migrant deaths off Crete, and Germany may get its first woman president; a pre-market look at futures, the October inflation report, oil, Nvidia's legal fallout and CoreWeave earnings; Google's new A I chips; Anthropic's IPO filing snafu and a reported Nvidia limit on China chip rentals; OpenSSH under attack, an iPhone update and big SAP patches; your X feed; Veterans Day week and New Hampshire school tax caps and an Army veteran's mortgage-free home. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Tuesday, November tenth, and this is Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Futures are mixed after yesterday's big rally, and the October inflation report lands at eight-thirty. I'll have the full pre-market picture shortly.
+[ava] First, the full forecast for Londonderry, with the week ahead.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 10 at airtime
+
+## US News | sting=us
+// Story 1: Hegseth presser and House clock
+[ava] Story one. Defense Secretary Pete Hegseth holds his first Pentagon news conference since May at eight o'clock this morning, and he has said it will focus on the effort to impeach him. Under the procedure Representative Thomas Massie used, the House is expected to vote by tomorrow, unless Republican leaders succeed with a motion to table or refer it. PolitiFact counts the math this way: with every Democrat expected to vote yes, at least three Republicans would have to join them. Nebraska Republican Don Bacon says he's undecided.
+[ava] Hegseth and President Trump argue the effort is politically motivated. Hegseth says critics who object to the Iran operation or the capture of Nicolás Maduro are "taking issue with the troops." Supporters say Congress never authorized the Iran war and has to answer for it.
+// Story 2: Senate GOP leadership vote
+[ava] Story two. Senate Republicans meet behind closed doors today to choose their leaders a week after losing their majority. South Dakota's John Thune is running unopposed for another term as leader and is expected to win, but some senators, including Florida's Rick Scott, are withholding support and say it's too soon to endorse the status quo before the party talks through its losses.
+// Story 3: Atlantic report on Miller
+[ava] Story three, a report to treat with care. The Atlantic says that in White House and Justice Department talks about national security leaks, new chief of staff Stephen Miller favored jailing journalists to force them to reveal their sources, while outgoing chief of staff Susie Wiles opposed it, according to two people familiar with the discussions. The Justice Department calls the account "absolutely false," and the White House says the priority is stopping leaks. This describes internal discussions, not an approved policy, and no journalist has been arrested.
+// Story 4: Big Bend wall
+[ava] Story four. The Supreme Court has let the Trump administration resume border-wall and related construction in Texas's Big Bend region, including areas around Big Bend National Park. The order pauses a lower-court injunction while the lawsuit continues. The administration says the barrier is needed for border security; opponents argue it damages a protected landscape where crossings are relatively rare. The case isn't over.
+// Story 5: Lindsay Clancy retrial
+[ava] And story five, from just over the state line in Massachusetts. A judge ruled that Lindsay Clancy can be tried again on murder charges in the deaths of her three children, rejecting her lawyers' bid to dismiss the case after her first trial ended with a deadlocked jury. Judge William Sullivan found the deadlock justified the mistrial. No date is set; the next hearing is November sixteenth, and the judge has floated a possible retrial in March.
+> source: AP, "Hegseth is set for his first Pentagon news conference since May as he faces possible impeachment" (Nov 10); PolitiFact, "What's the focus and likelihood of Hegseth impeachment?" (Nov 9); USA Today (Nov 9); AP, "John Thune seeks another term as Senate Republican leader" (Nov 10); Fox News, "Sen Rick Scott withholds support for Thune" (Nov 9); The Atlantic via The Independent (Nov 9); SCOTUSblog and AP on the Big Bend order (Nov 9); AP, Boston 25 News and USA Today on the Clancy ruling (Nov 9)
+
+## International | sting=world
+// Story 6: Abu Dhabi talks
+[ava] Story six. Three-way talks between Russia, Ukraine and the United States opened this morning in Abu Dhabi, the first since February. The two-day session, led on the U.S. side by Jared Kushner and Steve Witkoff, is focused on what comes after the war: security guarantees for both sides. A U.S. official told reporters that, privately, Moscow and Kyiv have shown "a little bit of flexibility" on control of the eastern Donetsk region, though publicly neither side has moved. Russia wants Ukraine out of the parts it still holds; Kyiv wants to freeze the current line.
+[ava] Europe is pushing to be in the room, and Washington says it will propose bringing Europeans into a wider format. Kushner himself is managing expectations, saying the goal is to "build momentum." Some Ukrainian lawmakers are skeptical; one told the BBC he fears a quick deal at Ukraine's expense, and argues only tougher sanctions will move Moscow.
+// Story 7: Crete migrants; Germany president nominee
+[ava] Story seven, two quick ones. Greek public broadcaster E R T reports at least twenty migrants have died and a hundred thirty-three have been rescued in a series of boat incidents south of Crete; in one, a passing container ship spotted a boat, and the coast guard rescued eighteen people and recovered twelve bodies.
+[ava] And in Berlin, Chancellor Friedrich Merz has nominated Ilse Aigner for Germany's largely ceremonial presidency. If she's elected, she'd be the country's first woman head of state.
+> source: AP, "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi" (Nov 10); BBC News, "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say" (Nov 10); Xinhua Daily World Briefing citing ERT (Nov 10); Xinhua on the Aigner nomination (Nov 10)
+
+## Markets | sting=markets
+[andrew] Story eight, the pre-market. After Monday's rebound, the Dow up two point two percent, the S&P five hundred up two point four and the Nasdaq up two point seven, futures are mixed this morning. Dow futures are up a few tenths of a percent, S&P futures are roughly flat to slightly higher, and Nasdaq one hundred futures are slightly lower.
+[andrew] The big event is the October consumer price index at eight-thirty. Economists expect prices rose three tenths of a percent for the month, with core inflation, which excludes food and energy, up two tenths. That would be a slowdown from September's six tenths and three tenths. One correction from yesterday: this report won't include a year-over-year rate, because last fall's government shutdown kept the government from collecting October twenty twenty-five price data. A hotter number would revive talk of a Fed rate hike in December.
+[andrew] Oil is down for a second day after President Trump said more military action against Iran isn't necessary at this point. As of early this morning, Brent was near ninety and a half dollars and U.S. crude near eighty-five.
+[andrew] On Nvidia: President Trump said the F B I is looking into C E O Jensen Huang's relationship with Alice Huang, a woman U.S. officials believe worked for Chinese intelligence; they're not related. Trump said Huang told him he had "no idea she was a spy" and that he believes him. China calls the spy claim groundless. Separately, shareholders have sued Nvidia and Huang in California, alleging they misled investors. Nvidia says it has no reason to believe company or national security secrets were compromised.
+[andrew] Also on deck: A M D is a bit lower pre-market after its best day in six months and an upgrade from Oppenheimer, and CoreWeave reports after the bell, a test for the debt-heavy business of renting out A I data centers.
+> source: Yahoo Finance live blog, "Dow, S&P 500, Nasdaq trade mixed ahead of key inflation data" (Nov 10); Yahoo Finance/Benzinga, "US Stock Futures Mixed As Investors Await CPI Data" (Nov 10); Investing.com via Yahoo Finance, "U.S. inflation data ahead; Huang scandal fallout" (Nov 10); CNBC live updates (Nov 10); AP and BBC, "Trump says FBI is looking at Nvidia CEO Jensen Huang's affair" (Nov 10); The Guardian, "Nvidia and Jensen Huang sued in US" (Nov 10)
+
+## Technology | sting=tech
+// Story 9: Google TPUs; Apple usage packs
+[andrew] Story nine, tech. Google unveiled two more eighth-generation A I chip systems, its T P U eight t x and eight i Max. The eight t x is built for confidential computing, keeping sensitive data protected even while A I is processing it, aimed at governments and regulated businesses. The eight i Max pairs two chips for memory-hungry, long-context work. Bloomberg frames it as Google stepping up its challenge to Nvidia; pricing and availability weren't disclosed.
+> source: Google blog, "Introducing TPU 8tx and TPU 8i Max" (Nov 9); Quartz and Anadolu citing Bloomberg (Nov 9)
+
+## Artificial Intelligence | sting=ai
+// Story 10: Anthropic IPO snafu; Nvidia China rentals
+[andrew] Story ten, A I. Reuters reports Anthropic briefly sent bankers an I P O filing proposing about eight hundred sixty-seven million shares at seventy to eighty dollars each, which would raise up to about sixty-nine billion dollars, then pulled the pricing details back, telling them the numbers were inaccurate and an updated filing would follow. Bloomberg Law says the snafu jolted investors; the final terms could look different.
+[andrew] And according to a report, Nvidia is tightening how overseas cloud partners rent its A I chips to Chinese customers, requiring them to reserve at least fifty-one percent of their services for non-Chinese clients. Nvidia hasn't confirmed it publicly, so treat it as reported, not official.
+> source: Reuters via CNA, "Anthropic's nearly $70 billion IPO plan briefly circulated to banks, then retracted" (Nov 10); Bloomberg Law (Nov 10); The Neuron AI digest summarizing the Nvidia China-rental report (Nov 10)
+
+## Cybersecurity | sting=cyber
+// Story 11: OpenSSH, iOS 27.2.1, SAP
+[ava] Story eleven, the cyber desk, with one that matters for any home network. C I S A has added four actively exploited flaws to its must-patch list, including a serious OpenSSH bug on Linux, nicknamed SSHole, that can let attackers bypass authentication. GreyNoise saw the first attempts on November seventh, and watchTowr says it's already being used to install botnets and crypto miners, though one firm says activity isn't widespread yet. If you run anything with SSH open to the internet, update it, or close that port.
+[ava] On your iPhone, Apple's iOS twenty-seven point two point one fixes an iMessage flaw that could let a remote attacker join a group chat and receive messages, a second that could show new members earlier messages, and Bluetooth bugs that allowed pairing without permission. It's in Settings, General, Software Update.
+[ava] And SAP has patched four flaws rated a perfect ten for severity in NetWeaver and Web Dispatcher, two allowing remote code execution with no login, a big one for businesses.
+> source: The Hacker News, "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws" (Nov 10); Apple, "About the security content of iOS 27.2.1" (Nov 9); AppleInsider (Nov 9); The Hacker News on X, SAP November patches (Nov 10)
+
+## From Your X Feed | sting=x
+[ava] Story twelve, from your X feed, politics left out.
+[andrew] Elon Musk posted that the Starlink software built to move huge amounts of data through space and down to the ground turns out to be very well suited to training superintelligence. He didn't offer details.
+[ava] kimmonismus says Grok four point eight is coming later this week. That's a post, not an announcement we could confirm.
+[andrew] Autoblog says a classic-looking Mercedes supercar stole the show at the SEMA show, but underneath it's actually a modern McLaren.
+[ava] Variety reports "Supergirl" star Milly Alcock will star in a stage play called "Julie" at London's Old Vic.
+[andrew] And Visegrad twenty-four shared video of chaos at a new fast-food shop in Dortmund, Germany, that offered one-euro döner kebabs. It also notes Christmas markets are about to open across Europe.
+> source: Harry's X home timeline, Nov 10 (@elonmusk, @kimmonismus, @therealautoblog, @Variety, @visegrad24)
+
+## Local News & Events | sting=local
+// Story 13: Veterans Day; school tax caps
+[ava] Story thirteen, around New Hampshire. Tomorrow is Veterans Day; Leach Library in Londonderry will be closed Wednesday, so plan any book returns for today or Thursday.
+[ava] And a statewide budget story worth watching: according to News From The States, ninety-one of the state's hundred sixty-eight school districts have now adopted tax caps, and the hard part starts now, as boards try to build budgets under those limits. Supporters say caps keep property taxes in check; critics worry about cuts to programs and staff.
+> source: Leach Library calendar, "Wednesday, November 11, 2026: Library Closed"; News From The States, "Dozens of NH school districts adopted tax caps. Now, a balancing act begins." (Nov 2026)
+
+## Uplifting Story | sting=feel
+[ava] And finally, just in time for Veterans Day. In North Texas, Army veteran Curtis Rowe and his family woke up in a brand-new home with no mortgage. Rowe enlisted in two thousand seven and served more than seven years as a cavalry scout, with combat deployments to Iraq and Afghanistan. He came home with a traumatic brain injury from repeated blasts, vision and hearing loss, a badly injured hip and post-traumatic stress, and after a car accident in twenty twenty-one, he lost his right leg below the knee.
+[ava] The nonprofit Building Homes for Heroes, working with two local builders, designed the house so he can get around easily on the days he uses a wheelchair. At a welcome-home ceremony full of flags, they handed him the key, a place where he and his wife can raise their daughter. The group has been giving mortgage-free homes to veterans and first responders for twenty years.
+> source: NBC 5 Dallas-Fort Worth, "Something Good: North Texas family gets key to happiness" (Nov 9)
+
+## Close | sting=close
+[ava] That's your Tuesday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. Watch for the inflation number at eight-thirty, Hegseth at the Pentagon, and the Senate Republican leadership vote. We'll have updates through the day.
+[ava] Thanks for listening to Gumshoe News Radio.
