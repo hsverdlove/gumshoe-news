@@ -1,0 +1,78 @@
+// Gumshoe script format: see README.md
+# title: Wednesday 4 PM Update, Nov 11
+# description: The Wednesday 4 p.m. update from Gumshoe News Radio for Veterans Day, November 11, 2026: Londonderry weather through tomorrow; the White House warns House Democrats that their planned investigations could be criminal, with a shutdown deadline a month away; Russia's ambassador to Washington dies suddenly as U.S. envoys head to Moscow and Dublin; Houthi missiles at Riyadh and another tanker fire near Hormuz; the closing bell on a big A I rebound; AMD confirms a driver bug that wears down SSDs; Google DeepMind's new robot brain and gene model; hackers hit Xen Orchestra virtualization servers; your X feed; Derry and Salem House seats go to recount; and a maritime cadet saves a father and son. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's four o'clock on Wednesday, November eleventh, Veterans Day, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Good afternoon, Ava. The closing bell just rang, and it was a good day for anyone holding chip stocks.
+[ava] First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 11 at airtime
+
+## US News | sting=us
+// Story 1: White House counsel warns Democrats; shutdown deadline
+[ava] Story one. The White House fired back today at House Democrats' plans to investigate the administration. In a letter to California Congressman Robert Garcia, who's set to chair the House Oversight Committee in January, White House Counsel Will Scharf said the administration is monitoring what he called abusive and capricious threats, and suggested some of the planned probes could amount to, quote, blatant criminality.
+[ava] Garcia's response: it appears Donald Trump has something to hide. The Washington Post reports the counsel's office has already hired fifteen more lawyers to prepare for the fight, and a former Democratic Oversight lawyer predicts subpoenas in January.
+[ava] The two sides here: Congressional oversight is a standard power, and courts have long upheld it, so legal experts are skeptical that investigating could itself be a crime. The White House and its allies argue that Democrats have openly promised retribution rather than legitimate fact-finding, and that the administration is entitled to defend executive privilege.
+[ava] Meanwhile, the government runs out of money on December eleventh, one month from today, and top appropriators left a meeting this week with no deal. Democrats want a short-term bill at current spending until they take control in January. Republicans want to use their last weeks in charge to lock in full-year funding.
+> source: NBC News live blog, "White House warns congressional Democrats: Investigating us may be a crime" (Nov 11); AP live updates (Nov 11, 3:23 PM ET); Washington Post, "White House readies aggressive fight against planned investigations by Congress" (Nov 11); Washington Post, "One month from shutdown, Congress is far from a deal to fund government" (Nov 11)
+
+## International | sting=world
+// Story 2: Darchiev dies; envoys to Moscow and Dublin
+[ava] Story two. Russia's ambassador to the United States, Alexander Darchiev, has died suddenly at sixty-six. Russia's Foreign Ministry announced it today, and spokeswoman Maria Zakharova later said he died in Moscow of a chronic illness she didn't name. Darchiev, a longtime America specialist who previously served as ambassador to Canada, took the Washington post early last year as relations thawed after President Trump returned to office.
+[ava] His death comes at a delicate moment. After this week's talks in Abu Dhabi ended with a prisoner swap, White House envoys Steve Witkoff and Jared Kushner are set to meet Vladimir Putin in Moscow and Volodymyr Zelenskyy in Dublin tomorrow. Russia's chief negotiator says some progress was made, but he was cool on bringing European countries into the talks.
+> source: AP, "Moscow's ambassador to the US dies at age 66" (Nov 11); Al Jazeera (Nov 11); The Moscow Times (Nov 11); RIA Novosti, Zakharova statement (Nov 11); The Guardian Europe live, via Reuters (Nov 11)
+
+// Story 3: Houthis target Riyadh; Hormuz tanker fire
+[ava] Story three. For the second day in a row, Saudi air defenses shot down three Houthi cruise missiles aimed at the Riyadh area, and the Saudi-led coalition says it also stopped drones. Some reports said Mecca was among the targets; the Houthis deny that. The group has stepped up attacks on the kingdom, including a strike Sunday that damaged an Aramco office building in Riyadh.
+[ava] And near the Strait of Hormuz, Iran's navy says another tanker caught fire after hitting a mine in what it calls a restricted area. The British maritime agency, U K M T O, confirmed a tanker incident but not the cause, and it isn't clear the two reports describe the same ship. Iran is using these incidents to push ships onto its approved routes, while the U.S. says it has cleared mines from the strait.
+> source: Indian Express world live, via Reuters (Nov 11); Anadolu Agency (Nov 11); Arab News (Nov 11); Anadolu, "UK maritime agency reports incident involving tanker in Strait of Hormuz" (Nov 11); Arab Times (Nov 11)
+
+## Markets | sting=markets
+// Story 4: The close
+[andrew] Story four, the closing bell. It was a relief rally, led by tech. In the final minutes of trading, the S&P five hundred was up about one and four tenths percent, close to erasing last week's A I sell-off and within about two and a half percent of its record high. The Nasdaq was up about one and six tenths, and the Dow about half a percent. Final closing numbers weren't out yet at airtime.
+[andrew] The spark was CoreWeave, which jumped about twenty-five percent, its biggest gain in well over a year, after saying it expects to turn a profit in the first half of twenty twenty-eight and won't need much new debt to deliver its backlog. Chip stocks followed: every stock in the Philadelphia semiconductor index rose, and that index gained about seven percent. Nvidia recovered about four percent, even after the investment firm Baird downgraded it and cut its price target from five hundred dollars to two hundred over the Jensen Huang scandal.
+[andrew] Not everything rose. Microsoft fell about two percent as Anthropic rolled out Claude tools aimed at spreadsheets and office work, and food companies like Campbell's and General Mills slipped as money moved out of safer stocks. Oil rose about two percent, with U.S. crude near eighty-eight dollars, after Iran's security chief said Tehran won't let enriched nuclear material leave the country. Gold slipped to about four thousand dollars, and Bitcoin is around seventy-four thousand.
+[andrew] The caution flag: traders now see a Fed rate hike next month as a near certainty after Tuesday's hot inflation report, and one strategist summed up the mood as a market looking for a canary in a coal mine every single day.
+> source: AP, "Rebounding AI stocks lift Wall Street" (Nov 11, 3:09 PM ET); Yahoo Finance live (Nov 11, 3:29-3:58 PM ET); Reuters via Financial Newsletter, "Stocks climb as CoreWeave results ease AI spending concerns" (Nov 11, 2:46 PM ET); Benzinga, "Nasdaq 100 Jumps 2.8% as CoreWeave, Nvidia Climb" (Nov 11); Reuters via Euronext (Nov 11)
+
+## Technology | sting=tech
+// Story 5: AMD driver SSD writes
+[andrew] Story five, tech, and a practical one. AMD has confirmed that its Radeon graphics drivers on Windows can keep writing to your solid-state drive nonstop, even when the computer is sitting idle. The culprit is a background helper called the A T I external events utility, which keeps copying itself. Some users say it chewed through more than one percent of their drive's lifespan a month.
+[andrew] AMD says a fix is coming in its next driver, Adrenalin twenty-six point eleven point one, later this month. A hobbyist has released an unofficial tool that blocks the behavior now, but it needs administrator rights, so most people are better off waiting for AMD's update. If you have a Radeon card, you can open Resource Monitor and check the Disk tab to see if it's happening to you.
+> source: VideoCardz, "AMD confirms Radeon driver bug causing constant SSD writes, fix planned for Adrenalin 26.11.1"; TechPowerUp (Nov 2026)
+
+## Artificial Intelligence | sting=ai
+// Story 6: Gemini Robotics 2.5, AlphaGenome 2
+[andrew] Story six, A I. Google DeepMind rolled out Gemini Robotics two point five, a new A I brain for robots. In real-world tests at Mercedes-Benz, Apptronik's Apollo humanoid robots running it packed car parts with a ninety-six percent success rate. DeepMind says it learns new skills faster and works twenty to thirty percent quicker than the last version. It's going out through partners including Boston Dynamics. Success rates still range widely by task, from thirty percent to near perfect, so robots aren't ready to take over the factory floor.
+[andrew] DeepMind also announced AlphaGenome two, which predicts how changes in D N A affect specific types of cells. The goal is to help researchers find drug targets faster. DeepMind stresses it guides experiments rather than replacing them, and it's not approved for medical diagnosis.
+> source: SiliconANGLE, "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model" (Nov 11)
+
+## Cybersecurity | sting=cyber
+// Story 7: Xen Orchestra
+[ava] Story seven, the cyber desk. Hackers are exploiting a critical flaw in Xen Orchestra, a popular tool for managing virtual servers and backups. The maker, Vates, says the bug lets an attacker skip the login entirely and take administrator control, and then fully take over the servers it manages. The same attacker is also using a second, unpatched zero-day.
+[ava] There's a fix for the main flaw in the newest releases, and a fix for the second one is still in the works. Vates warns that break-ins may not show up in the logs, and if you're compromised, cleaning up isn't enough; you need a full reinstall. This one's for businesses and home-lab tinkerers who run their own servers. Your everyday devices aren't affected.
+> source: SecurityWeek, "Critical Xen Orchestra Flaws Exploited in Attacks" (Nov 11)
+
+## From Your X Feed | sting=x
+[ava] Story eight, from your X feed, politics left out.
+[andrew] Autoblog posted that the Ford Mustang Cobra is coming back after more than twenty years. Ford Racing confirmed it this week for twenty twenty-seven, with a racing-derived V-eight and a manual transmission.
+[ava] Variety did the math on Hollywood spending: if Skydance, which now owns Paramount and Warner Brothers, spends the thirty billion dollars a year on content it has promised, it would outspend both Disney at about twenty-four billion and Netflix at about twenty.
+[andrew] And Jack Posobiec shared a story that's both awful and remarkable. A Utah teenager missing since May of last year was rescued from a home in Huntington, Oregon, after she reached out to another child through the online game Among Us. That child's mother alerted the F B I, and a man is now charged. Officials say she'd been held in a basement for more than a year.
+> source: Harry's X home timeline, Nov 11 (@therealautoblog, @Variety, @JackPosobiec); Car and Driver, "Ford Mustang Cobra Confirmed for 2027 Return" (Nov 2026); AP, "Authorities charge Oregon man after a missing Utah girl was found in his home"; NBC News (Nov 2026)
+
+## Local News & Events | sting=local
+// Story 9: NH House recounts in Derry, Salem
+[ava] Story nine, close to home. Recounts are underway in sixteen New Hampshire House races from last week's election, including two right next door. In Derry's twenty-candidate race for ten seats, Republican Jodi Nelson missed the last seat by just two votes. And in Salem, where twelve candidates ran for nine seats, Democrat Donna Loranger edged out Republican Edward Huminick by seven votes.
+[ava] The Secretary of State's office expects the recounts to take about two weeks, working every weekday except today, Veterans Day. Two are already done, and both confirmed the original winners. Even if a few flip, Democrats will hold a big House majority, about two-ninety-one to one-oh-eight, plus fifteen of twenty-four Senate seats.
+> source: New Hampshire Bulletin via Boston Globe, "Recounts for 16 New Hampshire House races underway" (Nov 11)
+
+## Uplifting Story | sting=feel
+[ava] And finally. Zion, a cadet at the Cal Poly Maritime Academy, heard screaming near his home in Foster City, California. He ran over, jumped a fence and found a father floating face down in an apartment pool. The man had gone in to save his twenty-five-year-old son.
+[ava] Zion pulled the father out, then heard more screams and spotted the son at the bottom of the deep end. He got him out too, found him unconscious, and started CPR until he was breathing on his own. Both men survived. Zion said his body just took over. The local police gave him a lifesaving commendation for courage, composure, and what they called a bias to action.
+> source: Good News Network, "'I pulled him out, I heard more screaming' - How a Cadet Saved a Father and Son from Drowning" (Nov 11)
+
+## Close | sting=close
+[ava] That's your four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Tomorrow morning, we'll have the full seven-day forecast and the latest from those meetings in Moscow and Dublin.
+[ava] Thanks for listening to Gumshoe News Radio, and once more, thank you to every veteran.
