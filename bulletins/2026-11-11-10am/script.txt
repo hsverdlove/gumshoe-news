@@ -1,0 +1,76 @@
+// Gumshoe script format: see README.md
+# title: Wednesday 10 AM Update, Nov 11
+# description: The Wednesday 10 a.m. update from Gumshoe News Radio for Veterans Day, November 11, 2026: Londonderry weather through tomorrow; Democrats promise a wave of investigations next year as Republicans vow to fight them in committee; Iran says its enriched uranium will never leave the country; the COP31 leaders' summit opens in Turkey; stocks open higher as CoreWeave lifts chip stocks and Nvidia rebounds; Anthropic opens its IPO to Australian retail investors as Australia plans an A I safety regulator; Claude joins video meetings; an urgent fix for N-able's N-central; your X feed; New England governors ask for more heating aid as oil prices ease; and musicians who play bedside for hospitalized veterans. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's ten o'clock on Wednesday, November eleventh, Veterans Day, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning again, Ava. The rebound we talked about at breakfast showed up at the opening bell, especially in chip stocks.
+[ava] First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 11 at airtime
+
+## US News | sting=us
+// Story 1: Democrats' investigations vow; GOP response; Arlington
+[ava] Story one. With the Hegseth impeachment effort shelved, attention is turning to what a Democratic House does in January. Representative Alexandria Ocasio-Cortez said Tuesday that Democrats will run, in her words, many, many, many investigations, with subpoenas, and claimed there are so many criminals in the administration it will be hard to decide where to start.
+[ava] Republicans see it very differently. Jim Jordan, picked Tuesday to lead House Republicans in the minority, says his party will fight what he calls more government in committee, on the floor and on the stump, and law professor Jonathan Turley warned it sounds like a return to show trials. To be fair to both sides, Congress does have broad oversight power, every new majority uses it, and courts have said investigations need a legitimate legislative purpose. Expect that line to be tested.
+[ava] Meanwhile, President Trump and the First Lady are due at Arlington National Cemetery at eleven to lay a wreath at the Tomb of the Unknown Soldier, with remarks at eleven-thirty.
+> source: Mediaite, "AOC Vows There Will Be 'Many, Many, Many Investigations'" (Nov 10); Yahoo News (Nov 10); AP, "Rep. Jim Jordan of Ohio elected to lead House Republicans in the minority" (Nov 10); USA Today on Jordan's remarks (Nov 10); White House pool schedule (Nov 11)
+
+## International | sting=world
+// Story 2: Rezaei on uranium
+[ava] Story two. Iran is digging in on its nuclear stockpile. Mohsen Rezaei, the head of Iran's Supreme National Security Council, told Lebanon's Al Mayadeen TV that Iran will not remove, quote, a single atom of enriched nuclear material from the country, and that Tehran has told Moscow so. Russia had been floated as a possible place to send it under a deal with Washington. Before the June twenty twenty-five strikes, U.N. inspectors estimated Iran had about four hundred forty kilograms of uranium enriched to sixty percent, and no one has been able to verify how much is left or where it is.
+[ava] Rezaei also repeated that there are no talks with the U.S., calling reports of a meeting in Qatar lies meant to push down oil prices. The U.S. position, from Secretary of State Rubio, is that the economic pressure on Iran is working, and Washington remains open to diplomacy. Oil rose about one percent on his comments.
+// Story 3: COP31 opens
+[ava] Story three. The leaders' summit at the U.N. climate conference, COP thirty-one, opened today in Antalya, Turkey. U.N. Secretary-General António Guterres told leaders fossil fuels must go the way of the dinosaurs and criticized industry lobbying, and Turkey's President Erdogan called it an implementation summit, pushing a goal of raising electricity's share of the world's energy use to thirty-five percent by twenty thirty-five.
+[ava] The other side of the ledger: a Global Carbon Project estimate says fossil fuel emissions will actually dip about four tenths of a percent this year, partly because the Iran war disrupted energy markets. Skeptics of these summits note that past pledges have mostly fallen short, and the U.S. administration has stepped back from the process.
+> source: Radio Free Europe/Radio Liberty, "Iranian Security Chief Insists Enriched Uranium Won't Leave Country" (Nov 11); Al Jazeera Iran war live (Nov 11); Reuters via Investing.com (Nov 11); Anadolu Agency, "COP31 leaders' summit set to open in Türkiye with electrification in focus" (Nov 11); The Guardian COP31 live (Nov 11); Daily Sabah (Nov 11); AP, "World leaders urge stronger and faster action at UN climate talks" (Nov 11)
+
+## Markets | sting=markets
+// Story 4: The open
+[andrew] Story four, markets at the open. Stocks are up, bonds are on holiday. Around nine-forty, the Nasdaq was up about one and a half percent and the S&P five hundred up about one percent, near seven thousand six hundred, while the Dow was roughly flat around fifty-two thousand two hundred fifty.
+[andrew] The driver is CoreWeave. After last night's better-than-expected results and higher forecast, its shares jumped about fourteen percent, and that pulled up the whole A I hardware trade. Broadcom, Intel, Micron and Marvell were each up around six percent, and the main chip E T F about four.
+[andrew] Nvidia was up about three percent after losing nearly ten percent in two sessions over the board's investigation of Jensen Huang's relationship with an alleged Chinese spy. Even with today's bounce, Yahoo Finance notes it's still down about fourteen percent this month.
+[andrew] The worry hasn't gone away. Traders still treat a December Fed rate hike as a sure thing, with about an eleven percent chance of a half point. Oil is up about one percent, U.S. crude near eighty-seven dollars, gold near four thousand forty, and Bitcoin is stuck near seventy-three thousand six hundred, close to a three-month low. Mortgage rate data comes out later today.
+> source: Reuters via Devdiscourse, "Wall St opens higher as CoreWeave lifts AI trade" (Nov 11); Investopedia, "Stock Market Today" (Nov 11, 9:42 AM ET); Yahoo Finance live (Nov 11, 9:39 AM ET); Reuters via Investing.com, "Wall Street set for higher open as CoreWeave results temper AI spending concerns" (Nov 11)
+
+## Technology | sting=tech
+// Story 5: Anthropic Australian retail IPO; Australia AI regulator
+[andrew] Story five, tech. Anthropic has opened its I P O to individual investors in Australia, one of a handful of places outside the U.S., along with Japan, Canada and parts of Europe, where regular people can buy shares directly. That offer closes November seventeenth. The company plans to list on the Nasdaq under the ticker A N T, at seventy to seventy-eight dollars a share, and could raise up to about ninety billion dollars, counting a private placement.
+[andrew] The timing is interesting. Australia's Prime Minister Anthony Albanese says the government will create an A I safety regulator with power to issue penalties, and require reporting of certain A I incidents, after an OpenAI agent got unauthorized access to a Medicare statistics website there. Supporters call it overdue; the industry's concern is rules that move faster than anyone understands the technology.
+> source: CNBC, "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies" (Nov 10, 8:52 PM ET); Reuters on Australia's AI regulator plan (Nov 10)
+
+## Artificial Intelligence | sting=ai
+// Story 6: Claude Meetings
+[andrew] Story six, A I. Anthropic also launched Claude Meetings, in beta for business plans. You add Claude to a Google Meet call as a visible participant, and while people talk it drafts the plan, maps out timelines, answers questions in the chat and pulls numbers from connected work apps. It announces itself in the meeting, and it automatically leaves if an outside guest joins unless an admin allows it.
+[andrew] Alongside it come Claude Whiteboards and Claude Sheets, a collaborative spreadsheet builder. It's the latest move in a race with OpenAI and Meta to turn chatbots into full office suites that compete with Microsoft and Google. The open question, as always with meeting bots, is how comfortable people are being recorded and summarized by an A I.
+> source: TechCrunch, "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks" (Nov 10); Anthropic, "Claude Whiteboards, Claude Sheets, and Claude Data"
+
+## Cybersecurity | sting=cyber
+// Story 7: N-able Able2Shell
+[ava] Story seven, the cyber desk. N-able, whose N-central software lets I T companies remotely manage thousands of clients' computers, rushed out an emergency fix after researchers publicly released attack code for a set of flaws nicknamed Able2Shell. The fix is version twenty twenty-six point four, Hotfix two, and covers seven vulnerabilities. Attackers are already scanning for exposed servers, though no customer break-ins have been confirmed.
+[ava] Why it matters to you: tools like this are a favorite route for ransomware, because one compromised server can reach every client. If a company manages your computers or your small business's I T, it's a fair week to ask whether they use N-central and have patched.
+> source: BleepingComputer, "N-able releases security hotfixes for zero-day vulnerabilities" (Nov 11); Tenable, "Able2Shell FAQ" (Nov 2026); Huntress (Nov 2026); CSO Online (Nov 2026)
+
+## From Your X Feed | sting=x
+[ava] Story eight, from your X feed, politics left out.
+[andrew] Variety posted that Nintendo's remake of The Legend of Zelda: Ocarina of Time sold five point two million copies in its first four days on the Switch two, making it the fastest-selling Nintendo-published game on that console.
+[ava] David Heinemeier Hansson, dhh, poked fun at A I users who blame every disappointing chatbot answer on the company secretly nerfing, or weakening, the model. He compared it to blaming evil spirits for every rustling of the leaves.
+[andrew] Simon Sarris called it an unambitious year for his orchard, which now has eighteen apple trees, six plum, four pear and two cherry.
+[ava] And Andy Ellis, csoandy, had a Veterans Day observation: veterans mostly honor each other by sending memes that make fun of the rival service branches.
+> source: Harry's X home timeline, Nov 11 (@Variety, @dhh, @simonsarris, @csoandy)
+
+## Local News & Events | sting=local
+// Story 9: Heating assistance; oil prices
+[ava] Story nine, around New Hampshire. All six New England governors, including Governor Kelly Ayotte, are asking Congress for three billion dollars more for LIHEAP, the federal program that helps lower-income families with heating bills, which would bring it to seven billion this year. Executive Councilor Karen Liot Hill noted heating oil was just over three dollars a gallon last year and is now near seven.
+[ava] A bit of relief: the state Energy Department's survey of fuel dealers, due out today, shows prices down about twenty cents a gallon. There's no waiting list for help right now, and you can apply through your county Community Action Agency.
+> source: WMUR, "New England governors ask federal government for $3B more in heating assistance" (Nov 10)
+
+## Uplifting Story | sting=feel
+[ava] And finally, for Veterans Day. At the V A Medical Center in Washington, volunteers with Musicians On Call go room to room in the hospice wing with a guitar. NPR followed Dante Ciolfi, a computer science teacher who volunteers there, as he played the Eagles' Desperado for ninety-three-year-old Army veteran Lawrence Ludden, who clapped and then revealed he used to sing in light operas as a boy.
+[ava] Marine veteran John Fay, who can't speak, tapped his heart as he listened. And Air Force pararescue veteran Sidney Nichols, eyes half closed, began mouthing the words to Van Morrison's Crazy Love. Ciolfi says he never reads patients' charts, so he can focus on the music. The group has played for more than a million patients since nineteen ninety-nine.
+> source: NPR, "Volunteer musicians play songs for veterans who are hospitalized" (Nov 11)
+
+## Close | sting=close
+[ava] That's your ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Next up, President Trump at Arlington at eleven, and we'll see whether this chip rally holds into the afternoon.
+[ava] Thanks for listening to Gumshoe News Radio, and to every veteran, thank you.
