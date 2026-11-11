@@ -1,0 +1,75 @@
+// Gumshoe script format: see README.md
+# title: Wednesday 1 PM Update, Nov 11
+# description: The Wednesday 1 p.m. update from Gumshoe News Radio for Veterans Day, November 11, 2026: Londonderry weather through tomorrow; President Trump at Arlington says the U.S. has won the Iran war but wants total victory, as the Kennedy family joins the fight over his planned arch; Iran's parliament speaker says Hormuz will not return to its pre-war state; the Nasdaq extends its rally at midday as CoreWeave soars and mortgage rates dip; OpenAI's quarterly revenue reaches ten billion dollars; Gemini arrives on Apple CarPlay; hackers exploit Barracuda and Cisco BroadWorks flaws, one with help from an A I tool; your X feed; Democrats line up to replace New Hampshire's secretary of state and a senator targets kratom; and an eighty-four-year-old pianist keeps a promise. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's one o'clock on Wednesday, November eleventh, Veterans Day, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Good afternoon, Ava. The chip rally didn't fade. If anything, it picked up steam through the morning.
+[ava] First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 11 at airtime
+
+## US News | sting=us
+// Story 1: Trump at Arlington; Kennedy family joins arch suit
+[ava] Story one. President Trump marked Veterans Day at Arlington National Cemetery this morning, laying a wreath at the Tomb of the Unknown Soldier with the First Lady and Vice President Vance. Most of his speech honored veterans, including Dale Garner, a Marine who survived the nineteen eighty-three Beirut barracks bombing.
+[ava] Toward the end, he turned to the Iran war. He said America didn't start it, that the U.S. has won, and that the only question is when to end it, so it's, quote, a total victory, not a ninety-three percent victory. He also praised Defense Secretary Hegseth, a day after House Republicans shelved the impeachment effort against him, and the crowd applauded.
+[ava] Critics, including The Independent, said he used a solemn ceremony to make a political case, and they note he's said many times since spring that the war is nearly over. Polls show most voters disapprove of the war. Supporters counter that a commander in chief explaining a war at a veterans' ceremony is fair game, and that the Garner story was a reminder of what Iran-backed groups have cost Americans.
+[ava] He also promoted his planned two-hundred-fifty-foot triumphal arch near the cemetery. Nine members of the Kennedy family asked a federal judge Tuesday to let them join lawsuits to block it, saying it would cast a shadow over the family graves near John F. Kennedy's eternal flame. A judge has already paused groundbreaking for fourteen days. The White House says the arch is meant to honor the heroes buried at Arlington and the courts shouldn't be used to politicize it.
+> source: NBC News live updates, "Trump and Vance mark Veterans Day with ceremony at Arlington National Cemetery" (Nov 11, 12:49 PM ET); The Independent, "Trump speech Veterans Day Iran war" (Nov 11); FOX 5 DC (Nov 11); PBS News/AP on the Kennedy family motion (Nov 11)
+
+## International | sting=world
+// Story 2: Qalibaf on Hormuz and the seven conditions
+[ava] Story two. Iran's parliament speaker, Mohammad Bagher Ghalibaf, who leads Iran's negotiating team, told Al Jazeera today that the Strait of Hormuz will not go back to the way it was before the war. He said Iran and Oman have reached an understanding on a new system for traffic through the strait, which he says would follow international law.
+[ava] Ghalibaf said Iran sent its demands through Qatar and is still waiting for a formal U.S. answer. The seven conditions include lifting the naval blockade and oil sanctions, releasing frozen funds, and formally ending the war on all fronts, including Lebanon. He said the strait stays closed and talks won't resume until those are met, and warned Iran would answer any new attack.
+[ava] The other side: the U.S. has rejected key Iranian demands and is keeping up military and economic pressure. G7 foreign ministers this week condemned Iran's attacks on shipping and said they oppose any tolls or limits on passage through the strait, which they say must be free and open. Separately, Iran's Revolutionary Guard claimed three tankers hit mines Tuesday on what it called an unauthorized route. That claim hasn't been independently confirmed.
+> source: Al Jazeera Arabic, Ghalibaf interview (Nov 11); Reuters via Devdiscourse, "Iran's Qalibaf says Strait of Hormuz will not return to pre-war status" (Nov 11); Iran International (Nov 11); Al Jazeera, "Iran denies talks with US, says Hormuz will stay shut until demands are met" (Nov 11)
+
+## Markets | sting=markets
+// Story 3: Midday markets
+[andrew] Story three, markets at midday. The tech rally got bigger. Around twelve-thirty, the Nasdaq was up about two percent, the S&P five hundred up about one and four tenths, around seven thousand six hundred twenty, and the Dow up just two tenths of a percent. So this is very much a tech day. If you don't own tech, you're mostly watching.
+[andrew] CoreWeave was up as much as twenty-four percent at one point after its results and higher forecast, and the A I hardware crowd followed: Dell, Bloom Energy and Lumentum all posted big gains. Nvidia kept bouncing back, although it's still down about fourteen percent this month and has lost roughly seven hundred billion dollars in market value since the scandal over Jensen Huang began.
+[andrew] Some good news for homebuyers: the Mortgage Bankers Association says the average thirty-year rate dipped to seven point two one percent from seven point three, and applications jumped seven and a half percent. The bond market is closed today, but traders still expect the Fed to raise rates in December. Oil is up a bit after yesterday's drop, and Bitcoin is holding just above seventy-three thousand.
+> source: Yahoo Finance live (Nov 11, 12:31 PM ET); 24/7 Wall St. midday (Nov 11, 12:00 PM ET); Investor's Business Daily (Nov 11, 12:29 PM ET); NYSE midday market update (Nov 11); MBA weekly applications via NYSE (Nov 11)
+
+## Technology | sting=tech
+// Story 4: OpenAI Q3 revenue
+[andrew] Story four, tech. OpenAI told investors its revenue hit ten billion dollars in the third quarter, a first. That's up nearly fifty percent from the spring quarter and almost triple a year ago. Chief Financial Officer Sarah Friar said sales to businesses doubled in the quarter and now make up about half of revenue. That number also helped lift the A I stocks this morning.
+[andrew] The catch is the cost. The Wall Street Journal reports OpenAI's adjusted operating loss grew to about ten point nine billion dollars, and that figure leaves out about two point six billion in stock pay. Losses are shrinking compared to sales, but they're still growing in dollars. For comparison, Anthropic, heading into its I P O, reported about seventeen billion in third-quarter revenue, though the two companies count revenue differently, so the comparison isn't exact.
+> source: Bloomberg, "OpenAI Third-Quarter Revenue Soars Nearly 50% to $10 Billion" (Nov 11); Reuters/WSJ via Investing.com (Nov 10); AP via The Arabian Post (Nov 11)
+
+## Artificial Intelligence | sting=ai
+// Story 5: Gemini on CarPlay
+[andrew] Story five, A I. Google's Gemini assistant arrived on Apple CarPlay today, worldwide. It's Gemini Live, so you can have a real back-and-forth conversation while you drive: ask what's on your calendar, have it summarize unread emails, talk through a reply, or practice a presentation, and the conversation syncs to your iPhone when you park.
+[andrew] It was already on Android Auto. One note for you, Harry: Teslas don't support CarPlay, so this one won't show up on your dashboard. And the usual question with in-car A I is whether talking through your inbox at sixty miles an hour is really less distracting than tapping a screen.
+> source: Google blog, "Talk it through with Gemini, now on Apple CarPlay" (Nov 11)
+
+## Cybersecurity | sting=cyber
+// Story 6: Barracuda, BroadWorks, AI-assisted attack
+[ava] Story six, the cyber desk. CISA, the federal cyber agency, added six flaws that hackers are actively exploiting to its must-patch list. Two are in Barracuda security gear, including its email gateway. Chained together, they can give an attacker full control of the device. Barracuda says a small number of organizations have been hit and urges customers to update and keep admin pages off the internet.
+[ava] The most interesting one is a Cisco BroadWorks flaw. BroadWorks is the software phone companies use to run business phone services. A research firm, Malbear Labs, says a Chinese-speaking group used it with help from a jailbroken A I model to go after a European phone company and at least thirteen of its customers. That attribution comes from one firm and hasn't been confirmed by governments. The list also includes an Outlook flaw Microsoft fixed this Patch Tuesday and a Chrome bug, so if your Office and browser haven't updated this week, now's a good time.
+> source: CISA, "CISA Adds Six Known Exploited Vulnerabilities to Catalog" (Nov 10); BleepingComputer, "CISA flags Cisco BroadWorks flaw as actively exploited in attacks" (Nov 11); SecurityWeek, "Recently Patched Barracuda Vulnerabilities Exploited in Attacks" (Nov 11); SecurityWeek on Openwave and BroadWorks (Nov 11)
+
+## From Your X Feed | sting=x
+[ava] Story seven, from your X feed, politics left out.
+[andrew] Andrew Curran posted that ByteDance, TikTok's parent company, is launching its own personal A I agent this month, with no name yet. What caught his eye was ByteDance's own forecast that Chinese A I will catch up to the U.S. frontier by twenty twenty-nine or twenty thirty.
+[ava] A popular account shared a report that Grand Theft Auto Six has already brought in more than a billion dollars in pre-orders ahead of its November nineteenth launch. Rockstar hasn't confirmed that number, so treat it as unverified.
+[andrew] For Veterans Day, Buzz Patterson told the story of how, in nineteen ninety-five, as an Air Force pilot stationed in Japan, a group of U.S. Marines ended up helping him meet his wife.
+[ava] And Dale Stark, an A-10 pilot, launched a fundraiser for a statue honoring legendary A-10 pilot Thrill Laird.
+> source: Harry's X home timeline, Nov 11 (@AndrewCurran_, @interesting_aIl, @BuzzPatterson, @DaleStarkA10)
+
+## Local News & Events | sting=local
+// Story 8: Secretary of state race; kratom bill
+[ava] Story eight, around New Hampshire. With Democrats taking both chambers of the Legislature, there's a real race for secretary of state, the official who runs New Hampshire's elections and protects the first-in-the-nation primary. The Legislature picks the winner, with a vote set for December second. Republican David Scanlan, in the job since twenty twenty-two after two decades as deputy, is running again and says he has support from both parties.
+[ava] At least three Democrats are challenging him: Carleigh Beriont of Hampton, a Harvard-trained historian who lost the First District congressional primary; State Representative Patrick Long of Manchester; and James Butler of Portsmouth, a former adviser to Governor Maggie Hassan. Some note the office has been unusually stable in the past. Scanlan's predecessor, Bill Gardner, served more than four decades under both parties.
+[ava] And Sandown Republican Senator Bill Gannon plans a bill to put kratom in Schedule One, the same category as heroin. The kratom industry's trade group supports banning synthetic versions but says natural leaf kratom is different. Manchester is weighing a local ban, and Merrimack tabled one recently.
+> source: Boston Globe, "Race for N.H.'s next top election official heats up as Democrats jump into the race" (Nov 11); NHPR, "NH lawmaker proposes bill to classify kratom as a dangerous drug" (Nov 11)
+
+## Uplifting Story | sting=feel
+[ava] And finally. When Bonnie Fay arrived at the Bryn Mawr Village nursing home in Pennsylvania, Guillain-Barré syndrome had left her paralyzed. During those hard weeks, she found the piano there and said it lifted her spirits tremendously. She made herself a promise: someday she'd come back and play.
+[ava] Now eighty-four, a lifelong piano teacher who started at age seven, she does just that. She plays regularly for residents recovering from illness, surgery and injury, and the staff even pick her up and bring her in. Some residents pull their chairs up close, and some have become friends. When health problems kept her away for ten months, people kept asking when Bonnie was coming back.
+> source: Good News Network, "Paralysis Could Not Stop Her: How This 84-year-old Made Good on Her Musical Promise" (Nov 11)
+
+## Close | sting=close
+[ava] That's your one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Next time, we'll see whether tech holds these gains into the closing bell.
+[ava] Thanks for listening to Gumshoe News Radio, and once more, thank you to every veteran.
