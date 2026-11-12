@@ -1,0 +1,75 @@
+// Gumshoe script format: see README.md
+# title: Thursday 10 AM Update, Nov 12
+# description: The Thursday 10 a.m. update from Gumshoe News Radio for November 12, 2026: Londonderry weather through tomorrow; a shooting at a gym in Washington's Logan Circle neighborhood with the suspect barricaded; the Brooklyn collapse death toll rises to eight; Putin tells U.S. envoys he won't give up occupied land, while Iran says two more tankers were disabled in the Strait of Hormuz and Indonesia's vice president resigns; Jensen Huang resigns as Nvidia C E O and stocks open lower; Starship rolls to the pad for tomorrow's double-catch try; DeepMind's AlphaGenome 2 and an Amazon tool written entirely by A I agents; a ScreenConnect add-on abused to infect hundreds of PCs; your X feed; weekend events around southern New Hampshire; and a teenager found alive after six days in the Australian bush. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's ten o'clock on Thursday, November twelfth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning again, Ava. The question we left you with at breakfast got answered: Jensen Huang is out at Nvidia. We'll get to the market reaction shortly.
+[ava] First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 12 at airtime
+
+## US News | sting=us
+// Story 1: Logan Circle shooting
+[ava] Story one, a developing story from Washington. Police say five people were shot this morning in the Logan Circle neighborhood, about a mile north of the White House. The first calls came in around eight twenty-five. According to CBS News, the gunman opened fire outside a Vida Fitness gym, kept shooting inside, then went through a parking garage into the apartment building above and barricaded himself on the seventh floor.
+[ava] A witness told reporters she saw one person killed inside the gym; police have not confirmed a death toll or the victims' conditions. More shots were heard from the building around nine forty-five. A shelter-in-place order is in effect, and the F B I, the A T F and the Secret Service are assisting. The Secret Service says no one it protects is involved; it responded because of how close the scene is. Police haven't named the suspect or a motive.
+> source: CBS News, "5 people shot in Washington, D.C.'s Logan Circle neighborhood" (Nov 12, 9:58 AM ET); AP, "5 people are shot in a trendy DC neighborhood" (Nov 12); Washington Post live updates (Nov 12); NBC News live blog (Nov 12)
+
+// Story 2: Brooklyn collapse update
+[ava] Story two, an update from Brooklyn. Mayor Zohran Mamdani says the death toll in the Flatbush building collapse has risen to eight, with at least seventeen injured, including three firefighters. Six bodies were pulled from the rubble overnight, and four of this morning's victims are believed to be construction workers from the site next door.
+[ava] The ninety-six-year-old building fell into an excavation pit where crews were digging foundations. The city has issued a full stop-work order at that site; the developer had valid permits. Fire officials say the search could take days, and heavy rain in this afternoon's forecast could make it harder.
+> source: AP, "Death toll rises to 8 in Brooklyn building collapse" (Nov 12); ABC7 New York live updates (Nov 12, 8:30 AM ET); NBC New York live blog (Nov 12); ABC News (Nov 12)
+
+## International | sting=world
+// Story 3: Putin meeting; Hormuz; Indonesia
+[ava] Story three. Vladimir Putin's meeting with U.S. envoys Steve Witkoff and Jared Kushner produced no ceasefire. Putin thanked President Trump for brokering the prisoner exchange, but by Ukrainian and British accounts he held to keeping the occupied territory and rejected any European peacekeeping troops in Ukraine. He did propose a humanitarian pause to evacuate civilians from the contested town of Kostiantynivka, and said Europe must decide whether it wants peace or war. Kushner says he sees some openings. The envoys fly to Dublin to brief President Zelenskyy, who says Ukraine won't trade land for peace.
+[ava] In the Gulf, Iran's Revolutionary Guards say two supertankers carrying more than four million barrels of oil were disabled by explosions last night after ignoring warnings on what Iran calls an unauthorized route. Iranian state media blamed mines. None of that has been independently confirmed, including the ships' names and the crews' condition. As for diplomacy, the Wall Street Journal reported Vice President Vance was weighing face-to-face talks with Iran's security chief, but this morning President Trump posted that a deal isn't needed and he wants Vance focused on corruption at home. Tehran had also signaled it wasn't ready to meet.
+[ava] And in Indonesia, Vice President Gibran Rakabuming Raka, son of former president Joko Widodo, has resigned after court rulings questioned his academic credentials and eligibility. President Prabowo called it for the greater good; the BBC sees it as a sign his ruling coalition is fraying.
+> source: AP, "US envoys meet with Putin in the Kremlin" (Nov 12); The Guardian Europe live (Nov 12); Kyiv Independent (Nov 12); Kremlin transcript (Nov 12); Reuters via Oman Observer, "Two oil tankers 'disabled' by explosions in Strait of Hormuz" (Nov 12); Iran International (Nov 12); IBTimes on Trump's post (Nov 12); AP and BBC on Gibran's resignation (Nov 12); Nikkei Asia (Nov 12)
+
+## Markets | sting=markets
+// Story 4: Huang resigns; market open
+[andrew] Story four, the markets, and the big one. Jensen Huang has resigned as Nvidia's C E O and left its board, effective immediately, after thirty-three years running the company he co-founded. A filing says the board accepted his resignation last night. Chief financial officer Colette Kress becomes interim C E O while keeping her finance job, and longtime director Harvey Jones, a former Synopsys C E O, becomes Nvidia's first-ever board chair. The search for a permanent C E O will consider inside and outside candidates.
+[andrew] The board says operations, customer commitments and the product roadmap continue without interruption, and Nvidia still reports earnings Tuesday. Supporters say the bench is deep and the business doesn't hinge on one man. Skeptics, as a Reuters analysis put it, worry the whole A I trade leaned on Huang's relationships with chipmakers and his willingness to invest in customers.
+[andrew] Nvidia fell about ten percent early, while rivals gained: A M D up about three percent, Broadcom up four to six. Companies Nvidia has invested in took a hit: CoreWeave down about twelve percent and Nebius about nineteen. SpaceX rose about two percent after Elon Musk replied "That would be an honor" to a post urging him to hire Huang. Treat that as speculation, not a plan.
+[andrew] At the open, the Nasdaq fell about one and a half percent and the S&P five hundred about nine tenths, while the Dow was nearly flat. Weekly jobless claims rose to two hundred thousand, still low by historical standards. The ten-year Treasury yield is near five percent as bond trading resumes after Veterans Day. After the close: Cisco and Applied Materials.
+> source: NVIDIA Newsroom, "NVIDIA Announces CEO Transition" (Nov 12); NVIDIA 8-K via StockTitan (Nov 12); AP (Nov 12); NPR (Nov 12, 9:17 AM ET); TechCrunch (Nov 12); Reuters via Devdiscourse, "Wall St opens lower after Nvidia CEO steps down" (Nov 12); Yahoo Finance, "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns" (Nov 12, 9:52 AM ET); Reuters via Investing.com analysis (Nov 12); U.S. Labor Department weekly claims (Nov 12); Newsquawk (Nov 12)
+
+## Technology | sting=tech
+// Story 5: Starship Flight 15 rollout
+[andrew] Story five, tech. SpaceX rolled Starship's upper stage, Ship forty-two, out to the launch pad at Starbase today for Flight fifteen. The target is tomorrow, with a window from about five forty-five to seven p.m. our time, still pending F A A approval. The headline goal: catching both the Super Heavy booster and, for the first time, the ship itself with the tower's arms. Launch dates for test flights often slip, so watch for updates.
+> source: SpaceX, "Starship Flight 15" (Nov 2026); SpaceNews, "SpaceX sets Nov. 13 date for Starship launch and catch" (Nov 7); NASASpaceflight via The Morning Science, "SpaceX Rolls Ship 42 For Flight 15" (Nov 12)
+
+## Artificial Intelligence | sting=ai
+// Story 6: AlphaGenome 2; AWS Emulator
+[andrew] Story six, A I. Google DeepMind released AlphaGenome 2, a model that predicts how small changes in your DNA affect genes in specific types of cells. It was trained on more than a hundred million cell profiles from sixty-eight tissues, and DeepMind says it finds nearly twice as many disease-relevant variants as the first version. It's for research only, not for clinical diagnosis.
+[andrew] And a sign of the times: Amazon released AWS Emulator, a free tool that lets developers test against copies of more than two hundred Amazon cloud services on their own computers. Amazon says A I agents wrote and maintain all of the code, with no manual review by its engineers. Supporters call it a milestone; skeptics will want to see how it holds up, and Amazon admits it can't yet fully mimic outages or service limits.
+> source: Google DeepMind, "AlphaGenome 2: Deciphering how cells read DNA to better understand disease" (Nov 11); The Verge (Nov 2026); The Neuron, "Everything That Happened in AI Today" (Nov 12)
+
+## Cybersecurity | sting=cyber
+// Story 7: ScreenConnect RMM+ extension
+[ava] Story seven, the cyber desk. Attackers used a flawed third-party add-on for ScreenConnect, the remote-support tool many I T shops use to manage customers' computers, to plant malware on at least two hundred eighty-eight machines at forty-eight organizations. Security firm Huntress says all of them were hit within ninety minutes. The add-on, called R M M Plus, would accept a blank access key, letting attackers run commands without ever logging in, so multifactor sign-in didn't help.
+[ava] ConnectWise, which makes ScreenConnect, says it found no flaw in ScreenConnect itself, and has disabled five of these extensions in about four hundred installations. The nasty twist: the malware tries to infect the technician who connects in to investigate. The lesson for the rest of us: if a support company has remote access to your computer, ask how they lock it down.
+> source: The Register, "Hackers exploiting ScreenConnect plugin flaw to spread malware across hundreds of PCs" (Nov 12); Huntress (Nov 11); ConnectWise security advisory (Nov 2026)
+
+## From Your X Feed | sting=x
+[ava] Story eight, from your X feed, politics left out. Your timeline lit up over Nvidia. Trung Phan joked that TSMC workers had lowered a leather jacket to half-staff outside a fab in Taiwan, a nod to Huang's trademark look. Shaun Maguire said the affair was obviously wrong, but Huang's contributions to American innovation can't be overstated.
+[andrew] And on that "hire Jensen" chatter, a user named FilmLadd pushed back, arguing SpaceX would be risking its security clearances by hiring someone viewed as a security risk.
+[ava] Off the Nvidia beat, the 25 Years Ago Live account is replaying November twelfth, two thousand one, when American Airlines Flight five eighty-seven crashed into Belle Harbor, Queens, two months after nine eleven. And Political Math made the case that Howard Shore's Lord of the Rings score is underrated.
+> source: Harry's X home timeline, Nov 12 (@TrungTPhan, @shaunmmaguire, @FilmLadd, @25YearsAgoLive, @politicalmath)
+
+## Local News & Events | sting=local
+// Story 9: Weekend events
+[ava] Story nine, your weekend close to home, from New Hampshire Public Radio's list. Saturday at eleven thirty, the Massabesic Audubon Center in Auburn holds a free Bioblitz, where you help naturalists find and record as many species as you can. Also Saturday, from nine to three, the fortieth annual Holiday Craft Fair at Concord Hospital, with more than a hundred tables and free parking.
+[ava] Saturday evening, Averill House Vineyards in Brookline pairs four novels with its wines; tickets start at fifty dollars. And Friday night, Raymond High School hosts a family pro wrestling show, twenty dollars, with kids under ten free.
+> source: NHPR, "Your weekend in NH: Storybooks, speed dating and secondhand ski gear" (Nov 11)
+
+## Uplifting Story | sting=feel
+[ava] And finally, a happy ending from Australia. A seventeen-year-old named William went missing Friday on his first camping trip on his own, in rugged bush country east of Melbourne. Hundreds of people searched for six days. This morning, their time, a police helicopter crew spotted his fishing tackle box and found him asleep on a rock in a dry riverbed. He woke up, waved, and pumped his fist.
+[ava] He'd stayed warm with two towels and rationed a family-size bag of chicken-flavored chips. Apart from sunburn and scratches, he's in good shape, and his first request was McDonald's. His mother said he's grounded for life and joked she'll hug him so much he'll need a restraining order.
+> source: ABC News Australia, "Police find teenager alive six days after he disappeared in Gippsland bush" (Nov 12); AP, "A missing teen is found alive after 6 days in the Australian woodlands" (Nov 12)
+
+## Close | sting=close
+[ava] That's your ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. At one, we'll have the midday market and the latest from Washington and Brooklyn.
+[ava] Thanks for listening to Gumshoe News Radio.
