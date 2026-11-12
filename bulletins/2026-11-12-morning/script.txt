@@ -1,0 +1,77 @@
+// Gumshoe script format: see README.md
+# title: Thursday Morning, Nov 12
+# description: The Thursday morning bulletin from Gumshoe News Radio for November 12, 2026: Londonderry weather with the full seven-day forecast; Democrat Scott Colom wins Mississippi's Senate seat, a second Epstein files petition hits 218, and a deadly building collapse in Brooklyn; U.S. envoys meet Putin in Moscow while Israel's cabinet orders preparations for a possible strike on Iran; Nvidia's board weighs ousting Jensen Huang and futures slip; DeepMind's A I proves Signal's encryption code secure; United Airlines blocks A I agents from booking flights; Google Calendar invites used to steal sessions past multifactor logins; your X feed; Londonderry approves the next phase of Woodmont Commons; and a record-breaking flock of pink flamingos. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Thursday, November twelfth, and this is Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. All eyes on Nvidia's boardroom today, and we'll get to that in the markets.
+[ava] First, Londonderry weather, with the full seven-day forecast.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 12 at airtime
+
+## US News | sting=us
+// Story 1: Colom wins Mississippi; Epstein petition
+[ava] Story one. Eight days after the election, the Associated Press has called Mississippi's Senate race for Democrat Scott Colom, who unseated Republican Senator Cindy Hyde-Smith by about forty-seven hundred votes out of nearly a million cast, roughly half a percentage point. Colom will be the state's first Democratic senator elected since nineteen eighty-two, and its first Black senator since Reconstruction.
+[ava] Hyde-Smith conceded in a video, saying she respects the decision of Mississippi voters and wishing Colom well. Democratic-leaning outlets are calling it the upset of the cycle; Republicans note the margin was razor thin in a state they still dominate. By MS NOW's count, it gives Democrats fifty-five Senate seats, with Alaska still uncalled.
+[ava] Also in Washington, Kentucky Republican Thomas Massie says his discharge petition for a second Epstein files transparency bill has reached two hundred eighteen signatures, enough to force a House vote, possibly in early December. Four Republicans signed on, along with two hundred fourteen Democrats. House leaders haven't said how they'll respond.
+> source: AP, "Democrat Scott Colom wins election to U.S. Senate from Mississippi" (Nov 11); AP, "Why AP called the Mississippi Senate race for Scott Colom" (Nov 11); MS NOW (Nov 11); DeSoto County News (Nov 11); Axios, "Massie gets 218 signatures for new bill" (Nov 11); ABC News (Nov 11)
+
+// Story 2: Brooklyn building collapse
+[ava] Story two. In Brooklyn, rescuers worked through the night after a three-story building in Flatbush, with a store downstairs and apartments above, partially collapsed into a construction excavation next door just after four o'clock yesterday afternoon. The fire department now says six people are dead and nineteen hurt, four critically, including seven children and a firefighter. The sixth body was recovered about six thirty this morning.
+[ava] Others may still be missing. City inspectors are checking neighboring buildings. The cause is under investigation, and attention is turning to the excavation work next door, though officials haven't said what went wrong.
+> source: ABC7 New York live updates, "6 dead, 19 hurt as search goes on" (Nov 12, 6:45 AM ET); AP, "Firefighters dig through rubble after NYC building collapse" (Nov 12); NBC New York (Nov 12)
+
+## International | sting=world
+// Story 3: Envoys in Moscow; Israel cabinet on Iran
+[ava] Story three. White House envoys Steve Witkoff and Jared Kushner arrived at the Kremlin this morning for talks with Vladimir Putin, their first since this week's Abu Dhabi meetings, which ended with a deal on what Kushner calls the largest prisoner exchange of the war. They're carrying proposals worked out with Ukraine and European partners, and are expected to ask Putin to let Europeans join future talks. Then it's on to Dublin to meet President Zelenskyy. Kushner himself says significant differences remain, especially over territory.
+[ava] In the Middle East, Israel's public broadcaster, KAN, reports that the security cabinet has told the military to step up preparations for a possible attack on Iran. A leading opposition figure, Gadi Eisenkot, urged caretaker Prime Minister Benjamin Netanyahu not to launch unnecessary operations before a new government forms after last month's election. The government hasn't confirmed the report. Iran's military responded that U.S. bases are within range of its missiles and drones.
+> source: AP, "US envoys go to meet Putin at the Kremlin following Ukraine talks in Abu Dhabi" (Nov 12); ABC News (Nov 12, 5:28 AM ET); The Moscow Times via Reuters (Nov 12); Anadolu Agency, "Israeli security cabinet orders military to prepare for possible attack on Iran: Report" (Nov 11); Al Jazeera (Nov 12); Jerusalem Post (Nov 11)
+
+## Markets | sting=markets
+// Story 4: Nvidia board; pre-market
+[andrew] Story four, the markets. Nvidia's board met late last night to decide whether to remove co-founder and C E O Jensen Huang. As of early this morning, no decision had been announced. The Wall Street Journal first reported the board was preparing to force him out, minutes after The New York Times reported a second extramarital relationship, this one with an Nvidia vice president who reported to him. That follows his admission of an affair with a woman U.S. intelligence reportedly believes is a Chinese spy. China calls that allegation baseless.
+[andrew] Semafor reports some directors favor finance chief Colette Kress as interim C E O. The counterpoint from Huang's defenders: he built a four-trillion-dollar company with no succession plan, and some analysts value the stock well above where it would trade without him. Bernstein and Baird have both cut their price targets to two hundred dollars. Nvidia reports earnings next Tuesday.
+[andrew] Nvidia was down five to six percent before the bell. Nasdaq one hundred futures were off about seven tenths of a percent, S&P futures down about three tenths, and Dow futures slightly higher. That threatens yesterday's rally, when the S&P closed up one point three percent, the Nasdaq one point six, and the Dow half a percent, on CoreWeave's big rebound. CoreWeave is giving back about seven percent this morning.
+[andrew] Oil is lower, with U.S. crude about eighty-six dollars, on hopes for the peace talks. Michael Saylor's Strategy is down about four percent after M S C I said it will drop the stock from its indexes. Still ahead: weekly jobless claims this morning, earnings from Cisco and Applied Materials after the close, and producer prices tomorrow. Traders see a Fed rate hike in December as a near certainty.
+> source: CNBC, "Nvidia board meeting to decide CEO Jensen Huang's fate stretches into evening" (Nov 11); Semafor, "Nvidia board prepares to oust CEO, name interim chief" (Nov 11); CBS News (Nov 11); CNBC Morning Squawk (Nov 12, 6:06 AM ET); Reuters via Investing.com, "Nasdaq, S&P 500 futures fall as Nvidia turbulence unsettles AI stocks" (Nov 12, 6:06 AM ET); Yahoo Finance live (Nov 12, 6:47 AM ET); TipRanks (Nov 12); Trading Economics (Nov 12)
+
+## Technology | sting=tech
+// Story 5: AlphaProof Code verifies Signal
+[andrew] Story five, tech. Google DeepMind says a new A I tool called AlphaProof Code has mathematically proven that key parts of Signal's encryption software do what they promise. Instead of just testing the code, the A I wrote millions of lines of formal proofs, checked by an independent proof checker, covering things like forward secrecy, meaning old messages stay safe even if a key is stolen later.
+[andrew] What makes it notable is that the proofs reach all the way down to the compiled machine code that actually runs on phones, a level that's usually too laborious for human experts. The caveat: a proof only covers the properties it was asked to check, so it's not a blanket guarantee.
+> source: Google DeepMind, "Introducing AlphaProof Code" (Nov 2026); WIRED, "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure" (Nov 2026); The Register (Nov 10)
+
+## Artificial Intelligence | sting=ai
+// Story 6: United blocks AI agents; Bowman warning
+[andrew] Story six, A I. United Airlines is blocking unauthorized A I agents from booking or changing flights on its website, app and through travel sites. You can still use a chatbot to research trips, but a human has to complete the purchase. United cites privacy, accidental bookings and federal requirements, like the hazardous-materials declaration on checked bags. C E O Scott Kirby was blunter: he doesn't want another middleman between the airline and its customers.
+[andrew] Critics say that's really about who controls the customer relationship, and United says it may revisit the policy as the technology matures. Separately, Fed Governor Michelle Bowman warned that heavy A I investment and debt could set up a market correction if the returns don't arrive, a timely note with Anthropic's huge stock offering on deck.
+> source: CNBC, "United Airlines moves to block AI agents from its platform over security concerns" (Nov 11); United Airlines Digital Trust Center; Engadget (Nov 2026); The Neuron, "Everything That Happened in AI Today" (Nov 12)
+
+## Cybersecurity | sting=cyber
+// Story 7: Google Calendar invite session hijacking
+[ava] Story seven, the cyber desk, and this one is aimed at Google accounts. Researchers at Material Security are tracking a campaign that sends Google Calendar invites, often from a real contact whose account has been hijacked, with dull themes like a voicemail notice, a missed payment or a court summons. The links run through genuine Google addresses, so filters see nothing wrong.
+[ava] They lead to a live copy of the Google sign-in page that passes your password and your multifactor approval straight through to Google, and the attacker walks away with your logged-in session. Text codes, authenticator apps and tap-yes prompts don't stop it. Material says it has taken down eight hundred ninety-seven attacker domains. The best defenses: be suspicious of unexpected invites that ask you to sign in, and consider a passkey or hardware security key, which this kind of relay can't fake.
+> source: Material Security, "Reputation Says It's Fine: How Calendar Invites and a Live MFA Proxy Steal Google Sessions" (updated Nov 2026); BleepingComputer, "Google Calendar phishing campaign hijacks sessions, bypasses MFA" (Nov 2026)
+
+## From Your X Feed | sting=x
+[ava] Story eight, from your X feed, politics left out.
+[ava] Jack Posobiec shared photos of his grandmother's nineteen fifty-five crossing on the S S America, with the menus and itinerary, on the day her sister ship went down. The S S United States, once the fastest liner on the seas and longer than the Titanic, was deliberately sunk yesterday in the Gulf of Mexico off Florida's Panhandle to become the world's largest artificial reef.
+[andrew] Gamers, mark your calendars. A post making the rounds notes Grand Theft Auto Six finally arrives one week from today, November nineteenth, which Rockstar confirms.
+[ava] And Variety reports Nicole Kidman will receive an honorary César, France's top film award, at the ceremony in Paris next February.
+> source: Harry's X home timeline, Nov 12 (@JackPosobiec, @interesting_aIl, @Variety); AP, "The historic SS United States is sunk after a long goodbye off Florida's coast" (Nov 11); Rockstar Games Newswire, "Grand Theft Auto VI is Now Set to Launch November 19, 2026"; Le Figaro (Nov 12)
+
+## Local News & Events | sting=local
+// Story 9: Woodmont Commons next phase
+[ava] Story nine, close to home. The Londonderry Town Council has approved the next phase of Woodmont Commons, more than three hundred homes on about one hundred twenty acres off Pillsbury Road. The vote Monday was four to one. The developers will chip in about one hundred thirty thousand dollars toward roughly four hundred seventy-six thousand in road work, including a right-turn lane at Pillsbury and Gilcreast, new stop signs at Michels Way, and a left-turn lane into one of the new neighborhoods.
+[ava] Councilor Dan Bouchard voted no, worried the town could get, in his words, the short end of the stick on the land-use-change tax. Chair Ron Dunn said all parties gave a little and got a little. The town won't allow more than twenty-five homes to be occupied until the Pillsbury Road turn lane is substantially built, with work starting in April. Woodmont is about halfway done, with completion expected in twenty thirty-seven.
+> source: New Hampshire Express, "Londonderry Approves Next Phase of Woodmont Commons, Developer to Fund Road Improvements" (Nov 11); Union Leader, "Londonderry approves 300-plus Woodmont Commons homes" (Nov 2026)
+
+## Uplifting Story | sting=feel
+[ava] And finally, a story in pink. On a beachfront lawn in Oak Island, North Carolina, a breast cancer charity called Pledge the Pink and its volunteers, mostly retirees who call themselves flock-stars, set out seven thousand six hundred fifty-four plastic lawn flamingos in one long, curling line, nearly three thousand feet of it.
+[ava] Guinness has made it official: a new world record for the longest line of garden flamingos, nearly doubling the mark held by a parks group in Buffalo. Each bird stood for a hundred-dollar donation, and the event raised more than seven hundred thousand dollars for cancer screening and treatment for people without good insurance.
+> source: Guinness World Records, "Cancer charity covers American lawn with record-breaking flock of 7,500+ garden flamingos" (Nov 11)
+
+## Close | sting=close
+[ava] That's your Thursday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. At ten, we'll have the opening bell and any word from Nvidia's board.
+[ava] Thanks for listening to Gumshoe News Radio. Have a great Thursday.
