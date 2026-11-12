@@ -1,0 +1,79 @@
+// Gumshoe script format: see README.md
+# title: Thursday 1 PM Update, Nov 12
+# description: The Thursday 1 p.m. update from Gumshoe News Radio for November 12, 2026: Londonderry weather through tomorrow; the Logan Circle gunman is dead after killing one person and wounding four; two children among the eight killed in the Brooklyn collapse; Senate Democrats open a probe of R F K Junior's Samoa testimony; new Ukraine talks with Europeans agreed and an Israeli strike on a Gaza hospital; stocks reverse higher despite Nvidia's slide as the ten-year yield tops five percent; Runway opens its robot model and Gemini comes to CarPlay; Google's Decisions A P I and OpenAI's warning on monitoring A I reasoning; the SignDrop Windows zero-day; your X feed; the Wild River Fire and a new Greyhound route; and a cat rescue powered by a divorcee's spite. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's one o'clock on Thursday, November twelfth, and this is your Gumshoe News Radio midday update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. Wall Street shook off its Nvidia jitters this morning. That's coming up.
+[ava] First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 12 at airtime
+
+## US News | sting=us
+// Story 1: Logan Circle resolution
+[ava] Story one: the standoff in Washington is over. Police say the man behind this morning's shooting in the Logan Circle neighborhood is dead from a self-inflicted gunshot wound. Interim police chief Jeffery Carroll says the gunman killed a man inside the Vida Fitness gym, then shot four more people nearby, one of whom is in critical condition. The other three are expected to recover.
+[ava] Officials told NBC News he appeared to target one specific person in the gym before firing outside. He then barricaded himself in what police believe was his own seventh-floor apartment, fired through the door at officers at least twice, and shot himself while on the phone with negotiators. Police have not released his name. The chief said he'd been in a dispute with his building's homeowners association, but the motive is still under investigation. The shelter-in-place order was lifted around eleven thirty-five. Mayor Muriel Bowser called it a senseless act of gun violence.
+> source: AP, "5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself" (Nov 12); NBC News live blog (Nov 12, 11:47 AM ET); Axios Washington D.C. (Nov 12); WUSA9 (Nov 12)
+
+// Story 2: Brooklyn collapse update
+[ava] Story two. In Brooklyn, Mayor Zohran Mamdani says two children, reported to be a nine-year-old girl and a ten-year-old boy, are among the eight people killed in the Flatbush building collapse. Two of the adults who died were construction workers. Eighteen people were hurt, including four firefighters; one person remains in critical condition.
+[ava] The fire commissioner stressed this is still a rescue operation, not a recovery, and crews are now using grapplers to lift big slabs so they can search underneath. Rain and thunderstorms moving into New York this afternoon could make that harder. The city has halted work at the excavation site next door, and the cause is under investigation.
+> source: AP, "Brooklyn building collapse killed 2 children and 6 adults, mayor says" (Nov 12); NBC New York live blog (Nov 12); New York Post live updates (Nov 12, 12:07 PM ET); AccuWeather (Nov 12)
+
+// Story 3: RFK Jr. Samoa probe
+[ava] Story three. Senate Democrats have opened an investigation into whether Health Secretary Robert F. Kennedy Junior misled Congress about a two thousand nineteen trip to Samoa, months before a measles outbreak there killed eighty-three people, mostly young children. At his confirmation hearings, Kennedy testified the trip had nothing to do with vaccines. But letters obtained by the Associated Press and the Guardian show he wrote Samoa's prime minister beforehand saying he wanted to study the measles, mumps and rubella vaccine there.
+[ava] Senators Ron Wyden and Angela Alsobrooks are demanding records from Children's Health Defense, the group Kennedy used to lead, by December fourth. The letter isn't a subpoena, but Wyden becomes Finance Committee chair when Democrats take the Senate in January. The other side: Kennedy says he never discouraged anyone in Samoa from getting vaccinated, and his department has called any claim that he lied under oath false and defamatory, though it hasn't explained the gap between the letter and his testimony.
+> source: The Guardian, "Senator opens investigation into evidence RFK Jr 'unlawfully lied' to Congress" (Nov 12); AP, "Senators probing RFK Jr.'s testimony on Samoa trip after AP and Guardian showed documents refute it" (Nov 12)
+
+## International | sting=world
+// Story 4: Ukraine talks; Gaza hospital strike
+[ava] Story four, the world. After their Kremlin meeting, U.S. envoys Steve Witkoff and Jared Kushner say the sides agreed to another round of Ukraine talks, and the U.S. wants Europeans at the table this time. The Guardian's account says Putin struck a notably tough tone and repeated demands Ukraine and Europe are unlikely to accept. The envoys are now headed to Dublin to brief President Zelenskyy, who is there for a summit of more than forty-five European leaders. Zelenskyy is warning Europe to be wary of what he called strange attempts to set up a new security framework with Russia.
+[ava] In Gaza, an Israeli airstrike hit Nasser Hospital in Khan Younis, one of the territory's main working hospitals. Gaza's Health Ministry says six people were killed, including a surgeon and a thirteen-year-old boy, and at least twenty-eight were wounded. Israel's military says it targeted the commander of Hamas's Khan Younis Brigade, who it says was using the hospital as a command center; Hamas denies that, and the A P reports the commander wasn't among the dead. Britain's Telegraph calls it the first Israeli strike on a Gaza hospital since the ceasefire took hold last October.
+> source: The Guardian Ukraine live, "New talks with Russia, Ukraine and European countries agreed, US says" (Nov 12); AP (Nov 12); Euronews (Nov 12); Kremlin transcript (Nov 12); AP, "Israeli strike on Gaza hospital kills 6 people" (Nov 12); Reuters via Devdiscourse (Nov 12); Times of Israel (Nov 12); The Telegraph (Nov 12)
+
+## Markets | sting=markets
+// Story 5: Midday markets
+[andrew] Story five, the midday markets. Wall Street turned around. After opening lower on Jensen Huang's resignation, the major indexes moved into the green by late morning. Shortly before one o'clock, the Dow was up about three tenths of a percent, the S&P five hundred about two tenths, and the Nasdaq about a tenth. The read from the A P: investors see limited fallout for the broader A I industry from Huang's exit.
+[andrew] Nvidia itself is still down about five percent, after falling as much as fourteen percent at the open. Rivals A M D and Broadcom are each up around seven percent. Nebius is down about fifteen percent, partly because its revenue forecast came in at the low end of expectations, while Intel and Micron are lower.
+[andrew] The bigger worry may be interest rates. The ten-year Treasury yield is back above five percent, at about five point oh seven, and the two-year jumped eleven basis points. Oil is firmer, with Brent around ninety-three dollars, after President Trump said the U.S. doesn't need a deal with Iran. Futures traders now see a December Fed rate hike as a sure thing after Tuesday's hot inflation report, and Goldman Sachs has added another hike in March to its forecast. Higher rates are biting housing: existing-home sales fell to their lowest level in more than sixteen years last month. Next up: Cisco and Applied Materials report after the bell, and wholesale inflation comes out tomorrow morning.
+> source: Yahoo Finance live, "Dow, S&P 500, Nasdaq turn higher as Nvidia stock slides" (Nov 12, 12:47 PM ET); Il Sole 24 Ore Radiocor via Borsa Italiana, "US midday shares higher despite Nvidia leadership change" (Nov 12); AP (Nov 12); Investor's Business Daily (Nov 12, 12:16 PM ET); CNBC, "10-year Treasury yield jumps back above 5%" (Nov 12)
+
+## Technology | sting=tech
+// Story 6: Runway Praxis-1 open weights; Gemini on CarPlay
+[andrew] Story six, tech. The video A I company Runway has released its robot-control model, Praxis-1, as open source under a license that allows commercial use. It's a twenty-seven-billion-parameter model that learns largely from ordinary web video and predicts a robot's next moves. Runway says it tops an Nvidia robotics leaderboard, though those are Runway's own simulation numbers.
+[andrew] And for iPhone drivers, Google's Gemini assistant now works on Apple CarPlay, so you can hold hands-free conversations from the dashboard and ask it for a daily briefing from your Gmail and calendar. It's rolling out worldwide.
+> source: Runway, "Praxis-1 is available" (Nov 2026); Google, "Bringing Gemini to Apple CarPlay" (Nov 2026); SEN-X Daily Briefing (Nov 12)
+
+## Artificial Intelligence | sting=ai
+// Story 7: Gemini Decisions API; OpenAI monitorability research
+[andrew] Story seven, A I. Google launched what it calls the Gemini Decisions A P I, powered by a new model, Gemini Decision one. Instead of writing out answers, it handles quick multiple-choice and yes-or-no judgments, up to a thousand questions in one pass, in a fifth of a second, with a confidence score on each. Think of the small calls A I agents make constantly: which tool to use, or whether a message breaks a rule. Google says it's about five times cheaper than its lightest chat model for that work.
+[andrew] And a sobering note from OpenAI. Its safety researchers published a study finding that its newest model, G P T six Astra, is harder to monitor by reading its step-by-step reasoning, and better at reasoning without showing its work at all. Their words: "These results are sobering." Reading a model's reasoning has been one of the main ways to catch an A I going off the rails, so OpenAI says monitoring will need new approaches.
+> source: Google, "Gemini Decisions API" announcement (Nov 11); OpenAI, "Chain-of-thought monitorability across the model lifecycle" (Nov 10); SEN-X Daily Briefing (Nov 12); The Neuron (Nov 12)
+
+## Cybersecurity | sting=cyber
+// Story 8: SignDrop
+[ava] Story eight, the cyber desk. A researcher known for publicly dumping Windows exploits has released one called SignDrop. It claims to let someone with an ordinary user account on a Windows PC take full system-level control, by abusing a protection Microsoft added last year to the Windows log-file system. There's no patch, no official C V E number yet, and Microsoft hasn't confirmed it. The researcher's claim that about eighty percent of Windows machines are exposed is an estimate, not a measured count.
+[ava] The important limit: this isn't a break-in from the internet. An attacker already needs to be running code on your machine. Experts say don't switch off the protection to dodge it, since that reopens older attacks. Keep Windows updated and watch for a fix, likely on a future Patch Tuesday.
+> source: BleepingComputer, "New Windows SignDrop zero-day gives hackers SYSTEM privileges" (Nov 12); Cyber Security News, "Windows SignDrop 0-Day Exploit Lets Attackers Gain SYSTEM Privileges" (Nov 11); Microsoft Learn, CLFS logfile authentication
+
+## From Your X Feed | sting=x
+[ava] Story nine, from your X feed, politics left out. The Nvidia jokes keep coming. Trung Phan posted a picture captioned Lisa Su taking the American semiconductor crown from her cousin; the A M D chief and Huang are reportedly distant relatives. Political Math simply posted A M D shareholders watching the news.
+[andrew] On the A I front, Alexandr Wang announced that his Muse assistant can now make phone calls for you, to the insurance company, the cable company or the D M V, for paid subscribers.
+[ava] And for fun, Wade Stotts shared a nineteen thirty-seven letter in which J R R Tolkien answered a children's author who'd spotted two possible scribal errors in The Hobbit, starting with how delighted the scribe was to be noticed.
+> source: Harry's X home timeline, Nov 12 (@TrungTPhan, @politicalmath, @alexandr_wang, @wadestotts)
+
+## Local News & Events | sting=local
+// Story 10: Wild River Fire; Greyhound Keene-Boston
+[ava] Story ten, closer to home. The Wild River Fire in the White Mountain National Forest, near Evans Notch southeast of Gorham, is holding at fifty-nine percent contained across eight hundred seventeen acres. The Forest Service says fire activity is minimal, mostly smoldering leaf litter, and it has scaled the response down. Fifty-eight people are still working it, the closure order remains in effect, and officials believe it was human-caused.
+[ava] And a new bus option: Greyhound announced direct service from Keene and Peterborough to Boston starting mid-November, twice a day, with stops in Nashua and Lowell. The morning bus leaves Keene at seven and reaches South Station at nine fifty. It's Greyhound's first-ever service in Peterborough.
+> source: WMTW, "Wild River Fire in White Mountain National Forest now nearly 60% contained" (Nov 12, 11:55 AM ET); Keene Sentinel, "Greyhound to start new direct service from Keene and Peterborough to Boston" (Nov 12)
+
+## Uplifting Story | sting=feel
+[ava] And finally, revenge, served warm and fuzzy. A cat rescue in Saskatoon, Canada, got an offer from a supporter who had come into some money in her divorce. She'd match up to ten thousand dollars in donations, because, as she put it, spending it on rescue cats would irritate her husband. The rescue called the campaign Spite for Strays.
+[ava] Its tongue-in-cheek Facebook post went around the world, with donations from Sweden, Britain, Croatia and nearly every U.S. state. They passed the goal in seventy-two hours and have raised nearly three times the match. The rescue, which spent more than half a million dollars on vet bills last year, says it's a big relief, and it's promising an interview with the anonymous donor soon.
+> source: 980 CJME, "Pet-ty philanthropy: Spite-fuelled fundraiser draws global donations" (Nov 12)
+
+## Close | sting=close
+[ava] That's your midday update. I'm Ava.
+[andrew] And I'm Andrew. At four, we'll have the closing bell and Cisco's numbers if they're out.
+[ava] Thanks for listening to Gumshoe News Radio.
