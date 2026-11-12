@@ -1,0 +1,72 @@
+// Gumshoe script format: see README.md
+# title: Thursday 4 PM Update, Nov 12
+# description: The Thursday 4 p.m. update from Gumshoe News Radio for November 12, 2026: Londonderry weather through tomorrow; a third alleged affair surfaces as Nvidia's Jensen Huang exits, and two top congressional Democrats open a probe of Nvidia chip export approvals; New York orders inspections at about 100 construction sites tied to the Brooklyn collapse; Moscow plays down new Ukraine talks and Iran weighs leaving the nuclear treaty; stocks slip into the close as the ten-year yield holds above five percent; a big Microsoft outage; Google's Gemini 4 Hydrogen; the Gootloader malware takedown and a Chrome patch reminder; your X feed; Londonderry football history, the House speaker race and a Nashua recount; and an eleven-year-old who bought fifty turkeys. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's four o'clock on Thursday, November twelfth, and this is your Gumshoe News Radio afternoon update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. Stocks gave back their midday gains, and Microsoft had a rough afternoon. That's ahead.
+[ava] First, Londonderry weather through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 12 at airtime
+
+## US News | sting=us
+// Story 1: Huang fallout + Wyden/Neal probe
+[ava] Story one: the fallout from Jensen Huang's exit at Nvidia keeps widening. Reuters reported this afternoon that Huang also had an intimate relationship with a second Nvidia employee, which would make three alleged affairs in all. Reuters isn't naming her, and Nvidia declined to comment. CNBC reports Huang has agreed to testify before Congress before Thanksgiving about the national security questions around his relationship with Alice Huang, the businesswoman U.S. intelligence suspects of working for China. Beijing denies she's a spy. Interim chief executive Colette Kress has called an all-hands meeting for next Wednesday, and Nvidia still plans to report earnings next Tuesday as scheduled.
+[ava] In Washington, the top Democrats on the Senate Finance and House Ways and Means committees, Ron Wyden and Richard Neal, opened an investigation into the administration's approval of advanced Nvidia chip sales to Chinese companies. Under that arrangement, chips made in Taiwan were routed through the U.S. and charged a twenty-five percent tariff before export licenses were granted. The two lawmakers call it an unconstitutional export tax dressed up as national security, and cite press reports that the president and Commerce Secretary Howard Lutnick were briefed on Huang's relationship before approving the sales. For now they're asking Commerce to preserve records. Those briefing reports come from press accounts and haven't been confirmed, and the administration hasn't publicly responded to the letter.
+> source: Reuters via TechCrunch, "Jensen Huang was having a third affair, Reuters reports" (Nov 12); Reuters via Investing.com, "Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster" (Nov 12, updated 3:30 PM ET); NVIDIA Newsroom, "NVIDIA Announces CEO Transition" (Nov 12); Senate Finance Committee press release, Wyden and Neal (Nov 12)
+
+// Story 2: Brooklyn inspections
+[ava] Story two. In Brooklyn, the toll from the Flatbush building collapse stands at eight dead, including two children, and eighteen hurt. At an afternoon briefing, Mayor Zohran Mamdani said the city has identified five companies tied to the excavation next door, and those companies are connected to about a hundred other construction sites across the city. Building inspectors began sweeping those sites today. Fire Commissioner Lillian Bonsignore says crews are still in search-and-rescue mode, and the rain will slow them down but won't stop them until they're sure no one else is trapped. The cause hasn't been determined; the developers had active permits for the excavation work.
+> source: amNewYork, "Mamdani announces inspections at 100 sites linked to disaster that killed 8" (Nov 12); CBS New York (Nov 12); NBC New York live blog (Nov 12); Washington Post (Nov 12)
+
+## International | sting=world
+// Story 3: Russia plays down talks; Iran NPT
+[ava] Story three, the world. A splash of cold water on this morning's optimism about Ukraine. After envoy Steve Witkoff said Russia, Ukraine and the Europeans would sit down together, Moscow played down the prospect, saying Europe should stop its military support for Ukraine. The talks in Abu Dhabi produced agreement in principle on a large prisoner exchange, but no breakthrough on ending the war, and Russian drones struck Kyiv overnight, killing a woman in an apartment block.
+[ava] And in Iran, the clerical body known as the Assembly of Experts said considering withdrawal from the Nuclear Nonproliferation Treaty is now an unavoidable necessity, citing what it calls repeated threats against the country. That's a statement, not a decision. Meanwhile the Wall Street Journal reports Vice President J D Vance is weighing face-to-face talks with Iranian security chief Mohsen Rezaei, though U.S. officials stress those discussions are preliminary.
+> source: Euronews, "Russia plays down peace talks with Europe after Witkoff raises hopes of breakthrough" (Nov 12); Just Security Early Edition, citing Reuters and AP (Nov 12); AP, "Israel hits Gaza hospital and France turns away a settler leader, and other Mideast news" (Nov 12); FDD Overnight Brief, citing WSJ (Nov 12)
+
+## Markets | sting=markets
+// Story 4: Into the close
+[andrew] Story four, the markets. That midday rebound didn't hold. In the final minutes of trading, the Dow was down about two tenths of a percent, the S&P five hundred about three tenths, and the Nasdaq about half a percent. Final closing numbers weren't out at airtime.
+[andrew] Nvidia was down around five percent late in the session, well off its low of about thirteen percent, while A M D and Broadcom held gains near six percent. The bigger weight was interest rates: the ten-year Treasury yield stayed above five percent as traders priced in more Fed rate hikes after Tuesday's hot inflation report. Chicago Fed President Austan Goolsbee told a Yahoo Finance conference, quote, "We're at a precarious moment." Brent crude is near ninety-four dollars, and bitcoin slid below seventy-two thousand.
+[andrew] What's next: Cisco reports right after the bell, with analysts looking for about a dollar thirty-three a share on eighteen point one billion in revenue. Wholesale inflation comes out tomorrow morning, Nvidia reports Tuesday, and An-thropic's planned stock market debut is next week, which Yahoo Finance notes now carries even more pressure to go smoothly.
+> source: Yahoo Finance live, "S&P 500, Nasdaq fall as Nvidia CEO exit, rising bond yields roil markets" (Nov 12, as of 3:56 PM ET); Yahoo Finance Nvidia live updates (Nov 12, 3:39 PM ET); Economies.com (Nov 12); Stifel company news, Cisco earnings preview (Nov 12)
+
+## Technology | sting=tech
+// Story 5: Microsoft outage
+[andrew] Story five, tech. If Outlook or Teams went sideways on you this afternoon, you weren't alone. Microsoft had a widespread outage hitting Outlook, Teams, Copilot and other Microsoft three sixty-five services. Downdetector logged more than a hundred thirty thousand U.S. reports of Outlook problems at the peak, around one fifteen our time. Microsoft says it wasn't a traffic surge: a number of servers unexpectedly dropped offline, straining the rest. By about three o'clock it said all affected servers had been restarted and it was testing a configuration fix. If you're still having trouble, it's on Microsoft's end.
+> source: BBC News, "Microsoft users report outages amid tech giant 'connectivity issues'" (Nov 12); TechCrunch, "Microsoft's Outlook email hit by new outage" (Nov 12); Euronews (Nov 12)
+
+## Artificial Intelligence | sting=ai
+// Story 6: Gemini 4 Hydrogen
+[andrew] Story six, A I. Google released Gemini Four Hydrogen, a fast, cheaper model built for everyday coding and agent tasks. Google says it actually edges out its pricier Argon model on one independent intelligence index, finishes tasks about two and a half times faster than the Flash model it replaces, and makes up facts more than five times less often. It costs developers a dollar fifty per million input tokens. It's rolling out today in the Gemini app, in Google Search for everyone, and in Sheets for paid subscribers. As always, those benchmark claims are Google's own.
+> source: Google, "Introducing Gemini 4 Hydrogen" (Nov 12); TechCrunch, "Google's latest Search upgrade promises better answers to your most complicated questions" (Nov 12)
+
+## Cybersecurity | sting=cyber
+// Story 7: Gootloader takedown; Chrome reminder
+[ava] Story seven, the cyber desk. The Justice Department and F B I announced they've knocked out the Gootloader malware network, scrubbing it from more than a hundred servers, many of them hijacked WordPress websites, and seizing the domains used to run it. Gootloader typically tricks people into downloading a file from a booby-trapped site, then sells access to their computers to ransomware gangs. Since twenty eighteen it's infected at least twenty-five thousand machines and been linked to about twenty-nine million dollars in U.S. losses. It was part of Europe's Operation Endgame, alongside takedowns of two other malware families.
+[ava] And a quick reminder: the federal cyber agency CISA says a Chrome flaw patched on Monday is being actively exploited. A booby-trapped web page alone can trigger it. Open Chrome's settings, go to About Chrome, and restart once it updates; Edge and other Chromium browsers should update too.
+> source: U.S. Department of Justice, "Gootloader Malware Disrupted in International Cyber Operation" (Nov 12); BleepingComputer, "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure" (Nov 12); Cyber Security News, "CISA Warns of Google Chromium 0-Day Vulnerability Actively Exploited in Attacks" (Nov 12)
+
+## From Your X Feed | sting=x
+[ava] Story eight, from your X feed, politics left out. On this date twenty-five years ago, American Airlines Flight five eighty-seven crashed in Queens. The 25 Years Ago Live account recalled that among the dead was Hilda Yolanda Mayol, who had escaped the North Tower on September eleventh just sixty-one days earlier.
+[andrew] Trung Phan had another stat for the A M D crowd: he says A M D's market value is up about a hundredfold, to around nine hundred fifty billion dollars, since a TV reporter at a twenty eighteen Formula One race asked Lisa Su whether she could speak English. Those are his round numbers.
+[ava] With Microsoft down, Prison Mitch joked he'd have to write his employees' year-end reviews all by himself. Tesla posted that there's life before experiencing Full Self-Driving Supervised, and life after. And pitdesi shared proof that the best estimate of the number of ants in the kitchen was, in fact, not two.
+> source: Harry's X home timeline, Nov 12 (@25YearsAgoLive, @TrungTPhan, @Prisonmitch, @Tesla, @pitdesi)
+
+## Local News & Events | sting=local
+// Story 9: Lancers record; Simpson; Nashua
+[ava] Story nine, closer to home. Londonderry quarterback Sully Daron is now the school's career passing leader. He set the mark with a forty-one-yard touchdown to Owen Crafts in the Lancers' thirty-five to six playoff win over Merrimack, finishing with four touchdown passes. Londonderry plays Pinkerton Academy tomorrow night in the Division One quarterfinals.
+[ava] In Concord, House Democrats, who'll hold a big majority in January, picked their leader Alexis Simpson of Exeter as their nominee for speaker, two hundred to seventy-five, over Representative Jim Maggiore of North Hampton, who argued she hasn't been collaborative enough. Simpson says property taxes, housing and child care are the priorities. The full House votes December second. And in Nashua, a recount on the city's tax cap ballot question is set for Saturday at Nashua High School South.
+> source: Daily Nashua, citing New Hampshire Union Leader and Manchester Ink Link (Nov 12); New Hampshire Bulletin, "NH House Democrats nominate Simpson to be next speaker ahead of Dec. 2 vote" (Nov 12)
+
+## Uplifting Story | sting=feel
+// Story 10: Elijah-King turkeys
+[ava] And finally, story ten. A Mississippi nonprofit set out to give away a hundred Thanksgiving turkeys and made it a contest, with a golden turkey trophy for whoever donated the most. Eleven-year-old Elijah-King told his mom he didn't want to help an adult; he wanted to lead. He spent every dollar he could find, bought turkey after turkey, and stayed on top of the leaderboard the whole time, ahead of the grown-ups, with fifty turkeys.
+[ava] Somewhere along the way, he says, it stopped being about the trophy. In his words, all these turkeys are going to people who really need this. The drive ended up with a hundred forty-four, well past the goal, and Elijah gets his trophy at the Friendsgiving meal on Saturday.
+> source: WDAM, "One boy, 50 turkeys: 11-year-old wins Turkey donation challenge" (Nov 12)
+
+## Close | sting=close
+[ava] That's your afternoon update. I'm Ava.
+[andrew] And I'm Andrew. Tomorrow morning: Cisco's numbers and the wholesale inflation report.
+[ava] Thanks for listening to Gumshoe News Radio.
