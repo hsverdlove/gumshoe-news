@@ -1,0 +1,78 @@
+// Gumshoe script format: see README.md
+# title: Friday Morning, Nov 13
+# description: The Friday morning bulletin from Gumshoe News Radio for November 13, 2026: York, Maine weather with the full seven-day forecast; a Senate panel asks Jensen Huang to testify as Nvidia staffers push for his return, Brooklyn's collapse investigation turns to cracks flagged in March, and Chris Van Hollen challenges Chuck Schumer; Europe joins the next round of Ukraine talks while Iran claims a strike on a U.S. radar in Bahrain; futures steady ahead of wholesale inflation, with Cisco and Applied Materials outlooks; Microsoft's outage stretches into a second day; a Claude login outage and a lawsuit to pause frontier A I; the SilentAir telecom spies who intercepted text-message codes; your X feed; York Ambulance's money gap and weekend events at Old York; and a first space station commander's surprise for a young rocket fan. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Friday, November thirteenth, yes, Friday the thirteenth, and this is Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Wholesale inflation numbers drop at eight thirty, and Microsoft still hasn't fully fixed its outage. We'll get to both.
+[ava] First, the weather. Your phone puts you in York, Maine this morning, so here's the York forecast, with the full seven days.
+@weather
+> source: National Weather Service forecast for York, ME (api.weather.gov), retrieved Nov 13 at airtime
+
+## US News | sting=us
+// Story 1: Nvidia fallout in Washington
+[ava] Story one. The fallout from Jensen Huang's exit at Nvidia has reached the Senate Banking Committee. Chairman Tim Scott, a South Carolina Republican, sent letters asking Huang to testify publicly on December third and Commerce Secretary Howard Lutnick on December tenth, citing national security concerns around Huang's relationship with a woman U.S. intelligence suspects of working for China. Scott wrote that if they don't appear voluntarily, the committee is prepared to use subpoenas.
+[ava] Inside Nvidia, the mood is different. WIRED reports an internal suggestion-box post urging the board to weigh employee sentiment has drawn more than sixteen hundred comments, most of them asking for Huang to be brought back under the banner "bring back THE boss." The other side: the board, now chaired by former Synopsys chief Harvey Jones, moved after three reported affairs, including one with a direct report,. Investing dot com reports President Trump floated former Apple chief Tim Cook as a possible successor; Nvidia hasn't commented on candidates.
+> source: Bloomberg Law, "Scott Asks Huang, Lutnick to Testify Before Senate Banking Panel" (Nov 12); WIRED, "'Bring Back THE Boss': Nvidia Employees Petition for Jensen Huang's Return" (Nov 12); Investing.com, "Huang ouster fallout; Cisco, Applied Materials outlooks" (Nov 13, 5:29 AM ET)
+
+// Story 2: Brooklyn collapse investigation
+[ava] Story two. In Brooklyn, the search at the Flatbush Avenue collapse is over, with no more victims found. The toll stands at eight dead, including two children, and eighteen hurt.
+[ava] Spectrum News NY1 found that a site survey filed with the city in March, before excavation began next door, documented visible cracks on three sides of the building that later fell. Mayor Zohran Mamdani said he was "incredibly troubled." The buildings commissioner, Ahmed Tigani, says those cracks never led to violations or three-one-one complaints. Next, investigators want the readings from the vibration monitors that were part of the excavation's safety plan.
+> source: Gothamist, "With search for victims over, NYC officials look to what caused fatal building collapse" (Nov 13); Spectrum News NY1, "Cracked facade flagged months before building collapse: DOB records" (Nov 12); News 12 Brooklyn (Nov 13)
+
+// Story 3: Van Hollen vs Schumer
+[ava] Story three. Despite their big midterm wins, Senate Democrats now have a leadership fight. Maryland Senator Chris Van Hollen says he'll challenge Chuck Schumer for majority leader, saying voters called for change, not just from the president's policies but from a status quo that isn't working. He calls himself the underdog but claims more than ten senators. Schumer's reply was short: "I have the votes." Schumer has more public backers so far, including Maine's Angus King, while at least six incoming senators say they won't back him. Senate Democrats vote by secret ballot on December first.
+> source: Axios, "Chris Van Hollen to challenge Schumer for Senate majority leader" (Nov 13); Van Hollen Senate press release (Nov 12); NBC News (Nov 12)
+
+## International | sting=world
+// Story 4: Ukraine talks expand; Iran radar claim
+[ava] Story four, the world. After meeting Vladimir Putin in Moscow, White House envoy Jared Kushner said Russia and Ukraine have agreed to bring European countries into the next round of negotiations. He and Steve Witkoff then flew to Dublin, where President Zelenskyy said the agenda will include steps toward de-escalation and possible ceasefires, and that Russia has agreed to what he called the largest prisoner exchange of the war. The fighting goes on: Russia says about twelve hundred Ukrainian drones targeted it overnight, while Ukraine reports strikes on a hospital and the port of Odesa.
+[ava] In the Gulf, Iran's Revolutionary Guard says it destroyed a U.S. early-warning radar in Bahrain, home of the Navy's Fifth Fleet, in retaliation for what it says was an American strike on a telecom tower in southern Iran. That claim is unverified; Washington and Bahrain hadn't commented, and some analysts on X note the satellite images Iranian media posted look identical to ones published in June, which also hasn't been confirmed. The backdrop: President Trump said yesterday the U.S. no longer needs a deal with Iran, took Vice President Vance off Iran diplomacy, and said Gulf allies asked him to hold off on broader strikes. Qatar and Pakistan are still trying to mediate.
+> source: The Guardian, "Ukraine war briefing: Europe to join negotiations, says Kushner" (Nov 13); Anadolu Agency, "Morning Briefing: Nov. 13"; Al Jazeera, "Russia and Ukraine report overnight attacks amid US diplomatic push" (Nov 13); AP, "Iran's Revolutionary Guard says it destroyed a US radar in Bahrain" (Nov 13); Euronews, "IRGC says it destroyed US radar in Bahrain after attack on southern Iran" (Nov 13); Gulf News (Nov 13)
+
+## Markets | sting=markets
+// Story 5: Futures, Cisco, AMAT, PPI
+[andrew] Story five, the markets. Yesterday all three major indexes closed down about four tenths of a percent: the Dow at fifty-two thousand two ninety-seven, the S&P five hundred at seventy-five ninety-two, and the Nasdaq at twenty-five thousand three sixty-six.
+[andrew] This morning futures are steady. As of about five forty, Dow futures were up about two tenths, S&P futures up a tenth, and Nasdaq futures roughly flat. Nvidia is bouncing a bit over two percent before the bell.
+[andrew] Overnight earnings told a good-news, bad-news A I story. Cisco beat, with record quarterly revenue of about eighteen and a half billion dollars, and raised its full-year outlook, but the stock is down about two percent premarket because profit margins narrowed on cheaper A I networking gear and pricier memory, and order growth slowed. Applied Materials also guided above estimates.
+[andrew] The big number lands at eight thirty: October producer prices, expected up four tenths of a percent after September's one point three. After Tuesday's hot consumer inflation report, traders are betting on a Fed rate hike in December, possibly a half point. The dollar is near a nineteen-month high, Treasury yields are edging up again, and gold is back around thirty-nine hundred dollars after hitting a thirteen-month low.
+> source: AP, "How major US stock indexes fared Thursday 11/12/2026"; TipRanks, "Stock Market Today, Nov. 13: U.S. Stocks Wobble Ahead of PPI Data" (5:42 AM ET); Dow Jones via Morningstar, "North American Morning Briefing" (Nov 13); Investing.com, "Why is Cisco stock sliding today?" (Nov 13); Benzinga (Nov 13); Investing.com, "Huang ouster fallout; Cisco, Applied Materials outlooks" (Nov 13)
+
+## Technology | sting=tech
+// Story 6: Microsoft outage day 2
+[andrew] Story six, tech. Microsoft's outage is now in its second day. Outlook, Teams and Copilot problems that began yesterday afternoon have hit users in more than seventy countries. Around two thirty this morning, Microsoft said a configuration patch was showing positive results on part of its network, but a later update admitted some fixes weren't taking as expected. The company says it has no indication of malicious activity, and executive Charles Lamanna says it doesn't appear to be a cyberattack. One caution from Sophos: expect scammers to send fake "Microsoft fix" emails and texts, so don't click links promising to restore your account.
+> source: AP, "Microsoft struggles to restore services as outage hits companies and governments worldwide" (Nov 13); NBC News live blog (Nov 13, 6:41 AM ET); Euronews, "Microsoft outage explained" (Nov 13); The Independent (Nov 13); Investing.com (Nov 13)
+
+## Artificial Intelligence | sting=ai
+// Story 7: Claude outage; lawsuit to pause frontier AI
+[andrew] Story seven, A I. Microsoft wasn't the only outage. Anthropic's Claude went down early this morning for many users, who couldn't log in to the Claude app or Claude Code, starting just before five o'clock our time. Anthropic deployed a fix about an hour later and says it's monitoring recovery. It hasn't given a cause.
+[andrew] Also: a coalition of nonprofits has sued OpenAI, Anthropic, Google, Meta and SpaceX, asking a court to halt development of any models more capable than what they have now, citing the labs' own warnings about extreme risks. The companies haven't responded publicly, and legal observers will be watching whether a court even takes up a request that broad.
+> source: Claude status page (Nov 13, 09:58 and 11:05 UTC); The Economic Times (Nov 13); Windows Report (Nov 13); The Neuron, "Everything That Happened in AI Today, Friday, November 13"
+
+## Cybersecurity | sting=cyber
+// Story 8: SilentAir
+[ava] Story eight, the cyber desk. A telecom security firm called Enea has uncovered a spying group it calls SilentAir, which hacked equipment inside mobile carriers in at least six Asian countries and used it to reroute selected people's calls and texts, mostly targeting users in Taiwan. For some targets, the attackers grabbed two-factor login codes sent by text right after rerouting their messages, a sign they were trying to break into other accounts. Enea calls SilentAir a state-level actor and links it to China only with low confidence. It says the group has been disrupted for now but could return.
+[ava] The takeaway for the rest of us: text-message codes travel over a phone network that runs on trust between carriers. Where you can, use an authenticator app or, better, a passkey or security key.
+> source: The Hacker News, "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users" (Nov 13); Enea, "The Enemy Within: Tracking LIMINAL PANDA and SilentAir through Mobile Networks"; Infosecurity Magazine (Nov 2026)
+
+## From Your X Feed | sting=x
+[ava] Story nine, from your X feed, politics left out. Iter Intellectus wished everyone a happy doomsday that never happened. Sixty-six years ago, three researchers published a paper in Science projecting that if population kept growing the way it had for two thousand years, it would head toward infinity on, yes, Friday, November thirteenth, twenty twenty-six. Still here.
+[andrew] E S R, programmer Eric Raymond, applied a rule of thumb to Microsoft: an outage that's lasted fifteen hours should be expected to last about fifteen more, which he says puts the fix around ten tonight. That's his heuristic, not Microsoft's estimate.
+[ava] The Interesting All account shared a stunning Voyager One image of Saturn with two of its moons, Tethys and Dione. And a user named slater summed up loyalty programs: his pharmacy rewards card says he's earned three dollars, after two thousand in purchases. Vegas, he notes, gives better odds and free drinks.
+> source: Harry's X home timeline, Nov 13 (@IterIntellectus, @esrtweet, @interesting_aIl, @slater57649); Science, von Foerster, Mora and Amiot, "Doomsday: Friday, 13 November, A.D. 2026" (1960)
+
+## Local News & Events | sting=local
+// Story 10: York Ambulance; Old York events
+[ava] Story ten, local news from where you are. In York, voters approved three hundred fifty thousand dollars in surplus town money to help pay down York Ambulance's debt, but the ambulance association now says it needs another hundred thirty thousand to get through the fiscal year. Its treasurer says it costs about a hundred thousand dollars a month to run, while the town's contract pays twelve thousand a month, which he calls the lowest in the region. At least one selectboard member says he won't commit more than the three hundred fifty thousand.
+[ava] If you're around this weekend: tonight at six, Old York Historical Society hosts An Evening with Edgar Allan Poe, fitting for Friday the thirteenth. Tickets are thirty dollars, twenty-five for members. And tomorrow, Old York offers a free special tour, Answering the Call, on the history of York's war memorials. Registration is encouraged. Both are at the Old York Museum Center on Lindsay Road.
+> source: WGME, "York Ambulance says it may need more money even after bailout from voters" (Nov 12); Old York Historical Society events calendar (oldyork.org)
+
+## Uplifting Story | sting=feel
+// Story 11: Bill Shepherd surprises Derek
+[ava] And finally, story eleven. Eleven-year-old Derek Cardenas of New Jersey lives with spinal muscular atrophy, and his mom says his heart is in space. He loves rockets. So on Thursday, at the Cradle of Aviation Museum on Long Island, he got a surprise: Bill Shepherd, the former Navy SEAL who flew three Space Shuttle missions and became the very first commander of the International Space Station, showed up to meet him. He gave Derek a personal tour. The visit was arranged by the Marty Lyons Foundation.
+> source: News 12 New Jersey, "11-year-old with rare disorder gets dream surprise meeting with space legend" (Nov 12)
+
+## Close | sting=close
+[ava] That's your Friday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. At ten, the producer price numbers, the opening bell, and whether Microsoft has its mail back.
+[ava] Thanks for listening to Gumshoe News Radio. Have a lucky Friday the thirteenth.
