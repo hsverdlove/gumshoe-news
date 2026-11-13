@@ -1,0 +1,76 @@
+// Gumshoe script format: see README.md
+# title: Friday 1 PM Update, Nov 13
+# description: The Friday 1 p.m. update from Gumshoe News Radio for November 13, 2026: York, Maine weather through tomorrow; Commerce says Howard Lutnick will testify voluntarily as the Megaspeed feud simmers, Kansas prosecutors decline charges in the Wichita soccer-field crash, and President Trump says he wants to "get Cuba done"; Europe settles on a negotiating team for Ukraine talks and a building collapse near Nairobi kills six; a chip sell-off sinks the Nasdaq while Samsung eyes Modine; Microsoft apologizes and blames a network upgrade; OpenAI's ChatGPT Wallet lets agents shop; Project Zero shortens its disclosure clock, PostgreSQL patches 52 flaws and Luna Moth returns to law firms; your X feed; a menhaden quota cut for Maine's bait fishery and Saturday jazz in Kittery; and two teens who paddled to their neighbors' rescue. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's one o'clock on Friday, November thirteenth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Good afternoon. The chip sell-off picked up steam this morning, and Microsoft finally explained what broke. Plenty to get to.
+[ava] First, the York, Maine forecast through tomorrow.
+@weather
+> source: National Weather Service forecast for York, ME (api.weather.gov), retrieved Nov 13 at airtime
+
+## US News | sting=us
+// Story 1: Commerce answers on Lutnick testimony; Reuters $3.2B
+[ava] Story one, an update on the Megaspeed feud inside the administration. After Treasury Secretary Scott Bessent said this morning that Commerce "has the pen" on blacklisting the company, Commerce still hasn't answered him directly. But a Commerce spokeswoman told CNBC that Secretary Howard Lutnick has "proactively agreed to appear voluntarily" before the Senate Banking Committee. A Commerce spokesperson also told Semafor that Treasury and Commerce have, quote, a great working relationship.
+[ava] Bessent added a new line of attack in that same interview: he said the real story isn't Jensen Huang's personal life, but whether Nvidia knew its customers, and that anyone at the company responsible for chips leaking to China should be held accountable. Nvidia hasn't responded to that. Separately, a Reuters review found more than three point two billion dollars in Chinese A I computing projects and equipment deals that specify restricted Nvidia chips. Reuters notes that figure includes buildings and planned spending, not just chip purchases, and it isn't proof of how the chips got there.
+> source: CNBC, "Bessent blames Lutnick's Commerce as he slams Nvidia chip 'leakage' to China" (Nov 13); The Next Web, "Bessent says anyone at Nvidia should be held accountable for chip leakage" (Nov 13); Reuters via Investing.com, "Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia" (Nov 13)
+
+// Story 2: Wichita soccer field, no charges
+[ava] Story two. In Kansas, the woman whose pickup drove onto a youth soccer field in Wichita last month, killing a six-year-old boy and a thirty-five-year-old man and injuring ten others, will not be criminally charged. Sedgwick County's district attorney said she had reclined her seat to nap after a two-hundred-mile drive, and the most likely explanation is that the truck was never put in park and her foot hit the accelerator in her sleep. Her blood tests were clean, and a General Motors team found no mechanical problem. The prosecutor said Kansas law requires more than a single negligent act for vehicular manslaughter. Police acknowledged some questions may never be answered with certainty, and the decision is a painful one for the victims' families, who were told before it was announced.
+> source: NBC News, "Woman who drove onto Kansas soccer field, killing 2, won't be charged, officials say" (Nov 12); AP, "Napping driver whose truck accelerated on Kansas soccer field, killing 2, won't be charged" (Nov 12)
+
+// Story 3: Trump on Cuba
+[ava] Story three. President Trump told radio host Hugh Hewitt he wants to "get Cuba done" before he leaves office, and that he would "certainly consider" a short military operation, with Secretary of State Marco Rubio playing a key role. Supporters say decades of communist rule and Cuba's collapsing economy make change overdue. Critics say the U.S. oil blockade and sanctions are already punishing ordinary Cubans with blackouts and food shortages, and that military action would be a major escalation. No decision has been announced, and analysts quoted by CNBC see more economic pressure as likelier than force.
+> source: NBC News, "Trump says he wants to 'get Cuba done' when asked about use of military force" (Nov 13); CNBC, "Trump says he wants to 'get Cuba done' before leaving office, would consider military force" (Nov 13); The Hill (Nov 13)
+
+## International | sting=world
+// Story 4: Dublin decision; Nairobi collapse
+[ava] Story four, the world. In Dublin, European leaders didn't pick a single envoy for the Ukraine peace talks after all. AP reports they settled instead on sending a negotiating team: the European Union plus five countries from the so-called coalition of the willing, Britain, France, Germany, Italy and Poland. Critics in the European press called it dithering; supporters say a team gives Europe's biggest players a direct voice. Russia has opposed a European seat at the table.
+[ava] And in Kenya, an eight-story building under construction collapsed this morning along Mombasa Road near Nairobi, killing six workers. Five others were rescued and taken to the hospital, and authorities say all the workers at the site are now accounted for. Construction has been halted while investigators look at the owner and the contractor.
+> source: AP, "Europe to send a diplomat team to Ukraine talks as leaders push for a voice" (Nov 13); Politico Europe, Brussels Playbook (Nov 13); Al Jazeera, "Kenyan building collapse near Nairobi kills six people" (Nov 13); Daily Nation, "Six dead, five rescued as building collapses along Mombasa Road" (Nov 13)
+
+## Markets | sting=markets
+// Story 5: Midday chip sell-off, Modine
+[andrew] Story five, the markets at midday. The gains from this morning's cooler wholesale-price report are long gone. As of about noon, the Nasdaq was down roughly one and a half percent, the S&P five hundred down about nine tenths, and the Dow down about a quarter percent, with the Dow clawing back toward flat by quarter to one. The Philadelphia chip index was down about six percent, with A M D off about ten percent and Broadcom about seven. Nvidia fell about four percent and is headed for its longest weekly losing streak since twenty twelve, ahead of its earnings Tuesday. Data-center names like CoreWeave and Nebius were down around ten percent.
+[andrew] Under the surface it's more of a rotation than a rout: 24/7 Wall Street noted most stocks were actually up at one point, with a handful of tech giants doing the damage. The ten-year yield reached as high as five point one seven percent, and traders still expect a Fed hike in December. One standout: Modine, the Wisconsin maker of data-center cooling systems, jumped nearly thirty percent on a Bloomberg report that Samsung is in talks to buy it. No deal is final. And with Anthropic set to price its I P O Wednesday and start trading Thursday, Reuters notes investors are weighing whether money shifts toward the newcomer. Even with today's slide, the S&P is still on track for its first winning week since early October.
+> source: Motley Fool, "Stock Market Midday, Nov. 13" (12:15 PM ET); 24/7 Wall St., "S&P 500 Slides Nearly 1% at Midday" (12:00 PM ET); Reuters via StreetInsider, "Wall St slides as Nvidia overhang weighs on tech" (Nov 13); Yahoo Finance live (Nov 13, 12:47 PM ET); Reuters via Investing.com, "Samsung in talks to buy data center cooling firm Modine" (Nov 13); AP, "Stocks sway as Wall Street heads for a winning week" (Nov 13); Yahoo Finance, "Anthropic sets IPO date for Thursday, Nov. 19"
+
+## Technology | sting=tech
+// Story 6: Microsoft apology and cause
+[andrew] Story six, tech. Microsoft has apologized for its nearly day-long outage, saying it is, quote, deeply sorry. The company says the cause was a problem introduced during an earlier network capacity upgrade that surfaced after a recent network change, and it says again that it wasn't a cyberattack and had nothing to do with A I or agents. Microsoft says it fixed the underlying issue and restored service slowly on purpose, checking stability at each step, which it admits took longer. A full post-incident report is promised once its review is done.
+> source: Windows Central, "'We are deeply sorry' Microsoft apologizes for major outage" (Nov 13); PCWorld, "Microsoft: AI, hackers not to blame for Outlook services outage" (Nov 13)
+
+## Artificial Intelligence | sting=ai
+// Story 7: ChatGPT Wallet; Meta Muse calls
+[andrew] Story seven, A I. OpenAI launched ChatGPT Wallet, which lets its personal agents, called dots, actually buy things for you. It's built with American Express, Mastercard and Visa. You add a card once, then approve every purchase with Face ID or a fingerprint, and the agent gets a one-time payment token instead of your real card number, so you keep your usual rewards and dispute protections. It starts with U.S. Pro subscribers only, and OpenAI says it isn't taking a cut for now. The hurdle is the stores themselves: United Airlines says it will block agents from booking, and Amazon doesn't let them buy. Meanwhile, Meta is rolling out a feature that lets its Muse agent place phone calls to businesses for paying U.S. subscribers.
+> source: OpenAI, "Introducing ChatGPT Wallet" (Nov 13); CNBC, "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users" (Nov 13); TechCrunch via Techmeme, Meta Muse outbound calling (Nov 13)
+
+## Cybersecurity | sting=cyber
+// Story 8: Project Zero; PostgreSQL; Luna Moth
+[ava] Story eight, the cyber desk. Google's Project Zero, the team that hunts security holes in other companies' software, is shortening the clock. Starting today, it will publish bug details exactly ninety days after reporting them, fixed or not, dropping the old extra thirty-day grace period. That shrinks to sixty days in February and thirty days in January twenty twenty-eight. Google's reasoning: A I helps attackers find and weaponize bugs so fast that long embargoes no longer protect anyone. Some vendors warned that rushing could expose unfixed flaws, which is why Google is phasing it in.
+[ava] Also, PostgreSQL, the popular open-source database, patched fifty-two security flaws, including a twenty-two-year-old bug that lets some logged-in users run code on the server. Update the server and its extensions together.
+[ava] And the extortion gang known as Luna Moth is going back to law firms that refused to pay the first time. Researchers at ReliaQuest say the crooks pose as I T support on a video call and talk victims into copying a Microsoft access token out of their browser's developer tools. The rule of thumb: real I T will never ask you to open developer tools or hand over a token. Hang up and call back.
+> source: Google Project Zero, "Policy and Disclosure: 2026 Edition" (Nov 13); The Hacker News, "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE" (Nov 2026); PostgreSQL.org security advisory CVE-2026-6460; Dark Reading, "Extortion Group Luna Moth Flits Into Law Firms a Second Time" (Nov 12)
+
+## From Your X Feed | sting=x
+[ava] Story nine, from your X feed, politics left out. The Jensen Huang debate rolled on. A New York Times essay by his biographer compared Huang to the abusive music teacher in the movie Whiplash, and Political Math replied: okay, but he was the hero of that movie. Kimmonismus argued shareholders, not the board, should have had a say, while plenty of others just posted: bring back Jensen.
+[andrew] On the gadget front, Kimmonismus also flagged Vexo, a startup from Y Combinator's fall batch selling a one-hundred-ninety-nine-dollar bracelet meant to help you remember the people you meet. And Pieter Levels showed his Interior A I app building a 3D room design from nothing but a floor plan, glitches and all.
+[ava] And for the movie fans, Variety reports Disney is bringing back Stitch in a new six-minute short, Lilo and Scratch, blending hand-drawn and computer animation. Scratch is a destructive little kitten, and the short plays before Disney's Hexed starting November twenty-fifth. Variety also says the Gilmore Girls documentary, Drink Coffee, Talk Fast, hits video on demand next week.
+> source: Harry's X home timeline, Nov 13 (@politicalmath, @kimmonismus, @levelsio, @Variety); Variety, "'Lilo & Scratch': Disney Combines 2D & CG Animation for Short"
+
+## Local News & Events | sting=local
+// Story 10: Menhaden quota; Seasmoke Trio
+[ava] Story ten, local news from where you are. Interstate fishery regulators voted to cut the Atlantic menhaden catch by about nine percent next year and another nine percent in twenty twenty-eight. Menhaden, or pogies, are the main bait for Maine's lobster boats. Maine expects a quota of roughly seventeen point eight million pounds in twenty twenty-seven. Maine's marine resources commissioner, Carl Wilson, said Maine wanted no change, but the outcome is far better than proposals for cuts of up to thirty-nine percent. Supporters of deeper cuts point to menhaden's role as food for striped bass, birds and whales.
+[ava] And for Saturday night, the Seasmoke Trio plays jazz, swing, blues and American songbook standards at the Kittery Art Association gallery on Walker Street, seven-thirty to nine. Tickets are fifteen dollars, with a limited number at the door.
+> source: Maine Department of Marine Resources, "Statement from DMR Commissioner on Menhaden Quota for 2027 and 2028" (Nov 12); The Maine Monitor, "Fisheries regulator cuts menhaden catch limit"; PortsmouthNH.com, "The Seasmoke Trio at the Kittery Art Association" (Nov 14 listing)
+
+## Uplifting Story | sting=feel
+// Story 11: Paddleboard rescue
+[ava] And finally, story eleven. During record flooding in Brevard County, Florida, Brittany Grant and her son were stranded on their kitchen counter as the water rose, and she says 911 told her crews couldn't reach them. So she posted an S O S on Facebook. A neighbor saw it and sent her two teenage sons, Jonah, fifteen, and Lucas, seventeen, who set out on an inflatable paddleboard and a borrowed kayak. They got mother, son and all three dogs out, one dog taking up half the paddleboard. Lucas kept her anxious son calm by cracking jokes about the weather.
+[ava] Brittany's verdict: "My faith in humanity has been restored." Jonah's explanation was simpler: they needed help, so we just went.
+> source: Good News Network, "Brave Teens Execute Paddleboard Rescue of Flooded Neighbors" (Nov 12), citing Click Orlando
+
+## Close | sting=close
+[ava] That's your one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. At four, the closing bell, Nvidia's week, and whether Starship is cleared to fly tonight.
+[ava] Thanks for listening to Gumshoe News Radio.
