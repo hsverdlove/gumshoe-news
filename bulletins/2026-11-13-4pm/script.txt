@@ -1,0 +1,73 @@
+// Gumshoe script format: see README.md
+# title: Friday 4 PM Update, Nov 13
+# description: The Friday 4 p.m. update from Gumshoe News Radio for November 13, 2026: York, Maine weather through tomorrow; breaking from New Orleans, where a tanker struck a docked river cruise boat with about 129 passengers aboard; the Supreme Court agrees to rule on the border asylum ban, and the White House denies Kevin Hassett is leaving; terms near on the war's largest prisoner swap as the pope gets a hero's welcome in Peru; stocks slip Friday but hold a winning week; Starship's double-catch attempt tonight and a 720,000-car BMW fire recall; banks shut Chinese buyers out of the Anthropic IPO; implanted Trezor wallets and an Uber driver data breach; your X feed; Ogunquit's roosters come down and Seacoast weekend picks; and a stranger's question that drew thousands of kind replies. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's four o'clock on Friday, November thirteenth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Good afternoon. The closing bell just rang on a choppy week, and Starship is cleared to fly tonight. But we start with breaking news from New Orleans.
+[ava] First, a quick look at the York, Maine forecast through tomorrow.
+@weather
+> source: National Weather Service forecast for York, ME (api.weather.gov), retrieved Nov 13 at airtime
+
+## US News | sting=us
+// Story 1: New Orleans tanker hits river cruise boat (BREAKING)
+[ava] Story one, and it's developing. In New Orleans, a tanker called the Atlantic Asphalt slammed into a docked river cruise boat, the American Heritage, at about twelve-thirty local time this afternoon. The paddlewheeler, run by American Cruise Lines, had about one hundred twenty-nine passengers aboard, plus crew, and was getting ready to let them off near the Convention Center, just below the Crescent City Connection bridge. Video verified by NBC News shows the boat rolled onto its side, with people in life jackets in the water.
+[ava] The Coast Guard, police, fire crews and helicopters spent the afternoon pulling people from the river, and survivors are being triaged at the Port of New Orleans administration building, some on stretchers. As of our latest check, officials had not released any count of injuries, deaths or missing, and the Port says the cause is not yet known. American Cruise Lines says guests and crew were evacuated. The Coast Guard closed a three-mile stretch of the river, Governor Jeff Landry is heading to the city, and President Trump has been briefed. Treat any casualty numbers you see online with caution until officials confirm them.
+> source: AP, "Rescues are underway in New Orleans after a tanker hits a river cruise boat on the Mississippi River" (Nov 13); NBC News, "Rescue underway after an oil tanker collides with a New Orleans river boat" (Nov 13); WDSU live updates (2:55 PM CST); NOLA.com live updates (Nov 13); Axios New Orleans (Nov 13)
+
+// Story 2: SCOTUS asylum; Hassett denial
+[ava] Story two. The Supreme Court agreed today to decide whether President Trump can suspend access to asylum at the southern border. A lower court and the D.C. Circuit ruled the policy goes beyond what Congress allows, though the ban stays in effect while the government appeals. The administration argues the president has broad power to keep out people who cross illegally, and that the border was overwhelmed. The challengers, thirteen asylum seekers and three nonprofits, say only Congress can rewrite the asylum law, and that crossings had already fallen sharply before the order. Arguments are expected in the spring, with a ruling likely by late June.
+[ava] Also, Semafor reported this afternoon that National Economic Council director Kevin Hassett has been asking about jobs outside the administration. Hassett told CNBC that's "not true," and a White House official said there's "no factual basis" for the report.
+> source: SCOTUSblog, "Supreme Court agrees to hear case on Trump administration's suspension of asylum" (Nov 13, 3:44 PM); AP, "Supreme Court will consider Trump's executive order suspending asylum access at the southern border" (Nov 13); CNBC, "Hassett denies report he's leaving White House: 'Not true'" (Nov 13)
+
+## International | sting=world
+// Story 3: Prisoner swap; Pope in Chiclayo
+[ava] Story three, the world. After this week's U.S.-brokered talks, White House envoy Jared Kushner says Washington is working toward what would be the largest prisoner exchange of the war in Ukraine, potentially reuniting thousands of people with their families. Neither Kyiv nor Moscow has given the final numbers or a date. Earlier this week, Russian state media claimed more than a thousand people on each side. Kushner also said significant differences remain, especially over territory, and that apart from humanitarian steps like this one, nothing will be final without a full agreement.
+[ava] And in Peru, Pope Leo got a hero's welcome back in Chiclayo, where he served as bishop for eight years and is still called Padre Roberto. The Vatican estimates about half a million people came to his Mass near the city, with a million more lining the motorcade route. It's exactly a month since his lung cancer surgery, and he thanked them for their prayers during his recovery.
+> source: Reuters via The Moscow Times, "Kushner Says U.S. Working Toward 'Largest Prisoner Exchange' of Russia's War in Ukraine" (Nov 13); Kyiv Independent, "'Large-scale' prisoner exchange agreed" (Nov 11); Al Jazeera/Reuters/AP, "Pope thanks crowds on emotional return to 'second home' in Peru's Chiclayo" (Nov 13)
+
+## Markets | sting=markets
+// Story 4: Late-session figures, weekly gains
+[andrew] Story four, the markets. Friday was a down day, but it was a winning week. Going into the final minutes, the S&P five hundred was down about three quarters of a percent, near seventy-five thirty-six, the Nasdaq down about one and a quarter percent, and the Dow down only about a tenth of a percent. Even so, all three are up roughly two percent for the week, the S&P's first winning week since early October.
+[andrew] Chips did the damage again, with A M D and Broadcom sliding and Nvidia turning lower. Nvidia is headed for six straight weekly losses, its longest streak since twenty twelve, and it's lost about one point six trillion dollars in value since early October. Its earnings come Tuesday, with analysts expecting revenue near one hundred nine billion dollars, up ninety-one percent from a year ago. The ten-year Treasury yield ended the week around five point one percent, up more than a quarter point, and gold fell more than five percent on the week. Final closing numbers may differ slightly from these late-session figures.
+> source: Yahoo Finance live, "Nasdaq leads Dow, S&P 500 lower as chip stock sell-off accelerates" (3:28 PM ET); Stock Preachers market recap via PR Newswire (Nov 13, 3:47 PM ET); AP, "Stocks sway as Wall Street heads for a winning week" (Nov 13); CNBC, "Nvidia on track for longest weekly losing streak since 2012" (Nov 13)
+
+## Technology | sting=tech
+// Story 5: Starship flight 15; BMW recall
+[andrew] Story five, tech. SpaceX got its F A A approval this afternoon, so Starship Flight Fifteen is set to lift off from South Texas at five forty-five our time, in a seventy-five-minute window. The goal is a first: catching both stages back at the launch tower. The booster comes back about six and a half minutes after launch. The ship deploys twenty-six Starlink satellites, circles the Earth for about twenty-two hours, and, if everything checks out, comes home for its own catch tomorrow afternoon. If anything looks off, SpaceX will ditch it in the Pacific instead.
+[andrew] And a recall worth checking if there's a BMW in your family. BMW is recalling about seven hundred twenty thousand U.S. vehicles because a water-pump connector can short out and catch fire, even while the car is parked and off. Until it's fixed, owners are told to park outside, away from buildings. The fix is still being developed, and owner letters start around Christmas.
+> source: Space.com, "SpaceX Starship Flight 15 live updates" (Nov 13); SpaceX, "Starship Flight 15"; Reuters via Investing.com, "US urges owners of 720,000 BMW vehicles to park outside over fire risks" (Nov 13); USA Today, "720K BMW cars recalled with fire risk warning" (Nov 13)
+
+## Artificial Intelligence | sting=ai
+// Story 6: Anthropic IPO shuts out China/HK
+[ava] Story six, A I. Bloomberg reports that banks running Anthropic's I P O are turning away orders from investors in mainland China and Hong Kong, or telling them they're unlikely to get shares, citing U.S. export-control rules. SpaceX's offering reportedly did the same. Some of those investors are said to be exploring offshore vehicles to get exposure anyway. The I P O prices Wednesday and is set to start trading Thursday. Coming in the same week as the Nvidia chips-to-China uproar, it shows how much national security now shapes who gets to own a piece of American A I.
+> source: Bloomberg Law, "Anthropic IPO Share Orders From China Are Said to Be Rebuffed" (Nov 13); Moneycontrol, "Anthropic IPO: China, Hong Kong investors face restrictions on placing orders" (Nov 13); The Decoder (Nov 13)
+
+## Cybersecurity | sting=cyber
+// Story 7: Trezor implants; Uber/Fireworks AI breach
+[ava] Story seven, the cyber desk. Hardware wallet maker Trezor confirms that three of its Safe 5 crypto wallets sold by an Indonesian reseller, CryptoBilis, had a hidden extra circuit board that captured recovery words off the screen and sent them out over a cell network. A firmware update released Wednesday blocks it, but it can't protect a phrase that was already stolen, so anyone who bought from that reseller should move funds to a new wallet. No thefts have been reported. Trezor has cut about eighty percent of its resellers. The lesson: buy hardware wallets direct.
+[ava] And Uber confirms hackers stole driver's license details for thousands of its U.S. drivers, at least seventy-eight hundred in Massachusetts, Rhode Island and South Carolina alone, by breaking into an A I vendor, Fireworks A I, using stolen credentials. Uber says it has seen no misuse and is offering credit monitoring.
+> source: BleepingComputer, "Trezor confirms crypto-stealing implants in three wallets, releases fix" (Nov 13); TechCrunch, "Uber confirms hackers stole thousands of drivers' license information in data breach" (Nov 13); PCMag (Nov 13)
+
+## From Your X Feed | sting=x
+// Story 8: X feed, politics excluded
+[ava] Story eight, from your X feed, politics left out. Starship fans are counting down. The Everyday Astronaut posted that he just got a press tour of Starbase and called it amazing, though it'll push his launch show back a bit. A James McCarthy toured Starfactory and said it's clear SpaceX is set up to mass-produce Starships, even if most of what he saw was too sensitive to photograph. And Asher B Photos noted it's been exactly one year since Blue Origin's New Glenn first landed its booster.
+[andrew] On Nvidia, one post making the rounds recalled that in nineteen ninety-six, the company was nearly broke, and Sega fronted Jensen Huang five million dollars to stay afloat, even after he told them the chip they'd ordered wasn't good. And Variety reported sad news: a crew member on the Netflix series Dept. Q died at a studio in Edinburgh while sets were being taken down after season two wrapped. Police say it isn't suspicious but are investigating.
+> source: Harry's X home timeline, Nov 13 (@Erdayastronaut, @AJamesMcCarthy, @asherbphotos, @EkoLovesYou, @Variety); Deadline, "'Dept. Q' Crew Member Dies On Set Of Netflix Show In Edinburgh" (Nov 13)
+
+## Local News & Events | sting=local
+// Story 9: Ogunquit roosters; weekend picks
+[ava] Story nine, local news from where you are. Ogunquit's long-running rooster feud appears to be over. The owners of the Omelette Factory have taken down their six-foot lawn roosters during fall cleanup, say they won't put them back, and paid the town's seven-hundred-fifty-dollar fine. Earlier this fall, a legal group had argued the town's fines violated free-speech rights.
+[ava] For the weekend: tonight at seven-thirty, the Soggy Po Boys play The Dance Hall in Kittery. Saturday at eight, York's own Lexi James and Wildheart bring country to the Stone Church in Newmarket. And Sunday morning, the Kittery Community Market opens at ten.
+> source: Foster's Daily Democrat / York Weekly, "Omelette Factory removes 6-foot roosters and pays Ogunquit's $750 fine" (Nov 13); Foster's, "Rooster fines in Ogunquit violate free-speech rights, legal firm warns" (Oct 6); Seacoast Local Loop, "This Weekend on the NH Seacoast (Nov 13–15)"
+
+## Uplifting Story | sting=feel
+// Story 10: Jacey Abbott hijab thread
+[ava] And finally, story ten. Jacey Abbott is a forty-one-year-old mom of three in southern Alabama with stage four breast cancer, and she hates wigs. Too hot, too itchy. So she asked Muslim users on the social app Threads: can I wear a hijab, or is that disrespectful? Within about eleven hours, she had roughly nineteen hundred replies, and nearly all of them said, yes, of course you can.
+[ava] People sent tips on soft fabrics and satin-lined caps, offers of free scarves, including one small shop in Europe that offered express shipping to America, and a lot of prayers. One woman asked, "Is it ok with you if I pray for you to have ease and comfort?" Another simply wrote: wearing anything comfortable is the right of every human being. Jacey says the hijab she bought is super soft, and she plans to pass extras on to other cancer patients.
+> source: The Washington Post, "A cancer patient asked if it was okay to wear a hijab. Thousands rallied for her." (Nov 13); The Global Filipino Magazine (Nov 6)
+
+## Close | sting=close
+[ava] That's your four o'clock update, and our last for this Friday. I'm Ava.
+[andrew] And I'm Andrew. Watch for Starship at five forty-five, and we'll have the latest from New Orleans in the morning.
+[ava] Have a good weekend, and thanks for listening to Gumshoe News Radio.
