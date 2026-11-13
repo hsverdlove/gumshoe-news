@@ -1,0 +1,73 @@
+// Gumshoe script format: see README.md
+# title: Friday 10 AM Update, Nov 13
+# description: The Friday 10 a.m. update from Gumshoe News Radio for November 13, 2026: York, Maine weather through tomorrow; Scott Bessent says Commerce "has the pen" on Megaspeed and confirms his move to a military base, and the Brooklyn collapse probe widens; the U.S. downs two Iranian drones and denies Iran's Bahrain radar claim, while EU leaders meet in Dublin over a seat at Ukraine talks; wholesale inflation comes in a bit cooler, stocks mixed at the open, and the 10-year yield hits 5.16 percent; Microsoft says Outlook is nearing normal; Google's Gemini 4 Hydrogen comes to Search; a Check Point zero-day and the FBI's takedown of North Korea's FaceStealer deepfake scheme; your X feed; a new York County Food Hub and a proposed Route 1 restaurant; and middle schoolers who 3D-printed a hand for a classmate. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's ten o'clock on Friday, November thirteenth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning again, Ava. The wholesale inflation number we promised you is out, and it came in a touch cooler than expected. Microsoft is also getting its mail back. Details shortly.
+[ava] First, the York, Maine forecast through tomorrow.
+@weather
+> source: National Weather Service forecast for York, ME (api.weather.gov), retrieved Nov 13 at airtime
+
+## US News | sting=us
+// Story 1: Bessent on Megaspeed and threats
+[ava] Story one. Treasury Secretary Scott Bessent put the spotlight on Commerce Secretary Howard Lutnick this morning. On CNBC, Bessent said Treasury, the War Department, the Trade Representative and State had all favored putting Megaspeed on the government's entity list for months. That's the Singapore company accused of illegally funneling U.S. chips to China, whose executive was linked to Jensen Huang's resignation at Nvidia. But, Bessent said, "Commerce has the pen," and you'd have to ask them about their internal processes.
+[ava] Commerce hadn't responded as of airtime. Lutnick's defenders would point out that export blacklists are a Commerce call by law and that the department weighs the trade impact on U.S. companies. Lutnick is already being asked to testify before the Senate Banking Committee on December tenth.
+[ava] In the same interview, Bessent confirmed he moved from his Washington-area home to a military base on Secret Service advice, after death threats he links to Iran's leadership. He said he will not be intimidated, and he faulted the Wall Street Journal for publishing a photo he says revealed where his house is.
+> source: Axios, "Bessent puts Megaspeed heat on Lutnick: 'Commerce has the pen'" (Nov 13); Reuters via Investing.com, "Bessent says Treasury favored limits on Megaspeed" (Nov 13); Washington Examiner, "Bessent confirms he's moved to military base, blames Wall Street Journal" (Nov 13, 9:38 AM ET)
+
+// Story 2: Brooklyn probe widens
+[ava] Story two. In Brooklyn, with the search over and the toll at eight dead, the focus is now entirely on cause. City officials are looking at the excavation next door and the condition of the building that fell, and CBS New York and NPR report that inspectors are checking about a hundred other job sites tied to the companies involved in the project. Officials caution that a final answer will take time.
+> source: CBS New York, "Cleanup and investigation continue at site of Brooklyn building collapse" (Nov 13); NPR, "Investigation into what caused deadly Brooklyn building collapse continues" (Nov 13); NBC News, "Hunt for clues in deadly Brooklyn building collapse will take time" (Nov 13)
+
+## International | sting=world
+// Story 3: Iran drones; Europe in Dublin
+[ava] Story three, the world. An update on Iran's claim that it destroyed a U.S. radar in Bahrain: U.S. Central Command denies it. CENTCOM says it shot down two Iranian one-way attack drones headed toward Bahrain, with no injuries and no damage. Iran's claim still can't be independently verified. Iran also says a tanker hit a naval mine in the Strait of Hormuz, setting off an explosion. And in Gaza, a nine-month-old boy died of hypothermia, as aid groups warn that more people are at risk this winter without more supplies.
+[ava] In Dublin, European Union leaders are meeting today to choose someone to represent Europe in the next round of Ukraine talks. AP reports there's no agreement yet on who that envoy should be or what the job would include. Ukraine wants Europe at the table; Russia has opposed it. Overnight, AP says Ukraine launched nearly twelve hundred drones at Russian targets, one of its biggest aerial attacks of the war.
+> source: AP, "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain" (Nov 13); Anadolu Agency, "CENTCOM denies Iranian claim of attack on US radar in Bahrain, says 2 drones shot down" (Nov 13); AP, "Europe pushes for a seat at Ukraine peace talks but lacks a unified voice" (Nov 13); AP News Summary (Nov 13, 9:46 AM ET)
+
+## Markets | sting=markets
+// Story 4: PPI and the open
+[andrew] Story four, the markets. Wholesale prices rose three tenths of a percent in October, a little under the four tenths economists expected, and core prices also rose three tenths, right on forecast. The catch: over the past year producer prices are up six and a half percent, the fastest pace since November twenty twenty-two. Truck freight costs drove most of the rise in services, and food prices jumped one point three percent.
+[andrew] Futures got a lift from the report, and stocks opened higher, but the gains faded fast. As of about nine forty-five, the Dow was up roughly two to three tenths of a percent, the S&P five hundred about flat to slightly lower, and the Nasdaq down three to four tenths. Nvidia turned lower again, and chip stocks are slipping ahead of Nvidia's earnings next Tuesday.
+[andrew] The pressure point is bonds. The ten-year Treasury yield touched five point one six percent, its highest since October, and markets still fully expect a Fed rate hike when it meets December eighth and ninth. Bitcoin fell below seventy thousand dollars for the first time in nearly three months. Even so, the S&P five hundred is on pace for its first winning week since early October.
+> source: Bureau of Labor Statistics, PPI news release (Nov 13); CNBC, "Wholesale prices rose 0.3% in October" (Nov 13); AP, "Wholesale inflation declined last month yet remains stubbornly elevated" (Nov 13); Reuters via Devdiscourse, "Wall St opens higher after soft producer prices data" (Nov 13); Yahoo Finance live (Nov 13, 9:45 AM ET); AP News Summary (Nov 13, 9:46 AM ET)
+
+## Technology | sting=tech
+// Story 5: Microsoft recovery
+[andrew] Story five, tech. Microsoft says its outage is finally easing, about twenty hours in. Email queues are, in its words, approaching normal levels, with broader improvement in North America and Europe, though some users may still see intermittent access problems or delayed mail. Microsoft says it has no evidence of malicious activity and promises a full post-incident report with the root cause once it's fully fixed. The outage hit businesses, courts, schools and even some police emergency lines around the world.
+> source: BBC News live (Nov 13, 14:05 GMT); AP live updates (Nov 13, 9:47 AM ET); The Indian Express, "Microsoft says Outlook at 'near normal' after 20-hour global outage" (Nov 13)
+
+## Artificial Intelligence | sting=ai
+// Story 6: Gemini 4 Hydrogen
+[andrew] Story six, A I. Google is rolling out a new model called Gemini 4 Hydrogen, globally, in Search. It's the fast, cheaper member of the Gemini 4 family, and Google says it finishes tasks two and a half times faster than the model it replaces, handles long multi-part questions and bad typos better, and powers more tables and visuals in A I Mode. It's also coming to the Gemini app and to developers. Those speed and benchmark figures are Google's own; independent testing will tell us more.
+> source: Tech Times, "Google Introduces Gemini 4 Hydrogen to Make Search More Intelligent and Responsive" (Nov 13, 6:45 AM ET); Superpower Daily, "Google brings a new Gemini model to Search" (Nov 13)
+
+## Cybersecurity | sting=cyber
+// Story 7: Check Point zero-day; FaceStealer
+[ava] Story seven, the cyber desk. Check Point has issued emergency fixes for a flaw in its firewall software that attackers have used since late October to take full root control of devices, against a couple of dozen customers. In the attacks Check Point described, intruders broke in through the Mobile Access portal, escalated to root, planted backdoors, then moved on to VMware servers and deployed destructive wiper malware. If you or a business you help runs Check Point gear, patch now.
+[ava] And the FBI and Justice Department say they've disrupted a North Korean scheme the FBI calls FaceStealer, tied to more than four hundred million dollars in stolen crypto over about eighteen months. The hackers posed as people victims knew on fake video calls, using secretly recorded webcam footage and deepfakes, then showed a phony technical error that tricked victims into installing malware. Agents seized the cloud servers and more than nine hundred recorded videos. The lesson: if a video call suddenly asks you to install a fix, hang up and verify another way.
+> source: BleepingComputer, "Check Point warns of zero-day flaw exploited for root access" (Nov 13); FBI, "FaceStealer Cryptocurrency Theft Scheme"; Justice Department press release; BBC, "North Korean hackers used fake video calls in $400m crypto hack, says FBI" (Nov 2026); Nextgov/FCW (Nov 2026)
+
+## From Your X Feed | sting=x
+[ava] Story eight, from your X feed, politics left out. The Microsoft outage was the running joke this morning. Jringo summed up what every I T person is saying: yes, it's still down, and remember when I said we needed our own servers? And an account called Oilfield Rando had a wish of his own: let's manifest a total Concur outage, which anyone who files expense reports will understand.
+[andrew] On the space front, Elon Musk posted that Ship forty-two is getting ready to launch. That's tonight's Starship flight, with liftoff set for five forty-five our time and the first try at catching both the booster and the ship. Arthur Macwaters wrote that catching a thirty-story rocket from orbit may be routine someday, but today it's still near-miraculous.
+[ava] And Pablo Torre's show is teaming up with The New Yorker on a sports mystery: was former N B A player Jontay Porter, at the center of a betting scandal, catfished into betting against himself by fake mobsters? That's the question their reporting asks; it isn't established.
+> source: Harry's X home timeline, Nov 13 (@Jringo1508, @Oilfield_Rando, @elonmusk, @ArthurMacwaters, @pablofindsout); SpaceX, "Starship Flight 15"
+
+## Local News & Events | sting=local
+// Story 9: Food hub; Green Leaves
+[ava] Story nine, local news from where you are. A new York County Food Hub has opened in Biddeford to store and move food for more than fifty pantries and meal programs around the county, with refrigerated and freezer storage plus trucks. Its president, Alex Gramling, says Maine doesn't have a food problem, it has a systems problem. The group says about one in eight York County residents is food insecure, including one in five children. House Speaker Ryan Fecteau visited this week.
+[ava] And in York, Fosters reports the owners of Green Leaves are seeking approval to build a new Chinese restaurant on Route One: a building of about sixty-three hundred square feet with a hundred twenty-five seats and four apartments.
+> source: WGME, "York County Food Hub opens to aid 50+ pantries as food insecurity rises in Maine" (Nov 12, updated Nov 13); Fosters.com, "Green Leaves looks to build new Route 1 Chinese restaurant in York" (Nov 13)
+
+## Uplifting Story | sting=feel
+// Story 10: 3D-printed hand
+[ava] And finally, story ten. In Baton Rouge, eleven-year-old Jak'kyra Brown was born without a right hand below the wrist. Her classmates on the robotics team at Kenilworth Science and Technology Charter School decided to make her one. They 3D-printed the pieces, strung them together with fishing line and rubber bands, and finished it in her favorite colors, red and gray, with sparkly stickers and her name engraved. It cost them fifty-six dollars, and they gave it to her free.
+[ava] Her review: "Now I can have two hands." She says she can play basketball and do cartwheels better, and someday she wants to be an engineer and make hands for kids like her.
+> source: WBRZ, "Students make prosthetic hand for classmate using 3D printer"
+
+## Close | sting=close
+[ava] That's your ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. At one, the midday market and any word from Commerce on Megaspeed.
+[ava] Thanks for listening to Gumshoe News Radio.
