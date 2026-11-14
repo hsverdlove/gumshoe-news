@@ -1,0 +1,82 @@
+// Gumshoe script format: see README.md
+# title: Saturday 1 PM Update, Nov 14
+# description: The Saturday 1 p.m. update from Gumshoe News Radio for November 14, 2026: York, Maine weather through tomorrow; officials pin Friday's nationwide ground stop on a router swap during a copper-to-fiber upgrade; a real bomb found at a Peoria, Illinois ethanol plant; Mary Peltola widens her lead in Alaska's uncalled Senate race; Russia revives its 2021 NATO demands as Bulgaria halts arms to Ukraine; a fifth Saturday of protests across France; Cuba says it is preparing for a possible U.S. attack; new reporting on what Jensen Huang told Nvidia's lawyers and how he treated his successor; the Fed names A.I. the top risk to the financial system; the FBI warns about the ARTEX A.I. hacking tool; your X feed; murky well water at a Wells mobile home park plus Sunday picks; and a New Jersey police department's surprise for a teen recovering from surgery. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's one o'clock on Saturday, November fourteenth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. We finally have an official explanation for yesterday's ground stop, and Starship's upper stage is still on track for this afternoon's catch attempt.
+[ava] First, the York, Maine forecast through tomorrow.
+@weather
+> source: National Weather Service forecast for York, ME (api.weather.gov), retrieved Nov 14 at airtime
+
+## US News | sting=us
+// Story 1: Ground stop cause explained at Duffy/Bedford briefing
+[ava] Story one. At a briefing late this morning, Transportation Secretary Sean Duffy laid out what officials believe set off yesterday's nationwide ground stop. He says a contractor, L three Harris, was doing routine work at a remote F A A site, switching an old copper telecom line over to fiber and replacing a router. Either through installer error or a faulty router, that equipment began flooding other routers in the air traffic control network, more than a thousand connection attempts every four to five seconds. That disrupted radio contact with planes and some radar feeds, so the airspace was shut down.
+[ava] F A A Administrator Bryan Bedford apologized to travelers, said officials see zero evidence of anything nefarious or anything A I related, and promised to release a full root-cause analysis. He warned there could still be up to five thousand cancellations today, but says airlines expect to be back to a normal schedule by the end of Sunday. Duffy again pressed Congress for modernization money; critics note this old gear had been flagged as fragile for years. L three Harris hasn't commented.
+> source: NPR, "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade" (Nov 14); ABC News live updates, "'Zero evidence of anything nefarious,' FAA administrator says" (Nov 14); Axios, "FAA back at 'full operations' after Friday outage" (Nov 14)
+
+// Story 2: Peoria bomb at ethanol plant
+[ava] Story two. In Peoria, Illinois, police and the F B I say a bomb was found at the BioUrja ethanol plant just south of downtown. The company reported a threat Friday afternoon, a suspicious package arrived around two, and by evening authorities had judged it a credible threat. The device was rendered safe Friday night, but a one-mile evacuation zone stayed in place this morning while crews search the large facility for anything else. No injuries and no arrests have been reported, and the F B I says it's working to identify who's responsible.
+> source: NBC News, "Device deemed 'credible threat' triggers evacuation around ethanol plant in Peoria, Illinois" (Nov 14); WMBD/104.9 The Wolf, "Explosive device rendered safe at BioUrja, evacuations to continue Saturday" (Nov 14); AP (Nov 14)
+
+// Story 3: Alaska Senate count
+[ava] Story three. Alaska's Senate race is still uncalled, but the latest count has Democrat Mary Peltola about ten thousand votes ahead of Republican Senator Dan Sullivan, with just under fifty percent of first-choice votes. If she stays below fifty, the state's ranked-choice tabulation decides it. Peltola's campaign says Sullivan has no mathematical path; Sullivan has not conceded, and election officials are still counting. If she wins, it would be the ninth Democratic Senate pickup this cycle.
+> source: USA Today, "Peltola's lead increases in uncalled Alaska Senate race" (Nov 14); Anchorage Daily News, "Peltola grows lead in Alaska's U.S. Senate race after thousands more ballots are counted" (Nov 13)
+
+## International | sting=world
+// Story 4: Russia's NATO demands; Bulgaria halts arms
+[ava] Story four, the world. The New York Times reports that in this week's Kremlin talks with U.S. envoys Steve Witkoff and Jared Kushner, Russia handed over a position paper that repeats, almost word for word, its demands from December twenty twenty-one: NATO pulling forces back from Poland and the Baltics to where they stood in nineteen ninety-seven, no further enlargement, an end to Western weapons for Ukraine, and limits on nuclear sharing in Europe. Poland's Donald Tusk called the demands a direct threat to his country's security. Moscow says Putin can still show flexibility.
+[ava] Separately, Bulgaria's prime minister, Rumen Radev, says his country will stop sending weapons and ammunition to Ukraine from its own stockpiles, citing budget pressure under E U deficit rules. Sofia says it won't block other countries' aid, and will keep sending electricity and humanitarian help.
+> source: Kyiv Post, "Russia Revives Demands for NATO Rollback at Peace Talks" (Nov 14), citing The New York Times; Kyiv Post, "Bulgaria Halts Arms Transfers and Financial Aid to Ukraine" (Nov 14); Ukrinform (Nov 14)
+
+// Story 5: France protests
+[ava] Story five. France saw a fifth straight Saturday of protests over the cost of living, inequality and a proposed police self-defense law. The interior ministry counted about one hundred six thousand marchers nationwide, including twenty-four thousand in Paris, down from last week; organizers claimed double that. Seventy thousand police were deployed. There were clashes and tear gas in Lyon, Bordeaux and Marseille, though the ministry called the country calm and under control. Supporters of the police bill say officers shouldn't be presumed guilty when they use force; opponents call it a license to kill.
+> source: France 24 live, "More than 100,000 protest across France, interior ministry says" (Nov 14); RFI, "How France's student protests grew into a broader movement" (Nov 14)
+
+// Story 6: Cuba responds to Trump
+[ava] Story six. Cuba's president, Miguel Díaz-Canel, says the island is preparing to repel any U.S. military attack, and has activated wartime defense structures in peacetime, with civilian training. That follows President Trump telling a radio host this week that he wants to "get Cuba done" before he leaves office and would consider a short military operation. Havana insists it threatens no one. Supporters of the administration's pressure campaign say Cuba's communist government has failed its people and only bends under pressure.
+> source: EFE, "Cuba afirma que prepara su defensa ante una eventual agresión de Estados Unidos" (Nov 13); Presidencia de Cuba (Nov 13); Der Spiegel (Nov 14)
+
+## Technology | sting=tech
+// Story 7: Nvidia: Reuters, WSJ, WaPo
+[andrew] Story seven, tech. Three new reports on the Nvidia saga. Reuters, citing internal messages, says Jensen Huang told Nvidia's general counsel and its chief marketing officer in October that his dealings with Alice Huang were standard business with a customer, and floated suing the New York Times over its reporting. No lawsuit was ever filed.
+[andrew] The Wall Street Journal reports that in an August meeting, Huang called Colette Kress, now the interim C E O, a "deer in the headlights," as she questioned how Nvidia was valuing billions of dollars in credit guarantees for customers who couldn't afford its chips. She later cut Nvidia's backstop for a giant OpenAI data center roughly in half.
+[andrew] And the Washington Post reports the downfall was set in motion by a memo from Secretary of State Marco Rubio, built on C I A reporting but written in more forceful terms. Huang's defenders, including Elon Musk, Fundstrat's Tom Lee and Shopify's Tobi Lütke, have signed a petition urging his return and call this a pile-on; Nvidia and Huang declined to comment.
+> source: Reuters, "Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say" (Nov 14); Wall Street Journal, "Before His Ouster, Jensen Huang Belittled the Executive Replacing Him" (Nov 12); Washington Post, "Behind Jensen Huang's spy scandal, a shadow war for Trump's ear on China" (Nov 13); Stocktwits/TradingView (Nov 14)
+
+## Artificial Intelligence | sting=ai
+// Story 8: Fed Financial Stability Report
+[andrew] Story eight, A I. The Federal Reserve's twice-yearly Financial Stability Report, out late Friday, says A I is now the most-cited risk to the financial system. Eighty-seven percent of the market participants surveyed named it, up from half in the spring and far ahead of the next concern, a broad market correction, at fifty-two percent.
+[andrew] They flagged three worries: stock prices that could fall if A I profits disappoint, cyber risk from both state hackers and the models themselves, and complicated A I financing. The Fed points to more than six hundred eighty billion dollars of data center and computing debt issued by October, plus leases and guarantees that can be hard to track. Still, the Fed called the overall system fairly stable, and plenty of investors argue A I spending is backed by real demand.
+> source: CNBC, "AI risks are the biggest threat to the financial system, Fed survey finds" (Nov 13); Federal Reserve, Financial Stability Report (Nov 13, 2026); U.S. News/Reuters (Nov 13)
+
+## Cybersecurity | sting=cyber
+// Story 9: FBI ARTEX flash; UnrealIRCd KEV
+[ava] Story nine, the cyber desk. The F B I has issued a flash alert about ARTEX, an open-source A I hacking framework that turns plain-language goals into automated attacks. The bureau says some intrusions went from first contact to privileged access in under three hours, and that it's been used since August against finance, government, energy, health care and more. Its developer pulled it from GitHub in October, but copies and a commercial version keep spreading, and researchers count more than sixteen hundred exposed ARTEX consoles. The F B I says attackers mostly pair it with cheap Chinese models like DeepSeek. Its advice: lock down internet-facing admin services and watch partner and supplier portals, which ARTEX seeks out.
+[ava] Also, CISA added a flaw in UnrealIRCd, the popular open-source chat server, to its exploited-vulnerabilities list. The maintainer calls it the most critical bug in fifteen years. If you run one, update to version six point two point seven point one.
+> source: The Record, "FBI flash alert says Artex tool automating cyberattacks at 'machine speed'" (Nov 13); FBI/IC3, "Threat Overview of ARTEX Autonomous Penetration Testing Framework" (Nov 13); The Hacker News, "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection" (Nov 14)
+
+## From Your X Feed | sting=x
+// Story 10: X feed, politics excluded
+[ava] Story ten, from your X feed, politics left out. SpaceX posted that Starship is coasting in orbit, and that the pad and tower are go for this afternoon's catch. Everyday Astronaut shared SpaceX's clarification on why the booster skipped its catch yesterday: it wasn't where it was supposed to be, so it aborted itself, and the root cause is still under investigation. Photographer A. James McCarthy says he's set up eighteen cameras for the landing, fourteen triggered remotely by sound and timers.
+[ava] Closer to home, Jonathan Turley says he got stranded in Portland, Maine on Friday the thirteenth, at a Holiday Inn full of people in witch costumes selling bewitching supplies. He joked he's now exploring hexes as an alternative to airline customer service.
+[andrew] On the entertainment side, Variety reports Adam Driver said it "felt criminal" when Disney shelved his Star Wars film with Steven Soderbergh, The Hunt for Ben Solo, after two years of work. And Engineers Feed posted a neat bit of math: five to the fifth, times four to the fourth, times three cubed, times two squared, times one, is eighty-six point four million. That's exactly the number of milliseconds in a day. We checked; it works.
+> source: Harry's X home timeline, Nov 14 (@SpaceX, @Erdayastronaut, @AJamesMcCarthy, @JonathanTurley, @Variety, @engineers_feed); Space.com, "Why did Starship Flight 15 booster abort 'chopsticks' landing catch?" (Nov 14)
+
+## Local News & Events | sting=local
+// Story 11: Wells water; Jetport; Sunday picks
+[ava] Story eleven, local news. Just up Route One in Wells, residents of the Blueberry Ridge Mobile Village say their well water has run cloudy or brown for about twenty-five years. Maine's drinking water program says the color comes from naturally occurring iron and manganese, with no health standard exceeded, so the state can't force a fix. Park management says the problem predates its ownership, a septic design has been approved by the town, and a filtration system comes next, possibly started before the ground freezes. Residents just won a mobile home lot rent stabilization ordinance on Election Day.
+[ava] Also, the Portland Jetport had nineteen cancellations from the ground stop, so check your flight before heading out.
+[ava] For tomorrow: a guided hike from Mount Agamenticus to the Highland Farm Preserve, nine to two. The York Art Association's "Patterns of Reflection" show is open from one to five. And the band Steeplechase has an album release show at The Press Room in Portsmouth at seven.
+> source: Portland Press Herald, "Wells mobile home residents battling for clean water" (Nov 14); WMTW, "19 flights at Portland Jetport canceled due to nationwide ground stop" (Nov 14); York Parks & Recreation community events calendar; The Press Room, "Steeplechase Album Release Show" (Nov 15)
+
+## Uplifting Story | sting=feel
+// Story 12: Cliffside Park police and Elizabeth
+[ava] And finally, story twelve. In Cliffside Park, New Jersey, a teenager named Elizabeth, who has Down syndrome, missed the start of high school after major spinal surgery in September. So the local police brought school to her. On Friday, an officer picked her up in a patrol car and let her run the lights, and joked to the students that the president was arriving.
+[ava] Her new classmates applauded when she walked in. She found her best friend, Christina, and they hugged for the first time since summer. Then came pizza and a magician. Her mom says the officers have become like family, and Elizabeth hopes to be back in class in about four weeks.
+> source: Bergen County Herald, "Cliffside Park Police Host Surprise Reunion for Teen After Spinal Surgery" (Nov 14)
+
+## Close | sting=close
+[ava] That's your Saturday one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Starship's final go or no-go is around two, with the catch attempt at about four twenty.
+[ava] Enjoy your Saturday, and thanks for listening to Gumshoe News Radio.
