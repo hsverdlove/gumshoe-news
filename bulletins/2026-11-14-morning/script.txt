@@ -1,0 +1,81 @@
+// Gumshoe script format: see README.md
+# title: Saturday Morning, Nov 14
+# description: The Saturday morning bulletin from Gumshoe News Radio for November 14, 2026: York, Maine weather with the full seven-day forecast; the longest nationwide flight ground stop since 9/11 and what caused it; no deaths after the New Orleans tanker crash; Alaska elects a Democratic governor; Zelensky says U.S. negotiators raised NATO membership for the Donbas; Trump readies for a Shenzhen meeting with Xi and Putin while weighing a pause on Iran strikes; Gaza's flooded tents; Starship reaches orbit but its booster skips the catch, plus Friday's closing numbers; Pope Leo calls the promise of tech-driven immortality a mirage; a hacked drone software update in Germany and Microsoft's November patch problems; your X feed; Maine's proposed data center moratorium and weekend picks; and a man who has picked up 900 bags of litter for his hometown. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Saturday, November fourteenth, and this is Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Airlines are still digging out from yesterday's nationwide ground stop, and Starship's upper stage is circling the Earth ahead of a catch attempt this afternoon.
+[ava] First, the weather. Your phone puts you in York, Maine this morning, so here's the York forecast, with the full seven days.
+@weather
+> source: National Weather Service forecast for York, ME (api.weather.gov), retrieved Nov 14 at airtime
+
+## US News | sting=us
+// Story 1: FAA nationwide ground stop
+[ava] Story one. If you're flying this weekend, check your flight. Yesterday afternoon, the F A A grounded every departure in the country after air traffic control centers started seeing unstable radar and radio links at about three thirty-six Eastern. Transportation Secretary Sean Duffy says new technology being added to the system overloaded older switches and routers, which began feeding controllers inconsistent data, so they shut it down. He says radar and communications were never completely lost, and more than three thousand planes in the air landed safely.
+[ava] Airspace reopened at eight fifteen last night, after roughly four hours, the longest nationwide ground stop since the September eleventh attacks. By late evening, Flightradar twenty-four counted nearly ten thousand cancellations. Homeland Security says there's no evidence of a cyberattack. Analysts expect disruptions for days, though officials say the system should be back to normal before Thanksgiving. Duffy says he can't guarantee it won't happen again, and he's asking Congress for fifty billion dollars to replace the system.
+> source: Reuters, "US to resume flights after air traffic network failure sparks chaos" (Nov 13); AP, "Trump administration blames 'overloaded' systems for ground stop after FAA lets flights resume" (Nov 14); FAA, "Statement on Nationwide Ground Stop" (Nov 13)
+
+// Story 2: New Orleans riverboat, no deaths
+[ava] Story two, an update from New Orleans, and it's good news. After the tanker Atlantic Asphalt slammed into the docked riverboat American Heritage yesterday, everyone aboard, about one hundred twenty-nine passengers plus crew, has been accounted for, and there were no deaths. Thirty-two people went to the hospital, thirty passengers and two harbor police officers, none with critical injuries. Mayor Helena Moreno called it a miracle on the Mississippi. Some early reports point to a steering problem on the tanker, but investigators have not confirmed a cause.
+> source: AP, "All passengers and crew on New Orleans cruise ship survive crash with tanker on Mississippi River" (Nov 13); NOLA.com live updates (Nov 13); Fox 8 WVUE (Nov 13)
+
+// Story 3: Alaska governor
+[ava] Story three. Alaska has elected a Democratic governor for the first time since nineteen ninety-eight. Former state lawmaker Jonathan Kreiss-Tomkins beat three Republicans, including one endorsed by President Trump, after campaigning on affordability, full school funding, a corporate income tax on all oil and gas producers, and a pause on new data centers until the state writes rules for them. Democrats will now hold thirty governorships. Alaska voters also rejected, for the second time in two years, a measure to repeal the state's open primaries and ranked-choice voting.
+> source: AP, "Alaska voters elect a Democrat for governor for the first time since 1998" (Nov 14)
+
+## International | sting=world
+// Story 4: Zelensky says US raised NATO-for-Donbas
+[ava] Story four, the world. President Zelensky says American negotiators asked this week, for the first time, whether Ukraine would pull its forces out of the Donbas in exchange for joining NATO. He stressed there's no concrete offer and that Ukraine won't withdraw, but said he'd put a deal to a referendum if it came with firm security guarantees, no limits on Ukraine's military, and money to rebuild. "NATO is back on the agenda," he said. Some caution: U.S. officials had earlier said NATO membership was off the table, and Moscow has long called Ukraine in NATO unacceptable while demanding the rest of the Donbas.
+[ava] The fighting goes on. Russian officials say a Ukrainian drone killed a couple and their two-year-old daughter in the Belgorod region overnight, and Ukraine's air force says Russia launched ninety-six drones, eighty-one of them brought down.
+> source: BBC, "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says" (Nov 14); Al Jazeera/Reuters, "Three killed in Russia as Ukraine claims US floated NATO membership option" (Nov 14)
+
+// Story 5: Trump-Xi-Putin; Iran pause
+[ava] Story five. President Trump leaves Monday for a four-day Asia trip, and the White House says he'll meet Xi Jinping and Vladimir Putin together on Thursday, on the sidelines of the Asia-Pacific summit in Shenzhen. Trump wants to talk about cutting nuclear arsenals, something China has repeatedly refused to discuss, and he'll raise the war with Iran, but not Ukraine, officials say.
+[ava] On Iran, Reuters reports, citing sources, that Trump has told advisers he may hold off on new strikes unless Iran or the Houthis provoke the U.S., with Gulf allies urging restraint. No final decision has been made, and his public comments have swung this week, from calling the war militarily over on Monday to saying Thursday the U.S. no longer needs a deal with Tehran.
+> source: Reuters via New Straits Times, "Trump to raise nuclear-arms cuts with Putin, Xi on Thursday, White House says" (Nov 14); Reuters via Arab News, "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say" (Nov 13); AP, "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo" (Nov 14)
+
+// Story 6: Gaza flooding
+[ava] Story six. In Gaza, heavy rain has flooded tens of thousands of tents, and the U.N. counted about twenty-six thousand households affected by the storms. A nine-month-old boy, Kinan Raqiq, died of the cold in a tent in Khan Younis this week, and aid groups say winter shelter supplies are still badly needed.
+> source: Al Jazeera, "Palestinian baby dies from cold in Gaza" (Nov 12); UN OCHA, "Humanitarian Situation Report: Heavy Rains in the Gaza Strip" (Nov 8)
+
+## Technology | sting=tech
+// Story 7: Starship flight 15; Friday close
+[andrew] Story seven, tech. Starship Flight Fifteen lifted off at five forty-seven last night. The upper stage reached orbit and released twenty-six Starlink satellites, but the double catch didn't happen. On its way back, the Super Heavy booster detected a guidance problem, called off the tower catch on its own, and diverted to a fiery splashdown in the Gulf. This newer version of the booster has yet to make a successful return. The ship itself looks healthy, and SpaceX is aiming for its catch at Starbase at about four twenty this afternoon, our time.
+[andrew] And a business footnote, since markets are closed today. Friday's final numbers: the Dow edged up a tenth of a percent to about fifty-two thousand three hundred forty-eight, the S and P fell four tenths to about seventy-five sixty-two, and the Nasdaq dropped about nine tenths, with chip stocks again leading the way down. Airline shares fell late in the day as the ground stop hit.
+> source: Spaceflight Now, "Starship in orbit ahead of catch attempt, booster diverts to explosive splashdown" (Nov 13); SpaceNews, "Starship launches on 15th test, calls off booster catch" (Nov 13); AP, "How major US stock indexes fared Friday 11/13/2026"; Euronext/Dow Jones, "Stocks mostly ease with tech, Nvidia concerns; airline shares fall late in session" (Nov 13)
+
+## Artificial Intelligence | sting=ai
+// Story 8: Pope Leo on transhumanism
+[ava] Story eight, A I, with a theologian's view. Speaking at a Catholic university in Chiclayo, Peru, Pope Leo warned about what he called the mirage of transhumanism, the idea that technology will sooner or later eliminate disease, pain, aging and even death. He praised scientific progress as a supreme achievement of human intelligence, but said it must not become a privilege for millionaires seeking immortality while whole peoples live in poverty. Human limits, he argued, aren't a manufacturing defect but part of human dignity, because they call us to look after each other.
+[ava] Some tech enthusiasts on X shared that quote as if the pope were cheering the idea on; in context, he was warning against it. Today he visits Zaña, the heart of Afro-Peruvian culture.
+> source: America Magazine, "Pope Leo at Catholic university in Peru: 'Science without a conscience ruins everyone's life'" (Nov 13); Vatican News, "Pope in Peru: Search for truth in universities becomes service to humanity" (Nov 13); AP, Zaña preview (Nov 14)
+
+## Cybersecurity | sting=cyber
+// Story 9: Quantum Systems update hack; Microsoft patch issues
+[ava] Story nine, the cyber desk. German drone maker Quantum Systems, whose drones fly for Germany's military and which is helping build interceptor drones for Ukraine, confirms it was hit by what it calls hostile actors in late October. Der Spiegel and the Financial Times report the attackers pushed a malicious update through the company's mission-planning software, and the German military reportedly grounded the company's drones as a precaution. The company hasn't named a culprit, but believes its support for Ukraine made it a target. It's another reminder that a trusted software update is one of the most dangerous ways in.
+[ava] And if you manage Windows machines, Microsoft confirms this month's Patch Tuesday updates are causing activation failures for organizations that script their Windows licensing, plus some printing problems. Home users with already-activated P Cs shouldn't be affected, and fixes are coming.
+> source: BleepingComputer, "German military drone operations disrupted by cyberattack" (Nov 13); BleepingComputer, "Microsoft confirms Windows activation failures after November updates" (Nov 13); BleepingComputer, "Microsoft says November security updates cause printing issues" (Nov 13)
+
+## From Your X Feed | sting=x
+// Story 10: X feed, politics excluded
+[ava] Story ten, from your X feed, politics left out. The ground stop reached right into your neighborhood: law professor Jonathan Turley posted that he had to cancel a convention talk this morning because he's still stuck in Portland, Maine, waiting for a flight home.
+[ava] On a lighter note, Tansu Yegen posted a proud-dad moment: his son and friends just launched a free puzzle game called Luvdoku on the App Store. Another account shared video of a cat that took over its owner's livestream, apparently reading the chat.
+[andrew] Cremieux checked a claim from a Kenyan writer, Marcus Olang, whose essay suggests his style gets mistaken for A I. Running Olang's writing from before A I existed through detectors, Cremieux says it didn't get flagged. And Variety reports the European Film Award nominations are led by Fatherland, followed by La Bola Negra.
+> source: Harry's X home timeline, Nov 14 (@JonathanTurley, @TansuYegen, @interesting_aIl, @cremieuxrecueil, @Variety)
+
+## Local News & Events | sting=local
+// Story 11: Maine data center moratorium; weekend picks
+[ava] Story eleven, local news from where you are. Maine lawmakers are lining up statewide rules for data centers. State Senator Nicole Grohoski has refiled a bill for a temporary moratorium on any data center using more than twenty megawatts of power, which would run through November twenty twenty-seven if it passes with two-thirds support. Incoming Senator Sophie Warren of Scarborough says it isn't a flat no to data centers, but a pause to protect electric bills, land and water, and Governor-elect Hannah Pingree says she supports a moratorium until protections are in place. Expect a debate when the legislature convenes.
+[ava] For your weekend: this afternoon from four to seven-thirty, Old York Historical Society hosts Soup at the Tavern, with soup, bread, beer and cider by the fire at Jefferds Tavern on Lindsay Road. Also at four today, Gardens Aglow opens its holiday light season at the Coastal Maine Botanical Gardens in Boothbay, running through January second. And tomorrow, York Parks and Rec lists a hike from Mount Agamenticus to Highland Farm Preserve, from nine to two.
+> source: WGME, "Maine lawmakers push statewide data center regulations" (Nov 13); Old York Historical Society, "Soup at the Tavern" (SimpleTix); Coastal Maine Botanical Gardens, "Gardens Aglow"; WMTW (Nov 2026); York Parks & Recreation community events calendar
+
+## Uplifting Story | sting=feel
+// Story 12: Parker of Charleston, Arkansas
+[ava] And finally, story twelve. In Charleston, Arkansas, a town of fewer than three thousand people, a man named Parker picks up litter every day. He isn't a city worker. It started on impulse last August, on a walk with his daughter Gabrielle, when they filled one plastic bag with wrappers and cans. It felt good, so he went back the next day, and the next.
+[ava] A year later, he puts in about two hours a day, seven days a week, dodging snakes, fire ants, wasps and traffic, and he's collected around nine hundred bags. Parker lives with several mental health conditions and says working in front of people is hard for him, so this is how he serves his family and his town. People honk, wave, and sometimes stop to hug him. "It's never a job," he says. "I enjoy it tremendously."
+> source: WDIY, "A Community United | When Good Things Happen" (Nov 13)
+
+## Close | sting=close
+[ava] That's your Saturday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. If you're watching Starship, the ship's catch attempt is set for about four twenty this afternoon.
+[ava] Enjoy your Saturday, and thanks for listening to Gumshoe News Radio.
