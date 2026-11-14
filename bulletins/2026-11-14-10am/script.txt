@@ -1,0 +1,80 @@
+// Gumshoe script format: see README.md
+# title: Saturday 10 AM Update, Nov 14
+# description: The Saturday 10 a.m. update from Gumshoe News Radio for November 14, 2026: York, Maine weather through tomorrow; day two of the flight mess and new reporting on what caused Friday's ground stop; Trump brings Elon Musk to Asia but won't press Xi on the Nvidia scandal; the Brooklyn collapse probe widens to more than 160 sites; Iran says three more tankers hit mines in Hormuz; a deadly night of Russian strikes on Zaporizhzhia; Canada's Carney sees progress toward a U.S. trade deal; Nvidia's CEO search, Tesla opens Cybercab orders, and Italy fines Meta; Dario Amodei on Anthropic's compute dilemma ahead of its IPO; thousands of hijacked GitHub accounts used to steal cloud keys; your X feed; Brewer, Maine opens the door to bigger data centers, plus tonight's Seacoast music; and a lonely vulture who found friends. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's ten o'clock on Saturday, November fourteenth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning again, Ava. Airlines are still untangling yesterday's ground stop, and we're learning more about what actually broke. Starship's upper stage is still in orbit, looking healthy ahead of this afternoon's catch attempt.
+[ava] First, the York, Maine forecast through tomorrow.
+@weather
+> source: National Weather Service forecast for York, ME (api.weather.gov), retrieved Nov 14 at airtime
+
+## US News | sting=us
+// Story 1: Ground stop day two, cause reporting
+[ava] Story one. Day two of the air travel mess. As of about nine forty this morning, FlightAware counted more than thirty-seven hundred U.S. flights canceled today and close to two thousand delayed, on top of roughly nine thousand cancellations yesterday. Atlanta, Chicago O'Hare and New York's J F K are among the hardest hit. Secretary Sean Duffy says operations are slowly returning to normal and it's safe to fly, but warns of more cancellations as airlines move planes and crews back into place. He scheduled a briefing for ten thirty this morning.
+[ava] On the cause, there's new reporting. C B S News, citing multiple sources, says the trouble followed an update to the private communications network that links the air traffic control system, run by contractor L three Harris, which rebooted and then crashed. Bloomberg reports the F B I is looking at a software update as a possible cause and doesn't believe it was a cyberattack or a crime. Homeland Security Secretary Markwayne Mullin says investigators have seen no footprints of hacking, but aren't ruling it out yet. No official root cause has been announced, and L three Harris hasn't commented publicly.
+> source: CNBC, "FAA ground stop lifted but U.S. flight disruptions continue" (Nov 14); Washington Post, "Travel chaos, flight cancellations continue following nationwide ground stop" (Nov 14); SecurityWeek, "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update" (Nov 14), citing CBS News and Bloomberg
+
+// Story 2: Trump's Asia trip, Musk, Nvidia
+[ava] Story two. When President Trump leaves for the Philippines and China on Monday, Elon Musk will be traveling with him. Administration officials, speaking anonymously, describe Musk as a valuable adviser because of SpaceX and Tesla. They also say Trump won't confront Xi Jinping over allegations that the woman linked to former Nvidia chief Jensen Huang was a Chinese agent, something Beijing denies. Aides are, however, discussing closing loopholes in chip export rules, including Chinese firms renting advanced chips remotely over the internet. China hawks in both parties say the scandal is exactly why the rules need tightening; the White House says export controls aren't up for negotiation either way.
+> source: AP, "Trump is taking Elon Musk on his Asia trip, but he plans to avoid talking about Nvidia scandal" (Nov 14); AP, "The Nvidia scandal is heightening America's AI rivalry with China ahead of Trump's visit" (Nov 14)
+
+// Story 3: Brooklyn collapse probe widens
+[ava] Story three. In Brooklyn, rescue work at the building collapse is finished, with eight dead and eighteen hurt. Mayor Zohran Mamdani says the city has now ordered inspections at more than one hundred sixty sites tied to six companies linked to the excavation next door, and is bringing in an independent engineering firm. The contractor had been hit with a stop-work order in March. City leaders are also pointing to about one hundred seventy unfilled jobs at the Buildings Department. No one has been charged, and the contractor has not responded to requests for comment.
+> source: AP via NBC New York, "Brooklyn building collapse raises questions about city oversight, safety precautions" (Nov 14); CBS News (Nov 14)
+
+## International | sting=world
+// Story 4: Hormuz tankers, Predator claim
+[ava] Story four, the world. Iran says three more oil tankers hit naval mines and caught fire overnight in and near the Strait of Hormuz, one of them a supertanker. Iran's Revolutionary Guards say two of them had switched off their tracking systems and were using an unauthorized route. Iran hasn't named the ships, nobody has independently confirmed the incidents, and the British maritime monitor hadn't reported them as of this morning. The Guards also claim they shot down an American M Q one Predator drone over Qeshm Island. The U.S. military says it has cleared the main shipping lanes of mines, and it continues to enforce its blockade of Iranian ports.
+> source: CNA/AFP, "Iran reports three incidents of oil tankers hit by mines in Hormuz" (Nov 14); Rudaw, "IRGC says two oil tankers explode after striking mines in Strait of Hormuz" (Nov 14); Tampa Free Press (Nov 14)
+
+// Story 5: Zaporizhzhia strikes
+[ava] Story five. In Ukraine, regional officials say Russian attacks over the past day killed at least seven civilians and injured eighty. Zaporizhzhia was hit hardest: ten missiles, one striking an apartment building, with three dead, including a child, and sixty-two hurt. A Russian drone also hit a hospital in central Kyiv, injuring three patients. Ukraine says it struck an oil pipeline station in Russia's Samara region, and Moscow says it intercepted dozens of Ukrainian drones.
+> source: Kyiv Independent, "At least 7 killed, 80 injured in Russian attacks across Ukraine" (Nov 14); AP (Nov 14); The Independent live blog (Nov 14)
+
+// Story 6: Carney trade
+[ava] Story six. Canada's Prime Minister Mark Carney says he had a long, substantive call with President Trump before leaving for Asia, and that a bilateral trade deal is possible, though "we're not yet there." Talks had collapsed in August. At the same time, Canada says it has substantially concluded a free-trade deal with the Southeast Asian bloc known as ASEAN, nearly seven hundred million people, part of its push to depend less on the U.S.
+> source: AP, "Canada's Carney reports progress in trade talks with Trump as he expands ties with Asia" (Nov 14)
+
+## Technology | sting=tech
+// Story 7: Nvidia CEO search; Cybercab orders; Italy fines Meta
+[andrew] Story seven, tech. Nvidia's search for a new chief executive. The Financial Times reports the board approached Arm's C E O, Rene Haas, who worked at Nvidia more than a decade ago. Nvidia says it's still picking a search firm and hasn't formally engaged any candidates. Interim C E O Colette Kress is running the company for now. Elon Musk posted that many of Nvidia's supply deals were a handshake with Jensen rather than a written contract, and predicted some will be lost. That's his opinion, not a reported fact.
+[andrew] If you've been curious about the Cybercab: Tesla has started inviting select customers to order one for personal use. It's twenty-nine thousand nine hundred ninety dollars, plus a required two hundred ninety-nine dollar monthly Autonomy Subscription, with deliveries estimated for December. The fine print matters, though. It can only operate inside Tesla's supported robotaxi areas, and it can't be used commercially.
+[andrew] And Italy's privacy regulator fined Meta about eight hundred eighty-seven million dollars, saying a Facebook feature on Android reached into people's photo galleries to suggest posts without proper consent. Meta has sixty days to turn the feature off by default, and hadn't commented as of this morning.
+> source: Financial Times, "Arm boss Rene Haas approached in Nvidia CEO search"; CNBC, "Nvidia CEO: Search firm not yet selected for Huang replacement" (Nov 13); X post by Elon Musk (Nov 14); Electrek and The Verge on Tesla Cybercab personal orders (Nov 13); CNBC/Reuters, "Italy fines Meta $887 million over Android users' data access" (Nov 14)
+
+## Artificial Intelligence | sting=ai
+// Story 8: Amodei compute dilemma, IPO next week
+[andrew] Story eight, A I. In a final pitch before Anthropic's stock market debut, C E O Dario Amodei told J P Morgan's Jamie Dimon that buying computing power is the company's deepest business dilemma. Buy too little, and you can't serve customers or build new models. Buy too much, and you can financially overextend yourself. He says Anthropic tends to buy on the low side and that a big cash cushion is one reason it's going public now. Its filings show nearly nine hundred one billion dollars in commitments, mostly for chips and computing.
+[andrew] Anthropic expects to price the offering Wednesday and start trading Thursday, seeking up to about ninety billion dollars at roughly a one point four trillion dollar valuation, below the two trillion some investors had expected a few weeks ago. Bill Ackman, who was in the room, called Amodei thoughtful and measured. Skeptics point to rising borrowing costs and the Nvidia turmoil as reasons to be cautious about A I valuations.
+> source: Bloomberg via Business Standard, "Anthropic CEO Dario Amodei calls computing power deepest business dilemma" (Nov 14); Yahoo Finance, "Anthropic CEO Dario Amodei aims to 'underpromise and overdeliver'" (Nov 13)
+
+## Cybersecurity | sting=cyber
+// Story 9: wfx-loot GitHub campaign
+[ava] Story nine, the cyber desk. Researchers at Aikido Security say an attacker used stolen logins for nearly forty-eight hundred GitHub accounts to probe more than sixty-one thousand code repositories, looking for ones they could write to. Where they could, they slipped a script into the projects' automated build pipelines that grabbed passwords, access tokens and cloud keys for Amazon, Microsoft and Google, then erased their tracks in under a minute. At least eighteen hundred repositories had secrets stolen, and some of the hijacked accounts belonged to big companies and government agencies.
+[ava] The giveaway is an innocent-looking pull request titled "docs: dependency audit notes," and ninety-two percent of them are still sitting open, unnoticed. If your projects ran the payload, the advice is to treat every secret as compromised and change it.
+> source: BleepingComputer, "Hackers compromise 4,800 GitHub accounts to steal cloud credentials" (Nov 12); Aikido Security, "wfx-loot campaign pushes CI secret stealer to tens of thousands of repositories"
+
+## From Your X Feed | sting=x
+// Story 10: X feed, politics excluded
+[ava] Story ten, from your X feed, politics left out. Photographer A. James McCarthy put a camera right next to the Starship launch pad to catch liftoff in slow motion, and challenged people to spot the moon in the frame. More than a thousand people liked it.
+[ava] Tara Bull posted that orcas struck again off the coast of Spain, damaging a sailboat's rudder near San Vicente. The crew wasn't hurt. It's the latest in a years-long string of these encounters off Iberia, though that particular report hasn't been independently confirmed.
+[andrew] On the A I front, Joshua Lisec says the problem with A I writing isn't that it's bad; it's that everybody now sounds like the same reasonably intelligent intern. Political Math made a related point that drew a lot of agreement: never use a robot to ask a human for their attention.
+> source: Harry's X home timeline, Nov 14 (@AJamesMcCarthy, @TaraBull, @JoshuaLisec, @politicalmath)
+
+## Local News & Events | sting=local
+// Story 11: Brewer data centers; tonight's music
+[ava] Story eleven, local news. Remember that statewide data center debate? Brewer, near Bangor, is moving the other way. Its planning board has recommended zoning changes that would allow data centers of up to fifty megawatts, about the power use of a small city, in certain industrial zones in south Brewer. Nothing has been formally proposed. The city manager says one such project could nearly double Brewer's tax base and cut property taxes by a quarter. The one board member who voted no says the downsides got far less discussion than the upside. Neighboring Bangor and Old Town have banned data centers this year. There's a public information session on November twenty-fourth.
+[ava] For tonight on the Seacoast: Springtide plays The Dance Hall in Kittery at seven-thirty, singer-songwriter Antje Duvekot is at The Music Hall Lounge in Portsmouth at eight, and York's own Lexi James and Wildheart play The Stone Church in Newmarket at eight. Tomorrow, the Kittery Community Market is open, and Terri Lyne Carrington brings her band to Jimmy's in Portsmouth at seven-thirty.
+> source: Bangor Daily News, "Brewer poised to allow data centers that use as much power as a small city" (Nov 13); Seacoast Local Loop, "This Weekend on the NH Seacoast (Nov 13-15)"
+
+## Uplifting Story | sting=feel
+// Story 12: Gomez the vulture
+[ava] And finally, story twelve. At the Pocono Wildlife Rehabilitation and Education Center in Pennsylvania, a turkey vulture named Gomez came in with a broken wing and lead poisoning. He got treatment and surgery, but there was a problem. Vultures are social birds, and Gomez was the only one there. So the staff gave him a stuffed vulture. Director Janine Tancredi says he ran right up and snuggled in.
+[ava] Soon he had a whole flock of plush friends, inside and out. Then a real one arrived: another injured turkey vulture named Gizmo. Staff say Gomez was thrilled. It's not yet clear whether either bird will fly free again, but for now, neither one is healing alone.
+> source: The Dodo, "Vulture With Broken Wing Falls In Love With Stuffed Birds While Healing At Sanctuary" (Nov 13)
+
+## Close | sting=close
+[ava] That's your Saturday ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Starship's catch attempt is still set for about four twenty this afternoon, with a final go or no-go around two.
+[ava] Enjoy your Saturday, and thanks for listening to Gumshoe News Radio.
