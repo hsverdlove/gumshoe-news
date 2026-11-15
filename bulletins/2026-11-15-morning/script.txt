@@ -1,0 +1,83 @@
+// Gumshoe script format: see README.md
+# title: Sunday Morning, Nov 15
+# description: The Sunday morning bulletin from Gumshoe News Radio for November 15, 2026: York, Maine weather with the full seven-day forecast; what's new as air travel recovers from Friday's ground stop; Mary Peltola crosses fifty percent in Alaska as the Senate Democratic leadership fight sharpens; the Emanuel Nine memorial opens in Charleston; Israel kills a senior Hamas commander in Gaza; Iran says three more tankers hit mines near Hormuz, and Yemen's Houthis free six hundred detainees; a reported Ukrainian drone strike on a Russian airbase; SpaceX catches a Starship with its launch tower for the first time; the Anthropic IPO and Nvidia earnings set up a big week for A.I.; how a stolen Fireworks AI key led to the Cursor breach; your X feed; a Route 1 restaurant plan in York, a grocery warehouse strike, and Sunday picks; and strangers who rescued a stranded family's birthday cruise. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Sunday, November fifteenth, and this is Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Airlines are hoping to be back to normal by tonight, and SpaceX pulled off something nobody had done before.
+[ava] First, the York, Maine forecast, with the full week ahead.
+@weather
+> source: National Weather Service forecast for York, ME (api.weather.gov), retrieved Nov 15 at airtime
+
+## US News | sting=us
+// Story 1: Ground stop recovery, what's new
+[ava] Story one, what's new on the flight mess. FlightAware counted more than sixty-four hundred U.S. flights canceled Saturday, on top of more than nine thousand Friday, and more than twelve hundred cancellations were already on the board for today. F A A chief Bryan Bedford still expects schedules back to normal by the close of business tonight.
+[ava] New details on the cause: the union for F A A safety technicians says the trouble was isolated to two routers updated Friday, and a Reuters source says they were in Arkansas and Texas. Communications were disrupted at seventeen of the agency's twenty-two en route centers, though none went fully dark. House Speaker Mike Johnson says he supports more air traffic money this year. Incoming Democratic committee chairs Rick Larsen and Andre Carson promise oversight, and say the department has spent only about one billion of the twelve and a half billion Congress approved last year. L three Harris says it's supporting the investigation.
+> source: Reuters, "US air travel disruptions to persist until late on Sunday, FAA head says" (Nov 14); AFP via Yahoo, "FAA chief says US air travel back to normal by Sunday" (Nov 15); AP, "US air travel should normalize Sunday after ground stop triggers mass cancellations" (Nov 14)
+
+// Story 2: Peltola over 50%; Schumer vs Van Hollen
+[ava] Story two. In Alaska, Democrat Mary Peltola has now edged above fifty percent of first-choice votes, about fifty point one to forty-six point one over Republican Senator Dan Sullivan, a lead of more than eleven thousand votes with about ninety-seven percent counted. Crossing fifty would let her win outright without a ranked-choice tally, but the Associated Press hasn't called it and Sullivan hasn't conceded. Another batch of ballots is due Wednesday.
+[ava] A Peltola win would give Senate Democrats fifty-six seats, and that caucus has a leadership fight. Chris Van Hollen, challenging Chuck Schumer, called himself the underdog at a Democratic conference in Denver, but says voters want change. Schumer's allies claim more than forty votes and call the challenge a distraction, and may move the vote up from early December. Van Hollen's backers say that move shows nerves.
+> source: USA Today, "Peltola's lead increases in uncalled Alaska Senate race" (Nov 14); Alaska Division of Elections unofficial results (Nov 14); The Hill, "Schumer allies voice confidence, argue Van Hollen challenge about ending 'filibuster'" (Nov 14); Fox News (Nov 8)
+
+// Story 3: Emanuel Nine memorial
+[ava] Story three. In Charleston, South Carolina, the Emanuel Nine Memorial opened Saturday beside Mother Emanuel A M E Church, more than eleven years after a white supremacist murdered nine people at Bible study there. It was designed by Michael Arad, who also designed the September eleventh memorial in New York, and includes a cross, fellowship benches and a fountain ringed with the nine names. Survivor Polly Sheppard said that as the ribbon was cut, she felt a burden begin to lift. It's free and open daily.
+> source: Live 5 News (WCSC), "Emanuel Nine Memorial opens to public in Charleston" (Nov 14); AP, "Memorial opens honoring victims of the 2015 Charleston church massacre" (Nov 14)
+
+## International | sting=world
+// Story 4: Hamas Rafah commander killed
+[ava] Story four, the world. Israel says it killed Samir Abu Younis, the newly appointed commander of Hamas's Rafah Brigade, in a strike Saturday on a tent camp for displaced people in al-Mawasi, in southern Gaza. Hamas confirmed his death and called him one of the key planners of the October seventh attack. Witnesses say the strike set a tent on fire, and a hospital reported one body and three wounded. Israel says it took steps to limit civilian harm, and argues the ceasefire lets it target militants rebuilding their forces. Gaza's health ministry, whose figures the U N considers reliable, says more than sixteen hundred Palestinians have been killed since that ceasefire began in October of last year.
+> source: BBC News, "Israel kills Hamas commander in strike on Gaza camp, officials say" (Nov 15); Al Jazeera, "Israeli air strike kills senior Hamas commander in Gaza" (Nov 15); Reuters (Nov 14)
+
+// Story 5: Hormuz mines; Yemen detainees
+[ava] Story five. Iran's Revolutionary Guard navy says three more oil tankers hit naval mines and caught fire in and near the Strait of Hormuz on Saturday. It says two were trying to sneak through an unauthorized route with their tracking transponders off, and that two others turned back after warnings. Iran hasn't named the ships or said whether anyone was hurt, and Reuters says it couldn't verify the claims. Iran has been attacking ships it says break its rules, as it tries to assert control of the strait and pressure Washington.
+[ava] In Yemen, the Houthi authorities in Sanaa released six hundred people detained in the conflict on Sunday, with Red Cross support. It's the largest one-sided release of the war, and the Red Cross says it had no role in choosing who went free.
+> source: Reuters via ThePrint, "Three tankers aflame in the Strait of Hormuz after hitting mines, says Iranian Navy" (Nov 15); Iran International (Nov 14); ICRC, "Yemen: 600 conflict-related detainees released in Sana'a" (Nov 15); AP (Nov 15)
+
+// Story 6: Akhtubinsk strike, unconfirmed
+[ava] Story six, and the details are still unconfirmed. A Ukrainian monitoring channel says Ukrainian drones hit Russia's Akhtubinsk military airfield overnight, near the Kazakh border, setting off at least thirty explosions around aircraft parking and ammunition storage. The regional governor says thirty-one drones were shot down, and the local mayor says the town itself wasn't damaged. Ukraine's military hasn't confirmed the strike. Ukraine has hit that same base twice before, damaging Russian fighter jets in August and October.
+> source: Kyiv Independent, "Ukraine reportedly strikes Russian military airfield in Astrakhan Oblast, at least 30 explosions heard" (Nov 15); Kyiv Post (Nov 15); AiF Astrakhan (Nov 15)
+
+## Technology | sting=tech
+// Story 7: Starship ship catch
+[andrew] Story seven, tech. For the first time, SpaceX has caught a Starship spacecraft returning from orbit. Saturday at about four twenty Eastern, roughly twenty-two and a half hours after liftoff, the ship flew back to Starbase in South Texas and lowered itself upright between the launch tower's mechanical arms, nicknamed the chopsticks.
+[andrew] It wasn't the double catch SpaceX wanted. Friday's Super Heavy booster aborted its own catch, diverted to the Gulf of Mexico and was destroyed, and that cause is still under investigation. But catching the upper stage is the key step toward a fully reusable rocket, which SpaceX needs for cheaper launches and its moon and Mars plans.
+> source: AP, "SpaceX's Starship returns from orbit and is captured by launch pad arms in a dramatic first" (Nov 14); Xinhua (Nov 15); SpaceX on X, "Mechazilla catches Starship!" (Nov 14); Space.com (Nov 14)
+
+## Artificial Intelligence | sting=ai
+// Story 8: Anthropic IPO + Nvidia earnings week
+[andrew] Story eight, A I, and a big week for it. Anthropic's stock offering is due to price Wednesday, with trading expected Thursday. It aims to raise up to about sixty-four billion dollars at a valuation of up to one point four trillion. Reuters says the order book was six times oversubscribed by Thursday, faster than SpaceX's offering in June.
+[andrew] Still, investors are asking whether Anthropic can stay ahead as Google catches up, and whether Claude's lead goes beyond coding. Bankers' models assume revenue near two hundred seventy billion dollars by twenty twenty-eight; one investor who passed is about thirty percent lower.
+[andrew] Then on Tuesday, Nvidia reports its first earnings since Jensen Huang resigned. Analysts expect about one hundred nine billion dollars in revenue, and interim C E O Colette Kress will be under pressure to reassure investors. Strategists say a stumble from either could test the whole A I trade.
+> source: Reuters via CNBC TV18, "Investors flock to Anthropic IPO but question durability of AI lead" (Nov 14); Reuters via Gulf Times, "Nvidia results, Anthropic IPO pose tests for US trade" (Nov 14)
+
+## Cybersecurity | sting=cyber
+// Story 9: Cursor breach traced to Fireworks AI key
+[ava] Story nine, the cyber desk. The coding-tool company Cursor has explained how attackers got in. It says an access key it had given A I vendor Fireworks A I was exposed in a breach at Fireworks, the same vendor tied to last week's Uber driver data theft. The attacker used it to copy coding-session records Cursor had shared with Fireworks, some containing passwords and keys that weren't scrubbed. Those led into Cursor's other business tools, and on October twenty-ninth, to a poisoned copy of Anthropic's Claude Code extension slipped into Cursor's extension store for about eleven hours. Up to five thousand users may have received it.
+[ava] The malware tried to plant a hidden remote-access backdoor, though coding errors kept that from working on most machines. Anthropic's own systems weren't compromised. Cursor says the incident is contained, with no attacker activity since November first. If you installed Claude Code versions two point one point three one two or three one three through Cursor, run its cleanup script; uninstalling alone may not be enough.
+> source: Cursor, "An update on our recent security incident" (Nov 13); The Hacker News, "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident" (Nov 14); BleepingComputer, "Cursor confirms security breach led to malicious Claude Code extension" (Nov 14); Microsoft Security Blog (Oct 30)
+
+## From Your X Feed | sting=x
+// Story 10: X feed, politics excluded
+[ava] Story ten, from your X feed, politics left out. Variety reports Bowen Yang made a surprise return to Saturday Night Live as Jensen Huang. In John Mulaney's cold open, Mulaney played a C I A official giving tech billionaires a crash course in spotting spies, with jokes about the ground stop and the Outlook outage too.
+[andrew] In college football, a Calvin Coolidge-themed fan account posted the final from Baton Rouge: Texas twenty-two, L S U twenty-one. Arch Manning led a late drive and threw the winning touchdown with three seconds left. And Autoblog notes that Scout Motors, Volkswagen's revival of the old International Scout, has begun building test vehicles at its new South Carolina plant, with two hundred twelve thousand reservations. Customer deliveries are planned for twenty twenty-eight.
+[ava] And the Interesting All account shared a twenty-seven-hundred-year-old job hunt. An Assyrian official wrote to his boss asking to get his old post back, complaining that three earlier letters went unanswered. That letter, now at the British Museum, survived in its clay envelope, unopened until modern times. He asked why his lord was silent while he wagged his tail like a dog.
+> source: Harry's X home timeline, Nov 14-15 (@Variety, @TheCalvinCooli1, @therealautoblog, @interesting_aIl); Variety, "Bowen Yang Crashes 'SNL' Cold Open as Jensen Huang" (Nov 14); AP, "Arch Manning leads No. 8 Texas to a late score and a dramatic 22-21 win over No. 24 LSU" (Nov 14); CNBC, "Scout Motors has 212,000 reservations" (Nov 12); Oracc/SAAo, British Museum letter highlights
+
+## Local News & Events | sting=local
+// Story 11: York Route 1 proposal; York Hospital; AGNE strike; Sunday picks
+[ava] Story eleven, local news. Plans filed in York call for a two-story building on Route One, across from Lobster in the Rough: a hundred-twenty-five-seat restaurant downstairs, four two-bedroom apartments upstairs. The applicant is tied to Green Leaves, the longtime Chinese and Japanese restaurant in town, and is asking to skip a traffic study. The planning board takes it up Thursday. Also, York Hospital's care management team won the Pillars of Partnership Award, the only Maine winner, for helping seniors and families through care transitions.
+[ava] In New Hampshire, a Teamsters strike at Associated Grocers' Pembroke warehouse is in its second week. About two hundred fifty-five workers walked out over a plan to replace their pension with a 401 k. The co-op supplies around a thousand independent markets, and N H P R reported a Portsmouth market low on milk and eggs. The company is using non-union staff while it waits for federal mediation; the union says it has made an offer.
+[ava] Today's picks: the Kittery Community Market at ten, jazz brunch at Jimmy's in Portsmouth, and the Marc Chillemi Quintet's Blue Note tribute at The Dance Hall in Kittery at five.
+> source: WMTW, "New restaurant, apartment building proposed along Route 1 in York" (Nov 13); Seacoastonline, "York Hospital receives Maine's only Pillars of Partnership Award" (Nov 14); Concord Monitor, "Teamsters strike at Associated Grocers enters second week" (Nov 14); NHPR (Nov 10); WMUR (Nov 11); Seacoast Local Loop weekend calendar (Nov 15)
+
+## Uplifting Story | sting=feel
+// Story 12: Strangers rescue birthday cruise
+[ava] And finally, story twelve. When Friday's ground stop hit, Rachel Kleinbach and her daughter Kaycee were stuck at the Atlanta airport, about to miss a birthday cruise out of Jacksonville. The cruises are how Rachel honors her late husband; each time, she scatters a little of his ashes at sea.
+[ava] At the airport she got talking with a stranger. He has a brother with Down syndrome; she and her daughter work with kids with special needs. So he called his sister, who drove five hours from Jacksonville to Atlanta, drove them back overnight, let them sleep at her house, then took them to the port. They made the ship. And the family, Rachel says, wouldn't take a cent.
+> source: 11Alive (WXIA), "Strangers help mother, daughter stranded at Atlanta airport make birthday cruise" (Nov 14)
+
+## Close | sting=close
+[ava] That's your Sunday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. If you're flying today, check your flight before you head out.
+[ava] Enjoy your Sunday, and thanks for listening to Gumshoe News Radio.
