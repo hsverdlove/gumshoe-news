@@ -64,4 +64,9 @@ episodes/ (MP3 + chapters JSON), bulletins/ (scripts), location.json (public: ci
 Requires: ffmpeg, edge-tts (`pip install --break-system-packages edge-tts`), gh/git logged in as hsverdlove.
 
 ## Pronunciation
-The tts() step respells tricky names before synthesis (PRONUNCIATIONS in make_bulletin.py). Anthropic is respelled "An-thropic" (o as in hoppy) and robotaxi as "robo-taxi" (row-bow-taxi), including in any longer name containing it. Add new fixes there, not in scripts.
+The tts() step respells tricky names before synthesis (PRONUNCIATIONS in make_bulletin.py). Anthropic is respelled "An-thropic" (o as in hoppy) and robotaxi as "robo-taxi" (row-bow-taxi), including in any longer name containing it. Add new fixes there, not in scripts. Stress caps in those respellings (like HEG-seth) are lowercased at load time (heg-seth) so the voice says a word instead of spelling the stressed syllable.
+
+`speakable()` also cleans text before synthesis so pauses stay natural:
+- 2-4 letter initialisms written with dots or spaces (U.S., U.S.A., F.B.I., F B I, D.O.J.) are compacted to US, USA, FBI, DOJ. That is the fastest rendering in edge-tts; word-acronyms like NATO, NASA, and OPEC stay words, and the pronoun "us" is left alone.
+- Newlines inside a paragraph are joined to spaces (a newline mid-sentence was adding about half a second of silence).
+- City, ST patterns drop the comma and spell out the state ("York, ME" -> "York Maine"; "Londonderry, NH" -> "Londonderry New Hampshire"). Short simple lists drop list commas ("apples, oranges, and pears" -> "apples oranges and pears"). Commas that separate real clauses are kept.
