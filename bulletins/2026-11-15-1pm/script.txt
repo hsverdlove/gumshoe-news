@@ -1,0 +1,79 @@
+// Gumshoe script format: see README.md
+# title: Sunday 1 PM Update, Nov 15
+# description: The Sunday 1 p.m. update from Gumshoe News Radio for November 15, 2026: York, Maine weather through tomorrow; Transportation Secretary Sean Duffy traces Friday's ground stop to a router in El Dorado, Arkansas; a judge pauses the closure of a Washington public golf course and President Trump vows to appeal; Mr. Trump's Asia trip and a planned three-way meeting with Xi Jinping and Vladimir Putin; Jordan sentences three men to death for a church attack; Russia hits Ukraine's power grid as Kyiv blames Starshield slowdowns; Megaspeed says Alice Huang left in 2025 and opens an internal probe; Google's Gemini gets read-only access to your Google Wallet; Italy fines Meta 805 million euros over Facebook's photo-gallery feature; your X feed; Maine towns pulling out of school districts and a Hampton police delivery; and a Bow High School sendoff. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's one o'clock on Sunday, November fifteenth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. We now know a lot more about what grounded the country's flights on Friday.
+[ava] First, the York, Maine forecast through tomorrow.
+@weather
+> source: National Weather Service forecast for York, ME (api.weather.gov), retrieved Nov 15 at airtime
+
+## US News | sting=us
+// Story 1: Duffy on the Sunday shows: El Dorado router
+[ava] Story one. On the Sunday shows, Transportation Secretary Sean Duffy laid out the most detailed account yet of Friday's nationwide ground stop. He says contractor L3Harris was replacing an old copper phone line with fiber at a remote F A A site in El Dorado, Arkansas, because the phone company was shutting down the copper. When the new router was switched on, it started flooding other routers in the air traffic control network with data. A system in Amarillo, Texas, that was upgraded about three weeks ago then started doing the same thing.
+[ava] Duffy says the F A A has now turned off that broadcasting feature on all sixty-nine routers of that type, which fixed the problem. The two routers are being examined at an L3Harris lab in Florida, with the F B I helping. Duffy says investigators still need to learn whether it was installer error or faulty equipment. He noted that this kind of swap has been done thousands of times without trouble, and that more than seventy percent of the copper lines have already moved to fiber.
+[ava] The open question, which ABC's Martha Raddatz pressed him on, is how one remote site could disrupt the whole national network. Duffy says that's exactly what they're investigating, and he promised to share the findings. L3Harris says it's supporting the investigation. Meanwhile, Cirium counted just over thirteen hundred cancellations today, about five percent of flights, and officials expect schedules to be back to normal by tonight.
+> source: ABC News, "'This Week' Transcript 11-15-26: Transportation Secretary Sean Duffy" (Nov 15); CBS News, "Ground stop shows 'we have to get off old network,' Transportation Secretary Sean Duffy says" (Nov 15); BBC, "Copper wire upgrade behind US flight suspension, transport secretary says" (Nov 15); AP, "What to know about flights after the US nationwide ground stop" (Nov 15)
+
+// Story 2: East Potomac golf course order
+[ava] Story two. In Washington, a federal judge has kept East Potomac Park and its public golf course open, at least for now. Judge Ana Reyes issued a temporary order late Saturday, a day before the National Park Service planned to close the area south of Buckeye Drive, including Hains Point and the waterfront paths. The order runs through November twenty-eighth.
+[ava] The administration wants to turn the historic public course into a championship venue. The Park Service says it can't safely manage the park after the course operator leaves, pointing to staffing and a damaged seawall. The judge found those reasons were likely a pretext for advancing the redesign without the required environmental review. A preservation group and two local golfers brought the suit, arguing the project could make the course unaffordable. President Trump called it a highly destructive and political decision and says he'll appeal on an expedited basis, though temporary orders like this generally can't be appealed right away.
+> source: AP, "Trump blasts judge's 2-week halt to his Washington golf project and says administration will appeal" (Nov 15); WJLA, "Court order blocks East Potomac Park closure as golf course lawsuit continues" (Nov 14); Washington Post, "Trump vows appeal of East Potomac ruling as golf operations remain unclear" (Nov 15)
+
+## International | sting=world
+// Story 3: Trump Asia trip; Xi-Putin trilateral
+[ava] Story three, the world. President Trump heads to Asia this week. After meetings in Manila, he's due in Shenzhen, China, for the Asia-Pacific summit, and on Thursday he's scheduled to sit down with China's Xi Jinping and Russia's Vladimir Putin together, a three-way meeting the White House and the Kremlin have both confirmed. Mr. Trump says he wants to talk about nuclear arms reduction and Iran. Ukraine is not expected to be on the agenda.
+[ava] The A P frames the trip as a chance to regain momentum after the midterm losses. Supporters say talking directly with both rivals is how you lower nuclear risks. Critics worry about a deal over Europe's head, and Ukraine's foreign minister, Andrii Sybiha, mocked Putin today for picturing himself at Yalta. Semafor reports Commerce Secretary Howard Lutnick is expected to fly with the president, despite criticism over his handling of chip exports to China. The White House says it has complete confidence in him.
+> source: AP, "Trump heads to Asia with hopes of shifting the momentum after midterm setbacks hurt him at home" (Nov 15); BBC, "Trump, Putin and Xi plan historic joint meeting in China next week, White House says"; Nikkei Asia, "Trump to meet Putin and Xi in China, White House says"; Semafor, "Under pressure, Lutnick joins Trump in China" (Nov 15); Al Jazeera (Nov 15)
+
+// Story 4: Jordan church attack sentences
+[ava] Story four. In Jordan, a security court has sentenced three men to death by hanging for last month's mass shooting at Saint George's Greek Orthodox Church in the Karak region, which killed nine people and wounded thirty-four at a funeral. The men, two brothers and their brother-in-law, were convicted of terrorism charges. Officials haven't named them or explained why that church was targeted. The ruling can be appealed. Karak has a large Christian community, and EWTN reports some churches have canceled Christmas celebrations.
+> source: BBC, "Three men sentenced to death in Jordan over fatal church mass shooting" (Nov 15); The National (Nov 15); Al Jazeera (Nov 15); EWTN News (Nov 15)
+
+// Story 5: Russia hits Ukraine grid; Starshield dispute
+[ava] Story five. Russia launched another large drone and missile attack on Ukraine overnight. Ukrainian officials say four people were killed and sixty-nine hurt across the country over the past day, and a strike in the Odesa region left about forty-one thousand homes without power. Ukraine says it downed a hundred six of a hundred thirty-two drones. Ukraine struck back at industrial sites in Russia's Tatarstan and Rostov regions, and Russian officials report one person killed and several hurt.
+[ava] President Zelensky says many Russian drones are getting through because the military version of Starlink, called Starshield, has been running slowly along the front for five days. Starlink has denied throttling, and Elon Musk has said Starshield is controlled by the U.S. government. That claim is unresolved.
+> source: Kyiv Independent, "Russia launches 'mass attack' on Odesa Oblast as strikes kill 4, injure 69 across Ukraine over past day" (Nov 15); Al Jazeera, "Starshield restrictions help Russia's energy attacks on Ukraine: Zelenskyy" (Nov 15); RFE/RL (Nov 15)
+
+## Technology | sting=tech
+// Story 6: Megaspeed statement
+[andrew] Story six, tech. Megaspeed, the Singapore cloud company at the center of the Nvidia scandal, has issued a statement. It told CNBC that Alice Huang, the former executive linked to ex-Nvidia C E O Jensen Huang, officially left the company on August thirtieth of last year and has no role there now. It won't comment on her personal life.
+[andrew] Megaspeed says media reports about chips ending up in China aren't backed by verifiable evidence. It says it follows U.S. export rules, and it has hired outside lawyers for an internal investigation. Keep in mind that U.S. intelligence officials reportedly believe Alice Huang is a Chinese intelligence asset, and U.S. authorities are investigating whether Nvidia chips were smuggled through the company. An internal review by Megaspeed's own lawyers won't settle either question.
+> source: CNBC, "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business" (Nov 15); Reuters via Investing.com (Nov 15); Malay Mail (Nov 15)
+
+## Artificial Intelligence | sting=ai
+// Story 7: Gemini + Google Wallet, read-only
+[andrew] Story seven, A I. Google now lets U.S. users connect Gemini to Google Wallet. If you link your bank and card accounts through Plaid, you can tag Google Wallet in a chat and ask things like which subscriptions went up in price, or what a holiday budget should look like based on last year's spending.
+[andrew] The key difference from OpenAI's new ChatGPT Wallet is that Gemini's access is read-only. It can't move, manage or invest money. It's opt-in, and you can turn it off under Connected Apps. Google also added a Memory Summary page that shows what Gemini remembers about you and lets you edit or delete it. The privacy trade-off is real: your transaction history becomes something the assistant can read. Google is betting people will be more comfortable letting it look than letting it pay.
+> source: Google, "Gemini finance insights with Google Wallet integration"; 9to5Google, "You can now set up Gemini's Google Wallet integration" (Nov 13); Plaid; The Next Web
+
+## Cybersecurity | sting=cyber
+// Story 8: Italy fines Meta over gallery suggestions
+[ava] Story eight, the cyber and privacy desk. Italy's data protection authority, the Garante, has fined Meta eight hundred five million euros, about eight hundred eighty-seven million dollars. The problem is a Facebook for Android feature, around since twenty twenty-three, that suggests photos and videos from your phone's gallery to post.
+[ava] Regulators say it was on by default, and it read photos, videos and their metadata from about twenty million Italian users under one broad app permission, without clear, specific consent. Meta has sixty days to switch it off by default and ask separately. Meta says it strongly disagrees, calls the fine disproportionate, and plans to appeal. A practical tip wherever you live: on your phone, check which apps have full access to your photos, and switch them to selected photos only where you can.
+> source: Garante per la protezione dei dati personali (Nov 14); The Guardian, "Italy fines Meta $887m for accessing Android users' photos and videos" (Nov 15); The Hacker News (Nov 15); AP (Nov 14); BBC (Nov 15)
+
+## From Your X Feed | sting=x
+// Story 9: X feed, politics excluded
+[ava] Story nine, from your X feed, politics left out. C S O Andy live-posted the Patriots game in Munich, including a hopeful "Woot, twenty-eight to three," a nod to the Super Bowl where New England came back from that exact deficit. No comeback this time. The Lions won thirty-five to ten. Jared Goff threw three touchdowns, Jahmyr Gibbs ran for two, and the Patriots, without the injured Drake Maye, fall to five and four.
+[andrew] Variety posted that Johnny Depp is back on top of the box office. "Ebenezer," his take on "A Christmas Carol," opened at number one with about nineteen million dollars, his first number-one opening in eight years, according to the A P.
+[andrew] The 25 Years Ago Live account reminded everyone that Microsoft's first Xbox went on sale in the U.S. on this day in two thousand one. And the interesting account shared a find from last month: archaeologists pulled a thirty-three-hundred-year-old bronze sword out of Lake Mezzano, a volcanic crater lake northwest of Rome, and its edge is still sharp. It was found near a bronze razor, which hints it belonged to a high-status warrior, or was dropped in as an offering.
+> source: Harry's X home timeline, Nov 15 (@csoandy, @Variety, @25YearsAgoLive, @interesting_aIl); ESPN, Patriots vs. Lions box score (Nov 15); AP, "Johnny Depp film 'Ebenezer' gets actor first No. 1 opening in 8 years" (Nov 15); Live Science, "Bronze Age sword discovered in an Italian lake is still sharp after 3,300 years" (Oct 28)
+
+## Local News & Events | sting=local
+// Story 10: Maine school withdrawals; Hampton DoorDash
+[ava] Story ten, local news. The Press Herald and Maine Morning Star report that Maine's two-decade-old push to consolidate school districts keeps unraveling. On November third, more than a dozen towns voted on leaving or reorganizing their districts, and only Kingfield succeeded, with over seventy percent voting to leave M S A D 58 and run its own elementary school for about eighty kids. Supporters want local control and to keep their neighborhood schools. Superintendents warn that smaller districts cost more per student and will compete for the same scarce special-education teachers and bus drivers.
+[ava] And a Seacoast story with a twist. Hampton police stopped a driver on Route 101 doing more than ninety in a fifty-five zone, and found he had a suspended license and was in the middle of a DoorDash run. So another officer finished the job and delivered the order to the Hampton CVS. The driver got summonses for speeding, improper passing and driving on a suspended license.
+> source: Portland Press Herald / Maine Morning Star, "How Maine's two-decade old school consolidation effort continues to unravel" (Nov 15); WMUR, "Hampton police officer completes food delivery after driver pulled over" (Nov 14); Boston Globe (Nov 13)
+
+## Uplifting Story | sting=feel
+// Story 11: Brady Brandon's Bow High sendoff
+[ava] And finally, story eleven. In Bow, New Hampshire, twenty-two-year-old Brady Brandon walked the halls of Bow High School one last time on Friday, with classmates and teachers lining the way and cheering him on. Brady has Down syndrome. He graduated in twenty twenty-three and was able to keep attending school until he turned twenty-two.
+[ava] His mom, Leah Lucier-Pike, called it the proudest moment of her life, not just because he finished school, but because of the friendships and the community behind him. Brady played unified sports, and he says he'll miss gym class and his coach the most. He's not slowing down: he works at Market Basket and plans to keep at it. As his mom put it, "It's worth it. It's worth it."
+> source: WMUR, "Student with Down syndrome gets unforgettable sendoff at Bow High School" (Nov 14)
+
+## Close | sting=close
+[ava] That's your Sunday one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Maybe check which apps can see your photo library today.
+[ava] Enjoy the rest of your Sunday, and thanks for listening to Gumshoe News Radio.
