@@ -1,0 +1,84 @@
+// Gumshoe script format: see README.md
+# title: Sunday 4 PM Update, Nov 15
+# description: The Sunday 4 p.m. update from Gumshoe News Radio for November 15, 2026: York, Maine weather through tomorrow; Senators Chris Van Hollen and John Fetterman trade shots over the Democratic leadership race; giant surf batters Northern California and a nationwide alert test is coming Tuesday; Africa's top health agency says Congo's Ebola outbreak is still not under control; Pope Leo XIV in the Andes and the Amazon; NATO skips next year's summit and migrant arrivals surge in the Canary Islands; Jensen Huang weighs a comeback at Nvidia as Treasury Secretary Scott Bessent calls for an outsider; a glitchy first A.I. Music Awards and OpenAI folds its robotics team; attackers hijack about sixty-four thousand Bitcoin miners; your X feed; a recovering Ogunquit eagle and events this week; and heart dolls for young surgery patients in Brazil. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's four o'clock on Sunday, November fifteenth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Good afternoon, Ava. A lot of the action today is about who leads, from the Senate to Nvidia.
+[ava] First, the York, Maine forecast through tomorrow.
+@weather
+> source: National Weather Service forecast for York, ME (api.weather.gov), retrieved Nov 15 at airtime
+
+## US News | sting=us
+// Story 1: Van Hollen vs Fetterman
+[ava] Story one. The Senate Democratic leadership race got personal on the Sunday shows. On Saturday, Pennsylvania Senator John Fetterman told Fox News it would be, quote, troubling, if his caucus picked Maryland Senator Chris Van Hollen as majority leader, citing what he calls Van Hollen's hostility toward Israel. Asked if that could push him out of the party, he didn't rule it out, but didn't commit either.
+[ava] Van Hollen answered this morning on Fox News Sunday. He said Fetterman is worried about a Democratic primary back home and may be, in his words, looking for an exit ramp. He says his position is simply that taxpayers shouldn't give a blank check to Israel or any government, and that his defense of Kilmar Abrego Garcia was about everyone's constitutional rights.
+[ava] Some context on both sides. Van Hollen's supporters say voters asked for new leadership after the midterms. Chuck Schumer's allies say he has more than forty senators behind him and deserves credit for the wins. And Fetterman has said before that he's a terrible Republican who still votes mostly with Democrats. The caucus votes by secret ballot on December first.
+> source: Newsweek, "Van Hollen Says Fetterman 'Maybe Looking For Exit Ramp' After Criticism" (Nov 15); The Hill, "John Fetterman says Chris Van Hollen being named Majority Leader 'would be troubling'" (Nov 14); The Independent (Nov 15)
+
+// Story 2: NorCal surf; EAS test Tuesday
+[ava] Story two. On the West Coast, a powerful Pacific swell sent breaking waves of twenty-five to thirty-five feet, with occasional bigger sets, into Northern California over the weekend. In Pacifica, south of San Francisco, water topped seawalls, flooded streets, and buckled part of a concrete seawall, which the city has cordoned off. Forecasters say the surf is easing, but sneaker waves remain a danger.
+[ava] And a heads up for Tuesday. FEMA and the F C C will run a nationwide test of the Emergency Alert System at two-twenty in the afternoon, Eastern time. Radio and TV will interrupt programming for about a minute. Your phone will not get this one, and you don't need to do anything. If you see posts online claiming a cartoon predicted a nationwide blackout that day, that's just a rumor riding on the test date.
+> source: NBC Bay Area, "Pacifica sees flooding, seawall cracks, large waves during high surf" (Nov 14); CBS San Francisco (Nov 14); Santa Rosa Press Democrat (Nov 14); FCC Public Safety and Homeland Security Bureau, DA 26-989 (Sept 16); Wisconsin Emergency Management, "Nationwide Emergency Alert System Test on Nov. 17"
+
+## International | sting=world
+// Story 3: Ebola, Africa CDC warning
+[ava] Story three, the world. Six months after it was declared, the Ebola outbreak in the Democratic Republic of Congo is still not under control. That's the word today from Jean Kaseya, head of the Africa Centres for Disease Control, who told Reuters that if it isn't stopped now, it could become the worst Ebola outbreak the world has seen.
+[ava] Government figures show more than eleven thousand two hundred cases and about fifty-five hundred deaths across eight provinces. Kaseya says more than eighty percent of new cases are turning up among people who weren't on any contact list, and most deaths happen at home rather than in treatment centers. This is the Bundibugyo strain, with no approved vaccine or treatment of its own, and it kills about half the people it infects. Only one point three billion of the two point nine billion dollars pledged by donors has actually been released, and some health workers haven't been paid in months.
+[ava] On the hopeful side, the World Health Organization says transmission has slowed in several early hot spots, and trials of two new vaccines should report early next year.
+> source: Al Jazeera/Reuters, "Africa CDC says Ebola outbreak in DR Congo 'still not under control'" (Nov 15); AP, "Ebola outbreak remains out of control in Congo 6 months into response"; WHO Regional Office for Africa; ECDC (Nov 13)
+
+// Story 4: Pope Leo in Cusco and the Amazon
+[ava] Story four. Pope Leo the Fourteenth, the first American pope, who spent years as a missionary in Peru, is wrapping up his homecoming trip there. Today he prayed the Angelus in the cathedral square in Cusco, high in the Andes, then flew down to Pucallpa in the Amazon, where the heat index was over a hundred degrees. There he met missionaries and about a hundred forty-five Indigenous representatives, some of whom arrived by boat on the Ucayali River.
+[ava] His focus is protecting the rainforest from illegal mining and deforestation, and the rights of Indigenous communities, echoing Pope Francis. He heads back to Lima tonight.
+> source: AP, "Pope crosses Peru in the finale of a trip home to visit flock high in Andes and deep in Amazon" (Nov 15); Andina, "Pope Leo XIV arrives in Pucallpa to meet with Indigenous peoples and celebrate Holy Mass" (Nov 15); AFP, "Pope heads up to Cusco, down to Amazon in post-cancer test"
+
+// Story 5: NATO skips 2027 summit; Canary arrivals
+[ava] Story five, two quick items from Europe. NATO will not hold a leaders' summit in Albania next year. The A P says tensions over defense spending, Iran and Ukraine are taking a toll, and some allies think Albania itself doesn't spend enough on defense. Secretary General Mark Rutte played it down, saying summits happen when they're needed, and Albania could still host in twenty twenty-eight.
+[ava] And Spain's sea rescue service says nearly twenty-two hundred migrants reached the Canary Islands in just two days, most landing on El Hierro, the westernmost island. More than thirteen thousand of the twenty-eight thousand people who've reached Spain by sea this year came that way, on one of the world's deadliest migration routes. Many now set out from as far away as Mauritania to avoid patrols, which makes the trip even longer.
+> source: AP, "NATO to skip a leaders' summit in Albania next year as high-level meetings are scaled back" (Nov 15); AP, "Nearly 2,200 migrants reach Canary Islands in 2 days, Spain says" (Nov 15); France 24 (Nov 15)
+
+## Technology | sting=tech
+// Story 6: Jensen comeback talk vs Bessent
+[andrew] Story six, tech. Three days after Jensen Huang resigned as Nvidia's C E O, the Financial Times reports he's talking with confidants about coming back. One ally told the paper supporters are building a war room of tech executives to lobby Nvidia's board and seek White House backing. Big shareholders Altimeter and Atreides have urged the board to keep all options on the table, including his return.
+[andrew] Washington is pushing the other way. Treasury Secretary Scott Bessent said on Fox's Sunday Morning Futures that Nvidia needs a dramatic shake-up and should hire its next chief from outside the company. He questioned whether Nvidia ignored warning signs about shell companies in Singapore funneling chips to China, and he wants answers from the board and its outside lawyers within ten days. Those are allegations; Nvidia's board is still investigating, and nothing has been proven.
+[andrew] Analyst Dan Ives, normally one of Nvidia's biggest fans, says he sees no chance Huang returns. A governance expert told Newsweek that bringing him back wouldn't solve the board's problems. Interim C E O Colette Kress presents quarterly results on Tuesday, so expect this to dominate the call.
+> source: Financial Times via Reuters/Investing.com, "Jensen Huang discusses comeback as Nvidia CEO with allies" (Nov 15); Fox Business, "Bessent calls for Nvidia to hire CEO amid China chip scandal" (Nov 15); The Telegraph (Nov 15); Newsweek, "Dan Ives Rejects Jensen Huang Comeback" (Nov 15); Yahoo Finance (Nov 15)
+
+## Artificial Intelligence | sting=ai
+// Story 7: AI Music Awards; OpenAI robotics
+[andrew] Story seven, A I. Los Angeles hosted the first A I Music Awards, and by Variety's account it was rough. The show started about thirty minutes late, the A I voice announcers overlapped or failed, cues were missed, and there was dead air, with humans sometimes lip-syncing or standing in for digital artists. Xania Monet, an A I-assisted artist, won artist and song of the year. The organizers admitted the problems and promised fixes next year. Backers see a legitimate new genre; critics see a threat to working musicians.
+[andrew] Also, Fortune reports OpenAI has broken up its stand-alone robotics team. Researchers now report to the main research group, and hardware people to the applied side. OpenAI says it's still committed to robots and is betting its general-purpose models can run them, instead of building specialized robot brains.
+> source: Variety, "Inside the AI Music Awards, An Attempt to Normalize Tech-Backed Tunes" (Nov 15); Fortune, "OpenAI disbands stand-alone robotics team as its general models start running robots" (Nov 13); The Decoder (Nov 14)
+
+## Cybersecurity | sting=cyber
+// Story 8: Luxor Commander miner hijack
+[ava] Story eight, the cyber desk. Attackers took over roughly sixty-four thousand Bitcoin mining machines on Friday night and pointed their computing power, about thirteen exahashes per second, to a mining pool called OCEAN, with any rewards meant for a wallet they controlled.
+[ava] Luxor, which makes fleet-management software called Commander, has confirmed it was breached and that mining power from just over a dozen customer accounts was redirected. It says it will pay customers as if their machines had mined normally. The attackers mined no blocks and collected nothing, and Bitcoin itself wasn't compromised. The lesson for anyone running big fleets of machines: the management software is the soft spot, so lock down remote-admin tools and check that critical settings haven't quietly changed.
+> source: Crypto Briefing, "Attackers hijack about 64,000 Bitcoin miners and point 13 EH/s at OCEAN" (Nov 15); The Defiant, "Luxor Pledges Full Compensation for Commander Hijack" (Nov 15); TokenPost (Nov 15)
+
+## From Your X Feed | sting=x
+// Story 9: X feed, politics excluded
+[ava] Story nine, from your X feed, politics left out. The interesting account shared a food-waste fix: University of British Columbia researchers made an edible coating from seaweed-based agar, zinc and tannic acid. Coated strawberries stayed mold-free at room temperature for at least four days, about twice as long as uncoated ones. It isn't approved for commercial use yet.
+[andrew] Autoblog marked the end of an era for car people. Audi built the last A8 flagship sedan at its Neckarsulm plant in October, after thirty-two years. Audi says a successor is planned before twenty thirty.
+[andrew] Variety posted that Ben Affleck talked Matt Damon's ear off for twenty minutes about Robert Pattinson's performance in "The Odyssey." Damon says Affleck compared it to watching a guy run into an avalanche.
+[ava] The 25 Years Ago Live account noted that on this day in two thousand one, the Palms Casino opened in Las Vegas, with Paris Hilton in a million-dollar dress. And Eric Raymond offered a thought worth keeping: your intelligence is capped by your willingness to feel stupid while you're learning. He says he's learned to be happy when something new makes him feel a bit dim, because it means he's stretching.
+> source: Harry's X home timeline, Nov 15 (@interesting_aIl, @therealautoblog, @Variety, @25YearsAgoLive, @esrtweet); UBC News, "UBC seaweed coating keeps strawberries fresher than a fridge" (Aug 2026); Car and Driver, "Audi Has Officially Ended Production of the A8 Flagship Sedan"; Motor1 (Nov 2026)
+
+## Local News & Events | sting=local
+// Story 10: Ogunquit eagle; Raymond chase; this week's events
+[ava] Story ten, local news. Up the road in Ogunquit, the young bald eagle that's a familiar sight along the Marginal Way is recovering from lead poisoning at the Center for Wildlife in Cape Neddick. Residents reported it acting strangely on Wednesday, and the fire department helped get it to care. The department says it's slowly improving, but clearing lead from an eagle's system takes time, and they're hoping it returns to the Marginal Way soon.
+[ava] Over the line in New Hampshire, state police say a twenty-year-old Portland, Maine man refused to stop when a trooper tried to pull him over on Route one-oh-one in Hampton Friday night. He left the highway in Raymond, ran from his car, and was caught by a police dog. He faces charges including drunk driving and reckless conduct.
+[ava] Looking ahead in Portsmouth: Monday night, Warren Miller's new ski film, "Days Off," screens at The Music Hall at seven-thirty, and the blues band Johnny Hoy and the Bluefish plays downtown at seven. On Wednesday, the Portsmouth Historical Society hosts a homeschool day in the morning.
+> source: WGME, "Ogunquit Fire Department says rescued bald eagle is improving at Center for Wildlife" (Nov 15); WMUR, "K-9 apprehends driver after multi-town car chase ends in Raymond, police say" (Nov 15); PortsmouthNH.com events calendar; Visit NH events calendar
+
+## Uplifting Story | sting=feel
+// Story 11: Heart dolls in Porto Alegre
+[ava] And finally, story eleven. At a hospital in Porto Alegre, Brazil, children recovering from heart surgery are getting a special gift: a handmade doll with the very same scar they have. Each doll has a little zipper on its chest that opens to show a cloth heart.
+[ava] Staff say it helps kids understand what happened to their bodies, and that seeing themselves in the doll makes recovery easier. Seven-year-old Joaquim got a doll he named Estevão, and it helped him get over his fear of his own scar. Hospital volunteers and staff have sewn more than a hundred of them in recent months, an idea that started at the institution's headquarters in Brasília. Sometimes the best medicine is just knowing you're not the only one.
+> source: g1 Globo, via News Minimalist, "Hospital in Porto Alegre gives children dolls with matching heart surgery scars" (Nov 15)
+
+## Close | sting=close
+[ava] That's your Sunday four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Tuesday at two-twenty, if the radio beeps at you, it's only a test.
+[ava] Have a good Sunday evening, and thanks for listening to Gumshoe News Radio.
