@@ -1,0 +1,83 @@
+// Gumshoe script format: see README.md
+# title: Sunday 10 AM Update, Nov 15
+# description: The Sunday 10 a.m. update from Gumshoe News Radio for November 15, 2026: York, Maine weather through tomorrow; flights near normal as President Trump presses Congress for air traffic money; a challenge to the Republican Party chair after midterm losses; Oak Ridge Boys bass singer Richard Sterban dies at 83; Iran targets a U.S. base in Bahrain for the second time in three days; Yemen's government pulls back from the Bab el-Mandeb Strait; drones hit three ships off Romania, and a huge media-freedom rally in Prague; why so many things broke at once this week; a warning about A.I. models stripped of their safety guardrails; phishing emails that use the Microsoft outage as bait; your X feed; Troy Jackson's Senate transition, a hospital outage in Peterborough, and Sunday night music; and a couple cleaning Britain's dirty road signs. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's ten o'clock on Sunday, November fifteenth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning again, Ava. Flights are getting back on schedule, and the Patriots are already playing in Munich.
+[ava] First, the York, Maine forecast through tomorrow.
+@weather
+> source: National Weather Service forecast for York, ME (api.weather.gov), retrieved Nov 15 at airtime
+
+## US News | sting=us
+// Story 1: Flights recovering; Trump weighs in on ATC money
+[ava] Story one. Air travel is closing in on normal. FlightAware showed about fourteen hundred U.S. cancellations as of seven this morning, far below the roughly sixty-seven hundred on Saturday and more than nine thousand on Friday. American Airlines says its planned cancellations are done, and it's waiving change fees for travel through Wednesday.
+[ava] President Trump commented on the ground stop for the first time this morning. On social media, he blamed the Biden administration for making an old system worse and urged Congress to approve air traffic control money "FAST," after Transportation Secretary Sean Duffy asked for fifty billion dollars on Friday. Democrats point out that the failure happened during this administration's own upgrade work, and that most of the twelve and a half billion dollars Congress approved last year hasn't been spent. Supporters say equipment that's decades old is exactly why the work should be done all at once.
+> source: CNBC, "Flight delays linger as airlines scramble to recover from ground stop" (Nov 15); ABC News live updates (Nov 15); AP, "Trump breaks silence on nationwide ground stop and demand more money from Congress" (Nov 15); Washington Post (Nov 15)
+
+// Story 2: RNC chair challenge; Boebert loses
+[ava] Story two. Republicans are still sorting through their midterm losses. Party co-chair K C Crosbie is challenging Joe Gruters, the national party chairman President Trump picked, saying the party needs an honest look at what went wrong. Mr. Trump backs Gruters and has warned he could hold back his fundraising help, including use of his name in party appeals, if the committee goes against him. Axios reported the White House was furious about the challenge. The vote comes at the committee's winter meeting.
+[ava] One more result that drew attention: in Colorado, Republican Congresswoman Lauren Boebert has lost her seat to Democrat Eileen Laubacher, about forty-nine to forty-eight percent, with the result still to be certified.
+> source: AP, "Trump's handpicked party chair faces a rebellion as midterm losses challenge president's grip on GOP" (Nov 15); Axios (Nov 6); AP, "Rep. Lauren Boebert of Colorado loses House seat to Democrat Eileen Laubacher" (Nov 13); CBS Colorado (Nov 13)
+
+// Story 3: Richard Sterban dies
+[ava] Story three. Richard Sterban, the bass voice of the Oak Ridge Boys, has died at eighty-three. He died Saturday in Hendersonville, Tennessee, of complications from bronchitis and pneumonia after a long fight with cancer. Sterban joined the group in nineteen seventy-two, and his "oom poppa mow mow" on "Elvira" became one of the best-known bass lines in American music. The Oak Ridge Boys had seventeen number-one country singles and are in the Country Music Hall of Fame.
+> source: WKRN, "Richard Sterban, bass voice of The Oak Ridge Boys, dies at 83" (Nov 15); AP (Nov 14); Variety (Nov 14)
+
+## International | sting=world
+// Story 4: Iran targets Bahrain again
+[ava] Story four, the world. Sirens sounded in Bahrain before dawn as Iran targeted the kingdom for the second time in three days. Iran's Revolutionary Guard says it sent six drones at a U.S. air defense radar at the Riffa helicopter base, in what it calls retaliation for hostile U.S. actions. Bahrain, home of the Navy's Fifth Fleet, says its air defenses shot down the incoming attacks before they reached their targets, and there's no U.S. or Bahraini confirmation that anything was hit. After Friday's attempt, U.S. Central Command said two Iranian drones were shot down with no damage, contradicting Iran's claim of a hit.
+[ava] Separately, Saudi Arabia says it intercepted two Houthi ballistic missiles fired toward Riyadh, plus drones over its oil-rich Eastern Province.
+> source: BBC, "Iran targets US military base in Bahrain with drone attack" (Nov 15); CNBC/Reuters, "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base" (Nov 15); France 24 (Nov 15); The National (Nov 15)
+
+// Story 5: Yemen government retreats from Bab el-Mandeb
+[ava] Story five. In Yemen, Saudi-backed government forces say they're pulling back from Dhubab airport and the area overlooking the Bab el-Mandeb Strait to defend their base in Aden. That appears to end a six-week counteroffensive and leaves the Houthis in control of the coast at the mouth of the Red Sea. Reuters notes that, with Iran also choking the Strait of Hormuz, Gulf oil exporters now face pressure on both of their main sea routes. Yemen's presidency calls it a calculated military move. Reuters reports that the besieged city of Taiz is cut off from aid.
+> source: Reuters via NBC News, "Yemen government forces withdraw from area near Bab el Mandeb Strait, Houthis in control" (Nov 15); Asharq Al-Awsat, "Yemeni Presidency: Redeployment of Forces Near Bab Al-Mandab a 'Calculated Military Move'" (Nov 15)
+
+// Story 6: Black Sea drones near Romania; Prague rally
+[ava] Story six, Europe. Drones hit three commercial ships in the Black Sea near Romania's Sulina canal Saturday night, two of them inside Romanian waters. Fires broke out but the crews put them out, and no one was hurt. Romania scrambled F-sixteens twice. Officials didn't say who launched the drones, but Prime Minister Luca Niculescu blamed the deteriorating security caused by Russia's war. Russia denies targeting Ukraine's neighbors. Romania's defense minister plans to ask NATO allies for more patrols and counter-drone gear this week.
+[ava] And in Prague, tens of thousands of people rallied in Letna Park against a government plan to scrap the public-broadcasting fee and fund Czech TV and radio from the state budget instead. Critics compare it to Viktor Orban's Hungary. Prime Minister Andrej Babis says he's simply easing a cost on households.
+> source: Reuters via NBC News, "Three ships struck by drones in Black Sea near Romanian shipping canal, PM says" (Nov 15); Politico Europe (Nov 15); Reuters via Internazionale, "Tens of thousands of Czechs rally against government media funding plan" (Nov 15)
+
+## Technology | sting=tech
+// Story 7: AP: why everything seemed to break
+[andrew] Story seven, tech. An Associated Press piece this morning asks a question a lot of people are asking: is everything broken? In one week, the Nvidia scandal, a Microsoft outage that hit millions, and Friday's nationwide ground stop.
+[andrew] The official explanations are routine. Officials say a technology upgrade overloaded old air traffic equipment, causing radio and radar gaps. Microsoft says its outage traced back to a problem from an earlier network capacity upgrade. Both say there's no sign of an attack. Still, travelers told the AP they wondered about sabotage, and Stephen King joked that aliens had landed. The common thread is less spooky: changes to big, aging systems are where things tend to go wrong.
+> source: AP, "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder" (Nov 15)
+
+## Artificial Intelligence | sting=ai
+// Story 8: Tech Against Terrorism on stripped open-weight models
+[andrew] Story eight, A I. A U N-backed group, Tech Against Terrorism, is warning that governments have just months to act on A I models stripped of their safety guardrails. The group tested a hundred sixty-two models. It found the major closed models refused to help plan attacks, but versions of open-weight models with their safeguards removed answered every time.
+[andrew] It says those guardrails can now be removed within about three days of a model's release, down from more than three weeks in twenty twenty-four, and it counted nearly thirty thousand stripped copies on the A I hub Hugging Face. Executive director Adam Hadley calls it a national security crisis. Hugging Face pushes back: its Yacine Jernite says open models have many legitimate research uses, and that labs should do more to keep terrorist material out of training data. The group wants an independent international testing system that publishes which models pass or fail.
+> source: ABC News (Australia), "UN-backed anti-terrorism group calls for urgent policy action to halt spread of 'rogue' AI" (Nov 15)
+
+## Cybersecurity | sting=cyber
+// Story 9: Microsoft 365 outage phishing
+[ava] Story nine, the cyber desk. Microsoft is warning about phishing emails that use this week's outage as bait. They look like Microsoft 365 service-health notices, with subject lines that start "Outage" followed by a short code, and they even cite the real incident number. The message says your held emails will be deleted within twenty-four hours unless you click to restore them, and the link leads to a page that steals passwords. Email security firm Mimecast reports similar "held messages" lures.
+[ava] The fix is simple. Check service status in the Microsoft 365 admin center or with your I T team, and don't click links in unexpected outage emails.
+> source: Cyber Security News, "Microsoft Warns of Active Password Stealing Attack Exploiting the Microsoft 365 Service Disruption" (Nov 14); India Today (Nov 14); Mimecast, "Attackers Exploit the Microsoft 365 Outage with Fake 'Held Messages' Lures" (Nov 14); iTnews (Nov 14)
+
+## From Your X Feed | sting=x
+// Story 10: X feed, politics excluded
+[ava] Story ten, from your X feed, politics left out. The kimmonismus account flagged a science find: researchers in China built an electric comb called Detangle that regrew almost all the lost hair in mice within a month. A Nature Communications paper from Beihang University says the comb's pulses also push gene therapies deep into the follicles. It beat the usual minoxidil treatment in mice, but it hasn't been tested in people.
+[andrew] The Pictures Folder account posted that the San Jose Denny's where Jensen Huang and his co-founders came up with Nvidia in nineteen ninety-three has put his plaque back up. NBC Bay Area confirms the restaurant took it down after his resignation, then reinstalled it.
+[andrew] Phil Venables, the former security chief at Goldman Sachs and Google Cloud, announced his book, "Scaling Security," calling it the book he always wanted as a C I S O. It's due out in February. And security veteran C S O Andy laid out the playoff math for Patriots fans: New England is the seventh seed and Cleveland the eighth at five and four. The Patriots and Detroit Lions kicked off at nine thirty in Munich. As Andy put it, calling penalties in German seems appropriate in so many ways.
+> source: Harry's X home timeline, Nov 15 (@kimmonismus, @PicturesFoIder, @philvenables, @csoandy); Nature Communications, "Combing-triggered electrostimulation synchronizing deep delivery for rapid hair regrowth in androgenetic alopecia"; ScienceAlert; NBC Bay Area, "San Jose Denny's reinstalls plaque honoring former Nvidia CEO" (Nov 14); IT Revolution, "Scaling Security"; Patriots.com, "How to Watch and Stream Sunday's Patriots Game Against the Lions"
+
+## Local News & Events | sting=local
+// Story 11: Troy Jackson transition; Monadnock outage; Sunday night picks
+[ava] Story eleven, local news. Maine Senator-elect Troy Jackson is setting up his office in Washington. He takes Susan Collins' seat on January third. The Press Herald says his big challenge is matching Collins' well-known constituent service after three decades. Jackson says restoring health insurance subsidies is job one. Collins' office has stopped taking new constituent cases and is sending them to Senator Angus King. The two didn't meet during orientation week. Collins' staff say her election-night call offering a smooth transition was an invitation, and Jackson's team says it will coordinate once top staff are hired.
+[ava] In New Hampshire, Monadnock Community Hospital in Peterborough says its server outage could last until Wednesday. The emergency department and clinician offices are open, but elective surgery, outpatient radiology and routine lab testing are on hold.
+[ava] Tonight's picks: Emo Orchestra with The Spill Canvas at The Music Hall in Portsmouth at seven, drummer Terri Lyne Carrington and Social Science at Jimmy's at seven thirty, and Tune-Yards at 3S Artspace at eight.
+> source: Portland Press Herald, "Fresh off his trip to DC, Troy Jackson has his work cut out for him" (Nov 15); WMUR, "Server outage at Monadnock Community Hospital could last until next week" (Nov 14); Seacoast Local Loop weekend calendar (Nov 15)
+
+## Uplifting Story | sting=feel
+// Story 12: The Filthy Signs couple
+[ava] And finally, story twelve. Paul and Ruth Richmond-Watson of Brighton, England, noticed that a lot of road signs near them were too grimy to read at night. So in September, they started scrubbing them clean, at least one a day, with a backpack water pump, eco-friendly foam and a long brush. Each sign takes about twenty minutes.
+[ava] They're newlyweds, both autistic with A D H D, and Paul, a former window washer, says they wanted something to do together that helped the neighborhood and their own mental health. They pay for it themselves, with help from a couple of supply-company sponsors. Their before-and-after videos have caught on, and they dream of a road trip to clean signs all over Britain. As Paul says, driving past a sign weeks later and seeing it still sparkle makes you proud.
+> source: Good News Network / SWNS, "Couple with Autism and ADHD Find Passion Cleaning Filthy Street Signs" (Nov 14)
+
+## Close | sting=close
+[ava] That's your Sunday ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. If you got an outage email this week, check it before you click.
+[ava] Enjoy your Sunday, and thanks for listening to Gumshoe News Radio.
