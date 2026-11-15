@@ -1,0 +1,79 @@
+// Gumshoe script format: see README.md
+# title: Saturday 4 PM Update, Nov 14
+# description: The Saturday 4 p.m. update from Gumshoe News Radio for November 14, 2026: York, Maine weather through tomorrow; more than five thousand flights canceled on day two of the ground-stop recovery; Peoria lifts its evacuation after the bomb search; Mary Peltola declares victory in Alaska; Turkey and Qatar sign a mutual defense pact; COP31 hits its halfway mark; an unverified Russian report about Zelensky; SpaceX catches a Starship upper stage with its launch tower for the first time; Microsoft finishes restoring Outlook; Dario Amodei's "age of miracles" pitch and the drug industry's pushback; new details on North Korea's FaceStealer scheme and the Binance seizure; your X feed; a grocery warehouse strike emptying shelves around New England; and a Wisconsin woman who gave a Vietnam veteran a home. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's four o'clock on Saturday, November fourteenth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. And late-breaking news from Texas: SpaceX just caught a Starship with its launch tower, a first.
+[ava] First, the York, Maine forecast through tomorrow.
+@weather
+> source: National Weather Service forecast for York, ME (api.weather.gov), retrieved Nov 14 at airtime
+
+## US News | sting=us
+// Story 1: Ground stop recovery day 2
+[ava] Story one. Day two of the flight mess is winding down. FlightAware counted more than fifty-one hundred flights within, into or out of the U.S. canceled today, as airlines worked to get planes and crews back where they belong after yesterday's nationwide ground stop. The F A A says the system is back at full operations, and it expects airline schedules to be back to normal by the end of Sunday, well ahead of the Thanksgiving rush. Secretary Duffy repeated today that no one was ever in danger; more than three thousand flights that were in the air when the order came down all landed safely. If you're flying tomorrow, check your flight before you leave for the airport.
+> source: AP, "US air travel should normalize by Sunday after ground stop triggers mass cancellations, FAA says" (Nov 14); Axios, "FAA back at 'full operations' after Friday outage" (Nov 14)
+
+// Story 2: Peoria evacuation lifted
+[ava] Story two. In Peoria, Illinois, the one-mile evacuation zone around the BioUrja ethanol plant was lifted at one o'clock this afternoon. Bomb teams finished searching the sprawling facility and found no additional devices, after defusing the one bomb found there Friday night. Residents can go home and roads are reopening. There are still no injuries and no arrests; police, the F B I and A T F are still trying to find out who's behind it.
+> source: WCBU Peoria, "Peoria evacuation order lifted after bomb search finishes at BioUrja plant" (Nov 14); 25 News Now, "Evacuation order lifted after search turns up no new explosives at Peoria's BioUrja plant" (Nov 14)
+
+// Story 3: Peltola declares victory
+[ava] Story three. In Alaska, Democrat Mary Peltola has declared victory in the Senate race. With roughly ninety-six to ninety-eight percent of ballots counted, she leads Republican Senator Dan Sullivan about forty-nine point eight percent to forty-six point one, roughly ten thousand four hundred votes. The race is still officially uncalled, and if she finishes under fifty percent, ranked-choice tabulation decides it. Sullivan hasn't responded to her declaration; earlier this month he said he would accept the results if he lost.
+> source: New York Post, "Alaska Democrat Mary Peltola declares victory in US Senate race" (Nov 14); Washington Examiner, "Peltola again claims victory in Alaska Senate race as vote count drags on" (Nov 14); Alaska Public Media (Nov 13)
+
+## International | sting=world
+// Story 4: Turkey-Qatar defense pact
+[ava] Story four, the world. Turkey and Qatar have signed a mutual defense agreement. After meeting in Istanbul Friday, President Erdogan and Qatar's emir, Sheikh Tamim bin Hamad Al Thani, committed to a common position against any outside armed attack on either country, along with more joint exercises, defense-industry work and training exchanges. The deal comes amid the fallout of the U.S.-Israeli war with Iran and the disruption in the Strait of Hormuz. Analysts quoted by Al Jazeera say it's meant to deter, not to build an offensive alliance, and the published text doesn't spell out what would trigger it or what a joint response would look like. Turkey already keeps troops in Qatar.
+> source: Al Jazeera, "Qatar and Turkiye sign a mutual defence pact: What do we know?" (Nov 14); France 24, "Turkey and Qatar pledge unified stance against attacks in mutual defence pact" (Nov 13)
+
+// Story 5: COP31 midpoint
+[ava] Story five. The U.N. climate summit in Antalya, Turkey, is at its halfway point. Marchers took to the streets today demanding countries keep their climate promises, and tonight delegates hold a stocktaking session where the first red lines are expected. The U.N. climate chief, Simon Stiell, called progress constructive but urged governments to skip the tactical delays. Big sticking points: money for poorer countries to adapt, how hard to push on moving away from fossil fuels, and a proposed target to raise electricity's share of energy use to thirty-five percent by twenty thirty-five, which some large developing countries oppose. A first draft of the final deal is expected early next week.
+> source: Climate Home News, "COP31 Bulletin Day 6: Climate marchers call for justice as talks make limited progress" (Nov 14); DW, "COP31: Protesters, UN urge swift climate deal" (Nov 14)
+
+// Story 6: Unverified MK Zelensky report
+[ava] Story six, and treat this one with caution. The Russian tabloid Moskovsky Komsomolets, citing unnamed sources and Telegram channels, claims Russia's Security Council has dropped an unspoken ban on targeting President Zelensky and Ukraine's top generals, in response to Ukrainian drone strikes on the Leningrad region, including the Ust-Luga oil port. There's no official Russian confirmation and no documents, and Ukrainian commentators call it propaganda for a domestic audience.
+> source: Kommersant Ukrainian, "Russian media are spreading claims about an 'order to eliminate' Zelenskyy" (Nov 14); Agenzia Nova, "Press sources: Russia lifts tacit ban on physically eliminating Zelensky" (Nov 14)
+
+## Technology | sting=tech
+// Story 7: Starship ship catch
+[andrew] Story seven, tech, and it just happened. SpaceX has caught a Starship upper stage with its launch tower for the first time. At about four twenty this afternoon Eastern, about twenty-two and a half hours after launch, the ship made its banking turn and final approach, and the tower's mechanical arms, nicknamed the chopsticks, grabbed it at Starbase in South Texas. SpaceX posted, quote, "Mechazilla catches Starship!"
+[andrew] It's a big step toward a fully reusable rocket, though it wasn't a clean sweep. Yesterday the Super Heavy booster skipped its own catch: SpaceX says it cut its boostback burn short on a low-fuel alarm, then guidance saw it was out of position, so it diverted to the Gulf of Mexico and was destroyed on impact. The root cause is still under investigation. The ship also deployed twenty-six Starlink satellites. We'll have more on what the catch means for the next flights as SpaceX shares details.
+[andrew] One footnote: Microsoft says it finished restoring Outlook, Teams and Copilot for all customers around one o'clock this morning, closing out an outage that ran close to two days.
+> source: SpaceX on X, "Mechazilla catches Starship!" (Nov 14, 4:21 PM ET); Space.com, "SpaceX Starship Flight 15 live updates" (Nov 14); PBS News, "SpaceX's Starship soars into orbit after booster malfunction thwarts double catch attempt" (Nov 13); The Verge, "Microsoft has finished restoring service after its massive Outlook outage" (Nov 14)
+
+## Artificial Intelligence | sting=ai
+// Story 8: Amodei age of miracles vs pharma
+[andrew] Story eight, A I. Ahead of Anthropic's stock market debut, Dario Amodei's roadshow video predicts that cancer, Alzheimer's, heart disease and mental illness will be, in his words, relics of the past in less than a decade, an "age of miracles." Anthropic has backed that up with money: it runs a wet biology lab in the Bay Area, has bought small biotech startups, and says it has begun its own drug discovery.
+[andrew] The drug industry's reply has been polite but skeptical. Eli Lilly C E O Dave Ricks posted that it would be amazing, but not likely, because proving a drug works in human trials is the long pole in the tent. Vertex's executive chairman, Jeff Leiden, was blunter, calling the timelines complete B S, and said that in tests of about fifty A I companies, none produced a working drug on its own. Supporters counter that A I is already speeding up early discovery, and that's where the bottleneck has been. Even Amodei wrote in August that "A I will cure cancer" is more cliche than inspiring.
+> source: Yahoo Finance/Benzinga, "Anthropic's Dario Amodei Promises 'Age of Miracles' ― Medicine Isn't Buying It" (Nov 13); Domina IA (Nov 13); Reuters, "Anthropic quietly sets up biology lab as it ramps AI drug program" (Sept 18)
+
+## Cybersecurity | sting=cyber
+// Story 9: FaceStealer details, Binance seizure
+[ava] Story nine, the cyber desk. New details on North Korea's FaceStealer scheme, which the U.S. says it has now disrupted by seizing its cloud servers. Hackers hijacked real accounts on Telegram, LinkedIn, Slack and Discord, invited victims to fake video meetings, and played secretly recorded webcam clips of people the victim knew. Then they faked an audio glitch and offered a "fix" that was actually malware. Investigators found more than nine hundred recorded webcam videos, and researchers at Arctic Wolf count six hundred seventy-seven targets in fifty-eight countries, mostly founders and executives. More than four hundred million dollars in crypto was stolen over eighteen months, and the F B I says the same crew went after open-source software maintainers.
+[ava] Separately, the Justice Department has court approval to seize more than one point two billion dollars stolen in last month's roughly six billion dollar Binance hack, part of more than two point seven billion frozen so far. The takeaway: if a call invite asks you to install anything, stop and verify through another channel.
+> source: BleepingComputer, "US disrupts North Korean campaign behind $400 million crypto theft" (Nov 14); FBI, "FaceStealer Cryptocurrency Theft Scheme"; U.S. Justice Department, "Justice Department Announces Actions to Disrupt North Korea's Massive Theft of Cryptocurrency" (Nov 12); CyberScoop (Nov 12)
+
+## From Your X Feed | sting=x
+// Story 10: X feed, politics excluded
+[ava] Story ten, from your X feed, politics left out. Variety shared the story of the flight that missed the ground stop: Hoobastank and Simple Plan played a concert at cruising altitude on a Southwest flight from Los Angeles to Orlando, part of the airline's thirty-fifth anniversary program, because they'd taken off before the order came down.
+[ava] Farm life from MorlockP: he says he just sold sheep, a huge life goal achieved, and later reported finding bear scat in his cider orchard, which he called super cool. Your neighbors might feel differently.
+[andrew] Car news from Autoblog: the twenty twenty-seven Acura Integra Type S brings back a yellow paint color for the first time in twenty-six years. And pitdesi declared that the protein-maxxing era is giving way to the fiber-maxxing era. Your gut may thank you.
+> source: Harry's X home timeline, Nov 14 (@Variety, @MorlockP, @therealautoblog, @pitdesi); Variety, "Hoobastank, Simple Plan Performed Mid-Flight Amid National Ground Stop" (Nov 14)
+
+## Local News & Events | sting=local
+// Story 11: Associated Grocers strike; NH recounts; Maine heating aid
+[ava] Story eleven, local news. A Teamsters strike at Associated Grocers of New England's Pembroke, New Hampshire warehouse is now in its second week, and you may notice it at the store. About two hundred fifty-five drivers and warehouse workers walked out November fourth over the company's plan to replace their pension with a 401 k. The co-op supplies roughly a thousand independent markets across New England and New York, and N H P R reports a Portsmouth market was out of milk and nearly out of eggs. The company says it's running the warehouse with non-union staff under a contingency plan. Police say picketing has been peaceful.
+[ava] Also in New Hampshire, sixteen state House recounts are underway in Concord, some in races decided by as few as two votes, and they run through November twentieth.
+> source: Concord Monitor, "Associated Grocers strike in Pembroke continues into second week" (Nov 14); NHPR, "Strike at grocery supplier continues in Pembroke, as stores report empty shelves" (Nov 10); New Hampshire Bulletin via WKXL New England News Roundup (Nov 14)
+
+## Uplifting Story | sting=feel
+// Story 12: Vilitha Clay and Michael Cloyd
+[ava] And finally, story twelve. Michael Cloyd, a Vietnam veteran and retired carpenter now in his seventies, had spent four months in a Wisconsin V A hospital after a mild stroke, with no family nearby and nowhere to go. Before that he'd lived in a run-down trailer park and then a motel room. Vilitha Clay, a V A contractor, looked at him and asked, "How would you like to come home with me?"
+[ava] He said yes, and became the first resident of the adult family home she opened in Madison in memory of her late mother, who had hoped to live with her one day. It has three private rooms, home-cooked meals and nurses who visit. On his first day, Michael looked at his dinner plate and asked, "What's this?" Today he's part of her family, and her home has since taken in other veterans too.
+> source: Woman's World, "'How Would You Like to Come Home With Me?': How One Woman Saved a Lonely Vietnam Veteran" (Nov 14)
+
+## Close | sting=close
+[ava] That's your Saturday four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. And congratulations to the Starship team on that first catch.
+[ava] Enjoy your Saturday evening, and thanks for listening to Gumshoe News Radio.
