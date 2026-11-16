@@ -1,0 +1,84 @@
+// Gumshoe script format: see README.md
+# title: Monday 10 AM Update, Nov 16
+# description: The Monday 10 a.m. update from Gumshoe News Radio for November 16, 2026: Londonderry, New Hampshire weather through tomorrow; President Trump leaves for Asia and says he may meet Kim Jong Un; New York City disbands the NYPD's Strategic Response Group; Ukraine hits the Kerch bridge to Crimea; Iran's new mine claims and its refusal of nuclear inspections; stocks open lower as the push to bring back Jensen Huang grows; Microsoft explains last week's outage; AI helps decode Kurt Gödel's lost theorems; Google warns of fully automated AI hacking; your X feed; North Country housing and a loss at Concord Hospital; and why your cat meows at you. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's ten o'clock on Monday, November sixteenth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning again, Ava. The opening bell has rung, and so far it's another rough morning for tech.
+[ava] We'll get to that. First, the Londonderry New Hampshire forecast through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 16 at airtime
+
+## US News | sting=us
+// Story 1: Trump departs; Kim; Huang; Musk
+[ava] Story one. President Trump is on his way to Asia, and before leaving the White House he added a possible stop to the agenda. He told reporters he may meet North Korean leader Kim Jong Un while he's in China this week. That's a change from Friday, when a senior White House official said there were no plans at all for engagement with North Korea.
+[ava] Mr. Trump said he won't bring up Jensen Huang's resignation from Nvidia with Xi Jinping, though he expects Xi to ask. He called Huang a very honorable man who built a great company, and he said he wouldn't mind seeing Huang return as CEO. US officials say Elon Musk will travel with the delegation as an adviser.
+[ava] The big goal for Thursday's meeting with Xi and Vladimir Putin is nuclear arms control. Chinese analysts quoted by Reuters call that a non-starter, since China has far fewer warheads than the US or Russia.
+> source: NBC News live updates (Nov 16, 9:34 AM ET); AP, "Trump's Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting" (Nov 16); MS NOW (Nov 16); Reuters via Honolulu Star-Advertiser (Nov 16)
+
+// Story 2: NYC disbands SRG
+[ava] Story two. In New York City, Mayor Zohran Mamdani and Police Commissioner Jessica Tisch have announced they are disbanding the NYPD's Strategic Response Group, the unit that handled both counterterrorism and protests. Starting in January, counterterrorism moves to the department's intelligence and counterterrorism bureau. Protests will be handled by a thirty-officer dialogue team, a new patrol unit trained in crowd control that can still make arrests, and a civilian de-escalation office with no weapons or arrest powers. Kettling and tear gas will be banned for crowd control.
+[ava] Supporters say the unit was too heavy-handed at protests, and the mayor says protesters shouldn't be treated like a terror threat. Critics, including some police supporters and conservative commentators, say the change will leave the city less prepared if protests turn violent.
+> source: NYC Mayor's Office, "Mayor Mamdani and Police Commissioner Tisch Disband NYPD's Strategic Response Group" (Nov 16); CBS New York (Nov 16); NBC New York (Nov 16); New York Post (Nov 16)
+
+## International | sting=world
+// Story 3: Kerch bridge
+[ava] Story three, the world. Ukraine has hit the Kerch bridge, the twelve-mile bridge linking Russia to occupied Crimea. A Ukrainian drone struck one of the bridge's arches before dawn, local time. Traffic was halted and thousands of drivers were stranded. Satellite images shared by Ukrainian monitoring channels appear to show damage to the roadway in at least two places and a deformed arch.
+[ava] Moscow plays it down. Kremlin spokesman Dmitry Peskov called the damage minor and said traffic is moving again. Ukraine has hit the bridge before, most seriously with a truck bomb in twenty twenty-two.
+> source: The Guardian, "Ukraine hits Kerch bridge between Russia and occupied Crimea" (Nov 16); Reuters via Business Recorder, "Ukraine hits bridge linking Russia and Crimea, Kremlin says damage is 'minor'" (Nov 16); RIA Novosti (Nov 16); UNN (Nov 16)
+
+// Story 4: Iran claims; IAEA; oil
+[ava] Story four. In the Gulf, Iranian state television now says three oil tankers caught fire overnight and this morning after hitting mines in the Strait of Hormuz, and Iran's Revolutionary Guard navy says six tankers have been damaged since Sunday. No ships have been named and none of this has been independently confirmed.
+[ava] Iran also says UN nuclear inspectors won't be allowed back into damaged sites like Natanz and Fordow until the war has permanently ended. And Foreign Minister Abbas Araghchi says a ten-nation regional bloc backs Iran's plan to reopen the strait within two days if Washington accepts its conditions. None of the other countries has confirmed that, and the Trump administration has called those conditions unacceptable. Despite the headlines, oil is easing. Brent is around ninety-four dollars, and the average price of diesel in the US dropped below six dollars a gallon today for the first time since September.
+> source: AP via Investing.com, "Three tankers hit naval mines in Strait of Hormuz, Iran state TV says" (Nov 16); CBS News live updates (Nov 16); Yahoo Finance (Nov 16)
+
+## Markets | sting=markets
+// Story 5: Opening action, Huang comeback push
+[andrew] Story five, the markets. Stocks opened lower, and tech is taking the hit again. At the bell the Dow was down a fraction, the S&P five hundred was off six tenths of a percent, and the Nasdaq was down more than one percent. A few minutes in, the Nasdaq was down nearly one and a half percent. Nvidia is down about two percent, and other chip stocks are down three to five percent.
+[andrew] The new wrinkle is a push to bring back Jensen Huang. The Financial Times reports Huang has talked with confidants about returning as CEO, and allies are setting up what one called a war room to lobby the board. A petition has close to a hundred eighty thousand signatures, including Elon Musk's, and two big shareholders, Altimeter and Atreides, want the board to consider every option. The president said this morning he wouldn't mind seeing it.
+[andrew] There's a lot pushing the other way. Treasury Secretary Scott Bessent wants Nvidia to hire an outsider, and he's given the board ten days to answer whether it pushed questionable chip sales to China. The board's own investigation is still going. Nvidia says it's choosing a search firm and calls talk about candidates premature. Analysts are split. Wedbush's Dan Ives says there's no chance Huang returns. Loup's Gene Munster now puts the odds at about fifty-fifty, and the prediction market Kalshi has swung between about nine and twenty-one percent. Traders didn't take the comeback talk as good news.
+[andrew] Elsewhere: Telus, the Canadian telecom company, jumped more than twenty-five percent premarket after it confirmed a takeover proposal from Québecor, valued at about thirty-one billion Canadian dollars. Fed Chair Kevin Warsh speaks later today, and Nvidia reports tomorrow after the close.
+> source: Reuters via Devdiscourse, "Nasdaq falls 1% at open as Nvidia woes weigh on sentiment" (Nov 16); Yahoo Finance live (Nov 16, 9:35 AM ET); Reuters via Investing.com (Nov 16); CNBC, "Calls for Huang's return to Nvidia grow" (Nov 16); BBC (Nov 16); Axios, "Bessent questions Nvidia's sales and calls for external CEO" (Nov 15); Techmeme roundup incl. Dan Ives and Kalshi posts (Nov 16); StockTitan live (Nov 16); TELUS release and CBC News (Nov 16)
+
+## Technology | sting=tech
+// Story 6: Microsoft outage root cause
+[andrew] Story six, tech. Microsoft has explained why Outlook and Exchange Online went dark for much of last Thursday. In a preliminary report, it says a software change from July sat quietly on its network gateway servers for months. It had passed load testing, but Microsoft admits that testing focused on older machines with fewer cores, and the bug was worse on newer hardware.
+[andrew] Last week a routine failover of Teams traffic hit at the same moment about fourteen percent of gateway capacity was offline. That set off the bug, and as traffic shifted from one failing server to the next, more than eighty percent of the servers stopped responding. Because the change was months old, a simple rollback wasn't possible, so engineers had to write a fix for the fix. A final report is due Friday.
+> source: The Register, "Microsoft blames monster email outage on software defect introduced in July fix" (Nov 16); Microsoft preliminary post-incident review (Nov 15)
+
+## Artificial Intelligence | sting=ai
+// Story 7: Gödel notebooks
+[andrew] Story seven, AI. Kurt Gödel, the logician whose incompleteness theorems changed mathematics, left behind more than a thousand pages of notebooks from the early nineteen-forties, much of it in an old German shorthand. Helsinki logician Jan von Plato had been working through it for years, at about a page a week. In September he gave his transcriptions to Anthropic's Claude.
+[andrew] Within days, Claude produced a six-hundred-fifty-page explanation and listed six hundred sixty-three theorems Gödel had proved or sketched. A proof-checking program confirmed about four hundred as written, about two hundred needed fixes, and about fifty were wrong. Von Plato says Gödel came within one step of a famous result that won someone else the top prize in math in the nineteen-sixties. Notre Dame logician Joel David Hamkins adds a caution: being on the path isn't the same as having the proof, and historians will have to work out how much is Claude and how much is Gödel.
+> source: The Guardian, "'Ahead of his time': AI helps unlock discoveries hidden in notebooks of man who transformed maths" (Nov 13)
+
+## Cybersecurity | sting=cyber
+// Story 8: Google GTIG AI threat report
+[ava] Story eight, the cyber desk. Google's threat intelligence team says that for the first time it has caught attackers using AI to find and exploit software flaws with no human involved. On an exposed server, Google found a set of AI agents that reads new software updates, works out what flaw each one fixed, writes an exploit and fires it at websites that haven't patched yet. It was used against media and education sites in France. Google also says suspected North Korean hackers tampered with Anthropic's coding tool, Claude Code, on victims' machines, so it would install a backdoor at cryptocurrency firms.
+[ava] Google expects simple, mostly automated attacks within three months and sophisticated fully autonomous ones within six. The lesson for anyone running a website: the gap between a patch coming out and an attack has shrunk to hours, so patch fast.
+> source: BleepingComputer, "Google warns that fully-automated AI attacks are coming soon" (Nov 16); The Hacker News (Nov 16); The Register (Nov 16)
+
+## From Your X Feed | sting=x
+// Story 9: X feed
+[ava] Story nine, from your X feed. Variety had the Grammy nominations this morning. The British singer Raye leads with eleven. Women dominate the top categories. Taylor Swift picked up her eighth album of the year nomination, and Harry Styles was shut out completely. The show is February seventh.
+[andrew] Trung Phan crunched the numbers on Ashton Kutcher's venture firm. It's put about four hundred thirty-five million dollars into Anthropic since twenty twenty-three, for roughly half a percent of the company. At the reported one point four trillion dollar IPO valuation, that's around seven billion.
+[andrew] And the Interesting account shared a post about a baby owl wearing prism glasses that shifted its vision. Researchers found its brain adapted by changing how it located sounds.
+> source: Harry's X home timeline, Nov 16 (@Variety, @TrungTPhan, @interesting_aIl); Recording Academy, 2027 Grammy nominations (Nov 16)
+
+## Local News & Events | sting=local
+// Story 10: North Country housing; Concord doctor; Londonderry events
+[ava] Story ten, local news. Up north, NHPR reports that housing leaders in Coos County worry the lack of affordable homes will keep young people from moving to the North Country, leaving an aging population without enough caregivers. Builders say construction there costs more because there are fewer contractors, while rents bring in less. One nonprofit is turning an old pharmacy in Whitefield into affordable apartments.
+[ava] In Concord, the hospital community is mourning interventional cardiologist Dr. Shahab Moosavi, who was killed Friday night in a single-car crash on Fisk Road. He was fifty-one. The state fire marshal and Concord police are investigating.
+[ava] Around Londonderry this week: the Historical Society holds its business meeting tomorrow evening at six, and Leach Library runs free drop-in tech help at the Senior Center Wednesday and Thursday mornings from ten to noon.
+> source: NHPR, "Construction materials, labor costs plague affordable housing development in Coos County" (Nov 16); WMUR, "Concord Hospital cardiologist killed in crash Friday night" (Nov 16); Londonderry Historical Society events; Leach Library calendar (Nov 2026)
+
+## Uplifting Story | sting=feel
+// Story 11: Cats meow at us on purpose
+[ava] And finally, story eleven, for every cat owner who suspects they're being bossed around. Researchers at the University of São Paulo put thirty-eight cats' favorite treats in a clear box the cats couldn't open, then watched. With the owner in the room, cats were about sixteen times more likely to meow. More than half of those meows came while the cat was looking right at its human, and many cats glanced back and forth between the person and the box.
+[ava] Left alone, the cats mostly stood still and stared at the door. The scientists say it suggests meows really are aimed at us, though the study was small and only used chatty cats. So when your cat meows at you, it probably wants you to do something about it.
+> source: Phys.org, "Talking or just meowing? Food test suggests cats call for human attention" (Nov 12); Fukimoto et al., Animal Behaviour (2026)
+
+## Close | sting=close
+[ava] That's your Monday ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Nvidia reports tomorrow after the bell, and Anthropic's debut is Thursday.
+[ava] Thanks for listening to Gumshoe News Radio.
