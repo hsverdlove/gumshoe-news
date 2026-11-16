@@ -1,0 +1,84 @@
+// Gumshoe script format: see README.md
+# title: Monday Morning, Nov 16
+# description: The Monday morning bulletin from Gumshoe News Radio for November 16, 2026: Londonderry, New Hampshire weather with the full seven-day forecast; Transportation Secretary Sean Duffy declines to apologize for the ground stop as a fight over air traffic money heats up; President Trump leaves for Asia as Beijing confirms Thursday's three-way summit; Iran claims more mine strikes in Hormuz as a third US carrier arrives; Estonia moves to close its Russian border after a sabotage attempt; tech futures slide ahead of Nvidia earnings and the Anthropic IPO; a Vulcan rocket failure destroys forty Amazon Leo satellites; ChatGPT gets a wallet; a 22-million-person data breach in France and cryptominers that fake idle GPUs; your X feed; Londonderry's bridge debate and a week of Manchester events; and Indiana's Banana Man. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Monday, November sixteenth, and this is Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. It's a huge week for the AI trade, with Nvidia earnings tomorrow and Anthropic's market debut Thursday, and futures are nervous.
+[ava] We'll get there. First, the weather. Your phone puts you back home in Londonderry, New Hampshire, so here's the Londonderry forecast, with the full seven days.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 16 at airtime
+
+## US News | sting=us
+// Story 1: Duffy, no apology; FAA funding fight
+[ava] Story one. Air travel should be close to normal this morning after Friday's nationwide ground stop, and the argument has shifted to who's responsible. On NBC's Meet the Press, Transportation Secretary Sean Duffy declined to apologize. He said it happened on his watch, but blamed thirty years of underinvestment by administrations of both parties, and said he can't apologize for a system that was handed to him.
+[ava] Duffy says investigators still don't know whether the root cause was a faulty installation by contractor L3Harris or a fault in the router itself, and he wouldn't guarantee it can't happen again. He's asking Congress for the rest of the money to modernize air traffic control, including a new telecom backbone. The twelve and a half billion dollars Congress approved last year, he says, didn't cover telecom or software.
+[ava] Democrats on the House Appropriations Committee push back. They say the White House budget office pushed about five point three billion dollars in already approved FAA modernization money out to October twenty twenty-seven. The administration strongly disputes that this is a freeze.
+> source: NBC News, "Transportation secretary says he doesn't apologize for FAA's nationwide ground stop" (Nov 15); Politico, "Duffy expects flights to return to full capacity Monday" (Nov 15); FAA, "Nationwide Ground Stop: Questions and Answers"
+
+// Story 2: Trump to Asia; trilateral confirmed
+[ava] Story two. President Trump leaves for Asia today, starting in Manila and then heading to Shenzhen, China, for the Asia-Pacific summit. Beijing's foreign ministry has now confirmed that Xi Jinping will host Mr. Trump and Vladimir Putin together in Shenzhen on Thursday, the first meeting of its kind, with nuclear arms on the US agenda.
+> source: AP, "Trump's Asia reset: Deals in Manila and Shenzhen, then a rare nuclear summit with Xi and Putin" (Nov 16); Indian Express live updates, Chinese Foreign Ministry statement (Nov 16)
+
+## International | sting=world
+// Story 3: Hormuz claims; third US carrier
+[ava] Story three, the world. Iran's Revolutionary Guard says two more tankers struck naval mines in the southern corridor of the Strait of Hormuz, and claims one of them, a supertanker carrying two million barrels of crude, sank. Iran hasn't named the ships, and nobody has independently verified it. Seatrade Maritime notes that Iran's video of the supposed sinking shows a large fire on the water, but no ship you can actually make out.
+[ava] What is confirmed: Britain's maritime security agency says a tanker leaving the Gulf was hit by an unknown projectile early this morning off Oman, starting an engine room fire, and another tanker was attacked Sunday. In both cases the crews are safe. Iran says only its own northern route is allowed, and it's going after ships that take the southern corridor, where US forces have been guiding vessels through.
+[ava] Meanwhile the carrier Theodore Roosevelt has arrived in the region, giving the US three carriers there. Iran's parliament speaker, Mohammad Ghalibaf, says Tehran won't live in a state of neither war nor peace, and is ready for either talks or war.
+> source: Seatrade Maritime News, "Two tankers confirmed struck, Iran claims VLCC sinking in Hormuz" (Nov 16); Iran International (Nov 16); The National, live updates (Nov 16); Anadolu Agency, Morning Briefing (Nov 16); Reuters via CNBC (Nov 16)
+
+// Story 4: Estonia border; EU on Russia
+[ava] Story four. Estonia says it will close its road border crossings with Russia on December first. On Saturday, police stopped an attempt to break into a drone maker called Threod Systems in Viimsi, just outside Tallinn, and set it on fire. Eight Latvian citizens were detained. Estonia's internal security service says Russia's military intelligence agency, the GRU, ordered the attack, the second against an Estonian defense company since August. Prime Minister Kristen Michal says Estonia won't be intimidated. Russia has denied involvement in past sabotage cases in Europe.
+[ava] In Brussels this morning, EU foreign ministers accused Moscow of dragging out peace talks while it bombs Ukraine's power plants ahead of winter.
+> source: ERR News, "Estonia to close border crossings with Russia after GRU-linked sabotage attacks" (Nov 15); Estonian Ministry of Foreign Affairs (Nov 15); Reuters, "Estonia to close Russian border crossings after attempted arson attack" (Nov 15); AP, "EU accuses Russia of stalling Ukraine peace talks to target power plants as winter nears" (Nov 16)
+
+## Markets | sting=markets
+// Story 5: Futures, Nvidia week, Anthropic, Fed
+[andrew] Story five, the markets. Friday was mixed. The Dow edged up a tenth of a percent to fifty-two thousand three forty-seven, while the S&P five hundred slipped four tenths to seventy-five sixty-one, and the Nasdaq fell nine tenths to twenty-five thousand one thirty-six.
+[andrew] This morning the chip selloff is spreading. As of a little after five, Reuters had Dow futures flat, S&P futures down about four tenths of a percent, and Nasdaq futures down nearly one percent. Taiwan Semiconductor closed almost six percent lower, Japan's Nikkei fell about two and a half percent, and AMD, Micron, Broadcom and Intel are down three to five percent premarket. Nvidia is off about two percent after losing five hundred seventy-three billion dollars in market value last week, a record.
+[andrew] The drivers this week: Nvidia reports tomorrow after the close, its first quarter under interim chief Colette Kress. Anthropic is expected to price its IPO Wednesday and start trading Thursday on the Nasdaq under the ticker ANT, with Bloomberg reporting orders of about six times the shares available. Swissquote warns investors may sell other tech to make room, so a strong debut won't necessarily lift every AI stock.
+[andrew] On rates, Fed Chair Kevin Warsh speaks this afternoon in San Francisco, and the minutes of the last Fed meeting come out Wednesday. Traders have fully priced in a quarter-point hike in December. The ten-year yield is about five point one four percent, the dollar is near a nineteen-month high, gold is at its lowest in more than a year, and Bitcoin is under sixty-five thousand dollars. Brent crude is around ninety-five dollars, swinging with the Hormuz headlines. Also this week: October retail sales, and earnings from Walmart, Home Depot, Target and Disney.
+> source: AP, "How major US stock indexes fared Friday 11/13/2026"; Reuters via Investing.com, "S&P 500, Nasdaq futures slide as Nvidia earnings, Anthropic debut loom" (Nov 16, 5:43 AM ET); Barchart, "U.S. Futures Slip as Chip Stocks Extend Slump" (Nov 16); Dow Jones via Morningstar, "North American Morning Briefing" (Nov 16); CNBC, oil prices (Nov 16)
+
+## Technology | sting=tech
+// Story 6: Vulcan failure, Amazon Leo
+[andrew] Story six, tech. United Launch Alliance, the Boeing and Lockheed Martin joint venture, lost a Vulcan rocket Sunday along with forty Amazon Leo internet satellites. ULA says the rocket suffered an anomaly about ten minutes into flight. It's the company's first outright mission failure since it was formed in two thousand six.
+[andrew] The cause isn't known yet. ULA's own update pointed to a problem during the upper stage burn, but sources told Ars Technica the trouble started in the first stage, where the two Blue Origin engines appeared to fire at least thirty seconds longer than planned before the rocket began to spin.
+[andrew] The bigger hit is to the schedule. This was the first of thirty-eight Vulcan launches Amazon bought for its Starlink competitor, and Vulcan will likely be grounded during the investigation. Amazon's other big ride, Blue Origin's New Glenn, hasn't flown since a launch pad explosion in May.
+> source: Spaceflight Now, "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites" (Nov 15); Ars Technica, "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors" (Nov 15); Reuters (Nov 15); SpaceNews (Nov 15)
+
+## Artificial Intelligence | sting=ai
+// Story 7: ChatGPT Wallet
+[andrew] Story seven, AI. OpenAI has launched ChatGPT Wallet, which lets its agent shop for you and actually pay. You add a Visa, Mastercard or American Express card once. When the agent finds something, you review the items and the total and approve it with Face ID or a fingerprint. The merchant gets a one-time token, so neither the agent nor the store sees your real card number. It's starting with US subscribers to the top-tier Pro plan, and every purchase still needs your approval. OpenAI says preset spending limits will come later.
+[andrew] Not everyone is ready for shopping bots. Some airlines, United among them, have been blocking AI agents they haven't authorized.
+> source: OpenAI, "Introducing ChatGPT Wallet"; The Verge, "ChatGPT Wallet lets OpenAI's Dots agents make purchases for you"; The Neuron, "Everything That Happened in AI Today" (Nov 16)
+
+## Cybersecurity | sting=cyber
+// Story 8: Maileva breach; SANSAR
+[ava] Story eight, the cyber desk. In France, La Poste says its subsidiary Maileva, which prints and mails letters for businesses, was hacked in mid-September. The names and mailing addresses of twenty-two million people were taken. These are people who got pay slips, bills or hospital payment reminders through the service, and most have never heard of Maileva. Bank details weren't exposed, but some letter contents were read, including invoice amounts and treatment dates from one hospital's billing contractor. French experts warn about convincing fake letters, and the advice works anywhere: if a bill looks odd, contact the sender through a number you already trust.
+[ava] And Elastic Security Labs describes Linux malware called SANSAR that secretly mines cryptocurrency on Nvidia graphics cards while doctoring Nvidia's monitoring tool so the card reports zero percent use. A hidden kernel module covers its tracks. If you run GPU servers, don't trust the usage meter alone. Watch your power draw and temperatures too.
+> source: Security Affairs, "Data Breach at La Poste Subsidiary Maileva Affects 22 Million People in France"; franceinfo (Nov 14-15); France 24/AFP (Nov 14); Elastic Security Labs, "0% GPU utilization: How SANSAR hides Linux cryptomining"; The Hacker News (Nov 2026)
+
+## From Your X Feed | sting=x
+// Story 9: X feed
+[ava] Story nine, from your X feed. The Interesting account flagged a milestone for Wednesday. NASA's Voyager 1 is about to become the first human-made object to reach one light-day from Earth. NASA puts it at five-sixteen Wednesday morning, Eastern time, about sixteen billion miles out, so a radio signal will take a full day to get there. It launched in nineteen seventy-seven.
+[andrew] David Heinemeier Hansson posted a new world record for installing his Omarchy Linux setup: six seconds, on an AMD Ryzen desktop.
+[ava] And security writer Zack Korman made a prediction worth chewing on. He expects that within a year we'll see a serious incident caused by an AI agent deciding a user's request is unsafe and quietly sabotaging the work. AI safety causing a safety incident, as he put it. That's his forecast, not something that has happened.
+> source: Harry's X home timeline, Nov 16 (@interesting_aIl, @dhh, @ZackKorman); NASA, "Voyager 1: What Is a Light-Day"; Space.com (Nov 2026)
+
+## Local News & Events | sting=local
+// Story 10: Stokes Road bridge; events
+[ava] Story ten, local news. In Londonderry, the Town Council has put off a decision on two bridges on the state's Red List. In July it voted to shift about a million dollars meant for the Stokes Road Bridge to the busier Hall Road Bridge, which carries roughly two thousand vehicles a day. Public Works has since suggested removing the Stokes Road Bridge entirely and building a cul-de-sac. Residents objected, and fire officials say emergency access would only work if the road were widened to twenty-four feet, which neighbors don't want. The council will wait for a state study due in December, invite the transportation commissioner in January, and hold a public meeting in February or March.
+[ava] Around Manchester this week: tonight at six-thirty, Stage of Fools does a free, ninety-minute, beer-in-hand cut of Shakespeare's "Henry the Fourth" at Stark Brewing on North Commercial Street. And Friday through Sunday, the Manchester Holiday Food and Artisan Market runs from ten to five.
+> source: Derry News, "Bridge repairs spark debate" (Nov 12); Visit Manchester NH, "Henry IV, One Night Only"; Eventbrite, "2026 Manchester Holiday Food & Artisan Market"
+
+## Uplifting Story | sting=feel
+// Story 11: Banana Man of Linton, Indiana
+[ava] And finally, story eleven. In Linton, Indiana, there's been a superhero sighting: Banana Man. For months, a middle schooler in a banana suit has been biking all over town, never saying a word. CBS News' Steve Hartman tracked him down. With his voice disguised, he explained that his mom bought the costume at Goodwill, and he wore it as a joke. Then he saw how much it made people smile.
+[ava] Now people honk and wave, a girls' cross country team ran in his honor, and plenty of folks dressed as him for Halloween. He hands out autographed cards that have become collector's items. As a little kid he dreamed of being a superhero. In his words, he just didn't expect to be a banana.
+> source: CBS News, Steve Hartman, "How 'Banana Man' took a small Indiana town by storm" (Nov 13)
+
+## Close | sting=close
+[ava] That's your Monday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. Nvidia's numbers land tomorrow after the bell, and we'll be watching.
+[ava] Have a great Monday, and thanks for listening to Gumshoe News Radio.
