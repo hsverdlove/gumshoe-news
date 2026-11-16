@@ -1,0 +1,85 @@
+// Gumshoe script format: see README.md
+# title: Monday 1 PM Update, Nov 16
+# description: The Monday 1 p.m. update from Gumshoe News Radio for November 16, 2026: Londonderry, New Hampshire weather through tomorrow; the Supreme Court turns away cases on university research grants and Maryland's gun-free zones; three people shot in the Bronx's Co-op City; Britain's prime minister says Brexit hasn't worked; new Iranian claims in the Strait of Hormuz; stocks slide at midday as a source says Nvidia's board isn't considering Jensen Huang's return; new US limits on remote access to AI chips and a study on data center power use; OpenAI lets outside safety testers inside; Anthropic shortens its bug disclosure deadline and AI-run hacking from a China-linked group; your X feed; Drake Maye's injury and Londonderry's budget; and a marathon moment of sportsmanship. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] It's one o'clock on Monday, November sixteenth, and this is your Gumshoe News Radio update. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Good afternoon, Ava. The selling in tech got heavier through the morning, and we'll get into why.
+[ava] First, the Londonderry New Hampshire forecast through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 16 at airtime
+
+## US News | sting=us
+// Story 1: Supreme Court order list
+[ava] Story one. The Supreme Court issued its Monday list of orders, and two cases it declined to hear stand out. First, the justices turned down the Trump administration's appeal in a fight over research grants at the University of California. Agencies had cut off about a hundred fifty million dollars in grants to professors whose projects mentioned diversity or equity. A lower court ruled that violated the First Amendment because the government can't punish researchers for their viewpoint.
+[ava] The administration argued that limits how the government spends taxpayer money, and in larger grant cases the court has sided with it, so this settles only a narrow piece of the fight.
+[ava] Second, the court won't take up a challenge to Maryland's law banning guns in so-called sensitive places, such as some public buildings and events, so the law stays in place. Justice Clarence Thomas wrote that he doubts such laws are constitutional, but agreed this broad challenge wasn't the right case, and he urged the court to take a narrower one later.
+> source: Los Angeles Times, "Supreme Court turns down Trump's plan to cut off UC research grants that promote DEI" (Nov 16); AP, "Supreme Court declines to hear challenge to Maryland 'sensitive places' gun law" (Nov 16); NBC News (Nov 16); Supreme Court order list (Nov 16)
+
+// Story 2: Co-op City shooting
+[ava] Story two, a developing story from New York City. Three people were shot just before noon at Co-op City, the huge housing complex in the northeast Bronx where about forty-five thousand people live. Police say two of the victims are officers with Co-op City's own armed public safety force. They were responding to a wellness check when someone inside fired at them. The third victim is a civilian. All three are expected to survive. At last check the suspect was barricaded inside, and the motive isn't known.
+> source: CBS New York, "2 security officers among 3 shot in Co-op City in the Bronx, police say" (Nov 16, 12:41 PM ET); NBC New York (Nov 16); ABC7 New York (Nov 16); News 12 (Nov 16)
+
+## International | sting=world
+// Story 3: Burnham Brexit speech
+[ava] Story three, the world. In a major speech in London today, Britain's prime minister Andy Burnham calls the Brexit deal "needlessly hard" and says the country has lost more than it has gained. On Friday he plans to sign new agreements with the European Union on food and farm trade, energy and a youth work and travel program.
+[ava] He's ruled out rejoining the single market or customs union before the next election. The Conservatives say Labour is pulling Britain back into the EU through the back door, and critics of the food deal say Britain would follow Brussels' rules without getting a vote on them.
+> source: BBC, "UK has lost more than it gained from Brexit, Burnham expected to say" (Nov 16); The Guardian (Nov 16); Bloomberg (Nov 16); UPI (Nov 16)
+
+// Story 4: Hormuz update
+[ava] Story four, an update from the Strait of Hormuz. Iran's Revolutionary Guard is now quoted by a Saudi outlet, Asharq News, as saying the southern shipping lanes along Oman's coast are, in its words, fully mined. Those are the lanes the US military says it has cleared and keeps open. The Guard itself hasn't repeated the claim, and it hasn't been verified. Iran's army also says it shot down an MQ-1 drone over the strait. That hasn't been independently confirmed either.
+[ava] Traffic is close to a standstill either way. A tracking site counted just six commercial ships crossing so far today. Before the war, it was about eighty-five a day. Pakistan says it's still waiting for Washington's answer to Iran's reopening plan.
+> source: CBS News live updates (Nov 16, 12:33 PM ET); Iran International live blog (Nov 16); hormuz.now traffic count (Nov 16, 17:30 UTC); Dawn (Nov 16)
+
+## Markets | sting=markets
+// Story 5: Midday markets
+[andrew] Story five, the markets at midday. It's the third straight down day for the S&P five hundred, and it's getting worse. Around noon the S&P was off about one point one percent, near seventy-four seventy-five. The Nasdaq was down about one point seven percent, and the Dow was down nearly four hundred points, or eight tenths of a percent. Tech is down about two and a half percent as a group. Intel is off about six percent.
+[andrew] The latest Nvidia news isn't helping. Just after twelve-thirty, CNBC reported that Nvidia's board is not considering bringing back Jensen Huang as CEO. A person familiar with the matter says the board is focused on its national security investigation into Huang. Nvidia shares are down a little over two percent ahead of tomorrow's earnings.
+[andrew] The ten-year Treasury yield is near five point one five percent. Fed Chair Kevin Warsh spoke in San Francisco about AI. He said it could bring faster growth, or job losses, or it could simply disappoint, with stock values falling and the economy slowing. He said nothing about interest rates. US crude is down about two percent to around eighty-six and a half dollars. Bitcoin is around sixty-four thousand, after falling to its lowest level since July over the weekend. On the upside, Tyson Foods is up about seven percent on a strong outlook for next year.
+> source: AP, "More drops for Nvidia and other AI stocks drag the US market lower" (Nov 16, 12:02 PM ET); 24/7 Wall St. midday (Nov 16); Benzinga midday summary (Nov 16); Motley Fool midday (Nov 16); CNBC, "Nvidia board not considering bringing Huang back as CEO: Source" (Nov 16, 12:38 PM ET); CNBC, "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could 'disappoint'" (Nov 16); CoinDesk (Nov 16)
+
+## Technology | sting=tech
+// Story 6: Remote access chip rule; data center power
+[andrew] Story six, tech. The Commerce Department issued a new rule today meant to close a loophole in chip export controls. Companies now need a US license to ship the most advanced AI chips to Singapore, Malaysia, Thailand, Indonesia and Brazil. Chips going to US-headquartered companies are exempt, but those companies have to report on them. The rule also limits how much computing power data centers overseas can rent out remotely to companies from restricted countries such as China.
+[andrew] Supporters, including members of both parties in Congress, say Chinese firms have been getting around the rules by renting American chips abroad. The chip industry has long argued that tighter limits push buyers toward Chinese alternatives.
+[andrew] And a Harvard-led study in Nature Sustainability puts a number on AI's power appetite. Four hundred three of the biggest US data centers used roughly as much electricity as the whole state of Michigan, and more than half of that power came from fossil fuels.
+> source: Bureau of Industry and Security, interim final rule on remote access to advanced computing (Nov 16); AP, "Trump administration moves to block China from indirect access to American AI technology" (Nov 16); Bloomberg (Nov 16); Financial Times (Nov 16); Harvard T.H. Chan School of Public Health and Nature Sustainability (Nov 2026); Wired (Nov 16)
+
+## Artificial Intelligence | sting=ai
+// Story 7: OpenAI embedded assessments; Altman
+[andrew] Story seven, AI. OpenAI says it will let four outside safety groups work inside the company: Apollo Research, METR, Transluce and Goodfire. They'll get access to unreleased models, training data, monitoring systems and staff. Their job is to check whether models might secretly work against their developers, and whether OpenAI's own safety tests catch problems.
+[andrew] OpenAI calls this a step toward real transparency. Skeptics note that two of the four are paid by OpenAI, though not based on results, and that OpenAI can redact what they publish. Separately, The Information reports OpenAI recently explored buying Goodfire for more than five billion dollars. That hasn't been confirmed.
+[andrew] Sam Altman also spoke today at a Semafor event in San Francisco. Asked whether Jensen Huang should return to Nvidia, he said he doesn't know enough to answer. He called Huang a longtime hero of his and said heroes have flaws. And he said OpenAI will go public at some point.
+> source: OpenAI, "Our first phase of embedded assessments" (Nov 16); TechCrunch (Nov 16); The Information via Techmeme (Nov 16); Semafor, "Sam Altman says he has personal empathy for Jensen Huang" (Nov 16); The Verge (Nov 16)
+
+## Cybersecurity | sting=cyber
+// Story 8: Anthropic CVD; Unit 42 Cairn; Fandango
+[ava] Story eight, the cyber desk. Anthropic says AI now finds software flaws so fast that the usual ninety-day secrecy window no longer makes sense. Starting January first, when its researchers report a serious bug, the maker has thirty days to fix it before Anthropic goes public. Less serious bugs get forty-five days. Maintainers of hard-to-patch systems like critical infrastructure can negotiate longer timelines, but some open source volunteers are likely to feel the squeeze.
+[ava] There's fresh evidence for that worry. Palo Alto Networks' Unit 42 says Chinese-speaking hackers used a free, open source AI hacking tool called Cairn, powered by Chinese AI models, to run attacks largely on autopilot in August and September. They went after nineteen organizations in chipmaking, US defense policy and civil society, and got in at ten. Unit 42 links it to Chinese intelligence with moderate confidence. Beijing usually denies such claims.
+[ava] And if you bought movie tickets on Fandango's website between October eighth and eleventh, check your card statements. The company says skimming code on its checkout page stole card numbers, security codes and expiration dates.
+> source: Anthropic, "Updating our coordinated vulnerability disclosure policy timelines" (Nov 16); Palo Alto Networks Unit 42, "Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors" (Nov 2026); Dark Reading (Nov 16); BleepingComputer, "Fandango says hackers stole payment card details from checkout pages" (Nov 16)
+
+## From Your X Feed | sting=x
+// Story 9: X feed
+[ava] Story nine, from your X feed. Variety had the big entertainment news: Robert Pattinson is the next James Bond. Amazon MGM made it official today. Denis Villeneuve will direct and Peaky Blinders creator Steven Knight is writing. Even the royal family's account chimed in with "Welcome to His Majesty's Secret Service, Mr Bond."
+[andrew] Variety also rounded up this weekend's Governors Awards, where Glenn Close finally received an Oscar, an honorary one, after eight acting nominations without a win.
+[andrew] The Interesting account posted that Papa John's is using AI to check pizzas from customer photos. It's offering free pizza in exchange for pictures and feedback, to help spot problems with cooking, toppings and crust.
+[ava] And the 50 Years Ago Live account remembered that on this date in nineteen seventy-six, Yankees catcher Thurman Munson was named the American League's Most Valuable Player.
+> source: Harry's X home timeline, Nov 16 (@Variety, @interesting_aIl, @50YearsAgoLive); NPR, "Robert Pattinson is the next James Bond" (Nov 16); Amazon MGM Studios announcement (Nov 16)
+
+## Local News & Events | sting=local
+// Story 10: Maye; Londonderry budget; Clancy
+[ava] Story ten, local news. An update for Patriots fans. Coach Mike Vrabel said today that quarterback Drake Maye will likely be out for at least a couple of weeks after hurting his ankle in Sunday's thirty-five to ten loss to Detroit in Munich. ESPN reports the team is worried the ankle may be fractured. Maye was still in Germany for tests and is expected back today. The five and five Patriots have a bye this week, and Vrabel said he doesn't expect Maye back for the November twenty-ninth game against the Chargers.
+[ava] In Londonderry, budget season has started. At Saturday's kickoff, town officials put next year's default budget at about forty-nine point six million dollars, up two point eight percent. The department heads' requests add up to about fifty point nine million, roughly five and a half percent more than this year. Raises are the biggest driver.
+> source: WMUR, "Vrabel: Maye likely out for at least 2 weeks following ankle injury" (Nov 16, 12:24 PM ET); Londonderry Times, "FY28 Budget Kickoff Meeting Reveals Town Increase of 2.81%" (Nov 15)
+
+## Uplifting Story | sting=feel
+// Story 11: Curitiba marathon
+[ava] And finally, story eleven, from the Curitiba Marathon in southern Brazil. Kenyan runner Naum Jepchirchir, who won the women's race there last year, was out front again on Sunday when she collapsed about four hundred meters from the finish. A Brazilian runner, Marcos Braz, saw her go down and stopped his own race. He helped her up and stayed beside her. Another runner, Robson Luiz Santana, joined them, and together they got her across the line as the crowd cheered.
+[ava] Santana told Brazil's G1 that her health came before any podium, and that running is the most team-minded sport there is. Technically the rules allow helping a fallen runner up, not helping them forward, but the crowd has already made up its mind.
+> source: G1 (Globo), "Corredores ajudam atleta queniana a cruzar linha de chegada" (Nov 16); Tuko, "Naum Jepchirchir: Lovely Moment Brazilian Marathoner Stops Running to Help Collapsed Kenyan Athlete" (Nov 16)
+
+## Close | sting=close
+[ava] That's your Monday one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Nvidia reports tomorrow after the bell, and we'll see where this market closes today.
+[ava] Thanks for listening to Gumshoe News Radio.
