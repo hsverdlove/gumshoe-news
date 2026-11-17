@@ -1,0 +1,89 @@
+// Gumshoe script format: see README.md
+# title: Tuesday 10 AM Update, Nov 17
+# description: The Tuesday 10 a.m. update from Gumshoe News Radio for November 17, 2026: Londonderry, New Hampshire weather through tomorrow; Navy secretary nominee Hung Cao's confirmation hearing and DHS saying the recent outages were not an attack; Iranian drones at a US radar site in Bahrain and a second strike on the Crimean bridge; Turkey seizes the opposition channel Sozcu TV; stocks mixed at the open after a soft retail sales report, Intel slides as Nvidia trims its stake, and the Deutsche Bank files leak; Nvidia's new national security committee; Isomorphic Labs raises five billion dollars and Google retires Gemini Gems; the Fugaku supercomputer breach and attacks on Check Point gateways; your X feed; the Saint-Gobain PFAS meeting and the Associated Grocers strike; and the teachers who built a bus stop for a student. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Tuesday, November seventeenth, and this is the ten o'clock update from Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Stocks are open and mixed, and we're still waiting on Nvidia after the bell.
+[ava] We'll get to it. First, the weather in Londonderry New Hampshire, from now through tomorrow morning.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 17 at airtime
+
+## US News | sting=us
+// Story 1: Hung Cao Navy hearing
+[ava] Story one. Acting Navy Secretary Hung Cao is before the Senate Armed Services Committee this morning, seeking the job permanently. He's a combat veteran and a close Trump ally. He needs a waiver from Congress because he left active duty less than seven years ago.
+[ava] Expect questions about the Iran war and about transparency. The Associated Press reports the Navy has recently removed several senior officers without the usual public announcement, including the entire leadership team of an attack submarine after an underwater collision. Democrats say Congress wasn't told. Supporters of Cao argue a wartime Navy needs continuity at the top and that some personnel matters are sensitive. The hearing comes during the lame-duck session, while Republicans still control the Senate.
+> source: AP via PBS News, "Senate Armed Services Committee confirmation hearing for Hung Cao as Navy secretary" (Nov 17); AP, "Trump's pick for Navy secretary likely to face Iran war questions" (Nov 17); InsideDefense (Nov 17)
+
+// Story 2: Mullin says outages not an attack
+[ava] Story two. Homeland Security Secretary Markwayne Mullin went on CNBC this morning to address the string of outages over the past week. That includes Microsoft's email trouble, Friday's FAA ground stop and Monday's bank delays. His message was blunt. We are not under attack, he said, and no cyber threat has taken place.
+[ava] The official explanations so far are aging FAA telecom equipment and a software bug inside JPMorgan Chase. Some security experts agree the incidents look unrelated. Others say the cluster still shows how fragile critical systems are, whatever the cause.
+> source: CNBC Squawk Box, "We are not under attack: DHS Secretary Mullin on recent outages" (Nov 17); Rapid Response 47 on X (Nov 17); Fox News, Morgan Wright interview (Nov 17)
+
+## International | sting=world
+// Story 3: Iran drones at Bahrain; dirty bomb denial
+[ava] Story three. Iran's Revolutionary Guard says it launched drones at a US radar system at Isa Air Base in Bahrain this morning. Residents of Manama got a phone alert telling them to take shelter, and explosions were heard. Bahrain says its air defenses intercepted the drones. US Central Command says there was no damage to US equipment and no one was hurt.
+[ava] It's Iran's third such attempt on US targets in Bahrain since Friday, after a two-month lull. Iran says it is responding to US violations of its airspace. Separately, Iran's Foreign Ministry called last night's CNN report about a possible dirty bomb plot in Washington baseless.
+> source: Al Jazeera / AFP, "Bahrain thwarts drone attack; Iran claims targeting US radar" (Nov 17); AP, "A 2-month lull ends with Iran's third strike on US targets in Bahrain" (Nov 17); Anadolu (Nov 17)
+
+// Story 4: Crimean bridge update
+[ava] Story four. An update on the Crimean bridge. Russia's transport ministry now says both road and rail traffic were suspended after a second attack overnight, though Russian officials later said trains were running again on one track. Ukrainian monitors and Russian military bloggers both describe a collapsed road arch. Kremlin spokesman Dmitry Peskov, who called Monday's damage minor, now says the bridge will be rebuilt even better than before. Deputy Prime Minister Marat Khusnullin is leading the repair effort and arranging other supply routes into Crimea.
+> source: Kyiv Post, "Kremlin Says Crimean Bridge Will Be 'Better Than Before'" (Nov 17); Kremlin.ru, "The President received an update on the Crimean Bridge situation" (Nov 17); RIA Novosti Crimea (Nov 17); AP (Nov 17)
+
+// Story 5: Turkey seizes Sozcu TV
+[ava] Story five. In Turkey, police raided the Istanbul headquarters of the opposition-leaning channel Sozcu TV before dawn. They detained executives, including the board chair, and the government's deposit insurance fund was named trustee of the channel and its website. The channel went off the air briefly and is now running under the trustee.
+[ava] Prosecutors cite alleged links between the owner and the Gulen movement, which Turkey calls a terrorist group, plus terror-financing violations. The channel's lawyer says the case is based on a file where Turkey's top court found no crime. Opposition leader Ozgur Ozel called it an effort to silence criticism. It comes a month after the same thing happened to Halk TV.
+> source: Euronews / AFP, "Police raid Turkish pro-opposition broadcaster Sozcu TV, carry out arrests" (Nov 17); Reuters via StreetInsider (Nov 17); Hurriyet Daily News (Nov 17); Medyascope (Nov 17)
+
+## Markets | sting=markets
+// Story 6: Markets at the open
+[andrew] Story six, markets. Stocks opened mixed. About twenty minutes in, the Dow was down about half a percent, near fifty-one thousand three hundred fifty. The S&P five hundred was off a couple tenths and the Nasdaq was roughly flat.
+[andrew] The October retail sales report was soft but in line. Sales rose two tenths of a percent, down from eight tenths in September, and the Census Bureau says that gain is within its margin of error. Car dealers fell more than one and a half percent. But the so-called core measure, which feeds into GDP, rose six tenths, better than expected. With prices rising because of the Iran war, markets still see a December Fed rate hike as nearly certain.
+[andrew] Some movers. Intel is sliding after Nvidia disclosed it sold about a quarter of its Intel stake last quarter, roughly five and a half billion dollars of stock. Optical networking names like Coherent jumped early after Reuters reported the administration will push ahead with blocking imports of Chinese data center equipment. And Deutsche Bank fell more than two percent after whistleblowers leaked about fifteen million internal files. Reports based on the leak say the bank flagged about five hundred eighty million dollars in suspicious Jeffrey Epstein-linked payments, far more than was known. The bank says it cut ties with Epstein in late twenty eighteen and has acknowledged it was wrong to take him on.
+[andrew] Anthropic kept its IPO range at seventy to seventy-eight dollars in an updated filing this morning. It prices tomorrow and trades Thursday.
+> source: Reuters via Devdiscourse, "Nasdaq opens higher in choppy trading; Nvidia earnings in focus" (Nov 17); Yahoo Finance live, 9:47 a.m. ET (Nov 17); US Census Bureau, Advance Monthly Retail Sales, October 2026 (Nov 17); Reuters via Investing.com, "US retail sales increase moderately in October" (Nov 17); CNBC, "Stocks making the biggest moves Tuesday" (Nov 17); Reuters, CME FedWatch (Nov 17); Financial Times and The Banker on Deutsche Bank leak (Nov 17)
+
+## Technology | sting=tech
+// Story 7: Nvidia national security committee; Wear OS; Spotify
+[andrew] Story seven, tech. Hours before its earnings, Nvidia's board created a National Security and Export Control Oversight Committee. Director Suzanne Nora Johnson will chair it, and Nvidia's security and trade compliance teams will now report directly to it. Board chair Harvey Jones said advanced chips and superintelligence pose unprecedented national security challenges. It follows Jensen Huang's resignation over an affair with a woman US intelligence reportedly suspects of spying for China.
+[andrew] Critics, including The Verge, question why it took a scandal to get here. Nvidia says the committee shows its commitment to working with government.
+[andrew] Two quick ones. Wear OS watches can now borrow your phone's GPS on outdoor workouts to save battery. And Spotify is opening its Artist Profile Protection tool to every artist. It lets them review new releases under their name and pull AI-generated fakes.
+> source: NVIDIA Newsroom, "NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee" (Nov 17); AP (Nov 17); Politico (Nov 17); The Verge, "Oh, so now Nvidia cares about national security and export controls?" (Nov 17); The Verge on Wear OS GPS and Spotify (Nov 17); TechCrunch (Nov 17)
+
+## Artificial Intelligence | sting=ai
+// Story 8: Isomorphic Labs; Gemini Gems; Hy4 flash
+[andrew] Story eight, AI. Isomorphic Labs, the drug discovery company founded by Demis Hassabis, raised five billion dollars. Greenoaks and Sequoia led the round, with Andreessen Horowitz and Google's parent Alphabet joining. Hassabis left his job running Google DeepMind about three and a half months ago. He says the money will push Isomorphic's first drug candidates toward clinical trials. AI drug discovery startups have now raised a record twenty-three billion dollars this year. No AI-designed drug from the company has reached patients yet.
+[andrew] If you use Google's Gemini, your custom Gems became read-only today and disappear from personal accounts on December seventeenth. Google says they should convert automatically to its replacement, called Skills.
+[andrew] And Tencent launched a cheap new model, Hy4 flash, at about seven cents per million input tokens. Its own tests show it close to rivals on everyday tasks, but still behind DeepSeek on some.
+> source: CNBC, "Demis Hassabis' AI company raises $5 billion" (Nov 17); The Verge, "Gemini Gems are retiring today" (Nov 17); Tencent, "Tencent Launches Hy4 flash" (Nov 16); TechNode (Nov 16); Neural Brew (Nov 17)
+
+## Cybersecurity | sting=cyber
+// Story 9: Fugaku breach; Check Point gateways
+[ava] Story nine, the cyber desk. Japan's Fugaku supercomputer, once the fastest in the world, has been shut down since Saturday after a breach. Its operator, RIKEN, says an intruder got into the internal network from November tenth to the thirteenth through a public web page that showed the machine's status. The attacker tampered with servers and installed malicious programs. Names and emails of up to about forty-six hundred users may have been taken, along with SSH keys and other credentials users had stored for outside systems. RIKEN says the attacker has already tried some of those credentials elsewhere, but it has no evidence yet that research data left the building.
+[ava] And if you run Check Point firewalls, patch now. Check Point says attackers chained a PHP flaw with a Gaia operating system bug to plant backdoors on unpatched gateways, and in some Israeli companies they deployed data-wiping malware. Researchers see overlap with a China-linked group but say the evidence is mixed.
+> source: RIKEN, "Notice regarding a possible personal information leak affecting Fugaku and RIKYU users" (Nov 16); The Japan Times (Nov 17); Asahi Shimbun (Nov 16); The Register (Nov 17); Cybersecurity Dive, "PHP2Shell flaw exploited in chained attacks targeting unpatched Check Point gateways" (Nov 16); CISA KEV catalog (Nov 13)
+
+## From Your X Feed | sting=x
+// Story 10: X feed
+[ava] Story ten, from your X feed. Mike Solana noticed a fun coincidence. Anthropic starts trading Thursday, the same day Grand Theft Auto six launches. Barbenheimer two, he called it. He also predicted the game will be such a hit that it pulls creative talent from film and TV into gaming.
+[ava] Israel's official account highlighted an experimental blood test from the Weizmann Institute and Hebrew University. It caught early breast cancer with ninety-five percent accuracy in a research study. That study was small, about a hundred women, so it needs much more testing before it could be used for screening.
+[andrew] And the security researcher who goes by log4j found a chain of bugs in the Ladybird browser that escaped its sandbox and could read files. He reported it, it's fixed, and he still recommends the browser.
+> source: Harry's X home timeline, Nov 17 (@micsolana, @Israel, @log4j); Weizmann Institute of Science and Times of Israel on breast cancer blood test (Nov 12); PlayStation Blog on GTA VI launch date (Nov 10)
+
+## Local News & Events | sting=local
+// Story 11: Saint-Gobain PFAS meeting; AGNE strike; events
+[ava] Story eleven, local news. Ten years after PFAS chemicals were found in water around the Saint-Gobain plant in Merrimack, state environmental officials held a public update meeting last night. Londonderry is one of the affected towns. In April Saint-Gobain agreed to pay one point seven million dollars for a new water main here. Some residents just outside the cleanup boundaries say it still isn't enough, and one state representative wishes those boundaries had been drawn wider in twenty eighteen.
+[ava] The strike at Associated Grocers Northeast in Pembroke is now in its third week. More than two hundred fifty Teamsters drivers and warehouse workers walked out over a plan to replace their pension with a 401k. The company has brought in temporary workers. Some local stores have reported empty shelves and late deliveries.
+[ava] And tonight at six the Londonderry Historical Society holds its business meeting. Tomorrow at four Leach Library has clay and bean art for kids.
+> source: WMUR, "NH residents say they still feel effects decade after Saint-Gobain PFAS contamination discovery" (Nov 16); NHPR, "Worker strike at AGNE in Pembroke heads into third week" (Nov 16); Concord Monitor (Nov 14); Londonderry Historical Society events; Leach Library calendar, "Children's Clay Bean Art" (Nov 18)
+
+## Uplifting Story | sting=feel
+// Story 12: The Bench People
+[ava] And finally, story twelve. Maren and David Douglass are teachers in Florida. While David was being treated for cancer, their doorbell camera kept showing a middle schooler waiting for the bus at the end of their driveway. There's no sidewalk on that busy road, and she was sitting on the ground close to traffic.
+[ava] So they put out a bench. The camera caught her little jumps of joy the first morning. Then a handwritten thank you note showed up, and they wrote back. When they learned she loved to read, they added a small free library, and other neighborhood kids started borrowing books too. The couple has now turned the story into a children's book, signed simply, The Bench People.
+> source: Upworthy (Nov 16) via Good News of the Day, "Teachers build safe bus stop for waiting student" (Nov 17)
+
+## Close | sting=close
+[ava] That's your Tuesday ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Nvidia reports after the bell tonight.
+[ava] And remember, that emergency alert on TV and radio at about two twenty this afternoon is only a test. Thanks for listening to Gumshoe News Radio.
