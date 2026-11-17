@@ -1,0 +1,86 @@
+// Gumshoe script format: see README.md
+# title: Tuesday 1 PM Update, Nov 17
+# description: The Tuesday 1 p.m. update from Gumshoe News Radio for November 17, 2026: Londonderry, New Hampshire weather through tomorrow; the NSA's classified internal network goes down, and the US loses its measles elimination status; tense moments at Hung Cao's Navy hearing; the Quad summit in Manila and a journalist killed in Costa Rica; stocks slide at midday as Jensen Huang says he'd return to Nvidia, Disney and Home Depot beat, and health insurers drop; what really broke Outlook, and new details on the Megaspeed probe; Gemini starts making calls and buying things for you; Oracle's Java patches and an extradited ransomware suspect; your X feed; Monadnock Community Hospital confirms a cyber incident and New Hampshire's stalled dam removals; and two Connecticut teens whose school supply drive went global. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon. It's Tuesday, November seventeenth, and this is the one o'clock update from Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. The selling picked up this morning, and Nvidia reports after the bell.
+[ava] We'll get there. First, the weather in Londonderry New Hampshire, from now through tomorrow afternoon.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 17 at airtime
+
+## US News | sting=us
+// Story 1: NSA Net outage; ATC funding request
+[ava] Story one. Add another name to the week's list of outages. CNN reported late this morning that NSA Net, the classified network the National Security Agency uses for internal communications, is down or running only intermittently. Six people familiar with the matter told CNN there is no evidence of a cyberattack. The agency staggered employee arrivals at Fort Meade so tens of thousands of people wouldn't all log in at once, and backup centers around the country are picking up the work. Officials say urgent intelligence can still reach President Trump in Asia through backup systems. The NSA has not commented.
+[ava] On X, some prominent accounts are calling the string of outages a coordinated attack. That is not supported by any evidence made public so far. Officials have blamed old telecom gear at the FAA, a JPMorgan software bug and a latent Microsoft bug, and no link between the incidents has been shown.
+> source: CNN via WRAL, "Highly classified US national security communications network goes down, sources say" (Nov 17); The Record, "NSA Net, agency's classified internal network, faces unspecified disruptions" (Nov 17); Fox News (Nov 17)
+
+// Story 2: Measles elimination status lost
+[ava] Story two. After twenty-six years, the United States has officially lost its measles elimination status. The Pan American Health Organization announced today that the same strain has spread in the US without interruption for more than twelve months. Mexico and Bolivia lost theirs too. The US has had about fifty-four hundred cases and ten deaths this year, the most since the nineteen nineties, and national MMR vaccination is at about ninety-two percent, below the ninety-five percent needed for herd immunity.
+[ava] The CDC says it is committed to regaining the status and has put one hundred million dollars into state and local health departments. Many doctors blame mixed federal messages on vaccines. Health Secretary Robert F. Kennedy Junior has argued the rise began before he took office and that neighboring countries are seeing it too.
+> source: BBC, "US loses measles elimination status after 26 years amid record case numbers" (Nov 17); PAHO press release (Nov 17); CDC Newsroom, "Joint Statement: Loss of U.S. Measles Elimination Status" (Nov 17); AP (Nov 17)
+
+// Story 3: Hung Cao hearing exchanges
+[ava] Story three. An update on Hung Cao's confirmation hearing for Navy secretary. He acknowledged the Iran war is straining the Navy, but some of his answers drew sharp pushback. Senator Mark Kelly cited family reports of sailors losing up to forty-five pounds on long deployments. Cao said ships never ran out of food and compared the complaints to his kids opening the fridge and saying there's nothing to eat. Kelly said nobody loses forty-five pounds over menu choices.
+[ava] On sailors who tried to take their own lives, Cao called the eight cases eight suicide mitigations, arguing the Navy's mental health support worked. Senator Kirsten Gillibrand called that phrasing an insult. The committee has not voted yet, and Cao still needs a waiver from Congress to serve.
+> source: Washington Post, "Hung Cao, Navy secretary nominee, faces tough questions in Senate hearing" (Nov 17); AP, "Trump's pick for Navy secretary acknowledges the Iran war is straining military resources" (Nov 17); The New Republic, hearing transcript excerpts (Nov 17); C-SPAN (Nov 17)
+
+## International | sting=world
+// Story 4: Quad summit in Manila
+[ava] Story four. In Manila, President Trump met the leaders of India, Japan and Australia for the first Quad summit of his current term. Their joint statement opposes changing the status quo in the region by force or coercion and warns about economic coercion through export restrictions. That's widely read as aimed at China, though China isn't named. They announced a business forum for early twenty twenty-seven, a first joint exercise next year for their maritime patrol planes, and closer cooperation on cybersecurity. Japan also offered Southeast Asian nations access to its crude oil storage for future energy crises. Trump heads to China tomorrow ahead of Thursday's meeting with Xi Jinping and Vladimir Putin.
+> source: White House, "Quad Leaders' Summit Joint Press Release" (Nov 17); Prime Minister's Office of Japan (Nov 17); Hindustan Times (Nov 17); The Hindu, "Japan offers ASEAN nations access to energy storage" (Nov 17); AP live updates (Nov 17)
+
+// Story 5: Costa Rica journalist; Moldova drone
+[ava] Story five. In Costa Rica, gunmen on a motorcycle shot and killed journalist Camilo Rodriguez on a highway north of San Jose on Monday. Local media say it's the first murder of a journalist there in more than twenty years. Rodriguez posted videos accusing judges, politicians and business figures of ties to drug traffickers. He had filed repeated threat complaints. President Laura Fernandez, who had sued him for defamation over claims about her home, condemned the killing as a stain on freedom of expression. No arrests have been announced.
+> source: BBC, "Gunmen kill Costa Rican journalist who reported on drugs trade" (Nov 17); Tico Times (Nov 17); RSF (Nov 17)
+
+## Markets | sting=markets
+// Story 6: Midday markets
+[andrew] Story six, markets at midday. The early dip turned into a broad sell-off. Around twelve forty-five the Dow was down about seven hundred points, or a bit over one and a quarter percent, near fifty thousand nine hundred. The S&P five hundred was off about one point three percent and the Nasdaq about one point six. The ten-year Treasury yield sits around five point one percent.
+[andrew] The drivers. Tech jitters ahead of Nvidia's results after the close, plus the NSA outage report, which traders said knocked stocks to their lows. Nvidia fell more than three percent before Jensen Huang released his first statement since resigning. He said he owns his mistakes and would be honored to return as CEO if the board decides it's best. The stock pared losses, but CNBC reported Monday the board is not considering bringing him back. Nvidia is down about a quarter this month. Software names like Salesforce and Workday fell more than five percent. Health insurers UnitedHealth and Humana slid almost five percent after Medicare proposed a rule that would sharply expand audits of Medicare Advantage plans.
+[andrew] Two earnings beats. Disney earned a dollar seventy-seven a share, above forecasts, with revenue up sixteen percent on parks and streaming. Home Depot beat as well, with sales up almost five percent, and named finance chief Richard McPhail as CEO starting next week. Ted Decker stays on as chairman.
+> source: Yahoo Finance live, 12:44 p.m. ET (Nov 17); 24/7 Wall St., "S&P 500 Drops 1.3% at Midday" (Nov 17); Baystreet.ca, "TSX Slumps Midday" (Nov 17); CNBC, "Former Nvidia CEO Jensen Huang says he's open to returning" (Nov 17); New York Post / Reuters (Nov 17); Benzinga, "S&P 500 Down 1%; Disney Posts Upbeat Earnings" (Nov 17); Home Depot investor release (Nov 17); Seeking Alpha and HHS on CMS CRUSH proposed rule (Nov 17); CNBC Treasury yields (Nov 17)
+
+## Technology | sting=tech
+// Story 7: Outlook outage root cause; Megaspeed probe
+[andrew] Story seven, tech. We now know more about what broke Outlook last Thursday. The Verge reports a latent bug had been sitting on Microsoft 365 networking gateway servers since July. Microsoft says it surfaced when Teams traffic shifted onto that gateway while about fourteen percent of its capacity was already out for an unrelated problem. Microsoft says its load testing used weaker machines with fewer cores, which is why it missed the bug.
+[andrew] And the Commerce and Justice departments put out a rare joint statement on Megaspeed, the company tied to the Nvidia scandal. Commerce began looking at possible chip diversion in twenty twenty-four. Nvidia put Megaspeed on its no-sell list in June of last year, and the Justice Department now leads a criminal investigation.
+> source: The Verge, "Inside Microsoft's giant Outlook outage" (Nov 17); Microsoft preliminary post-incident report via Charles Lamanna on X (Nov 16); US Department of Justice, "Joint statement from Department of Commerce and Department of Justice on Megaspeed investigation" (Nov 17); Washington Post and Politico (Nov 17)
+
+## Artificial Intelligence | sting=ai
+// Story 8: Gemini Tasks
+[andrew] Story eight, AI. Google is turning Gemini into an errand runner. A new Task mode, free and rolling out today in the US and several other countries, lets Gemini place phone calls for you, compare and buy products, and dig through bills, using a new model called Gemini four Hydrogen. Google says it tells businesses up front that it's an AI.
+[andrew] You can set a hard spending cap, and Google says Gemini asks before hitting buy unless you tell it to always allow a routine purchase. Google admits it hasn't eliminated mistakes. Handing an AI your passwords and cards is a real trust decision, so start small.
+> source: Google blog, Josh Woodward, "Put Gemini to work for you" (Nov 17)
+
+## Cybersecurity | sting=cyber
+// Story 9: Oracle Java patches; ransomware extradition
+[ava] Story nine, the cyber desk. If your company runs Java, today is patch day. Oracle is fixing eleven Java flaws that can all be reached over a network without a password, rated up to eight point one out of ten. Separately, a security firm called Calif says it found a critical flaw in OpenJDK seventeen and later that it calls Java4Shell, and that details have leaked. That report is not yet confirmed, and it's not clear whether today's patches cover it. Calif says it will publish details this afternoon, so inventory your Java servers now.
+[ava] And a Kazakh man has been extradited from Italy to the US. Prosecutors say Roman Khlynovskiy belonged to a ransomware crew tied to the INC and Lynx gangs that hit hospitals and schools in at least six states, boasting of seventy million stolen health records. He faces up to twenty-seven years.
+> source: The Hacker News, "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges" (Nov 17); Oracle Java security notice (Nov 17); BleepingComputer, "Ransomware affiliate suspect extradited to US, faces 27 years in prison" (Nov 17); US Department of Justice (Nov 17)
+
+## From Your X Feed | sting=x
+// Story 10: X feed
+[ava] Story ten, from your X feed. Astrophotographer Andrew McCarthy combined fifteen of his photos of last week's Starship flight into one image. It shows the launch and the first-ever catch of the ship's upper stage by the tower's chopstick arms. He called it Dreams of Martian Skies.
+[ava] Variety posted the Game Awards nominees for Game of the Year. Grand Theft Auto six made the list two days before it even comes out. It's up against 007 First Light, Control Resonant, Phantom Blade Zero, Resident Evil Requiem and The Legend of Zelda Ocarina of Time.
+[andrew] Semafor shared a stat from Amazon's Andy Jassy. In the first three years of AWS, it had about a fifty-seven million dollar annual run rate. In the first three years of this generative AI wave, Amazon's AI revenue is over twenty-five billion. And Verizon's CEO told Semafor he expects Elon Musk to enter the wireless business in about four years, and says Verizon will be ready to compete ferociously.
+[ava] And the 25 Years Ago Live account reminded us that on this day in two thousand one, Toys R Us opened its thirty-five million dollar flagship in Times Square, indoor Ferris wheel and all.
+> source: Harry's X home timeline, Nov 17 (@AJamesMcCarthy, @Variety, @semafor, @25YearsAgoLive); Spaceflight Now on Starship Flight 15 (Nov 13-14); Polygon, The Game Awards 2026 nominees (Nov 17)
+
+## Local News & Events | sting=local
+// Story 11: Monadnock hospital cyber incident; dams; events
+[ava] Story eleven, local news. Monadnock Community Hospital in Peterborough now says the server outage that has dragged on for more than a week was caused by a cyber incident. It hasn't said what kind, only that law enforcement was notified. It is checking what data was affected and will notify patients directly if sensitive information was involved. The emergency department is open, but ambulances are being sent elsewhere, outpatient lab and radiology are still down, and some major elective surgeries are canceled through November twenty-third.
+[ava] Funding for three dam removals in Bethlehem, Jaffrey and Brentwood is stuck before the Executive Council. Councilor David Wheeler wants the highest-hazard dams handled first and questions spending public money on a privately owned dam. With most councilors leaving in January, the incoming council could decide it.
+[ava] Around town, Leach Library has a Lego Building Buddies session Thursday at four and a teen writers group Thursday at six.
+> source: WMUR, "Monadnock Community Hospital server outage due to 'cyber incident,' officials say" (Nov 17); NHPR / New Hampshire Bulletin, "With dams across NH in disrepair, leaders disagree on where to focus" (Nov 17); Leach Library calendar (Nov 19)
+
+## Uplifting Story | sting=feel
+// Story 12: Restoring Rainbows
+[ava] And finally, story twelve. Three years ago two freshmen in Connecticut, Jordan Chen and Grace Millard, kept seeing notebooks and pencils tossed on the ground and left on lunch tables. So they grabbed a cardboard box from a garage, scribbled over the logo and asked libraries and museums to host donation boxes. The Beardsley Zoo in Bridgeport said yes first.
+[ava] Their nonprofit, Restoring Rainbows, now has more than two hundred chapters in over ninety-five countries, run by thousands of student volunteers. They've given away more than two hundred thousand school supplies to kids who need them. As Jordan put it, it's nothing truly innovative. Anyone can set up a box.
+> source: The Daily Goods, "Discarded School Supplies Sparked A Student Nonprofit Now In 95+ Countries" (Nov 17), citing Stephen Underwood's report
+
+## Close | sting=close
+[ava] That's your Tuesday one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Nvidia reports after the close, so watch tonight.
+[ava] Thanks for listening to Gumshoe News Radio.
