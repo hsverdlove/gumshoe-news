@@ -1,0 +1,82 @@
+// Gumshoe script format: see README.md
+# title: Tuesday 4 PM Update, Nov 17
+# description: The Tuesday 4 p.m. update from Gumshoe News Radio for November 17, 2026: Londonderry, New Hampshire weather through tomorrow; the FAA pauses router installs after the ground stop, Apple's outage, and the Pentagon fails its ninth audit; US jets strike Iran's Qeshm Island, and a bleak Board of Peace report on Gaza; stocks close lower ahead of Nvidia's results and Anthropic's IPO pricing; Hyundai starts delivering Waymo robotaxis; OpenAI's GPT-6.2 and Oregon's lawsuit; a cyberattack on Equinor, the FBI's ARTEX warning and Java4Shell details; your X feed; Drake Maye's injury, the secretary of state race and a cat on a highway sign; and thousands sign up to help a baby find a stem cell match. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon. It's Tuesday, November seventeenth, and this is the four o'clock update from Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. The closing bell just rang on another rough day, and Nvidia's numbers are coming any minute.
+[ava] We'll get there. First, the weather in Londonderry New Hampshire, from now through tomorrow afternoon.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 17 at airtime
+
+## US News | sting=us
+// Story 1: FAA router pause; Apple outage; no evidence of attack
+[ava] Story one. Two new developments in the week of outages. First, the FAA has paused installing new Juniper routers on its telecommunications network while it works out what caused Friday's nationwide ground stop. The agency says a new router at a radio site in El Dorado Arkansas and another in Amarillo Texas flooded the network with about a thousand connection attempts every four to five seconds. It has switched off that function on more than sixty similar routers. Thirteen Democratic senators had asked for exactly this pause. Hewlett Packard Enterprise, which owns Juniper, says its device worked as the installer configured it and did not fail.
+[ava] Second, Apple. For much of the day iCloud sign-in, the App Store, Apple Music and Apple Pay had trouble. Apple blamed an internal update, ruled out a cyberattack and says most services are back. Gmail users also reported problems, but Google says it sees no sign of a widespread outage.
+[ava] Some voices online are calling all this a coordinated attack. No evidence has been made public to support that. Homeland Security Secretary Markwayne Mullin has floated the idea that AI-written code could be causing a ripple effect, while Transportation Secretary Sean Duffy and the FAA say AI played no role in Friday's failure.
+> source: AP, "FAA temporarily stops router installations connected to air travel stoppage" (Nov 17); FAA, "Nationwide Ground Stop: Questions and Answers"; Newsweek and Axios (Nov 17); Yahoo Finance, "Apple outage today" (Nov 17); AP, "Apple joins a parade of technology hiccups" (Nov 17); Anadolu, "Google says no evidence of widespread Gmail outage" (Nov 17); Fox News live updates (Nov 17)
+
+// Story 2: Pentagon fails ninth audit
+[ava] Story two. The Pentagon has failed its financial audit for the ninth year in a row. Auditors looked at about four point nine trillion dollars in assets and five point two trillion in liabilities. The department did win one more clean opinion, for a total of twelve, and says that by early next year more than half its assets will have clean books. Comptroller Jules Hurst says a new strategy will get there, cutting twenty-five separate financial statements to eight and bringing in outside auditors, with a goal of a clean department-wide opinion in twenty twenty-eight. Officials say systems built over decades take years to fix. Critics note this is the ninth straight failure since the first full audit in twenty eighteen.
+> source: Breaking Defense, "Pentagon fails 9th audit, asserts path towards clean books in 2028" (Nov 16); The Guardian (Nov 17); The Hill (Nov 17); US Department of War release (Nov 16)
+
+## International | sting=world
+// Story 3: US strikes Qeshm Island
+[ava] Story three. This morning we told you about Iranian drones fired at a US radar site in Bahrain. Now the US has hit back. US fighter jets struck a Revolutionary Guards missile launch site on Iran's Qeshm Island in the Strait of Hormuz. A US military official called it self-defense in response to attacks on American personnel. Central Command says the drones aimed at Bahrain were all intercepted with no damage or injuries. Iranian officials say there was no damage to homes, businesses or vital infrastructure.
+[ava] Saudi Arabia and Qatar condemned Iran's attacks on Bahrain and urged diplomacy, and Qatar says it will meet Iranian officials about narrowing differences with Washington. Meanwhile Britain's maritime agency reports a ship hit a second time off Khasab Oman, setting it on fire, with the crew unaccounted for.
+> source: Iran International, "US confirms it struck IRGC missile launch site on Iran's Qeshm Island" (Nov 17); AP, "A 2-month lull ends with Iran's third strike on US targets in Bahrain, and US retaliation" (Nov 17); gCaptain (Nov 17); CBS News live updates (Nov 17)
+
+// Story 4: Board of Peace Gaza report
+[ava] Story four. The body overseeing the US-brokered ceasefire in Gaza gave the UN Security Council a bleak first annual report. The Board of Peace warns the truce could collapse without immediate action. It points to continued Israeli strikes, blocked aid and Israel not letting Gaza's interim administration operate, and also to Hamas military activity. It says if the ceasefire fails there is no road map to return to, and no basis for rebuilding or an international stabilization force. Hamas rejected the criticism and accused the board of failing to stop Israeli violations. Israel has said Hamas must disarm before reconstruction moves ahead.
+> source: AP, "Board of Peace delivers bleak report on Gaza, warning of ceasefire collapse without immediate action" (Nov 17); Ilke News Agency, Hamas statement (Nov 17); The New Humanitarian (Nov 17)
+
+## Markets | sting=markets
+// Story 5: Closing markets
+[andrew] Story five, the closing numbers. The Dow fell about eight hundred forty-nine points, or one point six percent, to roughly fifty thousand seven hundred fifty-nine. The S&P five hundred lost about one percent to around seventy-three hundred forty, its fourth straight loss. The Nasdaq held up better, down about seven-tenths of a percent at about twenty-four thousand three hundred twenty-eight, after a late bounce in tech.
+[andrew] The drivers. Nerves ahead of Nvidia's first report since Jensen Huang's exit. The stock fell as much as three point seven percent before trimming losses,. Wall Street expects revenue of about one hundred nine billion dollars, up roughly ninety percent, with the call at five. Washington's new limits on Chinese companies renting Nvidia chips weighed too, and in Europe Deutsche Bank fell six percent on renewed scrutiny of past client dealings. Homebuilder confidence dropped to its lowest since twenty twelve, while October retail sales rose two-tenths of a percent, as expected.
+[andrew] Elsewhere, the ten-year Treasury yield held near five point one percent, and traders still expect a Fed rate hike in December. US crude is near eighty-five seventy a barrel, Brent near ninety-three. Gold sits around thirty-eight fifty an ounce near thirteen-month lows, and bitcoin is around sixty-four thousand after touching a three-month low. And Anthropic closed its IPO order book at four, with CNBC reporting it will likely price above its range of seventy to seventy-eight dollars a share ahead of Thursday's debut.
+> source: Yahoo Finance index closing data (Nov 17); AP, "Wall Street shakes again as Nvidia and other jittery AI stocks swing lower" (Nov 17); Reuters via Euronext, "Stocks fall with Nvidia in focus, dollar dips" (Nov 17); CNBC Nvidia earnings live updates (Nov 17); NAHB/Wells Fargo Housing Market Index (Nov 17); US Census Bureau retail sales (Nov 17); CNBC, "Anthropic likely to price IPO above the current range" (Nov 17)
+
+## Technology | sting=tech
+// Story 6: Hyundai Waymo deliveries
+[andrew] Story six, tech. Hyundai says it will start delivering cars to Waymo next month. CEO José Muñoz told a Semafor conference that electric IONIQ 5s built at Hyundai's plant in Georgia will join Waymo's robotaxi fleet, first in the US and then for export. Muñoz also said Nvidia stays very strategic for Hyundai's robotics and self-driving work, whoever is running it. Asked if he wanted the Nvidia job himself, he said he's very happy where he is.
+> source: Semafor, "Hyundai will start delivering Waymos in December in autonomous push" (Nov 17); WardsAuto (Nov 2026)
+
+## Artificial Intelligence | sting=ai
+// Story 7: GPT-6.2; Oregon sues OpenAI
+[andrew] Story seven, AI. OpenAI released two new models today. GPT-6.2 Astra is its new top model for hard professional work, and GPT-6.2 Sol is a cheaper everyday model. OpenAI says Astra sets new highs on tests of multistep professional and scientific work, and its API prices are twenty percent lower than the last version. Both are rolling out in ChatGPT and Codex for paying users. Early reaction on X is mixed, with some testers praising it and others calling it a letdown, so wait for independent results.
+[andrew] Also today, Oregon sued OpenAI for at least two billion dollars. Attorney General Dan Rayfield says ChatGPT is marketed as safe for kids while lacking guardrails, and that its teen version doesn't alert parents when a child asks about suicide or self-harm. Eight other states sued last month. OpenAI says it keeps adding safeguards like parental controls and age-appropriate protections, and wants rules that apply to the whole industry.
+> source: OpenAI, "Introducing GPT-6.2 Astra and Sol" (Nov 17); The Verge (Nov 17); OPB, "Oregon AG sues OpenAI, claims company knowingly endangers teens" (Nov 17); Oregon Department of Justice press release (Nov 17); The Oregonian (Nov 17)
+
+## Cybersecurity | sting=cyber
+// Story 8: Equinor; ARTEX; Java4Shell details
+[ava] Story eight, the cyber desk. Norway's Equinor, Europe's largest natural gas supplier, says it is fighting an ongoing cyberattack on some of its IT systems. It says there's no sign data was stolen, oil and gas production is not affected, and authorities have been told. No group has claimed it.
+[ava] The FBI is warning about ARTEX, an open-source AI hacking framework that plugs into commercial AI models and automates break-ins, sometimes going from first probe to admin access in under three hours. An FBI official told ABC News ARTEX has no known connection to this week's US outages.
+[ava] And details of the Java4Shell flaw are out. It's a memory bug in Java's Base64 decoding on newer Intel and AMD server chips, affecting Java seventeen and later. Patch, or ask your vendor about the workaround that turns that feature off.
+> source: Equinor, "Equinor detected cyber-attack" (Nov 17); Reuters via TradingView (Nov 17); FBI IC3 FLASH, "Threat Overview of ARTEX Autonomous Penetration Testing Framework"; BleepingComputer, "FBI warns ARTEX AI hacking tool is powering global cyberattacks" (Nov 17); ABC News (Nov 17); Upwind, "Java4Shell: What We Know Now" (Nov 17); The Hacker News (Nov 17)
+
+## From Your X Feed | sting=x
+// Story 9: X feed
+[ava] Story nine, from your X feed. Google security executive Heather Adkins, who posts as argvee, offered a calm take on the outages. In aviation, she noted, the riskiest part of a flight is approach and landing, and the same goes for deploying changes to big digital systems. Complex systems can surprise you, she wrote, and she warned about illusory correlation, our habit of seeing links that aren't there.
+[andrew] Autoblog posted that Dutch carmaker Spyker is back with an eight hundred horsepower hypercar, with a manual gearbox, aimed at Pagani and Bugatti. And a post from interesting_aIl made the rounds about the indie game Tiny Terraces. Its creator says it made about one hundred thirty-six thousand dollars on Steam in a year and just nine hundred sixteen on the Epic store.
+[ava] Trace Woodgrains shared a report about a combined kindergarten and first grade class where all forty-eight students were reading by mid-November, even though many arrived not knowing their letters. And Film Ladd has a theory. His golden retriever isn't scared of the vacuum. He just resents it for picking up all the fluff he's so generously left around the house.
+> source: Harry's X home timeline, Nov 17 (@argvee, @therealautoblog, @interesting_aIl, @tracewoodgrains, @FilmLadd); Autoblog, "Spyker Returns With an 800-HP Manual Hypercar" (Nov 17)
+
+## Local News & Events | sting=local
+// Story 10: Maye update; Scanlan; cat; event
+[ava] Story ten, local news. Bad news for Patriots fans. AP reports Drake Maye's right ankle injury will sideline him indefinitely, and coach Mike Vrabel says he doesn't expect him back right after the bye. Several outlets report the ankle may be fractured, which could end his season, but the team hasn't confirmed that.
+[ava] At the State House, Secretary of State David Scanlan, a Republican, says he'll seek another term. Lawmakers pick the secretary of state, and Democrats now hold the House majority. Scanlan is pitching his bipartisan record and his defense of the first in the nation primary. Three Democrats are also running, Representative Patrick Long, Carleigh Beriont and James Butler.
+[ava] In Manchester, a cat turned up perched on the back of a highway sign over Interstate two ninety-three. Firefighters and an animal control officer got it down. It had a hurt tail but is doing well.
+[ava] And tomorrow at six thirty Leach Library hosts a historical fiction book discussion.
+> source: AP, "Patriots' Drake Maye will be sidelined indefinitely with an ankle injury, AP source says" (Nov 16); NBC Sports injury report (Nov 17); WMUR, "Republican Secretary of State seeks reelection as Democrats hold majority in legislature" (Nov 17); WMUR, "Cat rescued from highway sign over I-293 in Manchester" (Nov 17); Leach Library calendar, "Historical Fiction Book Discussion" (Nov 18)
+
+## Uplifting Story | sting=feel
+// Story 11: Baby Ellis stem cell appeal
+[ava] And finally, story eleven. In Devon England, eleven-month-old Ellis has a rare and life-threatening blood disorder called Wiskott-Aldrich syndrome. His only cure is a stem cell transplant, and there was no match on the donor register.
+[ava] So the charity DKMS put out an appeal, and the response was the biggest it has seen in years. Nearly ten thousand people asked for a cheek swab kit in a single day. A match for Ellis isn't guaranteed, but his dad says if all those new donors end up helping somebody else, that's just as important. Signing up takes about six minutes.
+> source: BBC, "Thousands join stem cell register to help save baby" (Nov 17)
+
+## Close | sting=close
+[ava] That's your Tuesday four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Nvidia's results land tonight, and Anthropic is expected to price its IPO.
+[ava] Thanks for listening to Gumshoe News Radio.
