@@ -1,0 +1,85 @@
+// Gumshoe script format: see README.md
+# title: Wednesday Morning, Nov 18
+# description: The Wednesday morning bulletin from Gumshoe News Radio for November 18, 2026: Londonderry, New Hampshire weather with the full seven-day forecast; the Senate's final big test on the permitting overhaul, and Secretary Rubio says there's no imminent Iranian threat to Washington; Iran widens its Gulf attacks to a US base in Kuwait; Xi greets President Trump in Shenzhen ahead of Thursday's three-way summit with Putin; the EU proposes a 45 billion euro loan for Ukraine as Russian strikes hit Odesa; futures climb after Nvidia's beat, Target raises its outlook, and Anthropic prices its IPO tonight; Google signs the first commercial deal for superhot geothermal power; Microsoft's new lower-cost AI models; court portals offline after a vendor incident, a hijacked Microsoft developer package, and a Puppet flaw under attack; your X feed; a Portsmouth Naval Shipyard budget fight, Nashua's tax jump and library events; and Voyager 1 reaches one light-day from Earth. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Wednesday, November eighteenth, and this is Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Nvidia's numbers are out, futures are up, and Anthropic prices its IPO tonight.
+[ava] We'll get to all of it. First, the weather. Here's the Londonderry New Hampshire forecast with the full seven days.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 18 at airtime
+
+## US News | sting=us
+// Story 1: BAAJA permitting bill final cloture vote
+[ava] Story one. The biggest rewrite of federal permitting rules in a generation faces its last major hurdle in the Senate today. The Bipartisan American Affordability and Jobs Act would speed approvals for power lines and pipelines and make data centers pay for the grid upgrades they need. Monday the Senate voted seventy to twenty-seven to cut off debate on the revised bill. A final sixty-vote test is expected starting around midday, and Senator Jeff Merkley of Oregon is expected to raise an objection first.
+[ava] The fight is over one section that makes a finished permit very hard to revoke. Supporters, including Democratic coauthors Martin Heinrich and Sheldon Whitehouse, say that protects projects like offshore wind from being cancelled midstream, and that Democrats should take the win now. Critics like Earthjustice warn it would lock in pipeline and export terminal approvals that no future president could undo. House Democratic leader Hakeem Jeffries wants changes. Sponsors are racing to finish before Democrats take control of Congress in January.
+> source: Hill Heat, "Final Cloture Vote on BAAJA" (Nov 18); Inside Climate News, "The New Rules of Permitting" (Nov 17); The Hill, "Senate clears hurdle for bipartisan permitting reform package" (Nov 16); Bloomberg Government (Nov 16)
+
+// Story 2: Rubio dismisses dirty bomb report
+[ava] Story two. Yesterday morning we told you about a CNN report, citing seven US officials, that Iran had been exploring plans for a dirty bomb or chemical attack on senior officials in Washington. Now Secretary of State Marco Rubio says he does not believe there is any imminent threat. He called some of the sources behind such reports liars, and said others may be breaking the law by leaking. The White House says it is monitoring all potential threats but sees no credible threat to the homeland. Iran's foreign minister called the reports rubbish and war propaganda. CNN's report itself said Iran appeared to be exploring options, not preparing an imminent attack.
+> source: Times of India, "'No imminent threat': Rubio hits back at Iran dirty bomb report" (Nov 18); Mediaite (Nov 18); Gulf News (Nov 18); CNN (Nov 16)
+
+## International | sting=world
+// Story 3: Iran widens Gulf attacks to Kuwait
+[ava] Story three. Iran widened its attacks on its Gulf neighbors overnight. Iran's army says its drones targeted Patriot air defenses and drone and missile launchers at Ali Al Salem Air Base in Kuwait, which hosts US forces. Kuwait says its air defenses intercepted the attack. It's the first Iranian attack on Kuwait since September. Bahrain also intercepted Iranian attacks for the third time this week, sounding two shelter alerts before the all-clear.
+[ava] AP describes the strikes as apparent retaliation for Tuesday's US strike on a Revolutionary Guards missile site on Qeshm Island, which Washington called self-defense. Kuwait called the attack a flagrant violation of its sovereignty. All this comes even as Oman and Qatar try to mediate.
+> source: AP, "Iran widens Gulf attacks, targeting US air base in Kuwait and sites in Bahrain" (Nov 18); Reuters via Al-Monitor (Nov 18); Arab News (Nov 18); CNBC (Nov 18); Asharq Al-Awsat (Nov 18)
+
+// Story 4: Trump in Shenzhen
+[ava] Story four. President Trump has landed in Shenzhen China for the APEC summit, and Chinese leader Xi Jinping broke with protocol to greet him personally on the tarmac. Russia's Vladimir Putin, who arrived earlier and held his own talks with Xi, was met by a lower-level official. The Kremlin says Putin and Xi discussed ending the war in Ukraine.
+[ava] Tomorrow brings the first-ever three-way meeting of the American Chinese and Russian leaders. Nuclear arms control and Iran are expected topics, and possibly Ukraine. Analysts quoted by Radio Free Europe expect more symbolism than concrete deals.
+> source: CNA, "Trump arrives in China ahead of trilateral summit with Xi, Putin" (Nov 18); NBC News (Nov 18); DW live with AP, AFP, Reuters and DPA (Nov 18); RFE/RL, "Optics Over Substance Expected At Trump-Xi-Putin Summit" (Nov 18)
+
+// Story 5: EU loan; Odesa strikes
+[ava] Story five. The European Commission has proposed a new forty-five billion euro loan to keep Ukraine running through twenty twenty-seven. Twenty billion would go to the budget, for schools hospitals and public services, and twenty-five billion to weapons like drones and air defense interceptors. Ukraine would repay the principal only once Russia pays war reparations, and if it doesn't, the EU reserves the right to use frozen Russian assets. That covers about two-thirds of Ukraine's projected seventy billion euro gap, and payouts are tied to anti-corruption and rule of law reforms. EU leaders take it up next week.
+[ava] Meanwhile, Russian strikes hit central Odesa three times today. Ukrainian officials say four people were killed and nine hurt.
+> source: Interfax-Ukraine, von der Leyen and Dombrovskis remarks (Nov 18); Euronews, "Von der Leyen proposes 45bn loan to Ukraine backed by joint debt" (Nov 18); Politico Europe (Nov 18); Interfax-Ukraine, "Russian strikes on Odesa kill 4, injure 9" (Nov 18)
+
+## Markets | sting=markets
+// Story 6: Markets
+[andrew] Story six, the markets. Nvidia gave Wall Street the relief it wanted. In its first report since Jensen Huang resigned as CEO, revenue came in at about one hundred sixteen billion dollars, up one hundred three percent, with data centers bringing in nearly one hundred eight billion. It guided to about one hundred thirty billion this quarter, above forecasts, and added one hundred fifty billion dollars to its buyback. Interim CEO Colette Kress raised next year's growth target, and the board said it won't bring Huang back. Nvidia is up about three and a half percent before the bell, and AI cloud names like CoreWeave and Nebius are up five to seven percent.
+[andrew] Futures are higher. Around five this morning Nasdaq one hundred futures were up about one percent, the S&P about six-tenths and the Dow about three-tenths. That follows a rough Tuesday. The Dow fell one point six percent to fifty thousand seven hundred fifty-nine, the S&P lost one percent to seventy-three forty, its lowest close since July, and the Nasdaq fell seven-tenths to twenty-four thousand three hundred twenty-eight. All eleven sectors fell, led by financials.
+[andrew] The two-year Treasury yield is near four point seven eight percent and the ten-year near five point oh nine. The dollar index is around one hundred three point seven, near a nineteen-month high. US crude is near eighty-four dollars and Brent near ninety-two, down on oversupply worries. Gold dropped about two percent to around thirty-seven eighty, a fourteen-month low. Bitcoin is near sixty-four thousand four hundred.
+[andrew] On the calendar, Target beat forecasts with its best sales growth in five years and raised its outlook. Lowe's and TJX report this morning and Palo Alto Networks after the close. We get October housing starts at eight thirty and minutes from the Fed's October meeting at two. And Anthropic is expected to price its IPO tonight ahead of trading tomorrow.
+> source: CNBC, "Nvidia earnings spark rally in shares despite Huang scandal" (Nov 18); Yahoo Finance (Nov 18); Reuters via Investing.com, "Nasdaq futures jump as Nvidia forecast lifts AI trade" (Nov 18); Stock Analysis premarket (Nov 18); AP index closes (Nov 17); ScreenerCharts sector wrap (Nov 17); Saxo, "Market Quick Take" (Nov 18); Dow Jones via Morningstar, "North American Morning Briefing" (Nov 18); CNBC, "Target posts best sales growth in five years, raises guidance" (Nov 18)
+
+## Technology | sting=tech
+// Story 7: Google Quaise superhot geothermal
+[andrew] Story seven, tech. Google has signed what it calls the world's first commercial deal for superhot rock geothermal power. It will buy fifty megawatts from Quaise Energy's Project Obsidian on the flank of Newberry Volcano in central Oregon. That's enough for about fifty thousand homes, and it will feed Google's data centers in The Dalles starting as early as twenty thirty. The idea is to drill miles down to rock near eight hundred degrees Fahrenheit and use it to make steam around the clock. The price wasn't disclosed, and Google admits it costs more for now. Quaise still has to build a ten-mile power line, in a region that's struggled to build transmission.
+> source: OPB, "Google announces world's first deal to buy commercial superhot rock geothermal energy from Central Oregon" (Nov 17); Quaise Energy announcement (Nov 17); Canary Media (Nov 17)
+
+## Artificial Intelligence | sting=ai
+// Story 8: Microsoft MAI models at Ignite
+[andrew] Story eight, AI. At its Ignite conference, Microsoft released seven new models from its in-house AI group, pitched on price more than raw power. It says its new coding model, MAI Code 2, delivers ninety-eight percent of the quality of OpenAI's GPT-6.1 Sol at about forty percent of the price, and it's now in GitHub Copilot. There's also a cheap security model for always-on cyber defense, a speech model starting at a penny a minute, and an option for companies to license model weights and run them in their own Azure accounts. Keep in mind the comparisons are Microsoft's own benchmarks, and it says the coding models aren't tuned yet for the hardest long-running work.
+> source: Microsoft AI, "Seven new world class models at scalable price-performance" (Nov 17); Official Microsoft Blog, "Ignite 2026" (Nov 17); Microsoft Copilot Blog (Nov 17)
+
+## Cybersecurity | sting=cyber
+// Story 9: Journal Technologies portals; agent-framework PyPI; Puppet KEV
+[ava] Story nine, the cyber desk. Public court websites in parts of California Nevada and Washington are still offline. The vendor, Journal Technologies, spotted suspicious automated activity on its public portals last Friday and told courts to take them down. The company says it has found no evidence so far that criminal justice information was exposed, and restoration times will vary.
+[ava] Developers using Microsoft's agent-framework Python package should check their versions. Versions one point two six point one and one point two six point two on the PyPI registry were hijacked to steal cloud and build pipeline credentials. Security firms advise pinning to one point two six point oh and rotating any secrets those machines could reach.
+[ava] And CISA has added a critical Puppet Enterprise flaw to its list of bugs under active attack. It can let attackers run code on the central server that manages a whole fleet of machines. Federal agencies have until December first to patch.
+> source: Journal Technologies, "Statement Regarding Public Portal Availability" (Nov 16); Fox40 (Nov 2026); Wiz, "Microsoft agent-framework Compromised" (Nov 17); GitHub Advisory GHSA-764m-3ppc-5m73; CISA, "CISA Adds One Known Exploited Vulnerability to Catalog" (Nov 17); SecurityWeek (Nov 17)
+
+## From Your X Feed | sting=x
+// Story 10: X feed
+[ava] Story ten, from your X feed. OpenAI's new GPT-6.2 is splitting people. kimmonismus called it possibly OpenAI's worst release ever. But Redis creator Salvatore Sanfilippo, who posts as antirez, says he spent weeks building with GPT-6.2 Astra and thinks it's the best model he's used for systems programming in C and complex data structures.
+[andrew] The account interesting_aIl marked a milestone. Grand Theft Auto Six is officially out, starting in New Zealand, thirteen years after Grand Theft Auto Five. The US unlock is midnight tonight Eastern. And interesting_aIl also noted Minecraft's full release was fifteen years ago today.
+> source: Harry's X home timeline, Nov 17-18 (@kimmonismus, @antirez, @interesting_aIl); Vice, "GTA 6 Is Now Out in New Zealand" (Nov 18); BBC live (Nov 18)
+
+## Local News & Events | sting=local
+// Story 11: Shipyard; Nashua taxes; library events
+[ava] Story eleven, local news. Senator Jeanne Shaheen pressed Navy secretary nominee Hung Cao about a sixty-five million dollar budget hole at Portsmouth Naval Shipyard. She says thirty-two million came out of the yard's operating budget to cover required bonuses the Navy didn't fund, and another thirty-three million was pulled back during last year's hiring freeze. Cao admitted he still owed her answers from a May hearing. He promised them within a week and pledged to work on freeing up the thirty-three million and raising shipyard pay.
+[ava] In Nashua, property taxes are going up nine and a half percent. On a five hundred thousand dollar home that's about eight hundred dollars more a year. Bills go out in the coming days.
+[ava] And at Leach Library this afternoon at two there's a book discussion of The Road to Tender Hearts by Annie Hartnett. A correction to yesterday's listing: the historical fiction book discussion is tomorrow at eleven at the Senior Center, on The Shopkeeper of Alsace by Laura Knoy.
+> source: WMUR, "Sen. Shaheen questions acting Navy secretary on Portsmouth Naval Shipyard $65 million shortfall" (Nov 18); WMUR, "Property taxes in Nashua rising 9.5%" (Nov 17); Leach Library calendar (Nov 18-19)
+
+## Uplifting Story | sting=feel
+// Story 12: Voyager 1 one light-day
+[ava] And finally, story twelve. At sixteen minutes after five this morning our time, Voyager 1 became the first human-made object to reach one light-day from Earth. That's about sixteen billion miles. A radio signal from the spacecraft now takes a full twenty-four hours to reach us. Voyager launched in nineteen seventy-seven. It took forty-nine years to get this far, and it's still talking to us.
+[ava] Last night NASA invited people around the world to flash V G R, for Voyager, in Morse code at the sky. And tonight at eight the Planetary Society hosts a free livestream with the mission team and Bill Nye. As Nye put it, most people alive today weren't born when Voyager launched, but it changed how all of us see our pale blue dot.
+> source: EarthSky, "Voyager 1 reaches 1 light-day from Earth!" (Nov 18); NASA Science, "Voyager 1: What Is a Light-Day" (Nov 2026)
+
+## Close | sting=close
+[ava] That's your Wednesday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. Watch for the Fed minutes at two and Anthropic's IPO pricing tonight.
+[ava] Have a great Wednesday, and thanks for listening to Gumshoe News Radio.
