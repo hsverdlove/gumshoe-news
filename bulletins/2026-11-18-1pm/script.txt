@@ -1,0 +1,80 @@
+// Gumshoe script format: see README.md
+# title: Wednesday 1 PM Update, Nov 18
+# description: The Wednesday 1 p.m. update from Gumshoe News Radio for November 18, 2026: Londonderry, New Hampshire weather through tomorrow; top security officials tell Congress the outages were not a cyberattack as Secretary Mullin defends his football trip; House Democrats nominate Hakeem Jeffries for speaker; Germany and Britain push back on Pentagon criticism of Ukraine's deep strikes as Xi and Putin talk closer military ties; a blast in Riyadh and a tanker hit in Hormuz; health insurers slide on a proposed Medicare Advantage audit rule while retailers rally and Anthropic weighs a bigger IPO; Bill Ackman blasts Nvidia's board; OpenAI says its models helped redesign AMD chips; an actively exploited Apache Roller flaw and an AI-powered phishing kit; your X feed; a former state senator's settlement and New Hampshire's life sciences jobs; and siblings who built a mountain staircase for their mother. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon. It's Wednesday, November eighteenth, and this is the one o'clock update from Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. Health insurers are taking a beating today, and Nvidia's boardroom fight just got louder.
+[ava] First, the weather in Londonderry New Hampshire, from now through tomorrow afternoon.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 18 at airtime
+
+## US News | sting=us
+// Story 1: Worldwide threats hearing outcome
+[ava] Story one. The country's top security officials told Congress this morning that the string of recent technology outages was not a cyberattack. At the House Homeland Security Committee's worldwide threats hearing, Director of National Intelligence Jay Clayton said the problems at the FAA, airlines, banks, Microsoft and the NSA were separate outages tied to maintenance and technical changes, not a coordinated or state-sponsored attack. FBI Deputy Director Christopher Raia said there is no indication whatsoever of malicious cyber activity, though the FBI will keep working with private companies out of caution.
+[ava] Homeland Security Secretary Markwayne Mullin called the government's response to last week's nationwide ground stop a success, saying more than four thousand planes landed without a single incident. He also defended flying to the LSU and Texas football game afterward. He said the trip with his nieces was planned weeks in advance, that canceling once the airspace reopened could have signaled a lack of confidence, and that he paid for the flight himself. Democrats were not satisfied, and Ranking Member Bennie Thompson pressed him to answer document requests ahead of investigations planned for January.
+[ava] Clayton also said Iranian plotting inside and outside the US has dramatically increased, while Raia cautioned that much of that reporting is aspirational.
+> source: CBS News, "'No indication' recent outages are related to coordinated cyberattacks, officials say" (Nov 18); AP, "Mullin, appearing before Congress, defends his flight to LSU-Texas game after nationwide ground stop" (Nov 18); Newsweek (Nov 18); CBS News Iran war live updates (Nov 18)
+
+// Story 2: Jeffries nominated for speaker
+[ava] Story two. House Democrats have nominated Hakeem Jeffries to be speaker when the new Congress convenes in January. The closed-door vote was two hundred fifty-one to eleven. Jeffries ran unopposed, but a group of progressive newcomers voted no, saying there is still work to be done on their priorities. With Democrats on track for at least two hundred fifty-seven seats, Jeffries is expected to win the floor vote on January third and would become the first Black speaker of the House. Republicans earlier picked Jim Jordan as their House leader.
+> source: AP, "Democrat Hakeem Jeffries is nominated to become House speaker, a historic first" (Nov 18); NPR, "Democrats nominate Hakeem Jeffries for speaker of the House" (Nov 18); Washington Post (Nov 18)
+
+## International | sting=world
+// Story 3: Allies rebuke Colby on deep strikes; Xi-Putin talks
+[ava] Story three, the world. A rare public split has opened between Washington and its European allies over Ukraine's long-range strikes inside Russia. At NATO headquarters, Pentagon policy chief Elbridge Colby said those deep strikes have not helped end the war or slow Russia's advance, and may have hardened Russian resolve. He did praise Ukraine's shorter-range drone campaign. German Defense Minister Boris Pistorius called the criticism, in his words, quite a stupid thing, and said the focus should be on Russia's nightly attacks on Ukraine's power, water and heating. Britain's defense secretary Wes Streeting said it is not for allies to tell Ukraine how to fight.
+[ava] In Shenzhen, Xi Jinping met Vladimir Putin and, according to Chinese state media, called for closer ties between their governments, legislatures and militaries. No new military agreement was announced. The three-way meeting with President Trump is set for tomorrow and is expected to last about an hour.
+> source: CNBC, "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit" (Nov 18); AFP via Kyiv Post, "Xi Calls for Closer Government, Military Ties Between China and Russia" (Nov 18); Chinese Foreign Ministry readout (Nov 18)
+
+// Story 4: Gulf update
+[ava] Story four. Across the Gulf, the tit-for-tat continues. A loud explosion shook homes in Riyadh today, with residents reporting smoke near the airport and no phone alert beforehand. The Saudi-led coalition says it intercepted Houthi cruise missiles and drones. Separately, the UAE oil company ADNOC says one of its tankers was struck in the Strait of Hormuz last night. It reported eleven crew injured and one missing, though a shipping publication later reported all crew accounted for. That has not been confirmed by ADNOC. It's not clear who fired on it.
+> source: CBS News with AFP, Iran war live updates (Nov 18); ADNOC Logistics & Services statement (Nov 17); Seatrade Maritime and Riviera Maritime Media (Nov 18); AP Mideast roundup (Nov 18)
+
+## Markets | sting=markets
+// Story 5: Midday markets
+[andrew] Story five, the markets. It's been a choppy session. As of about twelve fifty the S&P 500 was roughly flat near seventy-three thirty-seven, after being down more than half a percent around noon. The Nasdaq was up about half a percent, but the Dow was down more than six-tenths. Nvidia slipped into the red after its strong earnings, on pace for a fifth straight losing day.
+[andrew] The biggest drag on the Dow is health care. UnitedHealth fell about seven percent and Humana more than eight. The trigger is a Medicare proposal called CRUSH, short for Comprehensive Regulations to Uncover Suspicious Healthcare. Among other things it would toughen audits of Medicare Advantage billing. The administration says the rule could save taxpayers nearly ninety billion dollars over ten years by fighting fraud. Insurers worry it could mean big clawbacks. Comments are open until January nineteenth.
+[andrew] Retailers are the bright spot. TJX jumped about ten percent and Target rose more than five after both beat expectations and raised their outlooks. The ten-year Treasury yield eased to about five point zero six percent. Gold fell nearly three percent to about thirty-seven forty-five, US crude is around eighty-two dollars, and Bitcoin slid to about sixty-two thousand five hundred.
+[andrew] Fed minutes come out at two. And Anthropic sets its IPO price after the close. CNBC reports it's considering selling more shares and may price well above eighty dollars, with roughly four hundred billion dollars of institutional orders and close to a hundred billion from individual investors. Those orders aren't binding. Trading is expected to start tomorrow on the Nasdaq under the ticker A N T.
+> source: Yahoo Finance live, 12:49 p.m. ET (Nov 18); AP, "Wall Street zigzags lower as Nvidia and other AI stocks keep swinging" (Nov 18); The Motley Fool midday (Nov 18); 24/7 Wall St. midday (Nov 18); HHS, "CMS CRUSH Proposed Rule" (Nov 16); StreetInsider and Investing.com on UnitedHealth (Nov 18); Target Q3 release and CNBC (Nov 18); FXStreet (Nov 18); CNBC, "Anthropic IPO: AI lab considers increasing the offering" (Nov 18)
+
+## Technology | sting=tech
+// Story 6: Nvidia board fight
+[andrew] Story six, tech. The fight over Nvidia's leadership is getting louder. Activist investor Bill Ackman posted today that Nvidia's board is not acting in shareholders' best interest. He says directors rushed to push out Jensen Huang over reports of an affair with an alleged Chinese spy without gathering the facts, and are making it worse by ruling out his return. The board's new chair Harvey Jones said on the earnings call that the board unanimously accepted Huang's resignation and doesn't intend to reinstate him. Interim CEO Colette Kress calls it a new era.
+[andrew] Kress is holding her first company-wide meeting today. CNBC reports an online petition to bring Huang back has nearly two hundred thousand signatures, with more than ten thousand people saying they work at Nvidia. Those signatures haven't been verified. In fairness to the board, the allegations involve a possible security risk, and it has opened an investigation.
+> source: Bill Ackman on X (Nov 18); CNBC, "Nvidia's Kress faces a divided workforce as some employees push for Huang's return" (Nov 18); Yahoo Finance (Nov 18)
+
+## Artificial Intelligence | sting=ai
+// Story 7: OpenAI chip design with AMD
+[andrew] Story seven, AI. OpenAI says its models are now helping design the chips that run AI. In a report today, the company said it worked with AMD on AMD's flagship graphics processor design. Its model rewrote the circuit-level code and found up to fourteen percent gains in power, performance and area over designs that were already heavily optimized. OpenAI calls it roughly a year of progress in under five months. AMD has put some of the changes into a design it recently sent for manufacturing. It's also teaming up with chip software maker Synopsys on a specialized model. These are OpenAI's own figures, and independent experts have not yet reviewed them.
+> source: OpenAI, "Advancing chip design with OpenAI models" (Nov 18); Unite.AI (Nov 18)
+
+## Cybersecurity | sting=cyber
+// Story 8: Apache Roller; TheMailer
+[ava] Story eight, the cyber desk. Apache is warning that attackers are actively exploiting a critical flaw in Apache Roller, an open-source Java blogging server. The bug lets an attacker run code on the server with no login at all, through its XML-RPC interface. It affects versions four point zero through six point one point four. The fix is to upgrade to six point one point six. Apache warns that just turning off XML-RPC in the admin screen does not stop the attack.
+[ava] Also, researchers at Varonis have detailed a phishing kit called TheMailer. Criminals run it on their own servers and connect it to commercial AI models, including Claude, ChatGPT, Grok and Gemini. It writes personalized lures, strips out telltale AI phrasing, and tests delivery. If a message lands in spam, it keeps rewriting it until it reaches the inbox. The takeaway: polished grammar is no longer a sign an email is safe.
+> source: BleepingComputer, "Apache warns of Roller RCE vulnerability exploited in attacks" (Nov 18); The Hacker News (Nov 18); oss-security, CVE-2026-129448 advisory (Nov 17); Varonis, "Meet TheMailer: An AI Phishing Kit" (Nov 2026); Dark Reading (Nov 18)
+
+## From Your X Feed | sting=x
+// Story 9: X feed
+[ava] Story nine, from your X feed. Collin Rugg passed along a BambooHR survey, reported by USA Today, finding nearly one in five full-time workers plan to take time off for the US launch of Grand Theft Auto Six.
+[andrew] Variety reports The Hunger Games Sunrise on the Reaping is tracking to open above one hundred million dollars this weekend, possibly closer to one twenty-five. That would make it only the fifth movie this year to top a hundred million on opening weekend.
+[ava] Tim Dodd, the Everyday Astronaut, posted a bittersweet goodbye as he put his house near SpaceX's Starbase on the market. He calls it MARS, and says he felt the rumble of many launches and the sonic booms from its balcony. And Twenty Five Years Ago Live reminded us that the Nintendo GameCube launched in North America twenty-five years ago today.
+> source: Harry's X home timeline, Nov 18 (@CollinRugg, @Variety, @Erdayastronaut, @25YearsAgoLive); USA Today, "'GTA 6 flu' is coming. 1 in 5 workers are taking PTO" (Nov 18); BambooHR data story
+
+## Local News & Events | sting=local
+// Story 10: Sanborn settlement; life sciences jobs; events
+[ava] Story ten, local news. Former state senator Andy Sanborn has paid more than five hundred ten thousand dollars to settle federal claims that he misused pandemic relief loan money, including on a Porsche. That's twice the amount prosecutors say he diverted.
+[ava] On a brighter note, a new report from NH Life Sciences and the state's business department says New Hampshire led New England in life sciences job growth from twenty twenty-two to twenty twenty-five, adding about eight hundred jobs, up seven percent. The industry now supports more than thirteen thousand jobs here.
+[ava] And this Saturday from one to four, Girls at Work opens its Manchester workshop at two hundred Bedford Street for a free holiday open house. For a twenty dollar donation you can build your own pegboard with a drill press. Looking ahead, the Greater Derry Track Club's Turkey Trot five K starts at nine on Thanksgiving morning at Gallien's Town Beach on Beaver Lake. Runners are asked to bring a food donation.
+> source: Union Leader and Concord Monitor on Andy Sanborn settlement (Nov 17); US Attorney's Office, District of New Hampshire (Nov 17); Union Leader, "NH life sciences industry leads New England in job growth" (Nov 18); NH Life Sciences report (Nov 2026); Manchester Ink Link, Girls at Work open house (Nov 21 event); Greater Derry Track Club, Turkey Trot (Nov 26 event)
+
+## Uplifting Story | sting=feel
+// Story 11: Sky ladder
+[ava] And finally, story eleven. In China's Zhejiang province, an eighty-six-year-old mother named Chen never liked city life after her children moved her off the mountain where she was born. The old path home had become overgrown and full of snakes. So her children decided it was their turn. Led by her daughter Huang Zhulian, the family hauled stones and mixed cement from August to October, even using a heavy-lift drone, and built a four-hundred-thirty-step staircase up the mountain, parts of it fastened to a sheer cliff. Hikers and herb gatherers use it now too. As Huang put it, when they were young their mother held their hands going down the mountain, and now it's their turn to hold hers and take her home.
+> source: Good News Network, "Siblings Build 430-Step 'Sky Ladder' for Their Mother Who Refuses to Live in the City" (Nov 18), citing Chao News and the South China Morning Post
+
+## Close | sting=close
+[ava] That's your Wednesday one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Watch for the Fed minutes at two and Anthropic's IPO price tonight.
+[ava] Thanks for listening to Gumshoe News Radio.
