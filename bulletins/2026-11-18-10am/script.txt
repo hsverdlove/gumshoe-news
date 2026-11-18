@@ -1,0 +1,85 @@
+// Gumshoe script format: see README.md
+# title: Wednesday 10 AM Update, Nov 18
+# description: The Wednesday 10 a.m. update from Gumshoe News Radio for November 18, 2026: Londonderry, New Hampshire weather through tomorrow morning; Mary Peltola wins Alaska's Senate race and House Democrats pick their leaders; Homeland Security Secretary Mullin faces questions on the outages; Poland says it headed off a Russian false-flag plot; Trump and Putin shake hands in Shenzhen as Canada and China ease tariffs; Saudi-led strikes on the Houthis; stocks wobble after Fed Governor Waller floats a half-point hike, and Nvidia halts licensed chip sales to China; Waymo pulls robotaxis off all US freeways; a GAO test gets chatbots to plan attacks; a flash-chip attack on Windows PINs and a rebuilt Chinese spy tool; your X feed; Londonderry's legal budget and Lightfest in Derry; and Antarctic blue whales bounce back. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Wednesday, November eighteenth, and this is the ten o'clock update from Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. A Fed governor just rattled the market's Nvidia cheer, and we'll get into why.
+[ava] First, the weather in Londonderry New Hampshire, from now through tomorrow morning.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 18 at airtime
+
+## US News | sting=us
+// Story 1: Peltola wins Alaska; House Democratic leadership vote
+[ava] Story one. The last Senate race of the midterms is settled. The Associated Press called Alaska for Democrat Mary Peltola late last night. She unseated two-term Republican Senator Dan Sullivan with more than half the vote. That gives Democrats fifty-six seats in the new Senate.
+[ava] The race had its controversy. A second candidate named Dan Sullivan was on the ballot, and the New York Times reported that operatives aligned with Peltola's side helped recruit him. Peltola denies any connection, and so does the second Sullivan. President Trump argued the two Sullivans' votes should be combined, but by the time of the call Peltola had more votes than both of them together.
+[ava] Meanwhile, House Democrats meet privately today to choose their leaders for the new Congress. Hakeem Jeffries is running unopposed to be their nominee for speaker, though some activists want a fresh start.
+> source: AP, "Democrat Mary Peltola wins US Senate race in Alaska, beating incumbent Republican Dan Sullivan" (Nov 18); Roll Call, "Mary Peltola unseats Republican Sen. Dan Sullivan in Alaska" (Nov 17); AP, "Democrat Hakeem Jeffries faces a first test to becoming House speaker" (Nov 18)
+
+// Story 2: Mullin threats hearing
+[ava] Story two. Homeland Security Secretary Markwayne Mullin is testifying right now at the House Homeland Security Committee's yearly worldwide threats hearing, alongside Director of National Intelligence Jay Clayton and FBI Deputy Director Christopher Raia. Lawmakers are expected to press him on the string of outages, from last week's nationwide flight grounding to the Microsoft and Apple problems. Mullin has said there is no evidence of a cyberattack. He may also be asked about flying to a college football game while travelers were stranded, and about immigration. Supporters say the outages had ordinary technical causes; critics want to know why his department didn't see more of this coming.
+> source: AP, "Mullin heads to Congress to face questions over flight disruptions, football trip and immigration" (Nov 18); House Committee on Homeland Security, "Worldwide Threats to the Homeland" hearing notice (Nov 18)
+
+## International | sting=world
+// Story 3: Poland false-flag plot
+[ava] Story three. Poland says it headed off what a leading Polish newspaper describes as a Russian plot to stage a deadly attack near the border with Russia's Kaliningrad exclave and blame it on Ukraine. Rzeczpospolita, citing senior officials, reports the plan involved crossing the border and attacking a facility, possibly on the Russian side, with heavy casualties expected. One source compared it to the Gleiwitz incident, the staged attack Nazi Germany used as a pretext to invade Poland in nineteen thirty-nine. The goal, the source said, was to cut off aid to Ukraine.
+[ava] Poland sent riot police and a counterterrorism unit to the border. Security services coordinator Tomasz Siemoniak confirmed the threat was real but would not discuss details. Russia hasn't commented, and the specifics of the plot have not been independently confirmed.
+> source: Kyiv Independent, citing Rzeczpospolita, "Russia planned high casualty false-flag attack near Kaliningrad border" (Nov 18); Meduza (Nov 18); Anadolu (Nov 18)
+
+// Story 4: APEC Shenzhen: Trump-Putin handshake, Canada-China tariffs
+[ava] Story four. In Shenzhen, President Trump and Vladimir Putin shook hands at the APEC welcome reception, their first meeting in more than a year. A US official tells the AP the two will also hold separate talks tomorrow, the first since their twenty twenty-five summit in Alaska, on top of the three-way meeting with Xi Jinping.
+[ava] Canada, meanwhile, is deepening ties with Beijing. After Prime Minister Mark Carney met Xi, China agreed to suspend its twenty-five percent tariffs on most Canadian frozen pork and several seafood products for two years starting in January. Canada will extend exemptions on some Chinese steel and aluminum. Carney says a deal with Washington is still his priority.
+> source: AP, "Trump plans to meet separately with Russia's Putin on China trip" (Nov 18); BBC, "Trump shakes hands with Putin and Xi ahead of historic talks in China" (Nov 18); CNBC (Nov 18); Euronews, "Canada and China expand tariff relief on pork, seafood and metals" (Nov 18)
+
+// Story 5: Saudi coalition strikes Houthis
+[ava] Story five. Yemen's war is heating up. The Saudi-led coalition says it hit sixty Houthi military targets, including tunnels used to build and store missiles, as the Houthis push toward Aden, the seat of Yemen's recognized government. The coalition says it shot down two Houthi cruise missiles fired at Riyadh. The Houthis claim they targeted oil pumping stations near the Saudi capital, and say coalition strikes have killed at least seventeen people. Those claims could not be independently verified.
+> source: Al Jazeera, "Saudi coalition hits 60 Houthi military sites; Taiz sees 'fierce battles'" (Nov 18); Arab News (Nov 18); AP Mideast roundup (Nov 18)
+
+## Markets | sting=markets
+// Story 6: Markets at the open
+[andrew] Story six, the markets. Nvidia's strong quarter got Wall Street off to a decent start, but a Fed governor took some of the shine off. On CNBC this morning, Christopher Waller said inflation is headed the wrong way and spreading, and that the Fed may need to, in his words, shock people with a half-point rate hike in December. He said a quarter point could do only if the Fed clearly signals another hike in January. New York Fed President John Williams said yesterday the situation doesn't call for dramatic action.
+[andrew] Shortly before ten the S&P 500 was down about three-tenths of a percent near seventy-three twenty, the Dow was down about three-tenths, and the Nasdaq was roughly flat. Nvidia opened up more than three percent but trimmed that gain, and chip stocks like AMD lost steam. Another wrinkle: on the earnings call, interim CEO Colette Kress said Nvidia has stopped shipping its US-licensed Hopper data center chips, including the H200, to China. It sold about two point four billion dollars' worth there last quarter. She gave no reason.
+[andrew] The ten-year Treasury yield is around five point one two percent and edged higher after Waller spoke. Gold is near thirty-seven seventy, its lowest in about fourteen months. US crude is around eighty-five dollars, and Bitcoin is just under sixty-four thousand, a three-month low.
+[andrew] In earnings, Lowe's beat on sales, with online up seventeen percent, and nudged up its full-year outlook, though its margin forecast slipped and the stock fell before the bell. TJX beat on sales and raised its full-year comparable sales forecast, and its shares rose about five percent. Housing starts jumped almost ten percent in October, though that change isn't statistically significant, and permits fell seven percent. Fed minutes come at two. And Anthropic prices its IPO tonight, with reports it could land at or above the top of its seventy to seventy-eight dollar range.
+> source: CNBC, "Fed's Waller says central bank may need to 'shock people' with half-point rate hike" (Nov 18); Reuters via US News (Nov 18); Yahoo Finance live, 9:49 a.m. ET (Nov 18); Reuters via MarketScreener, open (Nov 18); Reuters via Investing.com and Bloomberg Law, "Nvidia stops shipping US-approved AI chips to China" (Nov 18); Investopedia via Yahoo Finance (Nov 18); Lowe's Q3 release and CNBC (Nov 18); TJX Q3 release and Reuters (Nov 18); US Census Bureau, New Residential Construction, October 2026 (Nov 18); CNBC, Anthropic IPO pricing (Nov 17)
+
+## Technology | sting=tech
+// Story 7: Waymo pulls off all US freeways
+[andrew] Story seven, tech. Waymo has temporarily pulled its driverless taxis off freeways in every US city where it offered highway rides, including Los Angeles and Miami. It follows California's ban on Waymo freeway driving, which the state DMV imposed last week, citing an imminent hazard after the company's cars repeatedly entered active construction zones. In one case several Waymos drove into a work zone on Route 101 south of San Francisco. No one was hurt. Waymo says it's evaluating its performance and working with regulators to resume. It says its own data show far fewer serious-injury crashes than human drivers. City street service continues.
+> source: BBC, "Waymo pulls driverless taxis from all US freeways" (Nov 17-18); AP, "Waymo suspends all driverless taxi rides on freeways after ban in California" (Nov 18); WIRED (Nov 18)
+
+## Artificial Intelligence | sting=ai
+// Story 8: GAO jailbreak test
+[andrew] Story eight, AI, with a New Hampshire connection. At Senator Maggie Hassan's request, the Government Accountability Office went undercover to test Claude, ChatGPT, Gemini and Grok. Using well-known tricks to get around safeguards, investigators got all four to produce workable attack plans within twelve hours. Two outlined homemade bomb attacks in major cities, with targets and timing. The other two laid out plans to attack power substations. GAO didn't say which model produced which result.
+[andrew] The companies say the testing was done last spring on older versions, and they've strengthened safeguards since. OpenAI said it takes the findings seriously. Hassan, who will chair the Senate Homeland Security Committee in January, plans hearings and wants safeguards that can't be bypassed before models are released.
+> source: ABC News, "AI models used to plan 'viable' attack plots in test despite safeguards" (Nov 18); NBC News (Nov 18); AP (Nov 18); GAO (Nov 18)
+
+## Cybersecurity | sting=cyber
+// Story 9: Hello Again TPM attack; EggStreme
+[ava] Story nine, the cyber desk. If you use a short PIN for Windows Hello or BitLocker, researchers in Berlin say it's time to make it longer. They found a way to reset the lockout counter that normally stops guessing, on AMD-based PCs and some Intel ones that use Winbond flash chips. It requires opening the case, so it's mainly a risk for stolen laptops. In the lab a six-digit BitLocker PIN that should take nineteen years to guess fell in worst case twenty days. AMD plans firmware fixes between now and February. The advice is to add at least two digits to your PIN.
+[ava] Also, Bitdefender says a suspected Chinese espionage group has rebuilt its EggStreme malware after it was exposed last year, and is using it against Philippine government agencies. Some new versions sit quietly and wait for the attackers to connect, which makes them harder to spot.
+> source: The Hacker News, "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years" (Nov 18); AMD security bulletin AMD-SB-7079 (Nov 17); The Hacker News and Infosecurity Magazine on EggStreme (Nov 18)
+
+## From Your X Feed | sting=x
+// Story 10: X feed
+[ava] Story ten, from your X feed. Variety reports Grand Theft Auto Six is getting rave reviews, with a ninety-nine on Metacritic. That ties The Legend of Zelda Ocarina of Time as the highest-rated video game ever on the site.
+[andrew] IterIntellectus flagged an unusual plan in South Korea. During tomorrow's national college entrance exam the government will blast emergency alerts to every phone at random times. They ring at full volume for ten and a half seconds, even on silent, to catch students who sneak phones into the exam room. Korean outlets confirm it.
+[ava] Pitdesi shared that MrBeast did a blind taste test of Upside Foods' lab-grown chicken against regular chicken and couldn't tell the difference. And Andrew Curran expects Google to release Gemini 4 Neon later today. Google hasn't confirmed that.
+> source: Harry's X home timeline, Nov 18 (@Variety, @IterIntellectus, @pitdesi, @AndrewCurran_); Variety and GameSpot on GTA 6 reviews (Nov 18); SBS and Korea JoongAng Daily on CSAT emergency alerts (Nov 18)
+
+## Local News & Events | sting=local
+// Story 11: Londonderry budget legal line; Wild River Fire; Lightfest
+[ava] Story eleven, local news. Londonderry's Town Council kept digging into the proposed fifty point nine million dollar budget this week. The legal services line would more than double, from two hundred thousand to four hundred twenty thousand dollars. Staff say the legal budget has been overspent every year since twenty twenty-one, the town's law firm raised its rate to three hundred seventy-five dollars an hour, and at least six union contracts are up for negotiation. Leach Library plans a bond request of about one point four million dollars in March to replace rooftop air conditioning. The public hearing on the budget is December fourteenth at seven at Town Hall.
+[ava] Up north, the Wild River Fire in the White Mountain National Forest is now fifty-nine percent contained at about eight hundred seventeen acres.
+[ava] And Friday from four to six, LaBelle Winery in Derry kicks off its holiday light show with Lightfest. There's a light-switch ceremony at four thirty, Santa and Mrs. Claus, and fireworks at six seven and eight.
+> source: Union Leader, "Legal services request jumps 110% in Londonderry budget" (Nov 17); WMUR, "Wild River Fire 59% contained" (Nov 17); 95.7 WZID, "Lightfest at LaBelle Lights-Derry" (Nov 20 event)
+
+## Uplifting Story | sting=feel
+// Story 12: Antarctic blue whales recover
+[ava] And finally, story twelve. The largest animals that have ever lived are making a comeback. A University of Washington study led by Zoe Rand estimates Antarctic blue whales have grown from about four hundred eighteen animals in nineteen seventy-three, when illegal whaling finally stopped, to more than four thousand today. That's about a tenfold increase, roughly four and a half percent a year, for a species that has just one calf about every three years. Blue whales are still critically endangered and well below their pre-whaling numbers, but the trend is pointing the right way.
+> source: Good News Network, "This Blue Whale Population Grew 1,000% Since the End of Antarctic Whaling" (Nov 18), citing University of Washington research
+
+## Close | sting=close
+[ava] That's your Wednesday ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Watch for the Fed minutes at two and Anthropic's IPO price tonight.
+[ava] Thanks for listening to Gumshoe News Radio.
