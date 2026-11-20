@@ -1,0 +1,77 @@
+// Gumshoe script format: see README.md
+# title: Friday 10 AM Update, Nov 20
+# description: The Friday 10 a.m. update from Gumshoe News Radio for November 20, 2026: Londonderry, New Hampshire weather through tomorrow morning; the Senate votes to ban prediction-market bets on war and death, and the Justice Department drops its Alaska Senate challenge; NATO scrambles jets after the Russian missile landing in Poland, and President Trump says he won't decide on new Iran strikes until the new year; the Dow bounces while the Nasdaq and Anthropic slide again; Google books Blue Origin to launch its orbiting AI servers; Reuters details privacy mishaps with Meta's Muse agent; the White House replaces its national cyber director, and the European Commission confirms an AI-assisted hack; your X feed; Manchester's tax cap recount and Londonderry football in the semifinals; and a nurse who ran seven marathons while pregnant. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Friday, November twentieth, and this is the ten o'clock update from Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. The opening bell brought a split market. The Dow is up, but tech is still sliding, and Anthropic with it.
+[ava] First, the weather in Londonderry New Hampshire, from now through tomorrow morning.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 20 at airtime
+
+## US News | sting=us
+// Story 1: Senate passes DEATH BETS Act
+[ava] Story one. The Senate has passed a bipartisan bill to ban prediction markets from offering bets on war, terrorism, assassinations or a person's death. It passed last night by voice vote, with no recorded opposition. The bill is called the Death Bets Act, and it's led by Democrat Adam Schiff and Republican John Curtis. It would bar federally regulated exchanges such as Kalshi and Polymarket from listing those contracts, including bets on US military operations. Schiff says the markets create rampant opportunities for insider trading and put national security at risk. He points to six Polymarket accounts that reportedly made about one point two million dollars betting on the timing of US strikes on Iran in February. Their owners were never identified. Regulators can already block most of these contracts, so supporters say the bill mainly writes that ban into law. Some traders and forecasters argue such markets can surface useful information. The bill now goes to the House.
+> source: US Senate Daily Press, "Thursday, November 19, 2026" (Nov 19); Congress.gov, S.4035 DEATH BETS Act (Nov 19); CoinDesk, "U.S. Senate passes bill to ban prediction market bets on war and death" (Nov 20); Bloomberg Law, "Senate Passes Bill to Ban Bets on War, Death, Assassinations" (Nov 20)
+
+// Story 2: DOJ drops Alaska Senate challenge
+[ava] Story two. The Justice Department is giving up its lawsuit over Alaska's Senate race. Before the election, the department sued to potentially block certification if Republican Dan Sullivan lost. It argued that a second candidate also named Dan Sullivan on the ballot was confusing voters. A federal judge threw the case out on November first, and Democrat Mary Peltola went on to win with more than half the vote. Last night the department told the appeals court the case is now moot. It said it reluctantly acknowledges there's no way to tell whether votes for the other Dan Sullivan were meant for the senator. Because Peltola won an outright majority, those votes didn't affect the result. Critics, including Alaska's Republican-led state government, had called the lawsuit meritless. Supporters of the challenge still say the second candidate was a deliberate spoiler, which Peltola and that candidate deny. Peltola says that for Alaskans there is only one direction, forward.
+> source: AP, "Trump administration moves to have lawsuit dismissed in challenge to Alaska's US Senate race" (Nov 19-20); NBC News, "DOJ seeks dismissal of its lawsuit in the Alaska Senate race" (Nov 19); ABC News (Nov 19); The Hill (Nov 19); Washington Post (Nov 19)
+
+## International | sting=world
+// Story 3: Poland missile update; NATO jets
+[ava] Story three, the world. An update on the Russian missile that came down in Poland this morning. NATO Secretary General Mark Rutte condemned what he called grave violations of Polish airspace, and said NATO jets were scrambled. He called it clearly dangerous, a consequence of Russia's war on Ukraine, and he's due in Warsaw tomorrow. Prime Minister Donald Tusk noted the missile landed not far from a British and French-led military exercise in southeastern Poland. Eleven countries are training there for a possible peacekeeping mission in Ukraine. Tusk says that is no coincidence. Moldova says a drone briefly crossed into its airspace too. Russia hasn't commented. In Ukraine, the death toll from the overnight attack stands at eight.
+> source: BBC News, "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk" (Nov 20); AP, "Poland says a Russian missile that crashed in its territory was a provocation" (Nov 20); AP News Summary (Nov 20, 9:06 a.m. ET)
+
+// Story 4: Trump defers Iran decision to new year
+[ava] Story four. President Trump says he won't decide on new strikes against Iran until after the new year. Speaking to Axios by phone from Air Force One on the flight home from China, he said, I am not rushing into any decision. Israeli Prime Minister Benjamin Netanyahu has been pressing for a major new bombing campaign. Axios reports Israel's spy chief visited Washington last week to make that case. Israel says it has intelligence that Iran has stepped up chemical weapons work, a claim that hasn't been independently confirmed. Many of the president's advisers and Gulf leaders want more time for the naval blockade and economic pressure to work. The White House has asked the Pentagon how Iran might retaliate, especially against Gulf oil facilities. Axios also cautions that the president could change his mind, and wouldn't announce an attack in advance.
+> source: Axios, "Trump to Axios: I'm 'not rushing into a decision' on Iran" (Nov 19); Times of India (Nov 20)
+
+## Markets | sting=markets
+// Story 5: Markets at the open
+[andrew] Story five, markets. Stocks opened mixed. At about nine forty-five, the Dow was up about half a percent, near forty-nine thousand three seventy. The S&P five hundred was down about a quarter of a percent, and the Nasdaq about one percent.
+[andrew] The S&P has fallen six straight sessions. Another down day would be its longest losing streak since early twenty twenty. The fear gauge, the VIX, is near thirty.
+[andrew] Anthropic is down again on its first full day of trading, about five percent at around ninety-two dollars. It briefly dipped below eighty-nine, still above its IPO price. Nvidia and AMD are both off about four percent. AMD is also fighting a report from short seller Hunterbrook claiming its China exposure is bigger than disclosed. Memory and storage makers like Micron and Sandisk are down seven to nine percent.
+[andrew] The drivers haven't changed. Investors are worried about the cost of the AI buildout, and about a Fed that's leaning toward raising rates. Fed governor Christopher Waller has suggested a half-point hike may be needed in December, and he and Lisa Cook both speak today. Still, some strategists call this a garden variety correction.
+[andrew] Investors are moving into bonds. The ten-year Treasury yield is just under five percent. Gold is down about three percent, around thirty-five seventy-five. Bitcoin is near sixty-one six hundred, and oil is near eighty-one seventy-five. Coming up, the final University of Michigan consumer sentiment reading for November. Economists expect about fifty-one and a half.
+> source: Reuters via Devdiscourse, "US STOCKS SNAPSHOT-Nasdaq falls 1% at open as Anthropic fails to steady AI trade" (Nov 20); Yahoo Finance market data (Nov 20, 9:48 a.m. ET); CNBC, "Anthropic stock falls 9% to open first full day of trading" (Nov 20); CNBC Morning Squawk (Nov 20); NBC News, "Anthropic shares tank after blockbuster IPO" (Nov 20); ALM First, "November 20, 2026 Headlines" (Nov 20); Investing.com quotes (Nov 20)
+
+## Technology | sting=tech
+// Story 6: Google picks Blue Origin for Project Suncatcher
+[andrew] Story six, tech. Google has picked Jeff Bezos's Blue Origin to launch its AI data center satellites. Under Project Suncatcher, Google wants to put its AI chips in orbit, powered by the sun. Its first test satellite went up on a SpaceX rideshare in October. It booted its chips and beamed down a haiku written by Google's own AI model. Now a Blue Origin New Glenn rocket is set to carry several bigger satellites in early twenty twenty-nine. Each one will have about as much computing power as a rack in a data center. Ars Technica notes that big long-term hurdles remain, starting with cost. And Elon Musk has made similar bets on computing in orbit for SpaceX.
+> source: The Verge, "Blue Origin will launch Google's AI server satellites in 2029" (Nov 19); Google blog, Blue Origin Project Suncatcher partnership (Nov 19); Blue Origin, "Google Selects New Glenn for Project Suncatcher" (Nov 19); Ars Technica (Nov 2026)
+
+## Artificial Intelligence | sting=ai
+// Story 7: Meta Muse privacy mishaps
+[andrew] Story seven, AI. Reuters reviewed internal Meta posts showing problems with its Muse AI agent, one of the fastest-growing apps ever. Employees testing it reported that Muse sent them messages about childcare requests they never made and orders they never placed. In one case it gave out bank balances that weren't theirs. One worker said Muse reminded her to answer a Signal message from her sister, though she never connected Signal. Working with Signal and the AI Now Institute, Reuters reproduced that on an Android phone and a Mac. Muse used the notification and accessibility permissions granted at setup. The same test was blocked on an iPhone, and Apple has since closed the Mac loophole. Meta calls these isolated incidents. It says many were hallucinations that have been fixed, and that Muse only reaches apps people allow. Signal's president called the rollout technologically reckless. If you try one of these agents, check its permissions carefully.
+> source: Reuters via Investing.com, "As Meta bets big on Muse AI agent, early safety mishaps surface" (Nov 18); TechCrunch (Nov 19); The Verge (Nov 19); Ars Technica (Nov 2026)
+
+## Cybersecurity | sting=cyber
+// Story 8: Cairncross out, Davies in; EU Commission ARTEX hack
+[ava] Story eight, the cyber desk. The White House has replaced its national cyber director after a string of big technology outages. Sean Cairncross is out. Pentagon chief information officer Kirsten Davies will serve as acting director. A permanent pick would need Senate confirmation. Axios reports chief of staff Stephen Miller pushed for the change, and one official said Cairncross lacked strong cyber credentials. The White House still says there's no sign the outages were a coordinated or foreign cyberattack. Davies says the goal is to build resilience into the systems the country runs on.
+[ava] In Europe, the European Commission confirmed that hackers used an AI tool in an attack detected October twenty-second. It knocked out staff payroll, leave and medical claims systems for more than ten days. Investigators say the attackers used ARTEX, a free AI hacking tool. Last week the FBI warned that criminals and state hackers are using it widely. The Commission says it has found no broad data breach and no ransom demand.
+> source: CNBC, "White House replaces cyber director Sean Cairncross amid widespread tech outages" (Nov 20); Axios, "Trump names Kirsten Davies as new national cyber director" (Nov 19); UPI (Nov 20); The Record, "European Commission confirms cyberattack, says hackers used AI tool" (Nov 19); Euronews (Nov 19); CERT-EU blog on ARTEX
+
+## From Your X Feed | sting=x
+// Story 9: X feed
+[ava] Story nine, from your X feed. Autoblog flagged a milestone. BMW's first electric vehicle built in the US is now rolling off the line in Spartanburg South Carolina. It's the iX5 SUV, with batteries from a new BMW plant fifteen miles away. The plant is building about seventy a day, and they should reach dealers early next year.
+[andrew] Variety reports Kieran Culkin is reuniting with Succession creator Jesse Armstrong for a new movie. Culkin won an Emmy for playing Roman Roy.
+[ava] And the account Fifty Years Ago Live, which posts history as if it's happening now, marked the day in nineteen seventy-six when George Harrison released his seventh solo album, Thirty Three and a Third.
+> source: Harry's X home timeline, Nov 20 (@therealautoblog, @Variety, @50YearsAgoLive); InsideEVs, "BMW's First U.S.-Made EV Is Now Rolling Off The Assembly Line" (Nov 2026); BMW Group newsroom (Nov 2026)
+
+## Local News & Events | sting=local
+// Story 10: Manchester tax cap recount; Londonderry football; tonight
+[ava] Story ten, local news. Manchester is recounting its school tax cap vote today, from eight to five at the school district's Welcome Center. The cap got just under sixty percent citywide, twenty-one votes short of what it needed to take effect. Former school board member Rich Girard asked for the recount, saying a margin that small deserves a second look. The district says it will cooperate.
+[ava] In football, Londonderry beat Pinkerton twenty-one to fourteen to reach the Division One semifinals. Tomorrow at noon the Lancers play top-seeded Windham, at Windham. The Jaguars have never beaten Londonderry.
+[ava] Tonight, LaBelle Winery in Derry hosts its Lightsfest holiday festival from four thirty to nine thirty.
+> source: Manchester Ink Link, "With just 21 votes separating victory from defeat, Manchester will see a recount on 'tax cap' Question 2" (Nov 14); Manchester Board of School Committee agenda (Nov 20); The Derry News via Daily Nashua (Nov 20); Eagle-Tribune, "One win away: Windham earns first DI semifinal berth" (Nov 16); Daily Nashua events listing (Nov 20)
+
+## Uplifting Story | sting=feel
+// Story 11: Deirdre Keane seven marathons while pregnant
+[ava] And finally, story eleven. Deirdre Keane, a thirty-eight-year-old nurse practitioner from New York, planned twenty twenty-six as her last hurrah before starting a family. She signed up for all seven of the world's major marathons. Then, after Boston and London in April, she found out she was pregnant. With her doctor's approval, she kept going at an easy pace, with walking as a backup plan. She ran Sydney at twenty-five weeks, Berlin at twenty-nine and Chicago at thirty-one. She finished the New York City Marathon at thirty-four weeks in just over four hours. The course passed a block from the hospital where she'll deliver, and yes, there were jokes. Her father, an Irish immigrant, ran marathons too, and died of cancer when she was thirteen. She says she wants to teach her son what he taught her, that he can do hard things.
+> source: CBS News/AP, "Woman runs 7 marathons while pregnant this year" (Nov 19); New York Post (Nov 20); Washington Post (Nov 8)
+
+## Close | sting=close
+[ava] That's your Friday ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Watch whether the S&P can snap its losing streak, and the president's news conference at noon.
+[ava] Thanks for listening to Gumshoe News Radio.
