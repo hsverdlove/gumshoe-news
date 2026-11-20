@@ -1,0 +1,83 @@
+// Gumshoe script format: see README.md
+# title: Friday 1 PM Update, Nov 20
+# description: The Friday 1 p.m. update from Gumshoe News Radio for November 20, 2026: Londonderry, New Hampshire weather through tomorrow morning; President Trump's post-Asia news conference and a judge lets his New York Times libel suit go forward; Israel's push for new Iran strikes and the source of the chemical plot warnings, and Saudi-led strikes on Houthi targets in Yemen; the S&P 500 slides into a correction as Anthropic falls back to its IPO price; Signal blocks AI agents from reading your screen; an Anthropic mathematician claims a Claude-assisted proof of the Riemann hypothesis; SonicWall's end-of-life warning and new Bazuka Android malware; your X feed; school health insurance costs, Nongfu Spring leaves Nashua and Saturday's craft fair; and England's first lifelong guardianship ceremonies for care leavers. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon. It's Friday, November twentieth, and this is the one o'clock update from Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. It's a rough one on Wall Street. The S&P five hundred has slipped into a correction, and Anthropic is back near its IPO price.
+[ava] First, the weather in Londonderry New Hampshire, from now through tomorrow morning.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 20 at airtime
+
+## US News | sting=us
+// Story 1: Trump news conference after Asia trip
+[ava] Story one. President Trump held his first formal news conference since the midterms, flanked by Vice President Vance, Secretary of State Rubio, Defense Secretary Hegseth and Treasury Secretary Bessent. He called his Asia trip one of the most successful presidential visits to the region in American history. He also touted falling gas prices. The national average is down nearly sixty cents from a month ago, and he said it was too bad the drop didn't come before the election.
+[ava] On the midterm losses, he said that if he had been on the ballot it would have been a whole different story. He also warned that companies building data centers in other countries will face what he called a tremendous tax, saying China would otherwise take them.
+[ava] Critics say the trip delivered little. The joint statement with Xi and Putin covered broad points like UN reform, oil supply and nuclear risk, with no breakthrough on Ukraine or Iran. New Hampshire Senator Jeanne Shaheen, the top Democrat on the Foreign Relations Committee, called the summit a photo op with no deliverables. The president says the trip built fantastic relationships.
+> source: CBS News live updates, "Trump holds White House news conference after meeting Xi and Putin in China" (Nov 20); NBC News live blog (Nov 20); ABC News/Reuters (Nov 20); MS NOW live updates, Shaheen interview (Nov 20)
+
+// Story 2: Judge lets Trump's NYT defamation suit proceed
+[ava] Story two. A federal judge in Tampa says key parts of President Trump's fifteen billion dollar defamation suit against The New York Times and Penguin Random House can go forward. The suit targets a Times article by Peter Baker and the book Lucky Loser by Times reporters Susanne Craig and Russ Buettner. Judge Steven Merryday said the president plausibly alleged that statements accusing him of planning complex crimes, like tax fraud, rested on incomplete information. He let four counts proceed and threw out two others, including claims over coverage of The Apprentice. That's not a ruling that anything was false, only that the case survives for now. The Times calls the suit a baseless attack on a free press, and Penguin says it stands by the book. The president's lawyers say the defendants will now have to answer for it.
+> source: Reuters via USA Today, "Trump's $15 billion defamation case against New York Times can proceed, judge rules" (Nov 19-20); Politico (Nov 19); Bloomberg Law (Nov 19); Reason/Volokh Conspiracy (Nov 20)
+
+## International | sting=world
+// Story 3: Iran: "real deal"; Israeli push; source of chemical-plot warnings
+[ava] Story three, the world. At the news conference, the president said Iran wants a deal, but not one that's acceptable to him. He wants a real deal, not a fake deal, and he used a blunt word to say Iran has been misleading people for fifty-one years.
+[ava] Meanwhile, new reporting sheds light on where some of this week's alarming Iran warnings came from. The New York Times reports that Israel has shared intelligence claiming Iranians plotted to use chemical agents against senior US officials. One source tied it to the recent move of Treasury Secretary Bessent out of his home. CNN's report Monday of a possible dirty bomb or chemical plot in Washington also cited that move, so the two may describe the same threat.
+[ava] Israel is pressing for a short, intense round of airstrikes. Some US officials and Gulf governments see a pressure campaign, while others say the threat is real. Iran denies having chemical weapons and calls the reports disinformation. None of these claims has been independently confirmed.
+> source: CBS News live updates (Nov 20); The New York Times via Common Dreams, "Reporting Raises Fresh Questions About Israeli Role in CNN's Iranian Dirty Bomb Story" (Nov 20); Al-Monitor, "Israel seeks swift air campaign against Iran as Trump weighs options" (Nov 20); The New York Times via The Nightly (Nov 4)
+
+// Story 4: Saudi-led coalition strikes Houthis in Yemen
+[ava] Story four. The Saudi-led coalition says it's carrying out major strikes on Houthi targets in Yemen, in Sanaa, Saada and Taiz. It also hit the port of Hodeidah after warning civilians to leave. The coalition says it destroyed six workshops for missile and drone launchers and a main supply depot, and that the port is used to smuggle in weapons. Saudi air defenses also shot down five drones and a ballistic missile today, one of them near Riyadh. Yemen's government called the port strikes lawful. We haven't seen a Houthi response yet.
+> source: Arab News, "Coalition targets Houthi sites in Sanaa, Saada and Taiz, strikes Hodeidah port" (Nov 20); Arab News, "Saudi Arabia shoots down Houthi drones and missile" (Nov 20); Saudi Press Agency (Nov 20); AP Mideast roundup (Nov 20)
+
+## Markets | sting=markets
+// Story 5: Midday markets: S&P correction
+[andrew] Story five, markets at midday. The selloff has deepened. As of about twelve fifty, the S&P five hundred was down more than two percent near seven thousand fifteen. That puts it about ten percent below its October record, which is the textbook definition of a correction. It's on track for a seventh straight loss, the longest streak since early twenty twenty. The Nasdaq was off more than three and a half percent. The Dow was down about three quarters of a percent, near forty-eight seven twenty. The VIX is above thirty-two.
+[andrew] Anthropic gave back all of yesterday's pop. It was down about fourteen percent near eighty-three dollars, right at its IPO price. Chipmakers took the worst of it. AMD was off about eleven percent and Micron about twelve. Nvidia fell about seven percent after California's attorney general subpoenaed the company. He wants to know whether its chips or secrets reached China, and whether investors were misled.
+[andrew] Walmart is up almost three percent as investors hide in defensive names. The ten-year Treasury yield dipped just under four point nine five percent. Gold fell about four percent, near thirty-five thirty, and bitcoin slid below fifty-nine thousand, its lowest since July. Oil is about flat near eighty-two sixty.
+[andrew] One bright spot: the University of Michigan's final consumer sentiment reading rose to fifty-one and a half, from forty-eight in October. Some strategists call this a healthy reset after a huge AI run. The bears point to AI spending worries and a possible Fed hike in December.
+> source: Yahoo Finance market data and live coverage (Nov 20, 12:50 p.m. ET); AP, "US stocks tumble, and the S&P 500 drops as the sell-off for AI stocks accelerates" (Nov 20); The Motley Fool, "Stock Market Midday, Nov. 20" (Nov 20); Il Sole 24 Ore Radiocor via Borsa Italiana (Nov 20); California Attorney General, "Attorney General Bonta Serves Investigative Subpoena on Nvidia" (Nov 19); University of Michigan Surveys of Consumers (Nov 20)
+
+## Technology | sting=tech
+// Story 6: Signal blocks AI agents from reading the screen
+[andrew] Story six, tech. Signal is fighting back against AI agents that read your screen. The messaging app will now block screenshots on Android and iPhone. That stops built-in assistants like Google's Gemini and Apple's Siri from scanning your chats, and iPhone users get a toggle for it. Signal president Meredith Whittaker says AI agents built into operating systems are hostile to privacy and undermine Signal's ability to guarantee it. She says Google, Apple and Microsoft don't give app makers an easy way to wall off their data, which is why there's no Mac protection yet. The tradeoff is losing easy screenshots of your own chats.
+> source: The Verge, "Signal is blocking Gemini and Siri AI from reading your screen" (Nov 20); Signal blog post by Meredith Whittaker (Nov 20)
+
+## Artificial Intelligence | sting=ai
+// Story 7: Alpoge claims Claude-assisted Riemann hypothesis proof
+[andrew] Story seven, AI, and it's a big claim. Levent Alpöge, a mathematician at Anthropic, says he and Claude have found a proof of the Riemann hypothesis. It's an eighteen fifty-nine problem about how prime numbers are spread out, and one of the million-dollar Millennium Prize problems. He says the method also settles the broader generalized version.
+[andrew] In a four-page note on his website, he writes that Claude far outpaced him near the finish line. He released no human-readable proof. He says drafts ran past two hundred fifty thousand pages. Instead he posted the proof in Lean, a language that lets a computer check every logical step.
+[andrew] That's strong evidence if it holds up, but it isn't confirmed. In the latest reports, independent checkers had confirmed the files are intact but were still running the full check. Experts also have to confirm the final theorem really states the hypothesis, and that it rests on no hidden assumptions. As mathematician Kevin Buzzard put it, let's see if it compiles first. Anthropic hasn't commented. Even if it's right, the Clay Institute requires publication and two years of acceptance before awarding the prize.
+> source: New Scientist, "Anthropic mathematician claims AI-assisted proof of the Riemann hypothesis" (Nov 20); The Verge, "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude" (Nov 20); Simon Willison, quoting alpo.ge/remark.pdf (Nov 20); Kingy AI on independent verification status (Nov 20); Hugging Face mirror kzoacn/riemann-lean-archive (Nov 20)
+
+## Cybersecurity | sting=cyber
+// Story 8: SonicWall Gen 6 end of patches; Bazuka Android malware
+[ava] Story eight, the cyber desk. SonicWall is telling anyone still running its older Generation Six firewalls to replace them right away. Those boxes won't get security fixes anymore, even for critical flaws. SonicWall says attackers now use automation and AI to find unsupported devices faster than ever, and it expects internet-facing Gen Six units to be targeted. That includes popular small-office models in the TZ and SOHO lines.
+[ava] And researchers at the Dutch firm ThreatFabric have uncovered new Android banking malware called Bazuka. It can show you a screenshot of your own home screen as a fake cover while it steals passwords and texted login codes in the background. Its operators even use AI to rank which victims are worth targeting. The usual advice holds. Stick to official app stores, and be wary of any app that asks for accessibility permissions.
+> source: The Hacker News, "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws" (Nov 20); SonicWall advisory (Nov 2026); The Hacker News, "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control" (Nov 20); ThreatFabric report (Nov 2026)
+
+## From Your X Feed | sting=x
+// Story 9: X feed
+[ava] Story nine, from your X feed. SpaceX posted live as its cargo Dragon left the International Space Station just after noon, with separation confirmed. This is the thirty-fifth resupply mission, and it's bringing home thousands of pounds of science samples. Splashdown is set for about five tomorrow afternoon, our time, off the coast of California.
+[andrew] Variety reports that Prince Harry approves of Robert Pattinson as the next James Bond. He called it a good idea and said he can't wait to see it.
+[ava] Trung Phan had a laugh at the expense of smart fire detectors. He joked that any AI system watching a food court should be hard-coded to ignore the painted flames on the Chinese barbecue sign. And the account Twenty Five Years Ago Live, which posts history as if it's happening now, marked the day in two thousand one when Pink released her second album, Missundaztood.
+> source: Harry's X home timeline, Nov 20 (@SpaceX, @Variety, @TrungTPhan, @25YearsAgoLive); NASA, "Dragon Undocks from Station Packed With Science and Cargo" (Nov 20); Variety, "Prince Harry Gives New James Bond Robert Pattinson Royal Approval" (Nov 20)
+
+## Local News & Events | sting=local
+// Story 10: School health insurance; Nongfu leaves Nashua; recount; craft fair
+[ava] Story ten, local news. School budgets around here are about to feel a big jump in health insurance costs. SchoolCare, the insurance pool used by more than eighty New Hampshire districts, set next year's rates at an average increase of nearly seventeen percent. Londonderry's district says its rates for teachers and staff are projected to rise twenty-one point three percent. It calls that a major driver of the budget it unveils Monday.
+[ava] In Nashua, Nongfu Spring has dropped plans for a water bottling plant. The Chinese beverage giant is putting about two hundred million dollars into a former brewery in California instead.
+[ava] Manchester's recount of its school tax cap question is under way today. We'll bring you the result when it's in.
+[ava] And tomorrow the Londonderry High School craft and vendor fair runs from nine to three, with more than seventy-five crafters, raffles and food trucks.
+> source: Londonderry School District, "Press Release on Healthcare Rate increases for 2027-28" (Nov 17); New Hampshire Union Leader, "Insurance rate hikes add strain to school budgets" (Nov 2026); NH Business Review, "Nongfu Spring abandons NH plans, pivots to California" (Nov 2026); NHPR (Nov 19); WMUR, "Recount of Manchester's Question 2 result underway" (Nov 20); Meet Me at the Fair and WZID event listings, Londonderry High School's 13th Annual Craft Fair (Nov 21)
+
+## Uplifting Story | sting=feel
+// Story 11: England's first lifelong guardianship ceremonies
+[ava] And finally, story eleven. Allan was fourteen and had already been through eight foster families and a children's home when he moved in with a foster carer named Russ, in Kettering England. Russ fought for the school placements he needed and took him to kickboxing every week. Allan is grown now and has his own flat. But this week the two stood up together at one of England's first lifelong guardianship ceremonies. They're a new way for young people leaving care to publicly honor the person who stuck by them. Russ told Allan, you've got me for life now, I'm coming to your wedding. Allan still drops by every six weeks to have his braids taken out, and to raid the cupboards. In Allan's words, moving out meant leaving the house, but not the family.
+> source: The Guardian, "'You've got me for life': first ceremonies in England cement care leavers' relationships" (Nov 20); BBC News, "Northamptonshire ceremony celebrates care leavers' bonds" (Nov 20)
+
+## Close | sting=close
+[ava] That's your Friday one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Watch whether the S&P closes in correction territory, and whether Anthropic holds its IPO price.
+[ava] Thanks for listening to Gumshoe News Radio.
