@@ -1,0 +1,82 @@
+// Gumshoe script format: see README.md
+# title: Friday 4 PM Update, Nov 20
+# description: The Friday 4 p.m. update from Gumshoe News Radio for November 20, 2026: Londonderry, New Hampshire weather through tomorrow; a shutdown fight over Iran war funding looms as Congress leaves for Thanksgiving, and a second judge blocks the president's arch; Russia rejects NATO-style guarantees for Ukraine and COP31 runs into overtime; the S&P 500 closes in a correction after its worst week in more than a year; President Trump urges Nvidia to rehire Jensen Huang and Google retires the Nest app; OpenAI's models help design AMD chips; an AI hacking platform finds a zero-day and more on the bank vendor breach; your X feed; Londonderry's tax rate vote, Special Olympics and weekend fairs; and Atlanta seniors who weave plastic bags into sleeping mats. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon. It's Friday, November twentieth, and this is the four o'clock update from Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. The closing bell just rang on a brutal week for tech stocks. We'll have the full picture.
+[ava] First, the weather in Londonderry New Hampshire, from now through tomorrow.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 20 at airtime
+
+## US News | sting=us
+// Story 1: Shutdown fight over Iran war funding
+[ava] Story one. Congress leaves for its Thanksgiving break with the government's money set to run out on December eleventh, and the two parties are far apart. The sticking point is the war with Iran. Many Democrats don't want to fund the war, but they're split on whether that's worth a shutdown right before Christmas. As Connecticut's Rosa DeLauro, the top Democrat on House Appropriations, put it, shutting the government down doesn't stop the war.
+[ava] Republicans are divided too. The president wants three hundred fifty billion dollars in new Pentagon spending. Senate Republicans have chosen bipartisan talks on a defense bill with only sixty-nine billion of that. Majority Leader John Thune calls another shutdown a colossal mistake. One likely outcome is a short-term bill that pushes the fight into next year, when Democrats take control of both chambers.
+> source: Reuters, "Congress struggles to avert US shutdown as Iran war divides lawmakers" (Nov 20); NPR, "Fight over funding for Iran war could put the government at risk of a shutdown" (Nov 20); Axios (Nov 19); The Hill (Nov 20)
+
+// Story 2: Second judge blocks Trump's arch
+[ava] Story two. A second federal judge has blocked the president's planned two hundred fifty foot arch at Memorial Circle, across the Potomac from the Lincoln Memorial. Judge Leonie Brinkema in Alexandria Virginia ruled for Arlington County. She called the project a rushed job with no approval from Congress. She also faulted the Park Service for not studying risks like tall cranes near Reagan National Airport. Her order keeps work on hold while the case goes on. The White House blamed what it called another activist district court, and the administration says a nineteen twenty-five law authorizes the project. Opponents note that law called for columns, not an arch.
+> source: AP, "A 2nd federal judge blocks construction of Trump's memorial arch in DC" (Nov 20); Politico (Nov 20); Courthouse News Service (Nov 20); The Washington Post (Nov 20)
+
+## International | sting=world
+// Story 3: Russia rejects NATO-style guarantees; Trump says Putin wants a deal
+[ava] Story three, the world. Russia is pushing back on what the US envoy said just yesterday. Jared Kushner had said Moscow was comfortable with security guarantees for Ukraine modeled on NATO's Article Five, where an attack on one is an attack on all. Today Russia's deputy foreign minister, Sergei Ryabkov, said any kind of quasi-membership in NATO for Ukraine is unacceptable. He said Ukraine must first accept it will never join the alliance.
+[ava] At his news conference, President Trump said he's having very good talks with Vladimir Putin and that Putin wants the war to end. Asked about the contradiction, he called it a public relations war, where each side says things. He said he won't discuss guarantees until there's a deal. And Poland's prime minister, Donald Tusk, says the Russian missile that crashed in his country this morning looks like a deliberate provocation, timed to allied military drills nearby. Russia hasn't commented.
+> source: Reuters via StreetInsider, "Trump cites good talks with Putin on Ukraine, holds back on security guarantees" (Nov 20); The Moscow Times (Nov 20); Kyiv Post (Nov 20); Ukrainska Pravda (Nov 20); AP, "Russian missile's crash in Poland was likely an intentional provocation, Polish prime minister says" (Nov 20); BBC News (Nov 20)
+
+// Story 4: COP31 overtime
+[ava] Story four. The UN climate summit in Antalya Turkey has gone into overtime with no deal. Friday was supposed to be the last day. The latest draft drops every mention of fossil fuels. The European Union warned that risks turning it into a fossil summit, and a dozen countries from France to Panama to the Solomon Islands demanded clear language on moving away from them. Big oil producers have long resisted that, and nations are also split on money for poorer countries. The summit's president says they're close but not there yet, and a new draft is expected Saturday.
+> source: AFP, "Nations row over fossil fuels as COP31 goes into overtime" (Nov 20); The Guardian, "Cop31 talks go into overtime as debate rages over lack of fossil fuels in draft deal" (Nov 20); UN News (Nov 20); Carbon Brief (Nov 20); Euronews (Nov 20)
+
+## Markets | sting=markets
+// Story 5: Markets at the close
+[andrew] Story five, markets at the close, and it was ugly. The S&P five hundred fell three point seven percent to about six thousand nine hundred ten. That's its seventh straight loss, and it closed in a correction, more than ten percent below its October record. The Nasdaq dropped about five and a quarter percent to roughly twenty-two thousand six hundred and is now down for the year. The Dow lost about nine hundred fifty points, almost two percent, to around forty-eight thousand one hundred fifty. The VIX fear gauge jumped to about thirty-eight.
+[andrew] For the week, the S&P lost about eight and a half percent and the Dow about eight. The Nasdaq fell about ten percent. Technology was by far the worst sector. Defensive names like Walmart, Costco, Johnson and Johnson and Procter and Gamble actually rose.
+[andrew] Chipmakers led the way down. Nvidia fell fourteen percent to about one twenty-five after Reuters reported that the SEC is looking at possible accounting issues there. Nvidia hasn't commented, and no wrongdoing has been found. AMD and Micron each lost about thirteen percent. Anthropic fell eight and a half percent to just under eighty-nine dollars, still above its eighty-three dollar IPO price.
+[andrew] Elsewhere, investors ran to bonds. The ten-year Treasury yield fell to about four point nine one percent. Gold dropped four and a half percent to about thirty-five eighteen, its lowest in more than a year. Bitcoin fell about six percent to around fifty-eight thousand two hundred. Oil was the exception, with US crude up almost one percent near eighty-four dollars.
+[andrew] The drivers are the same ones we've talked about all week. Investors doubt the huge AI spending will pay off, and the Fed may raise rates in December. Some strategists call it a healthy reset after a huge run. Others warn the risk is still to the downside.
+> source: Yahoo Finance market data at the close (Nov 20, ~4:05 p.m. ET); CNBC, "Stock market today: Live updates" (Nov 20); Yahoo Finance, "Nasdaq plunges nearly 5%, Dow and S&P 500 sink as Anthropic IPO fails to ease AI worries" (Nov 20); Reuters, "Nvidia's accounting is a focus of US SEC investigation, sources say" (Nov 20); CNBC on Treasury yields, gold and oil (Nov 20)
+
+## Technology | sting=tech
+// Story 6: Trump urges Nvidia to rehire Huang; Google retires Nest app
+[andrew] Story six, tech. President Trump says Nvidia should take Jensen Huang back. Huang resigned last week after reports of extramarital affairs, including one with a woman suspected of being a Chinese spy. At his news conference the president called Huang a good man and a brilliant mind who made some bad decisions. He said he'd like to see him make a big apology and go back to work, and that the company would be smart to accept it. He also said he discussed Huang with President Xi, though Treasury Secretary Bessent had said earlier that it didn't come up.
+[andrew] Nvidia's board has said it does not intend to reinstate him. Huang has agreed to testify at a public Senate Banking Committee hearing, according to an aide to Chairman Tim Scott, with no date set.
+[andrew] And if you have Nest gear at home, Google is retiring the Nest app on January twenty-fifth. Thermostats, cameras and doorbells move automatically to the Google Home app, and none of them lose support. But saved video clips don't transfer, so download any you want to keep.
+> source: AFP via France 24, "Trump calls for Nvidia's Huang to be given 'second chance'" (Nov 20); Yahoo Finance video (Nov 20); The National (Nov 20); Reuters via Investing.com, "Former Nvidia CEO Huang agreed to testify at public US Senate hearing" (Nov 20); CNBC (Nov 20); 9to5Google, "Google retiring Nest app and Google Assistant on speakers in 2027" (Nov 20); The Verge (Nov 20)
+
+## Artificial Intelligence | sting=ai
+// Story 7: OpenAI models improve AMD chip design
+[andrew] Story seven, AI. OpenAI says its models are now designing better computer chips. Working with AMD, the models rewrote parts of the low-level code that describes a flagship graphics chip. OpenAI says that produced gains of up to fourteen percent in power, performance and chip area, compared with designs human engineers had already tuned heavily. Some of those changes are in a design already sent for manufacturing. On its own in-house inference chip, model-proposed changes shrank key parts by ten to thirteen percent.
+[andrew] Those are the company's own numbers and haven't been independently tested. But if they hold, AI helping to build the chips that run AI is a big deal for an industry where shaving a few percent is hard.
+> source: OpenAI, "Advancing chip design with OpenAI models" (Nov 20); Tom's Hardware (Nov 20); The Next Web (Nov 20); Wccftech (Nov 20)
+
+## Cybersecurity | sting=cyber
+// Story 8: AI agent hacking platform Cairn finds zero-day; Qubole link to bank vendor breach
+[ava] Story eight, the cyber desk. Amazon's threat researchers say hackers turned an AI agent platform loose with one instruction: get shell access. The tool, called Cairn, was built for legitimate security testing. Amazon says suspected China-linked attackers used it in September against universities, mostly in East Asia. The agents found a brand-new flaw in MONAI Label, open-source software for labeling medical images. In eleven minutes they went from mapping the app to exploiting it, and later took full control of a server. The attackers left their own control panel open to the internet, which is how Amazon found it. A fix came out Wednesday.
+[ava] And on the vendor breach that hit Chase customers, Visa and Mastercard now confirm incidents at outside providers too. Both say no card numbers or payment systems were involved.
+> source: BleepingComputer, "Hackers use autonomous AI tool Cairn to find zero-day, take over server" (Nov 20); Amazon Threat Intelligence report (Nov 2026); BleepingComputer, "Vendor data breach exposes Chase, Visa, Mastercard customer info" (Nov 20)
+
+## From Your X Feed | sting=x
+// Story 9: X feed
+[ava] Story nine, from your X feed. The AI watcher kimmonismus flagged a new open model from the AI startup Thinking Machines Lab. It's called Inkling 2 Mini and it's small enough to run on a laptop. Its middle layers run three times for every word, so it does more thinking internally. The weights are free to download.
+[ava] Variety caught Tilda Swinton at the Marrakech Film Festival. She played the White Witch in the earlier Narnia films, and she said she hopes to say hello to Emma Mackey, who takes over the role in the new movie. And the account Engineers Feed shared a fun bit of math. The thirty-first Fibonacci number is one million three hundred forty-six thousand two hundred sixty-nine, and its digits add up to thirty-one. We checked, and they do.
+> source: Harry's X home timeline, Nov 20 (@kimmonismus, @Variety, @engineers_feed); Thinking Machines Lab, "Introducing Inkling 2 Mini" (Nov 2026); Hugging Face blog (Nov 2026)
+
+## Local News & Events | sting=local
+// Story 10: Londonderry tax rate; Special Olympics; weekend events
+[ava] Story ten, local news. Londonderry's Town Council voted three to two not to dip into the town's reserves to lower December tax bills. That sets an estimated town tax rate of three dollars eighty-six cents per thousand dollars of assessed value. A million dollar drawdown would have saved about ninety-eight dollars on a seven hundred thousand dollar home. But the majority agreed with the finance director that one-time money just pushes increases into later years. The town wants to save the money for about three point three million dollars in equipment and road projects voters will see in the spring.
+[ava] In Manchester, Special Olympics New Hampshire held its Champions Together breakfast today with Governor Kelly Ayotte and Bruins great Rick Middleton. Athlete Brendon Zinck said that before the program, he was afraid to leave the house.
+[ava] Tomorrow, the eighty-second Sugar Plum Fair runs from nine to three at First Parish Congregational Church in East Derry, with crafts, a cookie walk and lunch. And Leach Library here in Londonderry hosts a wrapping paper swap from ten to three.
+> source: TownUnderground.com, "Town Council Holds Line on Tax Rate, Rejects Fund Balance Drawdown in 3-2 Vote" (Nov 19); WMUR, "Special Olympics New Hampshire hosts champion breakfast" (Nov 20); First Parish Congregational Church and AllEvents listings, 82nd Sugar Plum Fair (Nov 21); Leach Library calendar, Wrapping Paper Swap (Nov 21)
+
+## Uplifting Story | sting=feel
+// Story 11: Atlanta seniors weave plastic-bag sleeping mats
+[ava] And finally, story eleven. At Clairmont Place, a retirement community in Atlanta, residents have bathtubs full of plastic grocery bags, on purpose. They loop them into chains and weave them into waterproof sleeping mats for people living on the street. Each mat takes five hundred to seven hundred bags. The group is called Mats Matter, and a local nonprofit hands the mats out.
+[ava] It started when resident Peter Paulsen saw a man sleeping on church steps downtown and thought about how hot, and then how cold, those steps must get. A few months ago, on his way to worship, he passed a man carrying one of their mats on his back. Sadly, the station reports Paulsen has just passed away. He was eighty-two. His neighbors plan to keep on weaving.
+> source: 11Alive (WXIA Atlanta), "Atlanta seniors turn plastic bags into sleeping mats for people experiencing homelessness" (Nov 20)
+
+## Close | sting=close
+[ava] That's your Friday four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Markets are closed for the weekend. Next week is short for Thanksgiving, with markets closed Thursday.
+[ava] Thanks for listening to Gumshoe News Radio, and have a good weekend.
