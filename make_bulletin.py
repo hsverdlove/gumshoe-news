@@ -37,6 +37,7 @@ PRONUNCIATIONS += [(re.compile(r"\biShowSpeed\b", re.I), "I Show Speed"), (re.co
 # Lowercase ALL-CAPS stress marks in respellings (HEG-seth -> heg-seth) so edge-tts
 # does not spell the stressed syllable as letters. Letter-by-letter replacements
 # (O V H, B T C Pay) are unchanged because they have no 2+ cap runs.
+PRONUNCIATIONS += [(re.compile(r"\bRinderknecht\b"), "Rinder-nekt"), (re.compile(r"\bKryvyi Rih\b"), "Krih-vee Rih"), (re.compile(r"\bGuasave\b"), "Gwah-sah-veh"), (re.compile(r"\bSheinbaum\b"), "Shine-bowm"), (re.compile(r"\bMasullo\b"), "Mah-soo-lo"), (re.compile(r"\bVakil\b"), "Vah-keel"), (re.compile(r"\bGeely\b"), "Jee-lee"), (re.compile(r"\bCRISPR\b"), "crisper"), (re.compile(r"\bGpg4win\b"), "G P G for Win"), (re.compile(r"\bGnuPG\b"), "G new P G"), (re.compile(r"\bPetteri\b"), "Pet-teh-ree"), (re.compile(r"\bTenpenny\b"), "Ten-penny")]
 PRONUNCIATIONS = [(p, re.sub(r"[A-Z]{2,}", lambda m: m.group(0).lower(), r)) for p, r in PRONUNCIATIONS]
 
 # US states and DC, for City, ST expansion in spoken text.
