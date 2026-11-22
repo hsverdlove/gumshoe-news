@@ -1,0 +1,76 @@
+// Gumshoe script format: see README.md
+# title: Sunday 10 AM Update, Nov 22
+# description: The Sunday ten o'clock update from Gumshoe News Radio for November 22, 2026: York, Maine weather for the next 24 hours; three people are killed in a shooting at an Ohio baby shower, and immigration agents arrest two people on a jet bridge at Seattle's airport; a Russian warship is reported destroyed in a blast at a Libyan port as the toll rises near Kyiv, and an Israeli opposition leader calls overnight settler attacks terrorism; two newspapers trace a chip smuggling network tied to the woman at the center of the Nvidia scandal; the nation's governors ask Congress for AI rules that leave room for the states; crypto platform Chainflip offers a hacker a bounty after a twelve million dollar theft; your X feed; a heartbreaker for Marshwood in the state football final and Sunday events around the Seacoast; and a Toronto chef who cooks for a hundred people a week from food bank leftovers. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Sunday, November twenty-second, and this is the ten o'clock update from Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. A surprising blast in a Libyan harbor this morning, and some new reporting on the Nvidia saga.
+[ava] First, the weather in York Maine for the next twenty-four hours.
+@weather
+> source: National Weather Service forecast for York, ME (api.weather.gov), retrieved Nov 22 at airtime
+
+## US News | sting=us
+// Story 1: Parma baby shower shooting
+[ava] Story one. Three people are dead after gunfire broke out at a baby shower in Parma, Ohio, a suburb just south of Cleveland. Police say it happened around six o'clock Saturday evening at an event venue on Ridge Road. Four people were shot. A seventeen-year-old girl died, along with a forty-five-year-old man who was the father of the expectant mother, and a nineteen-year-old man who was the father of the unborn baby. A thirty-nine-year-old woman was shot in the leg and is expected to recover.
+[ava] Police say the nineteen-year-old was one of two people who exchanged gunfire, and a twenty-nine-year-old man was taken into custody. He has not been named, and police haven't announced charges or a motive. Two guns were recovered, no officers fired their weapons, and police say there's no ongoing danger to the public.
+> source: Cleveland 19 News, "Police: 3 people dead after shooting at a Parma baby shower" (Nov 21-22); FOX 8 WJW (Nov 22); News 5 Cleveland (Nov 21); Fox News (Nov 21)
+
+// Story 2: ICE arrests on Sea-Tac jet bridge
+[ava] Story two. A confrontation at Seattle-Tacoma International Airport has become the latest flashpoint over immigration enforcement. On Saturday morning, masked Immigration and Customs Enforcement officers detained two people on a jet bridge as passengers boarded an Alaska Airlines flight to Los Angeles. Video shows officers struggling with a person on the floor while a woman shouts that her daughter is being taken and has a work permit.
+[ava] ICE says it was targeting a Mexican man who had overstayed his visa, and that a woman who intervened threw hot coffee at officers. ICE says she also overstayed a visa and will be charged with assaulting a federal officer. Washington Governor Bob Ferguson, a Democrat, called the scene chilling and said ICE is completely out of control. He's asking airlines to tell federal immigration agents to stay out of the state's airports. Alaska Airlines says it got no advance notice. Supporters of the administration's approach argue airports are legitimate places to arrest people who are in the country illegally, and that interfering with officers is a crime. The flight left about three hours late.
+> source: AP, "Immigration officers make arrests at Seattle airport in 'distressing' scene, delaying flight" (Nov 22); DW with AP and Reuters (Nov 22); The Seattle Times (Nov 21-22); KIRO 7 (Nov 22)
+
+## International | sting=world
+// Story 3: Merkury blast in Benghazi; Dymer toll rises
+[ava] Story three, the world. A Russian warship appears to have been destroyed in a huge explosion at the port of Benghazi in eastern Libya. Naval analyst H I Sutton, writing for Naval News, provisionally identifies it as the Merkury, a modern missile corvette commissioned in twenty twenty-three. He says satellite images show it engulfed in flames and calls it almost certainly destroyed. It had been escorting Russian arms shipments.
+[ava] Libyan authorities first called it an ammunition depot explosion. Later Sunday, Libya's eastern-based government told Reuters a preliminary investigation found the blast happened aboard a Russian ship and that a drone attack is suspected. Medical sources report injuries but no deaths. Nobody has claimed responsibility, and neither Moscow nor Kyiv has commented. Pro-Ukrainian accounts are crediting Ukraine, which has been linked to past attacks on Russian ships in the Mediterranean, but that is not confirmed.
+[ava] And an update on the apartment building hit near Kyiv this morning. In Dymer, Ukrainian authorities now say at least two people were killed and four wounded, including a child. Rescuers have pulled nine people out, and about eleven are still believed trapped.
+> source: Reuters via StreetInsider, "Libya's eastern government suspects drone attack caused explosion on Russian ship at Benghazi port" (Nov 22); Naval News via Defence Blog and Türkiye Today (Nov 22); Kommersant (Nov 22); AP, "Russian attack near Ukraine's capital strikes apartment building, killing 2" (Nov 22); Ukrinform (Nov 22); RFE/RL (Nov 22)
+
+// Story 4: Eisenkot condemns settler attacks; strikes in Yemen
+[ava] Story four, the Middle East. In Israel, opposition leader Gadi Eisenkot, who is working to form a coalition that would replace Prime Minister Benjamin Netanyahu's government, condemned overnight attacks on Palestinian villages in the occupied West Bank as Jewish terrorism. Fires were set and graffiti sprayed in four villages. Eisenkot called for arrests and tough penalties, and Israeli police say they're investigating.
+[ava] In Yemen, the Houthi-run health ministry says an airstrike hit a state oil company fuel station in the capital Sanaa on Sunday, wounding six workers. The Houthis also reported strikes on the Red Sea port of Mokha. They didn't say who carried them out.
+> source: AP, "Israeli opposition leader condemns suspected settler attacks as 'terrorism,' and other Mideast news" (Nov 22); Asharq Al-Awsat (Nov 22)
+
+## Technology | sting=tech
+// Story 5: FT and NYT trace Alice Huang chip network
+[andrew] Story five, tech. Two major newspapers have new reporting on the scandal that pushed Jensen Huang out as Nvidia's chief executive. It centers on Alice Huang, no relation, the woman he admitted having an affair with. US officials suspect her of working for Chinese intelligence, which Beijing calls a smear.
+[andrew] The Financial Times says she was the public face of Megaspeed, a cloud company that it describes as part of a network of gaming investors and shell companies that moved restricted Nvidia chips into China. Its Malaysian unit declared about four point six billion dollars in imports from a US server maker that used to be part of the Chinese company Inspur. The paper says the final smuggling step ran partly through a man US authorities call the second-in-command of Cambodia's Prince Group, which Treasury has labeled a criminal organization. The New York Times separately reports about three point six billion dollars in Chinese state money flowed through companies tied to her family and associates, some linked to military suppliers.
+[andrew] Now the other side. Megaspeed says it runs a lawful business and that Alice Huang left in August twenty twenty-five. Nvidia says it blocked Megaspeed last year, restricted sales to the server maker, and has stopped shipping its H200 chips to China. Prince Group denies the man worked for it. And the Times itself notes most links are indirect, with no proof the Chinese military used the computing power.
+> source: The Next Web, "FT, NYT tie Alice Huang's chip network to gaming tycoons and PLA suppliers" (Nov 21); Financial Times (Nov 21-22); The New York Times (Nov 20); Australian Financial Review (Nov 22); O Globo (Nov 22)
+
+## Artificial Intelligence | sting=ai
+// Story 6: Governors' AI principles
+[andrew] Story six, AI. The National Governors Association released a set of principles today on who should write the rules for artificial intelligence. A bipartisan group led by Maryland Governor Wes Moore, with Republicans like Utah's Spencer Cox and Indiana's Mike Braun, wants Washington to oversee the most powerful AI models, with independent safety reviews and mandatory reporting of serious incidents. But they want states to keep handling consumer protection, discrimination and AI's effect on jobs.
+[andrew] That puts them at odds with the White House, which has asked Congress to override state AI laws it considers burdensome, arguing that a patchwork of fifty state rulebooks raises interstate commerce and national security concerns. The governors' statement never uses the word preemption. Both sides agree some state laws should survive, so the real fight is where to draw the line, and it's expected to land in the new Congress in January. No bill has been introduced yet.
+> source: National Governors Association, "Governors Call for AI Action" and Statement of Principles (Nov 22); Bloomberg via Startup Fortune, "Governors ask Congress for one AI rulebook that leaves state laws standing" (Nov 22); Executive Order 14365 (Dec 2025)
+
+## Cybersecurity | sting=cyber
+// Story 7: Chainflip $12M theft, bounty offer
+[ava] Story seven, the cyber desk. Chainflip, a service that swaps cryptocurrencies across different blockchains, says an attacker stole about twelve million dollars from its vaults on Saturday. That's well over double the first estimate. The haul included about a hundred twenty-three bitcoin, five hundred twenty ether, and four million dollars in stablecoins. Outside analysts say the withdrawal was signed with the platform's real master key, which points to stolen key material rather than a coding bug.
+[ava] Chainflip paused all deposits, swaps and withdrawals, says it has found and closed the hole, and has traced the attacker's preparation back to November eleventh. It posted a public message offering a deal: return ninety percent by Monday afternoon and keep ten percent as a bounty, with no further questions. It also warned the attacker that it has identifying details to share with law enforcement. If you use cross-chain crypto services, this is a reminder that big pools of funds guarded by shared keys remain prime targets.
+> source: Cointelegraph, "Chainflip Confirms $12M Hack, Offers Hacker 10% Bounty" (Nov 22); Chainflip Labs, "Message from Chainflip Labs" (Nov 21); crypto.news (Nov 22); Defimon and Bitquery analyses via PandaSecurity (Nov 21)
+
+## From Your X Feed | sting=x
+// Story 8: X feed
+[ava] Story eight, from your X feed. SpaceX posted another clean launch and landing this morning. A Falcon 9 lifted off before dawn from Vandenberg in California carrying a spy satellite mission for the National Reconnaissance Office, and the booster, on its fourteenth flight, touched down right next to the pad. That's two launches from the same California pad in about thirty-two hours.
+[ava] Tesla owner Mike P spent the morning putting Full Self-Driving version fifteen through its paces. His verdict so far: pothole avoidance is the star, and it feels human. But not everything is new. Stop signs with a right-turn exception still trip it up, and in a packed parking lot it tried to back into a spot blocked by cones and froze until he took over.
+[ava] And Trung Phan shared a fun insight from a Netflix content executive for Asia about how audiences differ. In mysteries, Western viewers care most about who did it, Japanese audiences about how, and Koreans about why.
+> source: Harry's X home timeline, Nov 22 (@SpaceX, @mikepat711, @TrungTPhan); Spaceflight Now (Nov 21-22); Tesla North (Nov 22)
+
+## Local News & Events | sting=local
+// Story 9: Marshwood falls in Class B final; Sunday events
+[ava] Story nine, local news. A heartbreaker for Marshwood. The Hawks, from South Berwick and Eliot, led Cony eighteen to nothing early in Saturday's Class B state championship at Portland's Fitzpatrick Stadium, and still led by fourteen with under four minutes to go. Then Cony scored twice in the final two and a half minutes. The winning touchdown came with forty-one seconds left on a sixteen-yard pass that popped loose as the receiver took a hard hit. The official ruled it a catch, and fans are already debating it. Final score Cony thirty-five, Marshwood thirty-four. In Class A, Bonny Eagle beat Oxford Hills.
+[ava] For this afternoon, the Holiday Craft and Artisan Show at The Rim Sports Complex in Hampton runs ten to four with about a hundred fifty New England makers. Seacoast Rep in Portsmouth has a two o'clock matinee of A Christmas Carol. And the Word Barn in Exeter hosts Owls of New England with live birds at three. Get your errands done early, because the rain arrives tonight.
+> source: New England Football Journal, "Maine Class B Championship: Cony 35, Marshwood 34" (Nov 21); Daily Portland (Nov 22); Portland Press Herald, "Bonny Eagle football wins Class A title" (Nov 21); PortsmouthNH.com weekend event forecast (Nov 20-22); WMTW, "Beneficial rain arriving in Maine tonight" (Nov 22)
+
+## Uplifting Story | sting=feel
+// Story 10: Toronto chef cooks for 100 from food bank ingredients
+[ava] And finally, story ten. Every Tuesday, Toronto chef Maddy Goldberg walks into the Fort York Food Bank, looks at whatever has been donated, and turns it into lunch for a hundred people. Not just pasta and sauce, but restaurant-style dishes like lentil fritters spiced with caramelized onion, cinnamon and curry.
+[ava] Goldberg left fine dining partly because of how much food got thrown out, and moved to private cheffing so she'd have time to volunteer. Her videos have drawn about a hundred eighty thousand followers. Her advice, just in time for Thanksgiving week: you don't have to cook for a hundred people. Call your local food bank, ask what they need, and you might find it's already sitting in your pantry.
+> source: Good News Network, "Every Tuesday, This Chef Cooks for 100 People in Need Using Random Food Bank Ingredients" (Nov 20); TODAY; Maddy Goldberg on Instagram
+
+## Close | sting=close
+[ava] That's your Sunday ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Markets reopen tomorrow for the short Thanksgiving week, and we'll be watching for any claim of responsibility in Benghazi.
+[ava] Thanks for listening to Gumshoe News Radio, and enjoy your Sunday.
