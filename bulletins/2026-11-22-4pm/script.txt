@@ -1,0 +1,77 @@
+// Gumshoe script format: see README.md
+# title: Sunday 4 PM Update, Nov 22
+# description: The Sunday four o'clock update from Gumshoe News Radio for November 22, 2026: York, Maine weather for the next 24 hours; Democrats lock in their biggest House majority since 1992 as Virginia Foxx concedes, and a federal appeals court says the pregnant workers law was passed unconstitutionally; more sea drones off Benghazi as a commercial ship is hit, and a big Brazilian study backs mosquitoes bred to block dengue; Wacom agrees to go private and Elon Musk says Tesla cars will stay on their current computer; Apple's slow road to an AI agent that runs your Mac; hackers abuse GL.iNet's cloud to plant malware on routers; your X feed; a South Berwick fire and Thanksgiving history tours in Portsmouth; and a Texas family's free community meal turns fifty. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon. It's Sunday, November twenty-second, and this is the four o'clock update from Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. The last undecided House races are falling into place, and there's more drone activity off the coast of Libya.
+[ava] First, the weather in York Maine for the next twenty-four hours.
+@weather
+> source: National Weather Service forecast for York, ME (api.weather.gov), retrieved Nov 22 at airtime
+
+## US News | sting=us
+// Story 1: Foxx concedes; Democrats reach 258 House seats; Delta tail
+[ava] Story one. Republican Virginia Foxx conceded her North Carolina House race today after a recount, and with it Democrats now hold at least two hundred fifty-eight House seats. That's their biggest House win since nineteen ninety-two. Democrat Chuck Hubbard, a former newspaper journalist who lost to Foxx by nine points in twenty twenty-four, won the Fifth District by just three hundred thirty votes. Foxx had held the seat since two thousand five and chairs the powerful Rules Committee.
+[ava] In her statement Foxx thanked voters and said she came up just a few votes short. Hubbard said she conceded graciously and promised a smooth handoff of constituent casework. Republicans hold at least one hundred seventy-three seats. Four races are still open: one each in Tennessee and Minnesota, where Democrats lead narrowly, and two Louisiana seats headed to December runoffs.
+[ava] Democrats say voters rewarded their focus on the cost of living during the war with Iran. The president and Vice President Vance have pointed to war-driven inflation as the main reason for Republican losses. Republicans note that the president can still veto bills, so a big majority doesn't guarantee new laws.
+[ava] And a quick update for Delta flyers. CBS News counted about fifteen hundred delayed Delta flights as of mid-afternoon, and the airline still hasn't said its automation is fully restored. Check your flight before you head to the airport.
+> source: BBC, "Democrats win largest House majority since 1992 after flipping North Carolina seat" (Nov 22); AP, "Chuck Hubbard defeats Rep. Virginia Foxx after a recount in their North Carolina House race" (Nov 22); WRAL (Nov 22); CBS News, "Delta Air Lines experiencing nationwide delays" (updated Nov 22, 2:50 PM ET)
+
+// Story 2: 5th Circuit PWFA proxy-voting ruling
+[ava] Story two. A federal appeals court says a law protecting pregnant workers was passed unconstitutionally. The full Fifth Circuit ruled nine to eight late last week that the House couldn't count members voting by proxy toward a quorum during the pandemic. That's how it passed a giant spending bill at the end of twenty twenty-two, and the Pregnant Workers Fairness Act was part of that bill. The law requires employers to make reasonable accommodations like water breaks, more bathroom breaks and limits on heavy lifting.
+[ava] The ruling's direct effect is narrow. It blocks federal enforcement of the law against the state of Texas as an employer. But advocates say the decision effectively wipes out the law in Texas, Louisiana and Mississippi, the states the Fifth Circuit covers, and could put it at risk elsewhere. The majority said the Constitution requires members to actually be present. In dissent Judge James Graves called that reading illogical and said the Constitution contains no physical presence requirement. The fight could end up at the Supreme Court.
+> source: AP, "Appeals court says federal law requiring accommodations for pregnant workers is unconstitutional" (Nov 21); State of Texas v. Blanche, No. 24-10386 (5th Cir., Nov 20, 2026), via Justia; Washington Post (Nov 21); NBC News (Nov 21)
+
+## International | sting=world
+// Story 3: Benghazi second attack; Ascalon claim unconfirmed
+[ava] Story three, the world. The drone attacks around Benghazi in Libya didn't stop with the strike on a Russian warship earlier today. Two Libyan military sources told Reuters a commercial vessel flying the Maltese flag was hit by a sea drone off the city this evening, and that Libyan naval and air forces intercepted more than a dozen more drone boats. Local reports say the ship's crew was rescued, with minor injuries.
+[ava] Open-source analysts who track Russian shipping say the vessel was really the Ascalon, a cargo ship under US sanctions that Ukraine's military intelligence says carries Russian military gear. Video circulating tonight shows a sea drone slamming into a cargo ship's side. But neither the ship's identity nor the damage has been independently confirmed, and Kyiv and Moscow haven't commented. If it holds up, it would be Russia's second ship hit off Libya in a single day, and the third Russian-linked vessel attacked this weekend after a cargo ship was hit in the Gulf of Finland on Saturday.
+> source: Reuters via Devdiscourse, "Commercial vessel targeted off Libya's Benghazi by naval drone, military sources say" (Nov 22); Meduza (Nov 22); UNN (Nov 22); itamilradar (Nov 22); Euronews, "Finland confirms Russia is towing drone-hit cargo ship" (Nov 22)
+
+// Story 4: Wolbachia mosquitoes cut dengue in Brazil
+[ava] Story four. A large study from Brazil offers strong new evidence for fighting dengue by releasing mosquitoes that can't spread it. Scientists breed the insects to carry Wolbachia, a bacteria harmless to people that blocks certain viruses and passes to the next generation. In Belo Horizonte, researchers followed more than fifty-seven hundred schoolchildren for four years. In neighborhoods where the special mosquitoes were released, blood tests showed about sixty-nine percent fewer dengue and chikungunya infections, even through Brazil's severe twenty twenty-four outbreak.
+[ava] An outside expert at Boston University called it really exciting. The results were presented Saturday at a meeting of the American Society of Tropical Medicine and Hygiene. It matters closer to home too. Florida has tallied more than six hundred fifty locally acquired dengue cases this year, mostly around Tampa. That appears to be the biggest outbreak in any state since at least the nineteen forties.
+> source: AP via Los Angeles Times, "Scientists report strong new evidence that specially bred mosquitoes can fend off dengue" (Nov 22)
+
+## Technology | sting=tech
+// Story 5: Wacom MBO; Tesla AI4 stays in cars
+[andrew] Story five, tech. Wacom, the Japanese company behind the drawing tablets and pens used by artists and designers, is going private. Its president Nobutaka Ide is teaming up with the Korean private equity firm MBK Partners on a management buyout at one thousand thirty yen a share, about fifty-five percent above Friday's closing price. Wacom's board supports the offer. The tender is expected to start in mid-February once regulators in several countries sign off. Wacom is also a key supplier of the pen technology in Samsung's Galaxy phones.
+[andrew] And if you're a Tesla owner wondering whether to wait for new hardware, Elon Musk says don't. He posted that Tesla's next-generation AI5 computer will go to the Optimus robot, while cars stay on today's AI4 computer, which he says is enough for superhuman driving. Musk has said AI5 has about twelve times the computing power. He didn't give a date for upgrading older Hardware 3 cars, which Tesla has previously promised to owners who bought Full Self-Driving outright. Skeptics note that Tesla has said before that existing hardware was enough for full autonomy.
+> source: Wacom and MP-2611 tender offer notices via Japan IR (Nov 20); Nikkei (Nov 20); MoneyToday (Nov 21); Tesla North, "Tesla Cars Are Sticking With AI4 as AI5 Goes to Optimus, Musk Says" (Nov 22)
+
+## Artificial Intelligence | sting=ai
+// Story 6: Apple computer-use agent; Gurman on Apple's pace
+[andrew] Story six, AI. Apple is working on its own AI agent that can run your Mac for you. A job listing spotted by Bloomberg describes an agent that browses the web, works across apps, runs commands and writes code, all privately and with the polish people expect from Apple. That's the kind of tool Anthropic, OpenAI and Meta already sell.
+[andrew] Don't hold your breath though. In his Sunday newsletter Bloomberg's Mark Gurman says he doesn't expect it before late twenty twenty-seven. He argues Apple's yearly software calendar, with features mostly locked in a year ahead, makes it hard to keep up with AI labs that ship updates constantly. He also notes recent Siri layoffs hit the older Siri systems, not the newer AI work. Apple's defenders point out that its edge has always been privacy and deep control of the device, and a version of Siri that can carry out multistep tasks in Apple's own apps is expected next month. Meanwhile Apple plans warnings in an upcoming Mac update that discourage people from giving third-party agents full control of their computers.
+> source: TechCrunch, "Apple may be developing its own AI agent that runs your Mac" (Nov 19); MacRumors, "Gurman: Siri Layoffs Spared Newer AI Systems, But Problems Persist" (Nov 22); Bloomberg Power On via Mac Observer (Nov 22)
+
+## Cybersecurity | sting=cyber
+// Story 7: GL.iNet GoodCloud compromise
+[ava] Story seven, the cyber desk, and this one matters for anyone who travels with a pocket router. GL.iNet, which makes popular home and travel routers and remote-control devices known as KVM switches, confirmed that hackers abused a flaw in its GoodCloud remote management service to install malware on customers' devices. Some owners found backdoors that gave attackers remote control. BleepingComputer examined the malware and found it was built specifically for GL.iNet hardware and even hides its own network traffic.
+[ava] The company says the cloud hole is closed, but that doesn't clean devices already infected. It hasn't said how many customers were hit. One consulting firm checked a hundred eighty-three routers it manages and found suspicious activity on a hundred fifty-two, though some of that may be older. If you own one, install the latest security firmware, which the company scheduled for release today. If you suspect an infection, reset the device without restoring old settings and change any passwords it stored. KVM owners should also check the computers plugged into them.
+> source: BleepingComputer, "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices" (Nov 22); GL.iNet security advisory (Nov 20)
+
+## From Your X Feed | sting=x
+// Story 8: X feed
+[ava] Story eight, from your X feed. The Calvin Coolidge Project flagged a big college football move. TCU fired coach Sonny Dykes this afternoon, four years after he took the Horned Frogs to the national championship game. TCU fell to five and six after Saturday's thirty-eight to seventeen loss to second-ranked Utah. Defensive coordinator Andy Avalos takes over for the finale at Texas Tech.
+[ava] Variety reports that You Can See Everything, the Elizabeth Holmes documentary from Nathan Fielder and Lance Oppenheim, has passed one hundred million dollars worldwide. That's very rare for a documentary.
+[ava] Dirty Tesla was amazed that the new Reality View on Full Self-Driving version fifteen now draws the actual clouds in the sky.
+[ava] And investor Sheel Mohnot shared a reminder of how much cleaner American air has gotten. One photo shows downtown Pittsburgh around nineteen forty at about noon, so dark from coal smoke that the streetlights and shop lights are on.
+> source: Harry's X home timeline, Nov 22 (@TheCalvinCooli1, @Variety, @DirtyTesLa, @pitdesi); TCU Athletics, "TCU Football Announces Change in Leadership" (Nov 22); AP (Nov 22); Variety, "'You Can See Everything' Crosses $100 Million at Global Box Office" (Nov 22); University of Pittsburgh, Historic Pittsburgh smoke control collection
+
+## Local News & Events | sting=local
+// Story 9: South Berwick fire; Strawbery Banke Thanksgiving tours
+[ava] Story nine, local news. A fire in South Berwick has left a home on Great Works Drive unlivable. Firefighters say an outdoor fire spread to the back of the house Saturday afternoon and reached all three floors, bringing a second alarm and help from neighboring towns including some from New Hampshire. Crews had it under control in about forty-five minutes and rescued about a dozen pets, mostly cats. Nobody was hurt. The cause is under investigation.
+[ava] Looking ahead to the holiday weekend, Strawbery Banke Museum in Portsmouth is running its Harvest Celebrations tours Friday through Sunday, from ten to two. The ninety-minute walk through four historic houses shows how Thanksgiving was marked in seventeen seventy-seven, eighteen seventy, nineteen nineteen and nineteen forty-three. Tickets are twenty-five dollars, and reservations are recommended.
+> source: Portland Press Herald, "Dozen animals rescued in South Berwick house fire" (Nov 22); Strawbery Banke Museum, Thanksgiving Guided Tours
+
+## Uplifting Story | sting=feel
+// Story 10: Rucker family community meal turns 50
+[ava] And finally, story ten. In Denison Texas, the Rucker family served more than nine hundred free meals on Saturday. The tradition began fifty years ago, with the late Thomas Rucker Junior, his wife and a single turkey. Now his daughter and grandchildren keep it going.
+[ava] His daughter said some people come for more than a warm meal. They need a comforting shoulder. She said her father would call it sharing and caring. A grandson who chairs a local youth group says the youngest generation's job is to keep holding the rope. And the family's message for the rest of us this Thanksgiving week: check on someone, even someone you don't know.
+> source: KXII, "Denison family serves more than 900 at free community meal, 50 years after it began" (Nov 21)
+
+## Close | sting=close
+[ava] That's your Sunday four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Markets reopen tomorrow for the short Thanksgiving week, and we'll be watching for any confirmation out of Benghazi.
+[ava] Thanks for listening to Gumshoe News Radio, and enjoy your Sunday evening.
