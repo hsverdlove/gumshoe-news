@@ -1,0 +1,77 @@
+// Gumshoe script format: see README.md
+# title: Sunday 1 PM Update, Nov 22
+# description: The Sunday one o'clock update from Gumshoe News Radio for November 22, 2026: York, Maine weather for the next 24 hours; a Delta computer outage snarls flights on the busiest stretch of the travel year, and the nation's intelligence chief is pressed on whether Vladimir Putin is a friend; Libyan officials point to Ukrainian sea drones in the Benghazi warship strike as a child is pulled alive from the rubble near Kyiv, and dozens are missing after an Indonesian candy factory fire; Treasury Secretary Bessent says the Nvidia board still owes Washington answers; OpenAI's chief scientist publishes the company's internal progress numbers and calls for industry-wide limits, while UN talks on autonomous weapons stall; a payment processor used by big software brands says card numbers and security codes were stolen; your X feed; the Seacoast's Gift of Warmth heating fund and next weekend's Nubble lights; and a family in India turning rhino dung into paper. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon. It's Sunday, November twenty-second, and this is the one o'clock update from Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. A rough morning for Delta travelers, and Libyan officials are now pointing a finger in that Benghazi warship blast.
+[ava] First, the weather in York Maine for the next twenty-four hours.
+@weather
+> source: National Weather Service forecast for York, ME (api.weather.gov), retrieved Nov 22 at airtime
+
+## US News | sting=us
+// Story 1: Delta weight-and-balance outage
+[ava] Story one. If you're flying Delta this week, check your app. A failure in the airline's automated weight and balance system hit its whole network this morning, on the Sunday before Thanksgiving. That system tracks bags and cargo so crews can confirm a plane's weight and center of gravity before takeoff. With it down, ramp workers were counting bags by hand and filling out load sheets manually.
+[ava] At Delta's request the FAA briefly stopped Atlanta-bound Delta flights, then switched to a ground delay program, which was lifted shortly before noon. Delay counts vary widely. ABC News put it at about seven hundred flights, or roughly a fifth of Delta's schedule, while Fox News cited reports of thirty-five hundred. Delays also showed up at Boston, Newark, LaGuardia and Washington. Delta hasn't said what caused it or when automation will be fully back. There's no indication of a cyberattack.
+[ava] It caps a week of technology glitches, including bank outages that briefly sent some customers to pull out cash. On Face the Nation, Treasury Secretary Scott Bessent said the bank problems came from security patches and compared them to a vaccine: a sore arm now for more resilience later. Critics say a string of high-profile failures right before the holidays is a warning about how fragile these systems are.
+> source: AP, "Issue with automation system causes Delta flight delays in Atlanta" (Nov 22); Simple Flying (Nov 22); Fox News, "FAA lifts ground stop on Atlanta-bound Delta flights after system outage" (Nov 22); WABC (Nov 22); Paddle Your Own Kanoo (Nov 22); CBS News, Face the Nation transcript with Scott Bessent (Nov 22)
+
+// Story 2: Clayton on Putin as a friend
+[ava] Story two. On CNN's State of the Union, Dana Bash pressed Director of National Intelligence Jay Clayton on President Trump calling Vladimir Putin and Xi Jinping his friends after last week's three-way summit. Asked twice whether Putin is a friend of the United States, Clayton didn't answer directly. He called getting the three nuclear powers to agree not to escalate and to keep talking historic and remarkable, and said whatever language the president uses, he trusts him completely. The Hill reports he later said Putin is not America's friend when it comes to Ukraine.
+[ava] Supporters argue warm words are part of diplomacy and the summit lowered the risk of a wider war. Critics say calling Putin a friend while Russian strikes keep hitting Ukrainian homes sends the wrong signal to allies.
+> source: Mediaite, "CNN's Bash Confronts Intelligence Director on Trump's Buddy-Buddy Pics With Putin" (Nov 22); Politico, "Director of National Intelligence defends Trump saying Putin is his 'friend'" (Nov 22); The Hill (Nov 22)
+
+## International | sting=world
+// Story 3: Benghazi update; Dymer child rescued
+[ava] Story three, the world, with new details on the Russian warship hit at the port of Benghazi in Libya. Two military officials from eastern Libya told the Associated Press that an initial investigation found Ukrainian sea drones were launched at the corvette Merkury from a base Ukrainian forces run in western Libya. They say at least four drones were shot down and two hit the ship. The AP says Ukrainian drone teams have operated mainly from an air base in Misrata under a covert arrangement.
+[ava] Those officials spoke anonymously, and neither Kyiv nor Moscow has commented, so treat the attribution as unconfirmed. Libya's eastern government calls the strike a violation of its sovereignty and has opened a joint investigation with Russia. The rival government in Tripoli says it rejects turning Libya into a theater for outside powers to settle scores. Flight trackers show a Russian emergencies ministry transport flew straight from Moscow to Benghazi after the blast.
+[ava] And some rare good news from Dymer, north of Kyiv. Rescuers digging through the collapsed apartment building pulled a child out alive a short while ago. The death toll there has risen to three, and the search continues.
+> source: AP via Military.com, "Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say" (Nov 22); BBC (Nov 22); Reuters via Arab News (Nov 22); Defence Blog (Nov 22); Ukrainska Pravda, "Child rescued alive from under the rubble in Dymer" (Nov 22); AP (Nov 22)
+
+// Story 4: Indonesia candy factory fire
+[ava] Story four. In Indonesia, rescuers are searching a burned-out candy factory west of Jakarta. Fire broke out Saturday afternoon at a confectionery plant in an industrial park in Serang. Authorities say at least seven bodies have been recovered so far, burned so badly that DNA will be needed to identify them. Fifty-nine workers were believed to be inside. Sixteen have been confirmed safe at home and one is in treatment, but authorities are still trying to account for forty-three others. Flames were still burning in parts of the building Sunday, slowing the search. The cause hasn't been determined.
+> source: Jakarta Globe, "Seven Bodies Found in Banten Candy Factory Fire, Dozens Unaccounted For" (Nov 22); AP (Nov 22); The Jakarta Post (Nov 22)
+
+## Technology | sting=tech
+// Story 5: Bessent on Nvidia
+[andrew] Story five, tech. Treasury Secretary Scott Bessent says Nvidia still hasn't given the administration the answers it wants about chips reaching China. A week ago he gave the company ten days. On Face the Nation this morning he said the government is in touch with Nvidia's interim leadership, lead directors and lawyers, and wants to know how far any compliance failures went, from the lower ranks all the way to the top.
+[andrew] Margaret Brennan noted that President Trump has said Jensen Huang should get his job back, while Bessent had urged the board to look outside. Bessent's reply: Jensen is on the outside now. He also played down the alleged spy angle, saying he assumes Huang didn't know about it, and argued that Nvidia's culture of compliance is the bigger question. He stressed he's only talking about a possibility of wrongdoing. Nvidia says it has no plans for Huang to return, though some Silicon Valley backers are campaigning for it.
+> source: CBS News, Face the Nation transcript with Treasury Secretary Scott Bessent (Nov 22); TechCrunch, "A tale of two Nvidias" (Nov 21); Bloomberg Daybreak (Nov 22)
+
+## Artificial Intelligence | sting=ai
+// Story 6: Pachocki perplexity post; killer robots talks
+[andrew] Story six, AI. OpenAI's chief scientist Jakub Pachocki published something labs rarely share: the company's internal progress numbers. It's a measure called perplexity, basically how well a model predicts the next word. Pachocki says once OpenAI's models crossed a certain threshold, they started producing breakthrough results on open math problems, and a similar avalanche in AI research itself could come as soon as twenty twenty-seven. He proposes that labs adopt shared limits they agree not to cross until tools for monitoring AI behavior catch up.
+[andrew] There are caveats. Pachocki concedes the numbers come from OpenAI's own internal tests and are hard to compare across labs. And critics of voluntary pacts point out that a shared limit only works if competitors in the US and China sign on.
+[andrew] Speaking of limits, UN talks in Geneva on lethal autonomous weapons ended without a treaty or a mandate to negotiate one. Countries agreed only to keep working for two years and report back in twenty twenty-eight. Russia led the objections, and other military powers resisted binding rules.
+> source: OpenAI, "Perplexity and Intelligence" by Jakub Pachocki (Nov 22); AP, "Nations agree to extend talks on AI killer robots but no firm commitment to rein them in" (Nov 2026); The Guardian (Nov 21); Politico Europe (Nov 2026)
+
+## Cybersecurity | sting=cyber
+// Story 7: Cleverbridge card breach; Rackspace Spot
+[ava] Story seven, the cyber desk. If you've bought software online from a company like Veeam, Jamf, SUSE or Parallels, check your card statement. Cleverbridge, an e-commerce company that handles checkout for many software brands, says hackers copied payment card data from its platform. It hasn't said which brands' customers were hit. It spotted the intrusion November fourth and began notifying customers this week. A notice seen by BleepingComputer says the stolen data includes card numbers, expiration dates and the three-digit security codes, which merchants generally aren't supposed to keep. Cleverbridge says no names or addresses were taken and it wasn't ransomware. It hasn't said how many people are affected. If you get a notice, ask your bank for a new card.
+[ava] And Rackspace says attackers used leaked credentials to get into its Rackspace Spot cloud service on November seventeenth, where they could read customers' stored passwords and keys. Rackspace is telling customers to rotate every credential stored in those systems.
+> source: BleepingComputer, "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach" (Nov 22); BleepingComputer, "Rackspace Spot breach let hackers access customer Kubernetes secrets" (Nov 21)
+
+## From Your X Feed | sting=x
+// Story 8: X feed
+[ava] Story eight, from your X feed. Variety posted that Tom Jackson has died at seventy-five. He was a linebacker on Denver's Orange Crush defense and spent nearly three decades at ESPN alongside Chris Berman, famous for the Jacked Up segment. Berman said it was unexpected and called him one of the best human beings to ever walk the planet. The Countdown crew wore orange ties in his honor today.
+[ava] Tesla posted a clip of Full Self-Driving version fifteen steering around a tree lying in the road. That clip has thousands of likes, though owner reports on parking are still mixed.
+[ava] Interesting AF passed along Valve's warning that soaring memory and storage prices are squeezing its new Steam Machine. Valve has closed the waitlist for the two terabyte model and says it doesn't yet know how many more it can build or at what price.
+[ava] And Pictures Folder shared a sweet one. A Grand Theft Auto Six developer, Matt Green, placed a memorial to his late mother in the game. She bought him Vice City as a kid, which he credits with steering him into the business. She passed away eight months before the game came out.
+> source: Harry's X home timeline, Nov 22 (@Variety, @Tesla, @interesting_aIl, @PicturesFoIder); USA Today, "Tom Jackson, ESPN NFL analyst for 30 years, dies unexpectedly at 75" (Nov 22); GamesRadar+, Valve Steam Machine update (Nov 19); Dexerto (Nov 2026)
+
+## Local News & Events | sting=local
+// Story 9: Gift of Warmth; Nubble lights next weekend
+[ava] Story nine, local news. With heating oil near record prices, Seacoast Media Group launched its annual Gift of Warmth fund early this year. The money goes to community action programs in Rockingham and Strafford counties for heating emergencies, without the red tape that comes with federal aid. Strafford County's program has already seen four hundred new applications. One manager says the average federal benefit buys about a tank and a quarter of oil, which won't last the winter. New England's governors, including Kelly Ayotte and Janet Mills, have asked Congress for three billion dollars more in heating aid. If you need help in Rockingham County, call Rockingham Community Action.
+[ava] Looking ahead in York, the Nubble Lighthouse holiday lights switch on at noon Saturday and stay lit through February first. The evening party is at the Anchorage Inn on Long Beach Avenue, with Santa at five, the lighting at seven, and fireworks after. The town no longer holds the event at Sohier Park because of crowding, so plan to park along Long Sands.
+> source: Seacoastonline, "Help keep a Seacoast neighbor warm: Donate to the Gift of Warmth" (Nov 22); York Parks and Recreation, Festival of Lights; Bailey Pate, "The Nubble Still Lights Up in York" (Nov 12)
+
+## Uplifting Story | sting=feel
+// Story 10: Elrhino rhino dung paper
+[ava] And finally, story ten. In Assam, in northeast India, a father and daughter make notebooks out of rhino dung. Mahesh Chandra Bora, a retired mining engineer, started testing the idea in his wife's kitchen blender. His daughter Nisha left a seventeen-year corporate career to join him, and together they founded Elrhino.
+[ava] The fiber in rhino and elephant dung is washed, boiled, pulped and pressed into journals, cards and lampshades. The clever part is who supplies it. Villagers near Kaziranga National Park, where rhinos sometimes trample crops, get paid to collect the dung. So the animals that used to cost them money now make them some, and that gives people a reason to protect them.
+> source: Good News Network, "Rhino Dung Paper Is How This Family Makes Money and Protects These Amazing Animals" (Nov 20); The Better India; Elrhino
+
+## Close | sting=close
+[ava] That's your Sunday one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Markets reopen tomorrow for the short Thanksgiving week, and we'll be watching for Delta's all-clear and any claim of responsibility in Benghazi.
+[ava] Thanks for listening to Gumshoe News Radio, and enjoy your Sunday.
