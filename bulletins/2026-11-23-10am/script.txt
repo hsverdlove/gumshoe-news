@@ -1,0 +1,89 @@
+// Gumshoe script format: see README.md
+# title: Monday 10 AM Update, Nov 23
+# description: The Monday ten o'clock update from Gumshoe News Radio for November 23, 2026: Londonderry, New Hampshire weather for the next 24 hours; Democrats set 2028 debate rules with a stop in New Hampshire, the Justice Department concedes it deported a US citizen, and an Amtrak train derails in Louisiana; a Russian drone sets a fire near Kyiv's government quarter as NATO meets on Poland, and hundreds of European schools get hoax bomb threats; Nvidia's board reverses course and reinstates Jensen Huang; Virginia and Oregon sue SpaceX over Grok deepfakes; CrowdStrike agrees to buy Zscaler; stocks roar back at the open; your X feed; a Thanksgiving storm update, a bridge crash survivor speaks, and the Derry Turkey Trot; and a mail carrier's third Thanksgiving with the man he rescued. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Monday, November twenty-third, and this is the ten o'clock update from Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. What a turnaround. Nvidia brought Jensen Huang back as CEO, and Wall Street opened with one of its biggest rallies in years.
+[ava] First, the weather in Londonderry New Hampshire for the next twenty-four hours.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 23 at airtime
+
+## US News | sting=us
+// Story 1: DNC 2028 debate rules, dark money pledge, NH debate
+[ava] Story one. The Democratic National Committee has set the rules for its twenty twenty-eight presidential primary debates, and New Hampshire is on the list. There will be twelve debates: five next year, starting in June, and seven in twenty twenty-eight. Six of those will be held in early primary states, including New Hampshire, South Carolina, Nevada, New Mexico, Michigan and Virginia.
+[ava] The headline rule: to make the stage, candidates must publicly denounce super PAC and dark money spending that promotes them or attacks their Democratic rivals. Party chair Ken Martin says Democrats are on offense after the midterms. Skeptics point out the rule can't stop outside groups from spending. Candidates only have to disavow it, and the rules don't cover the general election.
+> source: ABC News, "Democrats holding 12 debates in 2028 cycle, requiring candidates denounce 'dark money'" (Nov 23); NBC News (Nov 23); Reuters (Nov 23); DNC, 2028 Democratic Primary Process
+
+// Story 2: DOJ concedes deported Austin man is a US citizen
+[ava] Story two. The Justice Department has acknowledged in federal court that a Texas man it deported to Mexico in April is a US citizen. Brian Morales García, a twenty-five-year-old air conditioning technician from Austin, was born in Denver and raised in Mexico. He was stopped as a passenger without his ID, and federal agents relied on Mexican records listing a Mexican birthplace.
+[ava] His lawsuit says agents pressured him into signing papers for a fast deportation and turned away relatives who tried to bring proof of citizenship. The government says he left voluntarily, so he has no grounds to sue, and it let him back into the country in August. A judge has not ruled on the government's request to dismiss the case.
+> source: The Guardian, "Trump administration deported US citizen to Mexico, DoJ admits in court" (Nov 23); Texas Tribune, "Feds admit in court filing that deported Austin man is citizen" (Nov 20); FOX 7 Austin
+
+// Story 3: Amtrak Sunset Limited derailment near Lafayette
+[ava] Story three, briefly. An Amtrak Sunset Limited train hit an eighteen-wheeler stuck on a crossing near Lafayette, Louisiana on Sunday evening. The truck was hauling a bulldozer. The locomotive and two baggage cars derailed, but the passenger cars stayed upright. Five passengers had injuries that aren't life threatening, and the other travelers were bused to New Orleans.
+> source: ABC News, "Amtrak train derails after striking truck in Louisiana, injuring 5, officials say" (Nov 23); USA Today (Nov 23); KLFY (Nov 22)
+
+## International | sting=world
+// Story 4: Daytime drone strike in central Kyiv; NATO council meets on Poland
+[ava] Story four, the world. Russia kept up a rare daytime drone attack on Kyiv today. This afternoon Kyiv time, debris from a downed drone set fire to cars and a five-story apartment building near Khreshchatyk, the main street, not far from the government quarter and the president's office. Mayor Vitali Klitschko says three people were hurt, including an American citizen, and two residents were rescued. Ukraine's air force says Russia launched more than a hundred fifty drones overnight.
+[ava] In Brussels, NATO ambassadors are meeting today at Poland's request over Friday's three Russian cruise missiles. Warsaw wants another early-warning plane and more fighter jets on the eastern flank, and a Polish deputy defense minister says NATO's top commander responded positively. Poland is not invoking Article Four, which calls for formal consultations. Moscow denies any provocation.
+> source: The Kyiv Independent, "Falling drone debris sparks fire in central Kyiv, 2 rescued, 3 injured, including foreign national" (Nov 23); Interfax-Ukraine (Nov 23); BBC News Ukrainian (Nov 23); The New Voice of Ukraine (Nov 23); PAP, "Poland to seek stronger NATO air defences after Russian missile incursions" (Nov 23)
+
+// Story 5: Hoax bomb threats to schools in Germany and Denmark
+[ava] Story five. About four hundred fifty schools in Germany got identical emailed bomb threats this morning with the subject line Death awaits you. Schools across Denmark got them too. Police in both countries say the threats look unfounded and advised against evacuations, though some German schools sent students home. It's the latest wave in a string of email hoaxes that have hit schools, airlines and other targets across Europe in recent weeks. No one has claimed responsibility.
+> source: The National with Reuters, "Police investigate 'death awaits you' bomb threats in Denmark and Germany" (Nov 23); Anadolu Agency (Nov 23); Bild via Freiburg police (Nov 23)
+
+## Technology | sting=tech
+// Story 6: Nvidia reinstates Jensen Huang
+[andrew] Story six, tech, and it's the big one this morning. Nvidia's board voted unanimously to reinstate Jensen Huang as president and CEO, effective immediately. Less than a week ago the same board said it would not take him back. Huang resigned after admitting affairs, including one with a woman US intelligence suspects of ties to China's spy agency.
+[andrew] The board says it got input from senior levels of the US government and is confident Huang's return poses no national security risk. President Trump said the Attorney General confirmed the government has no evidence Huang broke the law. Huang says he can't wait to get back to work. Interim CEO Colette Kress returns to her job as finance chief.
+[andrew] Not everyone is cheering. The board's own investigation will continue, and so will government probes into whether Nvidia chips were smuggled to China. Some investors are asking how a company this big can swing so much on one person.
+> source: NVIDIA Newsroom, "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director" (Nov 23); CNBC, "Nvidia skyrockets 30% on Huang's return as CEO" (Nov 23); AP (Nov 23); Ars Technica (Nov 23); The Washington Post (Nov 23)
+
+## Artificial Intelligence | sting=ai
+// Story 7: Virginia and Oregon sue SpaceX over Grok deepfakes
+[andrew] Story seven, AI. Virginia and Oregon are the first states to sue SpaceX, which now owns X and the Grok chatbot. The attorneys general say Grok let users make sexual deepfakes from real photos of women and children without consent, while the company marketed its apps as safe. They're suing under consumer protection laws and want penalties and stricter guardrails.
+[andrew] SpaceX didn't comment right away. The company has said it has strict controls, and in other cases it has argued Grok is a neutral tool, that users are responsible for what they prompt, and that federal law shields platforms from liability for user content. Regulators in Europe and California are also investigating.
+> source: CNBC, "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims" (Nov 23); AP (Nov 23); Virginia Office of the Attorney General news release (Nov 23); Wired (Nov 23)
+
+## Cybersecurity | sting=cyber
+// Story 8: CrowdStrike to buy Zscaler; binary-parser flaw
+[ava] Story eight, the cyber desk. CrowdStrike has agreed to buy Zscaler in a deal valued at about forty-four billion dollars. It would create one of the largest companies that does nothing but security, as businesses try to cut down how many security vendors they juggle. Zscaler shares jumped about eighteen percent, while CrowdStrike fell about nine percent, a sign some investors think it's paying a lot.
+[ava] And a note for software developers. A critical flaw in binary-parser, a popular JavaScript library, can let an attacker run code inside a Node app if they control how the parser is set up. Version two point three point one fixes it.
+> source: Reuters via CNBC, "Zscaler soars after CrowdStrike unveils takeover plan" (Nov 23); Yahoo Finance quotes (Nov 23, about 9:50 a.m. ET); The Hacker News, "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions" (Nov 23); GitHub advisory
+
+## Markets | sting=markets
+// Story 9: Markets after the open
+[andrew] Story nine, markets. About twenty minutes into trading the S&P five hundred was up about four percent near seven thousand one hundred ninety. The Nasdaq was up close to six percent and the Dow about two and a half percent, or roughly eleven hundred points. One market watcher on X says the Nasdaq one hundred fund known as Q Q Q had its biggest opening jump ever, which we couldn't independently confirm.
+[andrew] Nvidia was up about thirty percent, and the rally spread across the AI trade. Micron and CoreWeave jumped, and AMD, Alphabet, Microsoft and Meta rose too. The fear gauge eased but is still elevated, around twenty-six.
+[andrew] Some caution: all three indexes ended Friday in a correction, and strategists say the bulls need more than one headline to prove the selling is over. And as of this morning, traders were still betting heavily on a Fed rate hike in December.
+[andrew] The ten-year Treasury yield is near four point nine eight percent. Oil is down about two percent, with Brent near eighty-eight dollars and US crude near eighty-two. Gold is up more than four percent to around thirty-six seventy, and Bitcoin is near sixty-three thousand.
+[andrew] Hewlett Packard Enterprise and Zoom report after the close. Best Buy, Dell and Workday report tomorrow, and Wednesday brings GDP, the PCE inflation gauge and jobless claims. Markets are closed Thursday.
+> source: Reuters, "Wall St opens sharply higher after Nvidia reinstates Jensen Huang as CEO" (Nov 23); CNBC, "Nasdaq roars back by 7% as Nvidia soars on Huang's return" live updates (Nov 23, 9:45 a.m. ET); Yahoo Finance quotes (Nov 23, about 9:50 a.m. ET); MarketWatch (Nov 23); Coinbase BTC spot (Nov 23); market commentary on X (Nov 23)
+
+## From Your X Feed | sting=x
+// Story 10: X feed
+[ava] Story ten, from your X feed. Mike Pat noticed that Full Self-Driving version fifteen no longer pops up the black window asking why you took over. He thinks Tesla simply doesn't need that feedback anymore, and says the drive feels cleaner for it. He also posted a clip of version fifteen steering around a pothole.
+[ava] DHH, the creator of Ruby on Rails, says Google's new Gemini 4 Neon model is crazy good. He used it to cut the boot time of his Omarchy Linux setup in half, though he says it works quietly and then drops everything on you at once.
+[ava] Variety shared Marvel's final trailer for Avengers Doomsday, with Cyclops calling to his X-Men and the Fantastic Four at Steve Rogers' door. It opens December eighteenth.
+[ava] And Variety also reports that boxer Tyson Fury reveals in a new Netflix documentary that he was diagnosed with schizophrenia and bipolar disorder after a hospital stay in twenty sixteen.
+> source: Harry's X home timeline, Nov 23 (@mikepat711, @dhh, @Variety); Google, "Introducing Gemini 4 Neon"; Marvel.com, "Watch the Final Avengers: Doomsday Trailer" (Nov 23); BBC Sport and Variety on Tyson Fury (Nov 23)
+
+## Local News & Events | sting=local
+// Story 11: Thanksgiving storm update; I-293 bridge crash survivor; Turkey Trot
+[ava] Story eleven, local news. Forecasters are now more confident about a strong storm on Thanksgiving into early Friday. The National Weather Service in Boston expects it to track west of a classic nor'easter, so for us it looks like a wind-swept heavy rain, one to two inches, not snow. The coast could see gusts of forty to sixty miles an hour and coastal flooding with some of the highest tides of the year. If you're heading to the Seacoast or Boston Thursday, keep an eye on it. Today stays unusually mild before a sharp cold snap Tuesday and Wednesday.
+[ava] Today marks two months since a box truck went off the Interstate two ninety-three bridge into the Merrimack River in Manchester. The driver, Dylan Pagan, a twenty-six-year-old father of two from Fall River, says he swerved to avoid a crash and thought he would die on the sixty-five foot fall. His full interview airs tonight on WMUR.
+[ava] And Thursday morning at nine is the fifty-third Greater Derry Track Club Turkey Trot at Galliens Town Beach on Beaver Lake. Bring a canned good for local food pantries, and check the club's website if the weather looks threatening.
+> source: National Weather Service Boston/Norton, Area Forecast Discussion (Nov 23, 4:15 a.m.); NBC News, "Rough weather expected to hit both coasts" (Nov 23); WMUR, "Driver shares harrowing details after crashing off NH bridge into river" (Nov 23); Greater Derry Track Club, Turkey Trot
+
+## Uplifting Story | sting=feel
+// Story 12: Aurora mail carrier's third Thanksgiving with man he rescued
+[ava] And finally, story twelve. Two years ago Jaylen Lockhart was delivering mail in Aurora, Illinois when he saw seventy-five-year-old Guy Miller fall while walking his dog. He turned his truck around, got neighbors to help and went to tell Miller's wife.
+[ava] The family found him on Facebook to say thank you, and then asked if he had Thanksgiving plans. He came that year with his partner and their little girl. Last Thanksgiving he proposed to her at the Millers' table. This week he'll be back for a third year. The two men talk every week. Lockhart says we all have time to help each other.
+> source: People, "Hero Mailman Rescued Senior Citizen Who Fell. Now They're About to Spend Their Third Thanksgiving Together" (Nov 22); Woman's World; Good Morning America; City of Aurora
+
+## Close | sting=close
+[ava] That's your Monday ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. We'll see if this rally holds through the day, and Hewlett Packard Enterprise reports tonight.
+[ava] Thanks for listening to Gumshoe News Radio.
