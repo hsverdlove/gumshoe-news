@@ -1,0 +1,91 @@
+// Gumshoe script format: see README.md
+# title: Monday 4 PM Update, Nov 23
+# description: The Monday four o'clock update from Gumshoe News Radio for November 23, 2026: Londonderry, New Hampshire weather for the next 24 hours; President Trump pauses the Army's planned detonation in Iowa, fourteen Republican attorneys general join the fight over Newsom's death row commutations, and a Princeton neuroscience student is held by immigration authorities; the EU proposes its twenty-second Russia sanctions package, Germany weighs reports of a Russian nuclear satellite, and Iran flogs a singer who performed without a hijab; the closing bell on Wall Street's biggest day since April 2025; Jensen Huang's return to Nvidia headquarters and a trade blacklist for Megaspeed; Catholic bishops push for AI rules and an AI agent fleet takes on P versus NP; Microsoft warns of stolen Azure credentials; your X feed; a New Hampshire Supreme Court retirement and Operation Santa Claus; and Jimmy Stewart's daughter in his hometown. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon. It's Monday, November twenty-third, and this is the four o'clock update from Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. The closing bell just rang on the best day for stocks in more than a year and a half, and I've got the final numbers.
+[ava] First, the weather in Londonderry New Hampshire for the next twenty-four hours.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 23 at airtime
+
+## US News | sting=us
+// Story 1: Trump pauses Iowa lead azide detonation (new development)
+[ava] Story one, a new development in Iowa. President Trump says he has ordered the Army not to go ahead with its planned detonation of nearly five tons of degraded lead azide at the Iowa Army Ammunition Plant in Middletown. The blast had been reset for Wednesday. In a Truth Social post, Trump said he agrees with military experts that a controlled detonation is the far safer option. But he says it won't happen until a federal appeals court signs off and Iowa's incoming governor, Democrat Rob Sand, agrees. If they don't, Trump says he'll hold Sand responsible for whatever happens next.
+[ava] The appeals court has paused the operation's environmental permit while environmental groups challenge it. The Army says cold weather raises the risk of an uncontrolled blast, and Middletown's mayor wants it to go ahead.
+> source: AP, "Trump orders the Army not to detonate bomb-making chemicals in Iowa without court approval" (Nov 23); Iowa Public Radio, "Trump tells Army to wait for courts, Sand to weigh in on lead azide detonation" (Nov 23); Politico (Nov 23); The Hill (Nov 23)
+
+// Story 2: Newsom death row: 14 GOP AGs letter, DOJ event (follow-up)
+[ava] Story two, a follow-up on the fight over California's death row. Fourteen Republican state attorneys general, led by Florida's James Uthmeier, sent Governor Gavin Newsom a letter today accusing him of choosing murderers over victims by planning to commute all five hundred forty-eight death sentences. They pledged to back every lawful effort to restore the sentences. The White House invited victims' relatives to President Trump's event at the Justice Department this afternoon, among them Steve Herr, whose son Sam was murdered. Herr has called Newsom's move a cowardly act.
+[ava] Newsom says the clemency power exists for moments when the law as applied can't be squared with justice, and that the offenders will still die in prison. Most of the commutations need a recommendation from the California Supreme Court first.
+> source: The Daily Signal, "'You Chose Murderers Over Victims': 14 GOP AGs Rip Newsom's Plan to Commute Death Sentences" (Nov 23); White House Rapid Response on X (Nov 23); Fox News (Nov 23); NBC Los Angeles, "Murder victim's dad calls Newsom's clemency move 'cowardly act'" (Nov 2026); Office of the Governor of California, letter on the death penalty (Nov 5)
+
+// Story 3: Princeton researcher Eva Yi Xie detained by ICE
+[ava] Story three. A Chinese-born Princeton neuroscience doctoral student is in immigration detention in Virginia after she was stopped at Reagan National Airport on her way home from a conference. Eva Yi Xie is twenty-four. Homeland Security says she overstayed a visa from twenty sixteen and that a pending application doesn't give anyone legal status.
+[ava] Her lawyer says Xie has had an asylum case pending for ten years, since her family arrived when she was fourteen, and that this lets her stay while it's decided. A federal judge has barred ICE from moving her out of the area while her challenge plays out. Princeton has arranged a lawyer for her.
+> source: AP, "Chinese neuroscientist at Princeton is held by ICE after detention at Washington airport" (Nov 23); NBC News, "Princeton neuroscientist detained by ICE at D.C. airport after leaving conference" (Nov 21); Patch, "Federal Judge Blocks ICE From Transferring Princeton Ph.D. Student" (Nov 2026)
+
+## International | sting=world
+// Story 4: EU 22nd sanctions package
+[ava] Story four, the world. The European Commission has proposed its twenty-second package of sanctions on Russia. It would cut about sixty more Russian banks off the SWIFT payment network and target crypto schemes and banks in other countries that help Moscow get around sanctions. Seventy more shadow fleet tankers would be hit. It also proposes a visa ban on Russian combat veterans and a ban on Russian athletes competing under their flag at events in the EU.
+[ava] All twenty-seven members have to agree, and some question whether the veterans' visa ban can be enforced. Brussels wants a deal before the holiday break.
+> source: Euronews, "EU goes after Russia's banks, soldiers and athletes in new sanctions package" (Nov 23); Agence Europe (Nov 23); European Commission press release IP/26/2521 (Nov 23); The Straits Times (Nov 23)
+
+// Story 5: Germany: reports of Russian nuclear satellite
+[ava] Story five. Germany's government says it's taking very seriously German media reports that Russia may be getting ready to launch a satellite armed with a nuclear weapon. Citing Western intelligence, the reports say the satellite is called Sputnik S and could go up within weeks. That would break the nineteen sixty-seven Outer Space Treaty. NATO's Mark Rutte, alongside Chancellor Friedrich Merz, said the alliance will defend every inch of its territory, including in space.
+[ava] Berlin says there's no immediate threat. The Kremlin dismissed the reports as full of alleged and possible claims from unnamed sources and called them propaganda.
+> source: The Guardian, "Germany taking seriously reports Russia may be planning to launch nuclear weapons into space" (Nov 23); tagesschau.de, NDR/WDR and Sueddeutsche Zeitung (Nov 23); Yahoo News, "Merz: Report that Russia may put a nuclear weapon in space 'shocking'" (Nov 23); NATO transcript (Nov 23)
+
+// Story 6: Iran flogs singer Parastoo Ahmadi
+[ava] Story six. Lawyers say Iranian authorities have flogged singer Parastoo Ahmadi and four men from her band and production team, seventy-four lashes each, in the city of Qom. Ahmadi, who is twenty-nine, performed in a sleeveless dress without a headscarf in a concert streamed online in December twenty twenty-four. A court convicted them of offending public decency, and they're also barred from performing and leaving the country for two years. Human rights groups call the punishment torture. Iranian law requires women to cover their hair in public and bars women from public performances.
+> source: BBC News, "Iranian authorities flog singer who performed without hijab, lawyers say" (Nov 23); Euronews (Nov 23); Hengaw (Nov 23); The National (Nov 23)
+
+## Markets | sting=markets
+// Story 7: Market close
+[andrew] Story seven, the closing bell. Wall Street just had its best day since April of last year. The S&P five hundred closed up about four and three-quarters percent, roughly three hundred thirty points, near seven thousand two hundred thirty-eight. The Nasdaq jumped about six and a half percent, nearly fifteen hundred points, to about twenty-four thousand ninety. The Dow gained about fourteen hundred fifty points, or three percent, to around forty-nine thousand six hundred. That snaps a seven-day losing streak for the S&P and wins back roughly half of last week's plunge, which was the worst week for the Nasdaq and the Dow in more than six years.
+[andrew] The driver was Nvidia, which closed up about thirty-one percent near one hundred sixty-five dollars after reinstating Jensen Huang. Tech stocks as a group gained about nine percent, and the big chip fund rose about fifteen percent, its best day since April twenty twenty-five. Micron rose nineteen percent, CoreWeave twenty-two, and Hewlett Packard Enterprise eighteen ahead of its earnings tonight. Zscaler jumped about eighteen percent on CrowdStrike's takeover plan, while CrowdStrike fell about nine. One notable laggard: last week's record IPO, Anthropic, slipped about one and a half percent.
+[andrew] The VIX fear gauge fell about a quarter to near twenty-six and a half. In bonds, the two-year Treasury yield rose about seven basis points to four point six eight percent, and the ten-year sat near four point nine three. CNBC says traders now see about a ninety-eight percent chance the Fed raises rates a quarter point on December ninth. Oil fell about four percent, with US crude just above eighty dollars a barrel and Brent near eighty-six and a half. Gold rose more than three percent to about thirty-six hundred thirty-five dollars, and Bitcoin was flat near sixty-one thousand two hundred.
+[andrew] The caution flags: some strategists, including BTIG's Jonathan Krinsky, think this is a short-term bounce rather than the final low. Revised GDP and the Fed's preferred inflation gauge come out Wednesday. Markets are closed Thursday for Thanksgiving and close early, at one o'clock, on Friday.
+> source: Yahoo Finance index and stock quotes at the close (Nov 23, about 4:00 p.m. ET); CNBC, "Stock market today: Live updates" (Nov 23); CNBC, "Treasury yields jump as stocks rebound" (Nov 23); AP, "US stocks soar and recover roughly half of last week's plunge after Jensen Huang returns to Nvidia" (Nov 23); Baystreet.ca, "NASDAQ Roars Back" (Nov 23); Investopedia (Nov 23)
+
+## Technology | sting=tech
+// Story 8: Huang back at HQ; Megaspeed entity list; Jeffries
+[andrew] Story eight, tech. Jensen Huang walked back into Nvidia headquarters today to cheers and chants of his name from hundreds of employees. He apologized to staff and said he'll be a better CEO the second time around.
+[andrew] Meanwhile Semafor reports the Commerce Department is adding Megaspeed, the Singapore company at the center of the scandal, to its trade blacklist. That means no US company could sell it chips without a license. As of airtime, no official notice has been posted. The Justice Department is investigating whether Megaspeed shipped Nvidia chips to China, and Megaspeed says it runs a lawful business. Incoming House Speaker Hakeem Jeffries called Huang's return indefensible and wants a congressional investigation plus tough chip export rules in the defense bill. Supporters say Nvidia's founder is the best person to lead it.
+> source: TechCrunch, "Nvidia employees greet Jensen Huang like a hero as he returns to company's HQ" (Nov 23); Business Insider (Nov 23); The Verge (Nov 23); Semafor, "Commerce to add Megaspeed to trade blacklist" (Nov 23, 2:47 p.m. ET); Office of Rep. Hakeem Jeffries, statement (Nov 23); Politico (Nov 23)
+
+## Artificial Intelligence | sting=ai
+// Story 9: Catholic bishops AI lobbying; P vs NP agent fleet
+[andrew] Story nine, AI. America's Catholic bishops are gearing up to lobby for AI rules. Politico reports a new task force of the US Conference of Catholic Bishops, led by Bishop Oscar Cantu, plans a sustained push in Washington and state capitals for transparency, accountability and human oversight of AI. It's also watching what AI means for workers.
+[andrew] And a fleet of AI agents is now publicly attacking one of the biggest open questions in computer science: does P equal NP? In plain terms: if an answer is easy to check, is it also easy to find? The project, run by the design startup Brilliant, posts every step at pequalnp dot com. Nothing counts until the Lean proof checker accepts it. Its own verdict so far: still open. A proof either way would win a million-dollar prize.
+> source: Politico, "American bishops plan for 'groundswell' of political action for AI regulation" (Nov 22); AP, "US Catholic bishops' new AI task force urges regulation and worker protections" (Nov 2026); USCCB (Nov 2026); pequalnp.com, "What this is" and "How it works" (Nov 23)
+
+## Cybersecurity | sting=cyber
+// Story 10: Azure API Management Classic flaw exploited; OpenRouter providers named
+[ava] Story ten, the cyber desk. Microsoft says attackers exploited a flaw in Azure API Management Classic, a cloud service companies use to run their APIs, to steal stored credentials. Norway's National Security Authority links it to attacks on its energy sector, including Equinor. Microsoft closed the hole on November nineteenth. But it warns that the fix doesn't cancel keys that were already stolen, so customers need to rotate those secrets now. The newer version two tiers aren't affected.
+[ava] And a follow-up to yesterday's story on leaked AI prompts. The three providers OpenRouter dropped are now named: Together AI, Phala and Novita. Each blamed a different slip, including a password an AI coding agent exposed on GitHub. Users should rotate any secrets they sent through them.
+> source: BleepingComputer, "Microsoft Azure flaw exploited to steal customers' API credentials" (Nov 23); Norwegian National Security Authority (NSM) advisory; BleepingComputer, "OpenRouter drops AI providers over leaked prompts and secrets" (Nov 23)
+
+## From Your X Feed | sting=x
+// Story 11: X feed
+[ava] Story eleven, from your X feed. Variety says Ted Lasso is coming back for a fifth season on Apple TV, with Jason Sudeikis returning as star and executive producer. Production is reportedly targeted for April.
+[ava] World of Engineering shared a reminder of how big Japan's Akashi Kaikyo Bridge is. Its main span is one thousand nine hundred ninety-one meters, almost two kilometers between towers. That was the longest suspension span in the world until Turkey's Canakkale Bridge opened in twenty twenty-two.
+[ava] And Slater posted a truth of etiquette: two strangers saying after you at a door will keep it up until a third stranger just walks through.
+> source: Harry's X feed, Nov 23 (@Variety, @engineers_feed, @slater57649); Variety, "'Ted Lasso' Renewed for Season 5 at Apple TV" (Nov 23); Deadline (Nov 23); Honshu-Shikoku Bridge Expressway, Akashi Kaikyo Bridge facts
+
+## Local News & Events | sting=local
+// Story 12: NH Supreme Court Justice Gould retires; Operation Santa Claus
+[ava] Story twelve, local news. New Hampshire Supreme Court Justice Bryan Gould is retiring before the end of the year for health reasons. The court says a stress-related condition has worsened while his wife battles a serious illness. Gould says his family must come first. He joined the court in September twenty twenty-five. That leaves two vacancies, since former Chief Justice Gordon MacDonald's seat is still unfilled.
+[ava] And Operation Santa Claus is looking for sponsors for about three hundred fifty more New Hampshire kids. The program gives gifts to three thousand children in need. Sponsors are matched with a child and shop for them. Toys go to a drop-off site at the New Hampshire Army National Guard in Concord, and donations are accepted through December ninth.
+> source: WMUR, "New Hampshire Supreme Court Associate Justice Bryan Gould retires" (Nov 23); NHPR, "NH Supreme Court Justice Bryan Gould to resign, citing health concerns" (Nov 23); New Hampshire Judicial Branch; WMUR, "Operation Santa Claus collects toys for thousands of NH families" (Nov 23)
+
+## Uplifting Story | sting=feel
+// Story 13: Jimmy Stewart's daughter at It's a Wonderful Life festival
+[ava] And finally, story thirteen. It's a Wonderful Life turns eighty this year, and Jimmy Stewart's hometown of Indiana Pennsylvania threw a party. His daughter Kelly Stewart Harcourt rode in the parade as grand marshal for the first time, in a float made up as Ernie's cab from the film. "I feel dad here. He's alive," she said.
+[ava] She says he'd be thrilled, and a little abashed. And she summed up the movie's message: you don't have to do something heroic or exciting to have a wonderful life. You help other people.
+> source: WTAE, "Jimmy Stewart's daughter visits Pennsylvania for 'It's a Wonderful Life' festival" (Nov 2026); WMUR (Nov 2026); The Jimmy Stewart Museum
+
+## Close | sting=close
+[ava] That's your Monday four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Hewlett Packard Enterprise and Zoom report after the bell, and we'll have those numbers in the morning.
+[ava] Thanks for listening to Gumshoe News Radio.
