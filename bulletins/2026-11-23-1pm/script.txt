@@ -1,0 +1,84 @@
+// Gumshoe script format: see README.md
+# title: Monday 1 PM Update, Nov 23
+# description: The Monday one o'clock update from Gumshoe News Radio for November 23, 2026: Londonderry, New Hampshire weather for the next 24 hours; President Trump takes aim at Governor Newsom's death row commutations at the Justice Department, and Senate Democrats near a leadership vote; NATO meets on the Russian missiles in Poland, and Armenia drafts a constitution that could unlock peace with Azerbaijan; Wall Street holds most of a historic rally at midday; Trump says "I made the deal" on Jensen Huang as House investigators press on; Google DeepMind's AI agents speed up quantum algorithms and Google Search ties into your Wallet; attackers target ScreenConnect technicians and a gift card platform takes a big hit; your X feed; a drier Thanksgiving morning for the Turkey Trot, Derry's Heaven's Kitchen, and an I-495 bridge strike in Chelmsford; and a Manchester scholarship that comes full circle. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon. It's Monday, November twenty-third, and this is the one o'clock update from Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. The rally is cooling a little from its peak, but the S&P five hundred is still on pace for its best day in more than a year and a half.
+[ava] First, the weather in Londonderry New Hampshire for the next twenty-four hours.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 23 at airtime
+
+## US News | sting=us
+// Story 1: Trump DOJ event on Newsom death row commutations
+[ava] Story one. President Trump is at the Justice Department today for an event condemning California Governor Gavin Newsom's plan to commute every death sentence in the state to life without parole. That's five hundred forty-eight people. The White House says Attorney General Todd Blanche and FBI Director Kash Patel are taking part, and families of murder victims are attending to tell their stories. A White House spokeswoman says Newsom is failing victims and playing politics with public safety, and notes California voters twice rejected ballot measures to end the death penalty.
+[ava] Newsom announced the plan earlier this month. Supporters point out that California hasn't executed anyone since two thousand six, and Newsom put a formal moratorium in place in twenty nineteen, so they see this as making official what's already true in practice. The commutations aren't in effect yet. For three hundred eighty-two of the inmates, the California Supreme Court has to sign off first because they have more than one felony conviction.
+> source: AP, "Trump will target Newsom in speech to a Justice Department transformed by pursuit of his adversaries" (Nov 23); White House press pool note via BNO News (Nov 23, 9:53 a.m. ET); California Today, "Newsom's commutations of California's 548 death sentences aren't in effect yet" (Nov 2026); Office of the Governor of California (Nov 5)
+
+// Story 2: Schumer vs. Van Hollen leadership vote Dec 1
+[ava] Story two, briefly. Senate Democrats will choose their leader for the new majority by secret ballot one week from tomorrow, on December first. Maryland Senator Chris Van Hollen told Meet the Press that momentum is on his side in his challenge to Chuck Schumer. Schumer says he has the votes he needs. Because the ballot is secret, public endorsements may not tell the whole story.
+> source: NBC News live updates (Nov 23); AP, "Van Hollen's bid to replace Schumer as leader is putting pressure on Democrats to take sides" (Nov 2026); The Washington Post, "These are the Senate Democrats backing Schumer and Van Hollen for majority leader" (Nov 18)
+
+## International | sting=world
+// Story 3: NATO council on Poland: update
+[ava] Story three, the world, with an update from NATO. Alliance ambassadors met in Brussels today on the three Russian cruise missiles that crashed in Poland on Friday. NATO described it as regular consultations among allies, not an emergency session under Article Four. Poland's defense minister says allied early-warning planes are already flying to help protect Polish airspace, and Warsaw is asking for more fighter jets and another surveillance plane. No decision on extra reinforcements has been announced.
+[ava] Secretary General Mark Rutte called it a dangerous incident but said it's not yet clear whether the missiles crossed in on purpose, and he won't speculate. Poland plans to summon Russia's ambassador once its investigation is done. Germany's foreign minister put Europe's mood this way: we are not at war, but we are certainly not at peace anymore either. Moscow denies any provocation.
+> source: The Washington Post, "NATO calls urgent meeting as string of incidents escalates Russia tensions" (Nov 23); Europulse, "Nato consults on Russian missiles in Poland" (Nov 23); UNITED24 Media (Nov 23); DW live updates, Rutte at NATO Parliamentary Assembly (Nov 23); PAP (Nov 23)
+
+// Story 4: Armenia draft constitution, Azerbaijan peace
+[ava] Story four. Armenia has published a draft constitution that drops any reference to its nineteen ninety declaration of independence. Azerbaijan says that document lays claim to Nagorno-Karabakh, and removing it has been Baku's main condition for signing a final peace deal. Azerbaijan's foreign minister Jeyhun Bayramov called the change a positive development and said a peace agreement can be signed once the issue is settled.
+[ava] It's not done yet. The draft needs a two-thirds vote in Armenia's parliament to go to a referendum, and Prime Minister Nikol Pashinyan's party is six votes short. If it passes there, voters would have the final say.
+> source: Anadolu Agency, "Azerbaijan says Armenia's new constitution could clear way for peace deal" (Nov 23); AP, "Armenian prime minister proposes new constitution in bid for peace with Azerbaijan" (Nov 23); APA (Nov 23); PAN.am (Nov 23)
+
+## Markets | sting=markets
+// Story 5: Midday markets
+[andrew] Story five, markets at midday. As of about a quarter to one, the S&P five hundred was up about four and a half percent near seven thousand two hundred thirty. The Nasdaq was up about six and a half percent, and the Dow almost three percent, or about fourteen hundred points. That's a little off the highs from late morning, when the S&P was up five percent and the Dow was up more than fifteen hundred. All three are on pace for their best day since April of last year, and the S&P has won back more than half of last week's plunge.
+[andrew] Tech is doing the heavy lifting, up close to nine percent as a sector, and the chip fund known as S M H is up more than fourteen percent. Nvidia is up about thirty-one percent, Micron about nineteen, CoreWeave about twenty-one and AMD about eight. Hewlett Packard Enterprise is up more than sixteen percent ahead of its earnings tonight. The laggards are the safe havens investors piled into last week: energy and consumer staples are slightly lower.
+[andrew] On the deal front, Zscaler is up about sixteen percent on CrowdStrike's takeover offer, while CrowdStrike is down about ten.
+[andrew] Some caution in the data. A flash survey of US purchasing managers showed services growth slipping to a four-month low, and the fear gauge is still elevated near twenty-seven.
+[andrew] The ten-year Treasury yield is near four point nine five percent. Oil is down about three percent, with Brent near eighty-seven dollars and US crude near eighty-one. Gold is up about four percent to around thirty-six sixty, silver is up more than five, and Bitcoin is little changed near sixty-one thousand four hundred.
+> source: Yahoo Finance quotes (Nov 23, about 12:45 p.m. ET); AP, "US stocks soar and recover more than half of last week's plunge" (Nov 23); CNBC live updates (Nov 23, 12:22 p.m. ET); Benzinga, "Crude Oil Down 4%; Nvidia Shares Spike Higher" (Nov 23, 12:16 p.m. ET); The Motley Fool, "Stock Market Midday, Nov. 23" (Nov 23)
+
+## Technology | sting=tech
+// Story 6: Trump "I made the deal" on Huang; House committees still interviewing
+[andrew] Story six, tech, and a follow-up on Nvidia. President Trump told CNBC this morning that he spoke with Nvidia's board directly and indirectly, and in his words, I convinced them, I made the deal. He says the board asked for assurances on national security and the government gave them, based on everything it knows. He says he then called Jensen Huang and told him to work hard. Trump also said Huang did nothing wrong, and that last week's market slide probably factored into his push, though he says the long term mattered more.
+[andrew] Not everyone in Washington is moving on. A spokesperson for the House Intelligence Committee says Huang's return changes nothing, and three House committees still plan a closed-door interview with him on December first. Critics question a president weighing in on who runs a private company. Supporters say Nvidia is a national asset and the market's reaction speaks for itself.
+> source: CNBC, "Trump tells CNBC 'I made the deal' to reinstate Nvidia's Jensen Huang" (Nov 23); CNBC transcript, Squawk on the Street (Nov 23); NBC News live updates, House Intelligence Committee statement (Nov 23); AP (Nov 23)
+
+## Artificial Intelligence | sting=ai
+// Story 7: DeepMind agents speed up quantum algorithms; Google Search Personal Intelligence
+[andrew] Story seven, AI. Google DeepMind says teams of its Gemini 4 AI agents found big improvements to quantum computing algorithms, and checked every result with a formal proof system called Lean, so the math is verified rather than taken on faith. For one fusion energy calculation, the agents cut the computing cost almost twelve-fold. For an enzyme that breaks down most medicines, they made the simulation two and a half times cheaper. Google says these programs still need more power than the first error-corrected quantum computers are likely to have, and it's open-sourcing the tools.
+[andrew] And Google Search is getting more personal. Starting today you can opt in to connect Google Wallet to Search's AI Mode, so it can look at your spending and card perks, with Drive and the Gemini app coming in the next few weeks. Google says AI Mode can only read that information and can't move your money. Privacy advocates will want to see how that data is handled. You can turn these connections off any time.
+> source: Google DeepMind, "Finding faster quantum algorithms with agents and formal verification" (Nov 23); Google, "A more tailored Google Search that's uniquely yours" (Nov 23); The Neuron, "Everything That Happened in AI Today" (Nov 23)
+
+## Cybersecurity | sting=cyber
+// Story 8: ScreenConnect flaw exploited against MSPs; GlobeTopper loss
+[ava] Story eight, the cyber desk. Attackers are exploiting a critical flaw in ConnectWise ScreenConnect, the remote support tool many IT providers use. Researchers at Huntress say a malicious guest machine can push a file to the technician's computer and get it to run, with no prompt, just by having the technician join a session. In one case it took about nine seconds to plant a rogue remote access tool. That's dangerous because a technician's PC often holds the keys to every customer. The fix is ScreenConnect version twenty-six point six point five or later.
+[ava] And a cautionary tale. GlobeTopper, which distributes digital gift cards for brands like Target and Spotify, says an October break-in cost it about two and a half million dollars in lost revenue, even though the hackers only redeemed about seventy thousand dollars in gift cards. It had to take its platform offline and rebuild it from scratch.
+> source: The Hacker News, "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning" (Nov 23); Huntress research; BleepingComputer, "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards" (Nov 23); iQSTEL SEC filing
+
+## From Your X Feed | sting=x
+// Story 9: X feed
+[ava] Story nine, from your X feed. Autoblog flagged a catch for anyone eyeing a Tesla Cybercab. Tesla is now taking orders from individuals at about thirty thousand dollars, but the car has no onboard charger. That means no Wall Connector and no regular outlet, only DC fast charging like a Supercharger. Tesla has teased a wireless home charging pad for years, but it hasn't put one on sale.
+[ava] Variety reports that Charlie Cox asked to audition for James Bond and was told he was too old. He points out that Robert Pattinson, who got the part, is the same age.
+[ava] Variety also says Deborah Ann Woll will play Faye in Amazon's live-action God of War series, the same role she voiced in the games.
+[ava] And Andy Ellis has a Thanksgiving explainer for Israeli friends: you know how the diaspora adds a second day to holidays? Thanksgiving is just Sukkot sheni, a second Sukkot.
+> source: Harry's X feed, Nov 23 (@therealautoblog, @Variety, @csoandy); Electrek, "Tesla needs wireless charging fast, or its $30,000 Cybercab can't charge at home" (Nov 17); InsideEVs; Variety, "Charlie Cox James Bond audition" and "'God of War' Live-Action Series: Deborah Ann Woll to Reprise Faye Role" (Nov 23)
+
+## Local News & Events | sting=local
+// Story 10: Thanksgiving storm timing; Heaven's Kitchen Derry; I-495 Chelmsford bridge strike
+[ava] Story ten, local news, starting with an update on Thursday's storm. The latest forecasts say Thanksgiving morning should stay dry, which is good news for Turkey Trots, including the Derry race at Beaver Lake. Rain is expected to move in late in the afternoon or early evening, with one to two inches by early Friday. Inland gusts could reach about forty-five miles an hour, with forty to sixty along the coast, so scattered power outages are possible. Wednesday is your cleanest day to drive.
+[ava] In Derry, the mobile meal program Heaven's Kitchen now serves about six hundred twenty meals twice a week, and half go to schools and children's groups. Director Jim Carey says they ask no questions and require no forms, to protect people's dignity as living costs rise. They depend on donations and volunteers year round.
+[ava] And if you're heading south on Interstate four ninety-five, a tractor-trailer hauling an excavator hit a bridge beam at Westford Street in Chelmsford this morning. One person was flown to a hospital with life-threatening injuries. Southbound is open again, but northbound was down to one lane, with delays expected for hours.
+> source: WBUR, "Thanksgiving travel forecast: Quiet week before an impactful Thanksgiving storm" (Nov 23); National Weather Service Boston/Norton, Area Forecast Discussion (Nov 23); WMUR, "Derry-based mobile food program serves hundreds weekly" (Nov 22); NBC Boston, "Truck strikes bridge on I-495 in Chelmsford" (Nov 23); WCVB (Nov 23)
+
+## Uplifting Story | sting=feel
+// Story 11: Michael Briggs Memorial Scholarship to former partner's son
+[ava] And finally, story eleven, from Manchester. Twenty years ago Manchester police officer Michael Briggs was shot and killed answering a call. This year the scholarship in his name went to Nolan Linstad, the son of Briggs' partner, Nathan. The two officers went through the academy together and used to swap CDs on the job. Nolan's parents gave him Briggs' name as his middle name, and he says he's always felt a sense of duty because of it.
+[ava] Now he's a freshman studying criminal justice and wrestling at King University. Police Chief Peter Marr, who was at the scene the night Briggs was shot, says it's come full circle.
+> source: WMUR, "Michael Briggs Memorial Scholarship awarded to former partner's son" (Nov 22); Members First Credit Union Michael Briggs Memorial Scholarship
+
+## Close | sting=close
+[ava] That's your Monday one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. We'll see if this rally makes it to the closing bell, and Hewlett Packard Enterprise and Zoom report after the close.
+[ava] Thanks for listening to Gumshoe News Radio.
