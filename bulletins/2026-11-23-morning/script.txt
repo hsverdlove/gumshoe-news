@@ -1,0 +1,83 @@
+// Gumshoe script format: see README.md
+# title: Monday Morning, Nov 23
+# description: The Monday morning bulletin from Gumshoe News Radio for November 23, 2026: Londonderry, New Hampshire weather with the full seven-day forecast; President Trump says he's inclined to resume strikes on Iran after the new year, and the Army moves to detonate unstable explosives in Iowa despite a court stay; Zelensky confirms Ukraine sank a Russian warship in Libya, and NATO meets on the Russian missiles that hit Poland; Trump calls on Nvidia's board to rehire Jensen Huang as a new report details his former partner's contacts with Chinese intelligence; Meta's AI chief says superintelligence is arriving; CISA warns a critical Cisco flaw is under attack; futures rebound for a short Thanksgiving week; your X feed; the Lancers head to the state final and flu rises in Rockingham County; and a Lyndeborough mother marks a record year with a pig kidney. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Monday, November twenty-third, and this is the morning bulletin from Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Stock futures are bouncing hard after Wall Street's worst week in years, and it's a short week, with markets closed Thursday for Thanksgiving.
+[ava] First, the weather in Londonderry New Hampshire, with the full seven-day forecast.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 23 at airtime
+
+## US News | sting=us
+// Story 1: Trump on new Iran strikes after New Year; Iran's response
+[ava] Story one. President Trump says he's inclined to order new strikes on Iran after the new year if there's no deal. He told Fox News that Iran's negotiators are professional tap dancers who only talk. He also warned that Iranian ships trying to break the US naval blockade would end up at the bottom of the sea.
+[ava] Iran pushed back this morning. Foreign ministry spokesman Esmaeil Baghaei called the blockade military aggression and said Iran will use every means to counter it. Tehran's conditions for reopening the Strait of Hormuz include lifting sanctions and ending the blockade. Supporters of the president say pressure is what moves Tehran. Critics worry it risks a wider war and higher oil prices. Talks continue: Qatar's prime minister is expected to meet Secretary of State Marco Rubio today.
+> source: Fox News, "Trump warns of new strikes against Iran after new year, calls negotiators 'professional tap dancers'" (Nov 22); Euronews, "Iran vows 'every means' to counter US blockade of Hormuz after Trump threat" (Nov 23); Anadolu Agency, Morning Briefing (Nov 23)
+
+// Story 2: Army invokes emergency exclusion to detonate lead azide in Iowa
+[ava] Story two. The Army plans to go ahead Wednesday with detonating nearly five tons of degraded lead azide at the Iowa Army Ammunition Plant, even though an appeals court put the permit on hold. Justice Department lawyers say an emergency exclusion in hazardous waste rules lets the Army act without a permit. They argue the explosive gets more likely to go off on its own as temperatures drop, so a controlled blast is far safer. The Army says it will still follow the permit's safety measures.
+[ava] Environmental groups call it an end run around the courts. They note the Army's own modeling shows lead dust could settle over an area about twenty-five miles long, including homes and waterways.
+> source: AP, "US Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa" (Nov 22-23); ABC News, "Army moves detonation of 10,000 pounds of lead azide to Wednesday" (Nov 22); New York Post (Nov 23); CBS2 Iowa, court filing (Nov 22)
+
+## International | sting=world
+// Story 3: Zelensky confirms Merkury sinking at Benghazi; Perm refinery
+[ava] Story three, the world. Ukraine now says it was behind the weekend attack in Libya. President Zelensky said seven Ukrainian-made sea drones sank the Russian corvette Merkury at the Benghazi naval base. Ukraine released video of the drone boats hitting the ship, and satellite images appear to show it capsized. Ukraine says the operation also hit the Angara, a sanctioned cargo ship it says carries Russian weapons.
+[ava] Libya's Russian-backed eastern government has filed a complaint at the United Nations, asking whether Ukrainians launched the attack from western Libya. The UN mission says Libya must not become a battleground for foreign wars. Overnight Ukrainian drones also set fire to a big Lukoil refinery in Perm, nearly a thousand miles from the front, and the regional governor says one person was killed. And the toll from Sunday's Russian strike on an apartment building in Dymer near Kyiv has risen to eleven.
+> source: Defense News, "Ukraine confirms it sank Russian corvette in Libyan port" (Nov 23); AP, "Zelenskyy says Ukraine carried out drone attack that hit Russian warship at naval base in Libya" (Nov 23); BBC (Nov 23); Anadolu Agency (Nov 23); The Moscow Times, "Ukrainian Drones Kill 1, Strike Oil Refinery in Perm Region" (Nov 23); Meduza (Nov 23)
+
+// Story 4: NATO council meets on Russian missiles in Poland
+[ava] Story four. NATO's North Atlantic Council meets in Brussels today about the Russian missiles that crashed in southeastern Poland on Friday. Polish prosecutors now say all three objects were Russian Kh-101 cruise missiles built this fall. Nobody was hurt. One landed about twenty-two miles from a training ground where thousands of European troops were exercising, and Prime Minister Donald Tusk calls it an intentional provocation. Poland wants more air defenses on the eastern flank, including early-warning planes and F-35 fighters. The Kremlin calls the accusations groundless, and President Trump has said it may have been a mistake.
+> source: Reuters, "Three Russian missiles flew into Poland Friday, prosecutors say" (Nov 22); Stars and Stripes, "NATO emergency talks on tap as US commander assess defenses after Russian missiles hit Poland" (Nov 22); RBC-Ukraine (Nov 22); Polskie Radio (Nov 21); Hindustan Times with Reuters (Nov 23); Washington Post (Nov 21)
+
+## Technology | sting=tech
+// Story 5: Trump urges Nvidia to rehire Huang; NYT on Alice Huang and MSS
+[andrew] Story five, tech. President Trump is now directly asking Nvidia's board to rehire Jensen Huang. He posted last night that it would be the best thing for the company and for the USA. Huang resigned November twelfth after reports of affairs, including one with Alice Huang, a businesswoman US intelligence suspects of ties to China's spy agency.
+[andrew] Shortly before the post, the New York Times reported that Alice Huang was in touch with an officer of China's Ministry of State Security from spring twenty twenty-five until this fall. Officials stress they haven't concluded she spied, and investigations continue. Nvidia's board says it won't reinstate Huang and is searching for a permanent CEO. Huang says he'd be honored to return. Nvidia is up about nine percent before the bell.
+> source: Investing.com/Reuters, "Trump urges Nvidia board to rehire Jensen Huang" (Nov 22); Forbes via Yahoo Finance (Nov 23); The New York Times via The Verge, "More details emerge regarding the extent of Alice Huang's alleged spying" (Nov 23); AFP (Nov 23); AP, "Nvidia rejects Jensen Huang's offer to return as CEO" (Nov 17); CNBC premarket (Nov 23)
+
+## Artificial Intelligence | sting=ai
+// Story 6: Alexandr Wang "Superintelligence is Arriving"; GLM-5.4
+[andrew] Story six, AI. Meta's chief AI officer Alexandr Wang published an essay on X titled Superintelligence Is Arriving. He calls the Claude-assisted proof of the Riemann hypothesis a turning point, and argues coming AI models will be clearly superhuman at improving themselves. What humanity does over the next year, he wrote, will decide what future we get.
+[andrew] It's a striking message from Meta, which usually sounds more optimistic than its rivals. Wang says society should not accept a handover to AI, and wants the industry to put urgent work into safety and security. Skeptics say one math result doesn't prove runaway self-improvement is close. Meanwhile China's Zhipu rolled out GLM-5.4 today to its coding subscribers, with a million-token context window. Benchmarks haven't been published yet.
+> source: Al Jazeera, "Artificial superintelligence 'arriving', warns top Meta executive" (Nov 23); Business Standard (Nov 23); Alexandr Wang on X (Nov 22); Scientific American, "The AI Riemann hypothesis proof is true, independent mathematicians confirm" (Nov 2026); TechNode, "Zhipu rolls out GLM-5.4 with vision and million-token context" (Nov 23); Z.ai blog (Nov 23)
+
+## Cybersecurity | sting=cyber
+// Story 7: CISA KEV Cisco Expressway; ports under attack
+[ava] Story seven, the cyber desk. CISA warns that attackers are exploiting a critical flaw in Cisco Expressway, the gateways that connect a company's voice and video systems to remote users. The bug lets an attacker with no login take full control of clustered devices. Cisco patched it in October and says it hasn't seen attacks, but CISA gave federal agencies three days to fix it. The security firm F6 says attackers used an AI assistant to break in and move deeper into a network. If your company runs Expressway, patch now.
+> source: BleepingComputer, "CISA flags critical Cisco RCE flaw as actively exploited in attacks" (Nov 23); CISA Known Exploited Vulnerabilities catalog
+
+## Markets | sting=markets
+// Story 8: Markets pre-open, Thanksgiving week
+[andrew] Story eight, markets. Futures are rallying. As of about six thirty, S&P five hundred futures were up close to three percent, Nasdaq one hundred futures about three and a half, and Dow futures about two percent.
+[andrew] That follows a brutal Friday. The S&P five hundred fell three point seven percent to six thousand nine hundred ten, the Dow almost two percent to forty-eight thousand one hundred forty-seven, and the Nasdaq more than five percent to twenty-two thousand six hundred eighteen. The S&P and Dow are in correction, and the Nasdaq is negative for the year. Tech fell about seven percent, and consumer staples was the only sector up.
+[andrew] This morning chip stocks lead the bounce, with Micron and AMD up about seven percent. South Korea's Kospi fell more than three percent. Some strategists call Friday's selling capitulation. Others see no catalyst for a lasting rebound while traders put the odds of a Fed rate hike in December at about ninety-six percent.
+[andrew] The ten-year yield is about four point nine six percent and the two-year four point six nine. The dollar index is slightly lower near one oh three point six. Brent crude is near ninety-two dollars and US crude near eighty-three. Gold is up more than two percent to about thirty-six thirty, and Bitcoin is near sixty-one thousand four hundred.
+[andrew] Markets are closed Thursday for Thanksgiving and close early Friday at one. Hewlett Packard Enterprise and Zoom report tonight. Tuesday brings Best Buy, Dell, HP and Workday. Wednesday is packed with GDP, the PCE inflation gauge and jobless claims.
+> source: Markets Insider premarket (Nov 23, 6:30 a.m. ET); CNBC, "Nasdaq 100 futures rebound sharply to rise 3%, kick-starting shortened week after tech rout: Live updates" (Nov 23, 6:02 a.m. ET); Yahoo Finance (Nov 23); AP and CNBC on Friday's close (Nov 20); FXNews.ai sector map (Nov 20); Reuters via Euronext (Nov 23); CNBC on Treasury yields and oil (Nov 23); FXStreet (Nov 23); Schwab Network, "Week Ahead" (Nov 22)
+
+## From Your X Feed | sting=x
+// Story 9: X feed
+[ava] Story nine, from your X feed. Mike Pat likes a small touch in Full Self-Driving version fifteen. At big stores with several lots, like a Wegmans, the map shades the lot it plans to use in blue. He's also candid about early quirks: once the car expected a parking spot at the end of a dead-end road, found none, and just stopped.
+[ava] Pictures Folder shared the news that Leroy Boseman, father of the late actor Chadwick Boseman, has died at eighty-two after a brief illness. He was from Belton South Carolina.
+[ava] Interesting All passed along a claim that walking around the entire Grand Theft Auto Six map takes nearly seven hours. For comparison, Kotaku timed a straight walk from south to north at about three hours twenty minutes.
+[ava] And the streamer IShowSpeed ran a hundred meters in ten point three five seconds with Usain Bolt watching. Bolt thinks he could turn pro. It wasn't an official race.
+> source: Harry's X home timeline, Nov 22-23 (@mikepat711, @PicturesFoIder, @interesting_aIl); People, "Leroy Boseman Dead" (Nov 2026); Kotaku, "It Took Me Over Three Hours To Walk Across GTA 6's Massive Map" (Nov 18); Complex and Jamaica Observer on IShowSpeed and Usain Bolt (Nov 22)
+
+## Local News & Events | sting=local
+// Story 10: Lancers to state final; flu high in Rockingham; Very Derry Holidays
+[ava] Story ten, local news. The Londonderry Lancers are headed to the Division One state football championship. They knocked off top-seeded Windham on the road, thirty-nine to twenty-one. Now they face Bishop Guertin on Saturday at one o'clock at Stellos Stadium in Nashua.
+[ava] If you're hosting family this week, a health note. A state report says flu and pneumonia were linked to six point three percent of New Hampshire deaths in early November. Respiratory illness is low in most counties but high here in Rockingham County.
+[ava] And Saturday is Very Derry Holidays downtown, with the Nutfield Holiday Parade on Broadway from noon to two and the tree lighting.
+> source: WMUR, "Londonderry football advances to state championship game" (Nov 21); Union Leader, "Div. I Football Semifinal: Londonderry 39, Windham 21" (Nov 2026); WMUR, "Flu-related deaths rise in New Hampshire ahead of Thanksgiving" (Nov 21); Derry Thanksgiving weekend events guide, Childs Realty Group (Nov 2026)
+
+## Uplifting Story | sting=feel
+// Story 11: Molly Falco, one year with a pig kidney
+[ava] And finally, story eleven, from right here in New Hampshire. A year ago Molly Falco of Lyndeborough became the fourth person to get a genetically modified pig kidney at Mass General in Boston. Now the fifty-eight-year-old mother of two has set the record for living longest with an organ from another species.
+[ava] Falco spent nearly a year on dialysis, and with her rare blood type she could wait five to seven years for a human kidney. She says she said yes almost before the doctor finished asking. She still tires on the stairs, but she feels less sick, and she hopes the kidney lasts until a human donor comes through. Her goal this winter: go skiing with her kids.
+> source: WMUR, "'I was willing to try anything': NH mother sets record for living year with pig kidney transplant" (Nov 23)
+
+## Close | sting=close
+[ava] That's your Monday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. We'll watch whether this rally holds and what comes out of NATO's meeting on Poland.
+[ava] Thanks for listening to Gumshoe News Radio, and have a great start to your Thanksgiving week.
