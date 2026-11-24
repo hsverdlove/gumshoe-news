@@ -1,0 +1,86 @@
+// Gumshoe script format: see README.md
+# title: Tuesday 4 PM Update, Nov 24
+# description: The Tuesday four o'clock update from Gumshoe News Radio for November 24, 2026: Londonderry, New Hampshire weather for the next 24 hours; the Army urges evacuations ahead of Wednesday's Iowa detonation, a Thanksgiving storm takes aim at the East Coast, and Utah drops its criminal case against Kalshi; Iran claims a container ship hit a mine as Israel accuses Tehran of chemical weapons work, Britain warns firms helping Ukraine about Russian sabotage, and Istanbul's lioness turns out not to exist; the Dow tops fifty thousand while chip stocks slide and new tariffs loom; a Brooklyn jury convicts Huawei; OpenAI answers Anthropic with its own VP versus VNP proof; a breach at the CIA and a new extortion gang called Inception; your X feed; coastal flooding in Hampton, a state representative convicted, and holiday shows in Manchester; and a retired teacher's guitar bird feeders. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon. It's Tuesday, November twenty-fourth, and this is the four o'clock update from Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. The closing bell just rang on a lopsided day. The Dow went up while chip stocks took another beating.
+[ava] First, the weather in Londonderry New Hampshire for the next twenty-four hours.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 24 at airtime
+
+## US News | sting=us
+// Story 1: Iowa lead azide: evacuations recommended (new development)
+[ava] Story one, a new development in Iowa. Federal officials now recommend that people living in a five-mile cone southwest of the Iowa Army Ammunition Plant in Middletown leave home before tomorrow's planned detonation of nearly five tons of degraded lead azide, set for nine o'clock local time. Pregnant women, children and anyone with a chronic illness are urged to go and stay away until at least Friday, with FEMA offering rides, lodging and meals.
+[ava] Army leaders say the barrels are too degraded to move or treat, so "inaction is no longer an option." Water walls and foam barriers are meant to contain the blast, and the EPA and NASA aircraft will track lead in the air. Environmental groups still fear lead dust spreading but say they won't sue again.
+> source: ABC News, "US Army recommends evacuations, details mitigation plans for controlled Iowa munition explosion" (Nov 24); AP, "Army says there's no reason to panic over plan to blow up US stockpile of lead azide" (Nov 24); US Army public safety advisory (Nov 24); Des Moines Register (Nov 24)
+
+// Story 2: Thanksgiving coastal storm
+[ava] Story two. A fast-moving storm is set to crawl up the East Coast right through the holiday. It hits the Southeast with rain, wind and coastal flooding on Wednesday, then reaches the mid-Atlantic on Thanksgiving morning and New England by Thursday afternoon or evening. Coastal gusts over fifty miles an hour could knock out power from Virginia to New England. This week's king tides add to the risk, with moderate to major coastal flooding possible from Georgia to Long Island. And more than six inches of wet snow could hit the St. Louis area.
+> source: The Weather Channel, "East Coast Thanksgiving storm to bring major coastal flooding, winds" (Nov 24); NOAA, Thanksgiving week weather (Nov 24); AP, king tides (Nov 24)
+
+// Story 3: Utah drops Kalshi criminal charges
+[ava] Story three. Utah has dropped the fourteen criminal charges it filed last month against the prediction market Kalshi and its two co-founders, a day after Kalshi stopped offering trading in the state. Utah's attorney general says the dismissal is without prejudice, so the charges could come back if Kalshi returns, and his civil case continues. Kalshi's lawyer says good-faith disputes over who has jurisdiction should never be treated as crimes. Kalshi and federal regulators say only Washington can police these markets. Several states disagree, and the courts haven't settled it.
+> source: CNBC, "Utah drops criminal charges against Kalshi founders after company suspended operations in state" (Nov 24); AP (Nov 24); Utah Attorney General release (Nov 24); Ars Technica (Nov 24)
+
+## International | sting=world
+// Story 4: Iran: container ship mine claim; Katz chemical weapons claim; Trump on oil; $290B rulings
+[ava] Story four, the world. Iran's Revolutionary Guard says a container ship came to a stop today after hitting a mine near the Strait of Hormuz. Iranian state media says the ship had switched off its tracking and taken an unauthorized route. That hasn't been independently confirmed. Israel's defense minister, Israel Katz, says Iran is developing chemical weapons and vowed to stop it. Iran has repeatedly denied that.
+[ava] President Trump said this afternoon that the US is now moving more oil through the strait than before the war, and that prices are dropping like a rock. Brent crude is near its lowest level since late August. Iran's army chief, though, insists the strait stays closed to unauthorized ships until Tehran's conditions are met.
+> source: Reuters via Arab News, "Iran Guards say container ship hits mine in 'unauthorized' route near Strait of Hormuz" (Nov 24); CBS News Iran war live updates (Nov 24); Euronews (Nov 24)
+
+// Story 5: UK sabotage warning; Anmer Hall arrests; Istanbul lioness that wasn't
+[ava] Story five. Britain's security services and Defense Ministry are telling companies that supply Ukraine's military to "act now" against Russian sabotage, including arson and threats to staff. Estonia blames Moscow for an attempted arson at a drone factory last week. Russia has denied similar accusations before.
+[ava] And in Istanbul, a hunt for a lioness with drones and thermal cameras has ended in an anticlimax. Officials studied new footage and now say the animal wasn't a lion or any other big cat.
+> source: BBC, "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage" (Nov 24); NPSA and MOD joint alert (Nov 24); Anadolu via A News, "No evidence of lion found in Istanbul's Sariyer district" (Nov 24); AP (Nov 24)
+
+## Markets | sting=markets
+// Story 6: Market close
+[andrew] Story six, the closing bell. It was a tale of two markets. The Dow rose about four hundred twenty points, or eight-tenths of a percent, to close just above fifty thousand. The S&P five hundred slipped half a percent to about seventy-two hundred. The Nasdaq fell about one and a half percent, roughly three hundred sixty points, to around twenty-three thousand seven hundred thirty. Smaller companies held up, with the Russell two thousand up about two-thirds of a percent.
+[andrew] Chips took the hit after Monday's huge rally. The Philadelphia semiconductor index fell almost eight percent, giving back more than half of Monday's gain. Nvidia closed down about six percent near one hundred fifty-five dollars, as investors weighed governance questions around Jensen Huang's return. AMD fell about nine percent, Micron and Intel around eight to eleven, and Broadcom about four. Analog Devices and Sandisk each dropped about seventeen percent, Hewlett Packard Enterprise sixteen, and Dell thirteen ahead of its report tonight. Anthropic closed below its eighty-three dollar IPO price.
+[andrew] Under the surface, most stocks actually rose. Nine of eleven sectors gained, led by health care, up about three percent, and consumer staples. Retailers shined: Abercrombie and Fitch jumped about twenty percent on a higher profit forecast, Kohl's finished up nineteen, and Dollar Tree gained eleven after raising guidance.
+[andrew] The ten-year Treasury yield edged down to about four point nine percent. Oil was mixed, with US crude near eighty-one dollars and Brent around eighty-eight, close to its lowest since late August. Gold fell almost three percent to about thirty-five fifty-five an ounce, and Bitcoin slipped about two and a half percent to near fifty-nine thousand seven hundred.
+[andrew] What's next: Reuters and Politico report that the administration could announce new tariffs as soon as tonight, after a probe into excess factory capacity in sixteen trading partners, including China, the European Union, Japan and India. China rejects the overcapacity charge. Dell and HP report this evening, and tomorrow brings the PCE inflation report, with traders still seeing about a ninety-five percent chance of a Fed rate hike on December ninth. Markets are closed Thursday and close early Friday.
+> source: Reuters, "Nasdaq, S&P 500 fall following Monday's Nvidia-led rally" (Nov 24); Yahoo Finance index, commodity and stock quotes at the close (Nov 24, about 4:00 p.m. ET); WiseView sector data (Nov 24, 3:45 p.m. ET); Yahoo Finance live (Nov 24); Reuters, "Trump administration set to unveil new tariffs after probe on excess factory capacity" (Nov 24); Politico (Nov 24); CBS News on Brent (Nov 24)
+
+## Technology | sting=tech
+// Story 7: Huawei convicted
+[andrew] Story seven, tech. A federal jury in Brooklyn has convicted Huawei on ten of twelve counts, including bank fraud, wire fraud, sanctions violations and conspiracy to steal trade secrets. Prosecutors said it lied to banks about its Iran business and stole technology from US firms, including Cisco router code. Jurors acquitted Huawei of the most serious charge, racketeering conspiracy, and of obstruction. Huawei's lawyers argued the banks knew about its Iran business and that prosecutors cherry-picked scattered incidents. Analysts note Huawei's business has kept growing despite years of US restrictions.
+> source: Reuters via The Jerusalem Post, "China's Huawei convicted in US trial over concealing Iran business from banks" (Nov 24); AP (Nov 24); South China Morning Post (Nov 24); Law360 (Nov 24)
+
+## Artificial Intelligence | sting=ai
+// Story 8: OpenAI posts its own VP != VNP proof
+[andrew] Story eight, AI. Hours after Anthropic released Claude's claimed proof that VP is not equal to VNP, the algebraic cousin of P versus NP, OpenAI posted its own thirty-page proof of the same result. OpenAI says its model got there on November sixth, a quiet claim to priority. The two proofs follow strikingly similar strategies, and OpenAI's actually cites a technique from an earlier Claude paper.
+[andrew] There are differences. Anthropic's bound is somewhat stronger, while OpenAI spells out more consequences. No human mathematician has checked either one yet, and OpenAI withdrew three manuscripts last month after a sign error. Still, two independent proofs make the result more convincing. It's not P versus NP itself, and no encryption depends on it.
+> source: OfficeChai, "Hours After Claude, OpenAI Posts Its Own Proof That VP ≠ VNP" (Nov 24); openai/math GitHub repository, history (Nov 23-24); sysnote (Nov 24)
+
+## Cybersecurity | sting=cyber
+// Story 9: CIA/ODNI breach; Inception extortion gang
+[ava] Story nine, the cyber desk. The New York Times reports that the CIA and the Office of the Director of National Intelligence recently found a breach in an unclassified system that analyzes public information, like social media, commercial data sets and satellite images. Information from other agencies was also likely exposed. The intelligence director's office says there was no disruption to critical capabilities or classified systems, and it's not known who did it. It follows recent incidents at the FBI and the Agriculture Department. Officials, including National Intelligence Director Jay Clayton, say such breaches are common and not cause for alarm, though some former intelligence officials are more worried.
+[ava] And a new extortion gang called Inception is phoning employees at big companies to steal their single sign-on logins. It claims victims including AMD, PepsiCo and Cigna, though none have confirmed a breach. Okta links it to the ShinyHunters crew, which Inception denies. The fix: passkeys or security keys.
+> source: The New York Times via Reuters, "US CIA, ODNI suffer cybersecurity breach of some unclassified information" (Nov 24); AP (Nov 24); The Verge (Nov 24); BleepingComputer, "New Inception extortion gang launches large-scale vishing campaign" (Nov 24); Okta; ReversingLabs
+
+## From Your X Feed | sting=x
+// Story 10: X feed
+[ava] Story ten, from your X feed. Variety says Amazon has renewed "The Rings of Power" for a fourth season, with filming starting this spring at Shepperton Studios in England. Variety also previewed tomorrow night's first-ever Thanksgiving Eve NFL game, Packers versus Rams on Netflix, with U2 playing the halftime show. Kickoff is at eight.
+[ava] David Heinemeier Hansson, known as DHH, says his Omarchy Linux setup now installs in under five seconds on a new AMD machine, after a run of optimizations by Google's Gemini model.
+[ava] And Engineering Feed shared a favorite: the Oresund Link between Denmark and Sweden is about ten miles long, but only half is bridge. It dives onto an artificial island and into an undersea tunnel so it won't get in the way of planes at Copenhagen Airport or big ships.
+> source: Harry's X feed, Nov 24 (@Variety, @dhh, @engineers_feed); NFL.com, U2 Thanksgiving Eve halftime
+
+## Local News & Events | sting=local
+// Story 11: Hampton flooding, storm timing; Rep. Bryan Morse convicted; TSO and holiday market
+[ava] Story eleven, local news. Hampton is warning of minor to moderate flooding in low-lying areas, especially Hampton Beach, with another high tide of about ten point seven feet near eleven tomorrow morning. Avoid flooded roads. Here inland, WMUR says Wednesday and most of Thanksgiving Day look dry, with the storm's rain arriving Thursday night and steadiest early Friday.
+[ava] In Manchester, a jury on Friday convicted Republican state representative Bryan Morse of Franklin on two counts of sharing private sexual images of a woman without her consent. He'll be sentenced in March.
+[ava] And for the long weekend: Trans-Siberian Orchestra brings "The Ghosts of Christmas Eve" to SNHU Arena in Manchester on Friday, including a two thirty matinee. On Saturday, the free Deck the Shelves holiday market runs from ten to four at the DoubleTree downtown.
+> source: Town of Hampton, flood alerts for Nov 24-25; WMUR, "Video: Rain moves in on Thanksgiving" (Nov 24); The Weather Channel (Nov 24); WMUR, "NH state representative convicted of nonconsensual sharing of private sexual images" (Nov 24); Visit Manchester NH events calendar (Trans-Siberian Orchestra, Deck the Shelves Holiday Market)
+
+## Uplifting Story | sting=feel
+// Story 12: Retired teacher turns broken instruments into bird feeders
+[ava] And finally, story twelve. On Prince Edward Island in Canada, retired math teacher Rob Burke saw an old guitar turned into a bird feeder online and figured he could do better: a whole orchestra. He asked on Facebook for broken instruments and got six guitars, a violin and pieces of a drum set. With driftwood perches and feeding dishes, they became the Frets and Feathers Cafe.
+[ava] His glue gun held up fine until the heavier blue jays showed up, so he had to reattach everything more firmly. Now woodpeckers and chickadees drop by too, and he's taking donations to grow what he calls the Peck and Play Orchestra.
+> source: Good News Network, "Retired Teacher Turns Retired Musical Instruments into Bird Feeders" (Nov 24); CBC
+
+## Close | sting=close
+[ava] That's your four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Watch for the tariff announcement tonight, and I'll have Dell and HP's numbers in the morning.
+[ava] Thanks for listening to Gumshoe News Radio.
