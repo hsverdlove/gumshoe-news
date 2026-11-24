@@ -1,0 +1,91 @@
+// Gumshoe script format: see README.md
+# title: Tuesday Morning, Nov 24
+# description: The Tuesday morning bulletin from Gumshoe News Radio for November 24, 2026: Londonderry, New Hampshire weather with the full seven-day forecast; a court clears the Army's Iowa detonation for Wednesday, and Representative Jimmy Gomez says he will resign; Iran claims three tankers hit mines in the Strait of Hormuz, a deadly strike on Zaporizhzhia, a brief air raid alert on a South Korean island, and Pakistan's first astronaut heads for China's space station; futures slip after Wall Street's best day since April 2025, with HPE, Zoom and AMD in focus; new details on how Jensen Huang got his job back; Claude's claimed proof that VP is not VNP and an Axios scoop on AI insiders' safety fears; OpenAI and Cisco's Shirudo, an urgent Chrome update and tanker cyberattacks; your X feed; Londonderry's town manager investigation bill, holiday travel at Manchester airport and the Nashua Winter Stroll; and a therapy dog named Wally. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Tuesday, November twenty-fourth, and this is the morning bulletin from Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. After Monday's huge rally, futures are giving some of it back. I'll have the numbers.
+[ava] First, the weather in Londonderry New Hampshire, with the full seven-day forecast.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 24 at airtime
+
+## US News | sting=us
+// Story 1: Iowa lead azide detonation cleared for Wednesday (new development)
+[ava] Story one, a new development in Iowa. The Army now plans to detonate about five tons of degraded lead azide at the Iowa Army Ammunition Plant in Middletown on Wednesday morning. A federal appeals court declined to block it Monday, finding the EPA's emergency permit has adequate safeguards. Governor Kim Reynolds supports going ahead.
+[ava] President Trump had said earlier that it shouldn't happen without the court and Governor-elect Rob Sand. Sand says the decision belongs to the experts on the ground. Environmental groups still warn of lead dust spreading into Iowa and Illinois. The court said the bigger risk is an uncontrolled blast with no safety measures at all.
+> source: AP, "US Army to detonate degraded bomb-making material in Iowa after getting court approval" (Nov 23-24); CBS News, "Appeals court clears way for Army to detonate Iowa lead azide explosives" (Nov 23); CBS2 Iowa (Nov 24); CNBC (Nov 24)
+
+// Story 2: Rep. Jimmy Gomez to resign after Ethics report
+[ava] Story two. California Democrat Jimmy Gomez says he'll resign from Congress on December first. The House Ethics Committee found substantial evidence that he made unwelcome sexual advances and sexual contact toward a staffer, who later left her job. Gomez says he strongly disagrees with the findings, but he's stepping down so his staff can finish constituent casework. He had already lost his reelection bid.
+> source: AP (Nov 23); NPR, "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations" (Nov 23); NBC News (Nov 23); House Ethics Committee report (Nov 23)
+
+## International | sting=world
+// Story 3: Iran claims tankers hit mines in Hormuz; Qatar mediation
+[ava] Story three, the world. Iran's Revolutionary Guard says three oil tankers caught fire after hitting naval mines in the Strait of Hormuz, despite US air escort. That claim hasn't been independently confirmed, and a joint maritime monitoring center calls it unverified. Iran's top army commander says the strait will be closed further day by day until Washington meets Tehran's seven conditions.
+[ava] The US says pressure is working. Treasury added sanctions Monday on more than two dozen Iranian exchange houses and front companies, and Secretary Scott Bessent called Iran's economy underwater. Qatar's prime minister met Secretary of State Marco Rubio and Vice President Vance, warning the region can't bear another escalation.
+> source: CNBC, "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions" (Nov 24); Euronews, "Iran orders Hormuz closed 'further day by day' as Qatar seeks to revive peace talks" (Nov 24); Anadolu Agency (Nov 24); AP Mideast roundup (Nov 24)
+
+// Story 4: Zaporizhzhia strike; Dymer toll 12; AWACS to Poland
+[ava] Story four. A Russian overnight attack on Zaporizhzhia in southern Ukraine killed two people and wounded forty-four, including four children. The youngest is less than a year old. The death toll from Saturday's drone strike on an apartment building in Dymer near Kyiv has risen to twelve, after a seventy-nine-year-old woman rescued from the rubble died in the hospital. And NATO is sending an AWACS early-warning plane to Poland after three Russian cruise missiles landed there on Friday.
+> source: AP, "A Russian strike on Ukraine kills 2 and wounds children as Kyiv explains its attack in Libya" (Nov 24); Ukrainska Pravda (Nov 24); Reuters via Devdiscourse, world news summary (Nov 24)
+
+// Story 5: South Korea Ulleung air raid alert
+[ava] Story five. Residents of South Korea's Ulleung island were told to take shelter this morning, local time, when Russian military planes entered South Korea's air defense zone and flew close to the island. The alert was lifted after three minutes. The planes never entered South Korean airspace, and a follow-up text wrongly called them North Korean. Seoul is summoning Russia's defense attaché.
+> source: The Guardian, "South Korea tells island residents to take shelter after Russian military aircraft approach" (Nov 24); Yonhap (Nov 24); Korea JoongAng Daily (Nov 24)
+
+// Story 6: Pakistan's first astronaut on Shenzhou-24
+[ava] Story six. Tonight at about seven eighteen our time, China plans to launch Shenzhou twenty-four, carrying Pakistan Air Force pilot Muhammad Zeeshan Ali. He'll be Pakistan's first astronaut and the first foreigner aboard China's Tiangong space station. He'll spend about a week there setting up joint experiments.
+> source: Al Jazeera, "Pakistan's Zeeshan Ali set for historic flight to China's space station" (Nov 24); Dawn (Nov 24); China Manned Space Agency news conference (Nov 24)
+
+## Markets | sting=markets
+// Story 7: Pre-market
+[andrew] Story seven, markets. Monday was the best day for stocks since April of last year. The S&P five hundred jumped four point seven percent to about seven thousand two hundred thirty-eight. The Nasdaq soared six and a half percent to about twenty-four thousand ninety, and the Dow rose three percent to near forty-nine thousand six hundred.
+[andrew] This morning some of that is coming back out. S&P futures are down about one percent, Nasdaq one hundred futures about two, and Dow futures about half a percent. Nvidia is off three to five percent before the bell. Overseas, South Korea's Kospi surged six percent to top five thousand and Japan's Nikkei gained nearly four.
+[andrew] Earnings: Hewlett Packard Enterprise beat and raised its outlook, with AI server revenue up nearly seventy percent, but the stock is down almost ten percent on a margin warning after Monday's eighteen percent pop. Zoom beat and declared its first dividend, twenty-five cents a share. AMD filed to register about three hundred thirty-seven million shares for possible resale, mostly tied to warrants held by OpenAI and Meta. AMD gets no proceeds, and the warrants vest only after huge chip purchases and a much higher share price. And Anthropic slipped about four percent, to just above its eighty-three-dollar IPO price.
+[andrew] The ten-year Treasury yield is about four point nine one percent and the two-year about four point six six. New York Fed President John Williams says inflation is still running too high, and markets now price a quarter-point Fed hike on December ninth as a near certainty. The dollar index is above one hundred four, its highest since March of last year. US crude is near eighty dollars and Brent is in the high eighties. Gold is about thirty-six hundred twenty, and Bitcoin slipped below sixty thousand.
+[andrew] Today, Medtronic, Best Buy, Analog Devices and Dollar Tree report before the bell, and Dell, HP, Workday and Autodesk after. Consumer confidence is out at ten. Inflation and revised GDP come Wednesday.
+> source: CNBC, "Stock futures decline as Nvidia pulls back" live updates (Nov 24, 6:49 a.m. ET); Yahoo Finance (Nov 24, 6:27 a.m. ET); CNBC, "Treasury yields lower after inflation warning from New York Fed's Williams" (Nov 24); CoinDesk (Nov 24, 5:08 a.m. ET); Investing.com on HPE (Nov 24); AMD Form S-3ASR (Nov 23); Fortune (Nov 24); Benzinga earnings preview (Nov 24)
+
+## Technology | sting=tech
+// Story 8: How Huang got his job back (new details)
+[andrew] Story eight, tech. New details on Jensen Huang's return to Nvidia. The Wall Street Journal reports that at Sunday night's board meeting, Huang disclosed additional affairs beyond the two already reported, expressed remorse, and the board voted unanimously to restore him. The Journal says President Trump called into the meeting to urge the board to take him back. The Financial Times reports interim CEO Colette Kress wasn't told about the meeting.
+[andrew] Huang still faces probes by the SEC, FBI, Commerce and Justice Departments and several congressional committees. Republican Senator Kevin Cramer called rehiring him a national security risk. Supporters argue Nvidia's founder is irreplaceable at a critical moment for AI.
+> source: Fortune, citing The Wall Street Journal and Financial Times (Nov 24); Livemint (Nov 24); The Jerusalem Post (Nov 24); Sen. Kevin Cramer statement (Nov 23)
+
+## Artificial Intelligence | sting=ai
+// Story 9: Claude VP vs VNP claim; Axios scoop on insider fears
+[andrew] Story nine, AI. Anthropic has posted a paper claiming that an internal research version of Claude proved V P is not equal to V N P. That's the algebra version of P versus NP, a question open since Leslie Valiant posed it in nineteen seventy-nine. It does not settle P versus NP itself. The proof comes with a computer-checked Lean formalization, but Anthropic is upfront that no human mathematician has checked it yet.
+[andrew] And Axios reports that more than two dozen sources say many employees at Anthropic and OpenAI believe some unreleased models are too powerful to release safely. OpenAI says it has adopted safety requirements that could slow releases. Anthropic says it may hold models back even when it costs the company.
+> source: Anthropic, github.com/anthropics/formal-math, vp-vnp README and paper (merged Nov 23); Axios, "AI employees sound alarm: models too powerful to ever release" (Nov 24)
+
+## Cybersecurity | sting=cyber
+// Story 10: Shirudo; Chrome critical update; Iran suspected in tanker cyberattacks
+[ava] Story ten, the cyber desk. OpenAI and Cisco have released Shirudo, an open-source Linux tool that lets AI agents write small targeted shields to block an exploit on a running server before the real patch is installed, without a restart. A person approves each one before it goes live. In a test, it stopped a Java4Shell attack on a live Elasticsearch service.
+[ava] Google has an urgent Chrome update for a critical flaw that could let a malicious web page run code outside the browser's sandbox. There's no sign it's being exploited yet, but update to version one fifty-eight and restart.
+[ava] And The Wall Street Journal reports US officials see Iran as the main suspect in cyberattacks on as many as fifty tankers, some with bomb threats and ransom demands. Russia is also being examined.
+> source: OpenAI, "OpenAI and Cisco introduce Shirudo" (Nov 23); Cisco Newsroom (Nov 23); Google Chrome Releases blog, CVE-2026-134401 (Nov 23); CNBC, citing The Wall Street Journal (Nov 24)
+
+## From Your X Feed | sting=x
+// Story 11: X feed
+[ava] Story eleven, from your X feed. Variety reports Woody Harrelson turned down the role of Haymitch in The Hunger Games twice, because he wasn't sure there was enough for the character to do.
+[ava] World of Engineering noted that a single gram of DNA could in theory store two hundred fifteen petabytes of data, millions of movies. That estimate comes from a twenty seventeen Columbia University study.
+[ava] Pieter Levels, who posts as levelsio, predicts a new digital nomad wave around twenty twenty-eight, with people prompting AI from anywhere and self-driving vans and RVs keeping them on the move.
+> source: Harry's X feed, Nov 23-24 (@Variety, @engineers_feed, @levelsio); Variety, "Woody Harrelson Turned Down Haymitch Offer Twice" (Nov 23); Erlich and Zielinski, Science (2017)
+
+## Local News & Events | sting=local
+// Story 12: Town manager investigation bill; MHT travel; Winter Stroll and light shows
+[ava] Story twelve, local news. The Londonderry Times reports the town received a bill of about one hundred twenty-five thousand dollars for the outside investigation of former Town Manager Shaun Mulholland, who was fired on a three to two vote in September. Councilor Dan Bouchard has questioned why more than twenty-eight thousand dollars in charges were blacked out. Five law firms have now billed the town more than two hundred ninety-one thousand dollars this year.
+[ava] At Manchester-Boston Regional Airport, Thanksgiving travel was moving smoothly early this morning, with just one delay. AAA expects eighty-one million Americans to travel this holiday. Late last night a flight from Charlotte reported a mechanical problem and landed safely in Manchester.
+[ava] And for the weekend: Nashua's Winter Stroll is Saturday from five to nine, with the tree lighting at five thirty. Free shuttles run from Holman Stadium and other lots. Gift of Lights at New Hampshire Motor Speedway opens Friday.
+> source: Londonderry Times, "Latest Investigation Bill on Town Manager Tops $125K" (Nov 22); WMUR, "AAA predicts 81 million people to travel for Thanksgiving holidays" (Nov 24); WMUR, "Plane emergency ends in safe landing at Manchester airport" (Nov 23); Downtown Nashua Association, Winter Stroll; New Hampshire Magazine, Christmas lights displays (Nov 16)
+
+## Uplifting Story | sting=feel
+// Story 13: Wally the therapy dog helps teen walk again
+[ava] And finally, story thirteen. Fifteen-year-old Noah Ashworth of Virginia had to relearn how to stand and walk after a blood clot caused a stroke in his spinal cord. His best therapist turned out to be Wally, a Labrador and golden retriever mix at the Children's Hospital of The King's Daughters in Norfolk. Games of fetch and tug-of-war rebuilt Noah's core strength and balance, until he could shift his weight from foot to foot and walk again.
+[ava] His dad says Wally was so good at his job that it just felt like fun.
+> source: People, "Dog Helps Virginia Teen Walk Again After Spinal Cord Stroke" (Nov 23); CHKD Health System; Canine Companions
+
+## Close | sting=close
+[ava] That's your Tuesday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. Dell and HP report after the bell, and we'll have the numbers tomorrow.
+[ava] Thanks for listening to Gumshoe News Radio.
