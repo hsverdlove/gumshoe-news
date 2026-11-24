@@ -1,0 +1,90 @@
+// Gumshoe script format: see README.md
+# title: Tuesday 1 PM Update, Nov 24
+# description: The Tuesday one o'clock update from Gumshoe News Radio for November 24, 2026: Londonderry, New Hampshire weather for the next 24 hours; Rudy Giuliani receives the Presidential Medal of Freedom, a judge permanently blocks penalties for speech helping the International Criminal Court, and 22 states sue over a HUD rule on mixed-status families; Israel kills Hamas's internal security chief in Gaza, a deadly gas blast in Hanoi, and wage protests shut Bangladesh garment factories; a midday market split as chips slide and the Dow climbs; Uber, Nuro and Lucid start driverless testing, and Microsoft's "Code Red"; Tidal bans fully AI-generated music and Nvidia modules turn up in Russian weapons; the Justice Department's anti-scam surge, hacked Check Point servers and a new Iran-linked spy group; your X feed; Londonderry's tax-rate vote and Thanksgiving services in Derry; and the childhood promise behind Thanksgiving Heroes. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon. It's Tuesday, November twenty-fourth, and this is the one o'clock update from Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. Chip stocks are still getting hit, but the Dow is quietly having a good day.
+[ava] First, the weather in Londonderry New Hampshire for the next twenty-four hours.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 24 at airtime
+
+## US News | sting=us
+// Story 1: Giuliani receives Medal of Freedom; turkey pardon at 2
+[ava] Story one. President Trump presented Rudy Giuliani with the Presidential Medal of Freedom this morning in a closed-press ceremony in the Oval Office. The White House credits the eighty-two-year-old with taking down mob bosses as a federal prosecutor, cutting crime as mayor of New York, and steadying the country after September eleventh. Giuliani said he was honored and humbled.
+[ava] Critics point to what came later. As Trump's lawyer after the twenty twenty election, Giuliani pushed false claims of widespread fraud. He was disbarred in New York and Washington, and a federal jury held him liable for defaming two Georgia election workers. Later this afternoon, the president and first lady host the annual Thanksgiving turkey pardon before heading to Palm Beach.
+> source: CBS News, "Trump presenting Rudy Giuliani with Presidential Medal of Freedom" (Nov 24); AP (Nov 24); The Hill (Nov 24); White House daily guidance (Nov 24)
+
+// Story 2: Judge permanently blocks ICC speech penalties
+[ava] Story two. A federal judge in New York has permanently blocked the administration from punishing Americans for speech that helps the International Criminal Court. The challenge was to part of a twenty twenty-five executive order that sanctioned the court and barred providing it services, with penalties of up to twenty years in prison. Judge Jesse Furman ruled that applying that ban to advocacy and advice is an unconstitutional restriction on speech, and his order covers people nationwide.
+[ava] The ruling doesn't touch the sanctions themselves, asset freezes, or anything involving money or goods. The administration has argued the court is targeting Americans and Israelis without legitimate authority, and it can appeal.
+> source: Bloomberg Law, "Trump's ICC Order Violates First Amendment, New York Judge Says" (Nov 24); Anadolu Agency (Nov 24); DAWN, court opinion and order (Nov 24)
+
+// Story 3: 22 states sue HUD over mixed-status families rule
+[ava] Story three. Twenty-two states and the District of Columbia are suing the Department of Housing and Urban Development to stop a rule that takes effect December fourteenth. Right now, families where some members aren't eligible because of immigration status can still get reduced aid for the eligible members, often US citizen children. Under the new rule, one ineligible person means the whole household loses its subsidy. The states say that could affect about twenty thousand families, around seventy-eight thousand people, and that it breaks federal housing law. HUD Secretary Scott Turner says the rule ends the misuse of taxpayer dollars and frees up to two hundred eighteen million dollars for eligible Americans on waiting lists.
+> source: AP, "States sue HUD over a rule that could cut off housing aid for mixed-status families" (Nov 24); States Newsroom (Nov 24); Illinois Attorney General release (Nov 23)
+
+## International | sting=world
+// Story 4: Israel kills Hamas internal security chief
+[ava] Story four, the world. An Israeli drone strike in Gaza City has killed Naim Abu Nahl, the head of Hamas's internal security service. Gaza's interior ministry says he was walking in a street crowded with displaced families, and four other people were wounded. Israel's military and Shin Bet confirmed they struck a senior Hamas official.
+[ava] Hamas calls it a war crime and is asking the ceasefire's guarantors to step in. Israel has said it targets militants it accuses of violating the truce. Health officials in Gaza say other strikes killed several people earlier today.
+> source: Al Jazeera, "Israeli air strike kills senior Hamas security official in Gaza" (Nov 24); BBC (Nov 24); The Times of Israel (Nov 24); Reuters via Investing.com (Nov 24)
+
+// Story 5: Hanoi gas explosion; Bangladesh garment wage protests
+[ava] Story five. In Vietnam, a suspected cooking-gas explosion tore through a hotpot restaurant in Hanoi this morning local time, collapsing the building. Seven people have died, including a passerby, and about ten were hurt. Police say leaking gas built up and then ignited.
+[ava] And in Bangladesh, garment workers demanding a higher minimum wage blocked highways outside Dhaka, and police fired tear gas and sound grenades. The manufacturers' group says production stopped at about four hundred eighty factories. The industry supplies brands like H and M, Gap and Walmart and makes up more than eighty percent of the country's exports.
+> source: AP, "Hanoi eatery blast kills 6 and injures more than a dozen" (Nov 24); VnExpress and VietNamNet, death toll rises to seven (Nov 24); Reuters via Devdiscourse (Nov 24); The Business Standard (Nov 24); Prothom Alo (Nov 24)
+
+## Markets | sting=markets
+// Story 6: Midday markets
+[andrew] Story six, markets at midday. It's a split tape. As of about twelve forty, the Dow was up nearly one percent, just above fifty thousand. The S&P five hundred was down about a third of a percent, after being down more than one percent this morning. The Nasdaq one hundred was off almost two percent. The Russell two thousand of smaller companies was up nearly one percent.
+[andrew] Chips are doing the damage. The Philadelphia semiconductor index was down around nine percent late this morning, after gaining fourteen on Monday. Nvidia is off around seven to eight percent, Micron and AMD around nine to ten, and Texas Instruments about nine. Analog Devices is having its worst day since twenty twenty, down nearly twenty percent, because its outlook came in light even though last quarter was a record. Anthropic's young stock is now well below its eighty-three dollar IPO price, near seventy-six late this morning.
+[andrew] Money is moving into defensive sectors. Health care and consumer staples lead. Kohl's jumped more than twelve percent after a surprise profit and a higher outlook. Pinterest is up about thirteen percent after it strengthened executive pay protections in a takeover, which has traders guessing about a buyout, although no sale talks have been reported.
+[andrew] On the data side, the Conference Board's consumer confidence index jumped to one hundred three point three, its best in nearly two years and well ahead of forecasts. That's good news for the economy, but it adds to the case for a Fed hike. Traders see about a ninety-five percent chance of a quarter-point increase on December ninth.
+[andrew] The ten-year yield is about four point nine percent. Oil is up more than one percent on Strait of Hormuz risks, with US crude near eighty-one dollars and Brent near ninety and a half. Gold is down about two percent, near thirty-five seventy an ounce, and Bitcoin has slipped below sixty thousand. Tomorrow brings the PCE inflation report, the last big number before the Fed meets.
+> source: Reuters via StreetInsider, "Nasdaq, S&P 500 fall as Nvidia-driven AI rally unwinds" (Nov 24, 11:36 a.m. ET); SquawkFlow index quotes (Nov 24, 12:42 p.m. ET); Yahoo Finance live (Nov 24, 12:17 p.m. ET); The Motley Fool midday (Nov 24); 24/7 Wall St. sector data (Nov 24); Investing.com on Analog Devices, Kohl's and Pinterest (Nov 24); Conference Board via X News (Nov 24); CNBC, "Oil rebounds from three-month lows on Hormuz threats" (Nov 24); FXStreet (Nov 24)
+
+## Technology | sting=tech
+// Story 7: Uber, Nuro, Lucid driverless testing; Microsoft Code Red
+[andrew] Story seven, tech. Uber, Nuro and Lucid have started fully driverless testing of their robotaxis on public roads in Silicon Valley, with nobody behind the wheel. The Lucid Gravity SUVs are running in Palo Alto, Mountain View, Los Altos and Sunnyvale under a California permit that allows speeds up to forty-five miles an hour. Employee rides come next, and the companies are aiming for public service in early twenty twenty-seven.
+[andrew] And Reuters reports Microsoft has declared an internal "Code Red" after its historic twenty-four-hour Microsoft three sixty-five outage. Internal memos describe five work streams to limit how far failures spread and recover faster. The goal is to fix worldwide problems within an hour, with help from AI diagnostic agents.
+> source: Business Wire, Nuro, Lucid and Uber release (Nov 24); TechCrunch (Nov 24); The Verge (Nov 24); California DMV permit list; Reuters via Investing.com, "Microsoft declares 'Code Red' after historic outage, internal memos show" (Nov 24)
+
+## Artificial Intelligence | sting=ai
+// Story 8: Tidal bans fully AI-generated music; Nvidia modules in Russian weapons
+[andrew] Story eight, AI. Tidal says it will become the first major music streaming service to ban songs made entirely by AI. Starting December ninth, it will reject new fully AI-generated tracks and remove existing ones, about twenty-nine million songs. Tidal says forty-three percent of tracks delivered to it in the last ninety days were flagged as AI-generated. Music made with AI help but not entirely by AI is still allowed.
+[andrew] And Ukrainian investigators say they've found Nvidia Jetson computing modules inside several Russian attack drones and a cruise missile. These small boards help weapons see and pick targets on their own. Nvidia says it doesn't sell the modules in Russia. Civilian parts are often resold through third countries, which makes them hard to trace.
+> source: TechCrunch, "Tidal to ban and remove millions of AI-generated tracks" (Nov 24); The Verge (Nov 24); Tidal AI policy; Ukraine HUR (GUR) War and Sanctions; Militarnyi (Nov 24); Kyiv Post
+
+## Cybersecurity | sting=cyber
+// Story 9: DOJ anti-scam surge; Check Point servers compromised; Volant Manticore
+[ava] Story nine, the cyber desk. Attorney General Todd Blanche says the Justice Department's largest-ever crackdown on scammers has brought more than four hundred cases against over eight hundred defendants since March, and recovered more than eight billion dollars in intended victim losses. FBI Director Kash Patel says the bureau's Operation Blackout has seized nearly seventeen billion dollars in illicit funds and helped dismantle scam compounds overseas. Those figures come from the department itself.
+[ava] Separately, the security firm GreyNoise says an unknown group broke into Check Point firewall management servers at twenty-two organizations in seventeen countries, including government agencies, banks and energy companies. The attackers stole credentials and in some cases turned off firewall protections. GreyNoise says the campaign may still be going on.
+[ava] And Check Point researchers have identified a new Iran-linked spy group they call Volant Manticore. It's targeting airlines, telecom companies and hospitals, and hides its command traffic in a peer-to-peer file network.
+> source: US Department of Justice, "Largest-Ever Crackdown on Scammers" (Nov 24); Fox News (Nov 24); BleepingComputer, "Hackers compromise Check Point Servers in 22 organizations" (Nov 24); Check Point Research, "Volant Manticore" (Nov 24); The Hacker News (Nov 24)
+
+## From Your X Feed | sting=x
+// Story 10: X feed
+[ava] Story ten, from your X feed. SpaceX launched a Falcon nine from California this morning with the USSF two sixty-six mission for the Space Force, and landed the booster on the droneship Of Course I Still Love You.
+[ava] Variety says "The Hunger Games: Sunrise on the Reaping" looks set to rule Thanksgiving weekend, with eighty to ninety million dollars from Wednesday through Sunday. "Focker In-Law" and Disney's "Hexed" are each expected to open around forty to forty-five million.
+[ava] Garry Tan shared Ramp card-spending data suggesting that as AI gets cheaper per unit of intelligence, business usage isn't climbing as fast as you'd expect. He says that hints the Jevons paradox may have stalled for now.
+[ava] And Interesting All passed along a nature fact for the holiday table: sperm whales sleep floating upright beneath the surface, often in groups, in naps of about ten to fifteen minutes.
+> source: Harry's X feed, Nov 24 (@SpaceX, @Variety, @garrytan, @interesting_aIl); Variety, Thanksgiving box office preview (Nov 24)
+
+## Local News & Events | sting=local
+// Story 11: Londonderry tax rate vote; Nashua hearing delayed; Derry interfaith service
+[ava] Story eleven, local news. The Londonderry Town Council voted three to two not to use any of the town's surplus to lower the town's share of December tax bills. The estimated town rate is three dollars eighty-six cents per thousand of property value. Putting in a million dollars would have saved the owner of a seven hundred thousand dollar home about ninety-eight dollars. The majority wants to keep the money for emergencies and projects on the March ballot.
+[ava] In Nashua, the probable cause hearing for a nineteen-year-old charged in the shooting of a teenager has been pushed to December first, because no defense lawyer was available.
+[ava] And if you're looking for a quiet start to the holiday, Derry's community interfaith Thanksgiving service is tonight from seven fifteen to eight thirty at the Church of the Transfiguration on Hood Road.
+> source: Londonderry Times, "Council Votes Not to Use Fund Balance to Reduce Tax Rate" (Nov 22); WMUR, "Probable cause hearing rescheduled in Nashua shooting" (Nov 24); NHPR community calendar, Interfaith Thanksgiving Service (Derry)
+
+## Uplifting Story | sting=feel
+// Story 12: Thanksgiving Heroes
+[ava] And finally, story twelve. When Rob Adams was a boy in Texas, his family of eight lived for a while out of a pickup truck. One Christmas, neighbors lent them their home while they were away, with a full fridge, a turkey, pumpkin pie, and presents under the tree. Eleven-year-old Rob told his mom that when he was rich, which then just meant not sleeping in the car, he'd pay it forward.
+[ava] Years later, as his mother faced brain cancer, she reminded him of that promise. He started Thanksgiving Heroes in Utah hoping to feed ten families. The first year it fed about seven hundred fifty-five. This year the goal in Utah is thirty-six hundred, and chapters from Cleveland to New Haven have now served more than twenty-nine thousand families. Neighbors nominate the families, and no one has to prove need. As Adams puts it, the chance to feel love and fulfillment is right there.
+> source: Good News Network, "A Childhood Promise Mobilizes 'Thanksgiving Heroes,' Serving Thousands Nationwide This Holiday" (Nov 24); Thanksgiving Heroes
+
+## Close | sting=close
+[ava] That's your one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Dell and HP report after the bell, and I'll have the closing numbers at four.
+[ava] Thanks for listening to Gumshoe News Radio.
