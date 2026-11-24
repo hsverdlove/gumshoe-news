@@ -1,0 +1,87 @@
+// Gumshoe script format: see README.md
+# title: Tuesday 10 AM Update, Nov 24
+# description: The Tuesday ten o'clock update from Gumshoe News Radio for November 24, 2026: Londonderry, New Hampshire weather for the next 24 hours; an appeals court revives President Trump's bid to move his hush money case to federal court, an AP investigation into fentanyl pills the DEA let go, and a widening House probe of 1789 Capital; Riyadh's financial district is hit again, and Sheikh Hasina says she'll fly home to Bangladesh; stocks open lower as chip shares retreat and a tariff report weighs; Amazon makes its Decart deal official; Claude Ship and the world's largest AI breast-screening trial; a data breach at South Korea's national power company; your X feed; a Salem man charged over a school threat and Woodmont Commons housing; and a grandfather who found a lost toddler in the desert. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Tuesday, November twenty-fourth, and this is the ten o'clock update from Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Monday's party on Wall Street is over, at least for today. Chip stocks are leading the market lower at the open.
+[ava] First, the weather in Londonderry New Hampshire for the next twenty-four hours.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 24 at airtime
+
+## US News | sting=us
+// Story 1: 2nd Circuit revives Trump bid to move hush money case
+[ava] Story one. A federal appeals court has given President Trump a new path to challenge his New York hush money conviction. In a two-page order Monday, a three-judge panel of the Second Circuit said a lower court judge was wrong to rule that Trump waited too long to raise presidential immunity. The judges sent the case back so a federal court can decide whether it should move out of state court, and they asked that state proceedings pause in the meantime.
+[ava] The conviction on thirty-four counts of falsifying business records still stands, and the panel did not decide whether immunity applies. Trump's legal team called the ruling prompt and correct and says the case should be dismissed. Manhattan prosecutors have argued the case was about business records, not official acts, and that challenges belong in state court. They declined to comment Monday.
+> source: NBC News, "Appeals court gives Trump another chance to move his hush money conviction case to a federal venue" (Nov 23); AP (Nov 23-24); Second Circuit order (Nov 23)
+
+// Story 2: AP investigation: DEA let 1.4 million fentanyl pills go unseized
+[ava] Story two. An Associated Press investigation finds that Drug Enforcement Administration agents let at least one point four million fentanyl pills reach the streets while building a bigger case against a New Mexico trafficking ring between August twenty twenty-four and April twenty twenty-five. In one case, agents watched a deal at a hotel and didn't step in.
+[ava] The DEA denies knowingly allowing fentanyl trafficking. Supporters of the approach say letting smaller loads pass can be the only way to reach a network's leaders. But New Mexico authorities are demanding DEA records, there's a criminal investigation in the state, and Congress has opened an inquiry.
+> source: AP, "AP investigation: The DEA allowed 1.4 million fentanyl pills to go unseized in major probe" (Nov 24); AP, key takeaways (Nov 24)
+
+// Story 3: Raskin widens 1789 Capital probe
+[ava] Story three, briefly. Maryland Democrat Jamie Raskin is widening his look at Donald Trump Junior's venture firm, 1789 Capital. He's asking for records from four companies it invested in: Hadrian Automation, Juul Labs, Polymarket and GrabAGun. Raskin says he wants to know whether insider access helped those firms win federal contracts or favorable policy. Trump Junior and 1789 Capital deny any wrongdoing. Democrats take control of the House in January, and this is likely a preview of their oversight agenda.
+> source: AP (Nov 24); Rep. Jamie Raskin letters (Nov 23)
+
+## International | sting=world
+// Story 4: Riyadh financial district tower hit again
+[ava] Story four, the world. For the second time in less than a week, a tower in Riyadh's King Abdullah Financial District has been hit. The Saudi-led coalition calls it a cowardly terrorist attack and says investigators are at the scene. Witnesses told AFP the target was the skyscraper that houses Saudi Arabia's sovereign wealth fund, the city's tallest building, which Yemen's Houthis struck last Thursday.
+[ava] No one has claimed this attack yet, and there's no word on injuries. It comes a day after the Houthis accused Saudi forces of an airstrike in Yemen that they say killed twenty-six people, and vowed a response.
+> source: Al Jazeera with AFP, "Saudi-led coalition condemns 'terrorist attack' on tower in Riyadh" (Nov 24); Arab News (Nov 24); Al Arabiya (Nov 24); Siasat (Nov 24); Reuters on the Nov 19 strike
+
+// Story 5: Hasina plans Dec 16 return; Kremlin on Europe in talks
+[ava] Story five. Bangladesh's ousted prime minister Sheikh Hasina says she'll come home from exile in India on December sixteenth, the anniversary of the end of the nineteen seventy-one liberation war. She's asking the government to fly her back on the national airline. A Bangladesh tribunal sentenced her to death in absentia over the deadly crackdown on the twenty twenty-four uprising, which the United Nations says killed as many as fourteen hundred people. Hasina rejects the verdict. Prime Minister Tarique Rahman's office says she can only come back through extradition, and she would likely be arrested on arrival.
+[ava] And on Ukraine, the Kremlin says it sees no added value so far in Europeans joining the next round of peace talks, even though US envoy Jared Kushner said both sides had agreed to it. No date is set for that next round.
+> source: Al Jazeera with AP and Reuters, "Sheikh Hasina plans to return to Bangladesh from exile on December 16" (Nov 24); BBC (Nov 24); Anadolu Agency, Kremlin spokesman Dmitry Peskov briefing (Nov 24)
+
+## Markets | sting=markets
+// Story 6: Market open
+[andrew] Story six, markets. Stocks opened lower as investors took profits after Monday's huge rally. In the first minutes of trading the S&P five hundred was down about one percent, near seventy-one seventy, the Nasdaq off about one and a half to nearly two percent, and the Dow down less than half a percent. Chips are leading the slide: Nvidia is off about five percent after Monday's thirty-one percent surge, and AMD, Micron, Broadcom and Marvell are down more. Data-center names like CoreWeave and Nebius are lower too.
+[andrew] The other drag is trade. The Wall Street Journal reports the administration is preparing higher tariffs on China, the European Union, Japan, South Korea, India and others, over government subsidies it says create excess capacity and undercut US manufacturers. Trade Representative Jamieson Greer could release his findings as soon as this week. The EU, Japan and South Korea might face rates up to fifteen percent, with China likely higher. Final rates aren't set, and some analysts expect any increase to take effect next year rather than right away. The US and China have a trade truce that runs until January tenth.
+[andrew] Retail earnings are a bright spot. Best Buy beat and raised its outlook, and the stock rose about five percent before the bell. Dollar Tree beat and raised too, up about eleven percent premarket. Analog Devices posted a record quarter. Medtronic missed on revenue after spinning off its diabetes business, and fell more than five percent.
+[andrew] And in jobs news, Kroger has begun cutting about three thousand US corporate positions over the next three years while it builds a new operations center in Bengaluru India. It says that will centralize finance, technology and supply chain work. Critics online are calling for a boycott.
+[andrew] Bond traders now see about a ninety-five percent chance of a quarter-point Fed hike on December ninth, and a small chance of a half point. The ten-year yield is near four point nine percent, US crude is around eighty dollars, and Bitcoin is hovering near sixty thousand. Consumer confidence is out at ten, and the big inflation report comes tomorrow.
+> source: Reuters via Devdiscourse, "Wall St opens lower as Nvidia-fueled AI rally fades" (Nov 24); Yahoo Finance live (Nov 24, 9:37 a.m. ET); Barron's live (Nov 24); Reuters via Investing.com (Nov 24); The Wall Street Journal via FXStreet, Newsquawk and Yahoo Finance (Nov 24); Investing.com on Best Buy, Dollar Tree and Medtronic (Nov 24); Analog Devices release (Nov 24); Progressive Grocer and Quartz on Kroger (Nov 22-23); CoinDesk (Nov 24)
+
+## Technology | sting=tech
+// Story 7: Amazon makes Decart deal official
+[andrew] Story seven, tech. Amazon has made it official: it's paying about seven and a half billion dollars, according to Bloomberg, for the core technology of Israeli startup Decart, along with its founders and research team. The prize is software that helps AI models run efficiently on different kinds of chips. Amazon is getting ready to sell its Trainium chips to outside customers, and this could make it easier for companies to move work off Nvidia hardware. Amazon executive Peter DeSantis says every leap forward in AI starts with getting more out of every chip.
+> source: TechCrunch, "Amazon snaps up Decart's AI optimization tech for $7.5B as it prepares to sell Trainium chips" (Nov 23); Amazon, About Amazon (Nov 23); Bloomberg Law (Nov 23); CNBC (Nov 23)
+
+## Artificial Intelligence | sting=ai
+// Story 8: Claude Ship; NHS EDITH AI breast-screening trial
+[andrew] Story eight, AI. Anthropic has launched Claude Ship for business teams on GitHub. It reviews proposed code changes, fixes problems, and can even approve changes that a team's own rules allow, while people still sign off on anything the rules flag. Supporters see a big speedup for software teams. Skeptics worry about code going live with less human review.
+[andrew] And in Britain, the first women have joined what's billed as the world's largest trial of AI in breast cancer screening. The EDITH trial plans to include nearly seven hundred thousand women at about thirty sites over three years, to see whether AI helps catch cancers earlier and lightens radiologists' workload. Every mammogram will still be read by at least one human radiologist. The Royal College of Radiologists says the potential is real, but it's not a quick fix for staff shortages.
+> source: Anthropic, Claude Ship announcement (Nov 23); join.dev AI news (Nov 24); NHS England, "First women join world-leading AI-assisted NHS breast screening trial" (Nov 2026); University of Cambridge; BBC News; Royal College of Radiologists
+
+## Cybersecurity | sting=cyber
+// Story 9: KEPCO breach; McDonald's Japan app breach
+[ava] Story nine, the cyber desk. South Korea's national power company, KEPCO, says hackers got into its billing and procurement systems and exposed data on more than one and a half million people. That includes about six hundred fifty thousand customers whose names, ID details, bank account and card numbers were exposed. A hacker using the name Noiem advertised the data on a forum, but that claim isn't confirmed. KEPCO says the attackers used advanced tools such as AI, without giving details.
+[ava] And McDonald's Japan says a breach of its app database exposed purchase history, IP addresses and device location data. It says names, emails, phone numbers and card data weren't affected.
+> source: BleepingComputer, "South Korea's power giant KEPCO confirms data breach impacting 1.5 million" (Nov 23); BleepingComputer, "McDonald's Japan data breach exposes customer location information" (Nov 24)
+
+## From Your X Feed | sting=x
+// Story 10: X feed
+[ava] Story ten, from your X feed. Variety reports U2 has announced fifteen North American stadium shows for twenty twenty-seven, from Miami on August thirteenth to Vancouver in October. There's a stop at Gillette Stadium in Foxborough.
+[ava] Trung Phan reminded everyone that Costco sells more than six million pumpkin pies in November and December, with about a third of them sold in the three days before Thanksgiving.
+[ava] And security writer Ben Rothke warned about fake storage-full alerts that look like they're from Google Drive, iCloud or OneDrive. They're designed to steal card numbers and logins, so check your storage in the real app, never through the link.
+> source: Harry's X feed, Nov 24 (@Variety, @TrungTPhan, @benrothke); Variety, "U2 Announces North American Leg of 'Greatest Show on Earth' Tour" (Nov 24); U2.com (Nov 24)
+
+## Local News & Events | sting=local
+// Story 11: Salem man charged over Winchester HS threat; Woodmont Commons housing; school board tonight
+[ava] Story eleven, local news. A twenty-five-year-old Salem man is charged with making threats and a civil rights violation, after Massachusetts prosecutors say he posted a Snapchat video threatening a shooting at Winchester High School that included racial slurs. Michael Doucette was arrested at his Salem home and no weapons were found. Bail is set at a hundred thousand dollars, and he's due back in Woburn District Court in December.
+[ava] In Londonderry, the Town Council has approved the roadwork deal that clears the way for two more housing projects at Woodmont Commons: a sixty-unit building and a two hundred fifty-unit cottage-court community of small single-family homes on former orchard land off Pillsbury Road. A jury also recently approved the state's use of eminent domain for the new Interstate ninety-three exit there.
+[ava] And the Londonderry School Board meets tonight at six at the high school, with a presentation on next year's budget.
+> source: Middlesex County District Attorney's Office (Nov 23); WMUR, "NH man charged for threatening shooting at Mass. high school" (Nov 23); Boston Globe (Nov 23); The Registry Review, "Londonderry OKs 310 Units in Woodmont Commons" (Nov 23); Londonderry School District news
+
+## Uplifting Story | sting=feel
+// Story 12: Grandfather finds lost toddler in Arizona desert
+[ava] And finally, story twelve. When two-year-old Vella Campillo wandered into the desert near Eloy Arizona at sundown last week, wearing just a diaper, dozens of deputies and volunteers searched through a cold night. Drones and a helicopter couldn't pick up her tiny heat signature. Just after midnight, volunteer Jay Stewart, a father and grandfather, checked a line of bushes by a ditch, and there she was. She clung to him so tightly it took some convincing to hand her over. She was unhurt.
+[ava] The Pinal County sheriff named Stewart a hero and made him an honorary member of the rescue posse. Stewart says everyone searched for the same reason: she may not be our child, but she could be.
+> source: Good News Network, "Determined Volunteer Rescues Lost Toddler in the Desert" (Nov 23); Pinal County Sheriff's Office; KZAS
+
+## Close | sting=close
+[ava] That's your ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Dell and HP report after the bell, and I'll have the market's midday moves at one.
+[ava] Thanks for listening to Gumshoe News Radio.
