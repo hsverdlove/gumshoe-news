@@ -1,0 +1,88 @@
+// Gumshoe script format: see README.md
+# title: Wednesday 4 PM Update, Nov 25
+# description: The Wednesday four o'clock update from Gumshoe News Radio for November 25, 2026: Londonderry, New Hampshire weather for the next 24 hours; New Jersey declares a statewide emergency ahead of the Thanksgiving nor'easter, the debate over a proposed SNAP eligibility rule, and no ruling yet on Nidal Hasan's bid to delay his execution; Israeli judges urge prosecutors to drop the most serious charge against Netanyahu, and Iran halts two protesters' executions hours before dawn; the Dow turns higher as the Nasdaq claws back most of a four percent plunge; SpaceX and Elon Musk pledge shares to every active Trump Account, and Allstate's outage drags on; Dario Amodei pushes back on claims Anthropic would hand control to AI as Democrats call for limits; 1Password discloses a breach of customer names and emails; your X feed; what's open on Thanksgiving and the Lancers' title game; and shelter pets get their own Thanksgiving feast. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon. It's Wednesday, November twenty-fifth, and this is the four o'clock update from Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. What a turnaround. The Nasdaq was down more than four percent this morning, and the Dow finished in the green.
+[ava] First, the weather in Londonderry New Hampshire for the next twenty-four hours.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 25 at airtime
+
+## US News | sting=us
+// Story 1: Nor'easter, New Jersey emergency; AA diversion
+[ava] Story one, the holiday storm. New Jersey Governor Mikie Sherrill has declared a statewide state of emergency starting at six tonight, covering all twenty-one counties. The nor'easter could bring gusts of fifty to seventy miles an hour, heavy rain and serious coastal flooding through Friday. The order lets the state close roads, open shelters and call up the National Guard, but it doesn't ban travel.
+[ava] And if you're flying, one odd story from overnight. An American Airlines flight from San Diego to Chicago diverted to Phoenix after a passenger went to the front of the plane and tried to tamper with an exit door. Crew and passengers held him down until landing. He had a minor injury, no one else was hurt, and the flight went on to Chicago.
+> source: New Jersey Executive Order No. 31 (Nov 25); NJ.com, "State of emergency in effect for Thanksgiving storm" (Nov 25); CBS New York (Nov 25); CBS Chicago, "American Airlines flight diverted to Phoenix after passenger tampers with door" (Nov 25); FOX 10 Phoenix (Nov 25)
+
+// Story 2: SNAP rule debate
+[ava] Story two. On the eve of Thanksgiving, a fight over food aid. The Agriculture Department has proposed ending what's called broad-based categorical eligibility for SNAP. Right now many states let families qualify for food stamps because they receive a TANF-funded service, sometimes as little as a brochure. The rule would limit that to families getting actual TANF cash assistance.
+[ava] USDA's own estimate is that about six point three million people would lose benefits by twenty twenty-nine, saving about forty-five billion dollars over five years. Supporters say it closes a loophole and refocuses the program on the people it was meant for. Pennsylvania Governor Josh Shapiro, packing food at a food bank today, called it wrong and cruel, and his state estimates about three hundred ten thousand Pennsylvanians would be cut off. Public comments are open until December tenth.
+> source: USDA Food and Nutrition Service, "Proposed Rule: SNAP - Reforming Categorical Eligibility" (Federal Register, Nov 10); Bloomberg Law, "Trump Plan Would Strip Food Aid Benefits From 6.3 Million People" (Nov 2026); Philadelphia Inquirer (Nov 25); Focal News Philadelphia (Nov 2026)
+
+// Story 3: Nidal Hasan, no ruling yet
+[ava] Story three, a quick follow-up. Fort Hood shooter Nidal Hasan's hearing on his request to delay next week's firing-squad execution was set for this afternoon before Federal Judge Anthony Mattivi in Kansas. As of airtime, no ruling has been posted and the government hasn't filed its response. The execution remains scheduled for December third.
+> source: CourtListener docket, Hasan v. Sergent, No. 5:26-cv-03460 (D. Kan.), checked Nov 25 afternoon; Edit USA (Nov 24); AP (Nov 25)
+
+## International | sting=world
+// Story 4: Netanyahu trial
+[ava] Story four, the world. In Jerusalem, the judges in Benjamin Netanyahu's corruption trial took an unusual step today. With the attorney general in the courtroom at their request, they recommended prosecutors drop the bribery charge in the case involving the Bezeq telecom company and a news site owned by Shaul Elovitch, saying the chances of conviction are low. They also questioned whether the newspaper case involves a crime at all, and suggested a plea deal in the gifts case.
+[ava] The court stressed this is a recommendation, not a ruling. Netanyahu called it a ray of light for truth and justice. Attorney General Gali Baharav-Miara said she'd review it, but noted the case can end only in a verdict or a fitting plea deal, and that her office's earlier offer went unanswered. Netanyahu denies all the charges.
+> source: Reuters via Investing.com, "Israeli judges recommend prosecutors drop one bribery case against Netanyahu" (Nov 25); Globes (Nov 25); Ynet (Nov 25); Anadolu Agency (Nov 25); BBC (Nov 25)
+
+// Story 5: Iran halts protester executions
+[ava] Story five. In Iran, two men arrested during the twenty twenty-two Woman Life Freedom protests, Milad Armoon and Navid Najjaran, were due to be hanged before dawn today. A lawyer says the executions were halted hours before, after an international outcry including from a UN rapporteur. But Iran's judiciary says the death sentences have not been overturned and disputes reports about the timing. Their supporters are now pushing for retrials.
+> source: The National, "Iran suspends execution of two protesters" (Nov 25); Iran International, "Iran judiciary says death sentences for two protesters not overturned" (Nov 25); The Jerusalem Post (Nov 25); VOA Persian (Nov 25)
+
+## Markets | sting=markets
+// Story 6: Late-session markets
+[andrew] Story six, markets, and a remarkable comeback into the Thanksgiving break. At this morning's lows the Nasdaq was down more than four percent, and the Nasdaq one hundred briefly sat twenty percent below its record, flirting with a bear market. Then bargain hunters stepped in. At the close, according to preliminary numbers, the Dow was up about a third of a percent at fifty thousand one hundred seventy-four. The S&P five hundred slipped a quarter of a percent and the Nasdaq about two thirds of a percent. Volume was light ahead of the holiday.
+[andrew] Chips still took the worst of it. Late in the session Nvidia was down about four percent after falling as much as eight. Lam Research and Sandisk were off about six, and Micron, Oracle and Applied Materials about four to five. Technology was the weakest sector while materials and real estate led. Anthropic turned around too, climbing back near its eighty-three dollar IPO price after falling more than eight percent early. HP was the standout, up about twelve percent.
+[andrew] The macro picture is mixed. Third-quarter growth was revised up to four point three percent, but core inflation ran hot at three point three, and traders see a December rate hike as almost certain. Still, bonds rallied. The ten-year yield fell to around four point eight five percent and the two-year to about four point six. Oil rose, with US crude near eighty-three dollars and Brent around ninety. Gold fell nearly two percent to about thirty-five hundred an ounce, and bitcoin is around fifty-nine thousand after dipping below fifty-eight thousand.
+[andrew] Markets are closed tomorrow and close early, at one o'clock, on Friday. Even with today's bounce, the S&P is down roughly five percent for November.
+> source: Reuters via StreetInsider, "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains" (Nov 25, preliminary close); Reuters via Investing.com late-session quotes (Nov 25); Yahoo Finance live (Nov 25, 3:34 p.m. ET); Investor's Business Daily (Nov 25); Benzinga, "Stock Market Today" (Nov 25); US Bureau of Economic Analysis, GDP second estimate (Nov 25)
+
+## Technology | sting=tech
+// Story 7: SpaceX shares for Trump Accounts; Allstate outage
+[andrew] Story seven, tech and business. SpaceX says it will give one newly issued Class A share to every active Trump Account, the tax-advantaged savings accounts for American kids, and Elon Musk will personally match that from his own stake. With SpaceX trading around a hundred twenty-six dollars, that's potentially more than two hundred fifty dollars per child. The White House says nearly seventy million accounts exist, but families must claim them, so the active count is unclear.
+[andrew] Supporters call it a way to give kids a real stake in American industry. The fine print: SpaceX gave no date or dollar total, says approvals are still needed, and under Treasury rules families generally can't sell donated shares for five years. President Gwynne Shotwell's separate gift of over two million shares starts arriving in December.
+[andrew] And if you have Allstate insurance, its website and app have been down since Monday, so customers can't file claims, pay bills or get roadside help through the app. Allstate hasn't explained the cause. Officials say this month's string of outages at big companies aren't cyberattacks. For a claim or a breakdown, you can call Allstate at eight hundred, two five five, seven eight two eight.
+> source: SpaceX investor update, "SpaceX to Invest in the Next Generation of Americans" (Nov 25); CNBC, "SpaceX, Elon Musk to donate one share each to active Trump Accounts" (Nov 25); MLQ.ai (Nov 25); TechCrunch, "Allstate suffers multi-day tech outage ahead of Thanksgiving" (Nov 25); Newsweek (Nov 2026)
+
+## Artificial Intelligence | sting=ai
+// Story 8: Amodei responds; Democrats call for limits
+[andrew] Story eight, AI. Anthropic CEO Dario Amodei is pushing back hard on an Axios report about views inside his company that humans will inevitably cede some decisions to superintelligent AI. In a long post on X, he said it's absurd to suggest he wants to surrender human free will, and that turning governance over to AI would be a bad idea. He drew a distinction with AI doing specific jobs, like driving a car or designing a cancer drug, and said there may need to be limits on AI improving itself.
+[andrew] He also accused rivals of vibes-based positioning, noting everyone is shipping more automation. Critics point out that Anthropic says Claude already writes most of its own code. Meanwhile Democratic senators including Mark Kelly, Brian Schatz and Chris Van Hollen are calling for independent safety examiners inside AI labs now, and Bernie Sanders wants a pause on advanced AI development. The companies say they already have safeguards and are willing to slow down if needed.
+> source: TechCrunch, "Anthropic's Dario Amodei calls accusations of surrendering human control to AI 'absurd'" (Nov 25); Axios, "Democrats sound alarm on AI, call for action after Axios reporting" (Nov 25); The Decoder (Nov 25)
+
+## Cybersecurity | sting=cyber
+// Story 9: 1Password breach; Ledger letters
+[ava] Story nine, the cyber desk, and if you use 1Password, here's what you need to know. The company says an attacker got into an employee's corporate GitHub account on November nineteenth, pushed malicious code to backend systems, and copied names, sign-in email addresses and account details for a subset of customers. The attacker also took source code. 1Password says vaults, passwords and secret keys were never exposed, and you don't need to change anything.
+[ava] The real risk is phishing. Watch for unexpected emails about 1Password invitations or account recovery that you didn't start. The company has lengthened its emailed recovery codes from six digits to ten characters as a precaution.
+[ava] And for hardware wallet owners, scammers are mailing paper letters that look like they're from Ledger, warning of a tampered device and telling you to scan a QR code. Ledger says it never sends those and never asks for your recovery phrase. Throw it out.
+> source: 1Password, "Update on a security incident involving 1Password's backend systems" (Nov 25); TechCrunch (Nov 25); The Verge (Nov 25); Ledger support, "Physical Mail Phishing Scam" (Nov 2026)
+
+## From Your X Feed | sting=x
+// Story 10: X feed
+[ava] Story ten, from your X feed. Collin Rugg passed along the NFL bombshell of the day. The Pittsburgh Steelers are releasing Aaron Rodgers after he went on the Pat McAfee Show and tore into coach Mike McCarthy, including claims that McCarthy dozed off in meetings. Rodgers now goes on waivers, and becomes a free agent if no one claims him.
+[ava] Andrew Curran highlighted a striking quote from computer scientist Scott Aaronson. After the recent wave of AI-generated proofs, Aaronson wrote in an unusually excited blog post that for the first time he feels in his bones that a proof that P does not equal NP is not far off. That's one expert's gut feeling, not a proof.
+[ava] Tara Bull shared video from Pacifica California, where record king tides and huge surf knocked the end of the municipal pier into the ocean. It had already been closed since June because of cracks.
+[ava] And for your Tesla, Mike P took FSD version fifteen around Philadelphia's City Hall and through downtown traffic, and says it handled every challenge smoothly. That's one owner's drive, but it's a nice counterpoint to his box test from earlier.
+> source: Harry's X feed, Nov 25 (@CollinRugg, @AndrewCurran_, @TaraBull, @mikepat711); ESPN, "Steelers to release Rodgers after QB rips McCarthy" (Nov 25); USA Today (Nov 25); Scott Aaronson, Shtetl-Optimized (Nov 25); KTVU, "Part of Pacifica Pier washes away with historic high surf" (Nov 25)
+
+## Local News & Events | sting=local
+// Story 11: What's open Thanksgiving; Lancers title game
+[ava] Story eleven, local news. If you forget the cranberry sauce, some New Hampshire stores are open tomorrow. Hannaford and Shaw's are open seven to three, Price Chopper six to three, and Whole Foods in Bedford, Nashua and Salem seven to one. Walgreens is open eight to five, and gas stations should be open across the state.
+[ava] And after the turkey, a big weekend for Londonderry. The Lancers play Bishop Guertin for the Division One state football championship on Saturday at one o'clock at Stellos Stadium in Nashua.
+> source: WMUR, "See what New Hampshire stores will still be open on Thanksgiving" (Nov 25, 2:47 p.m.); WMUR, "Londonderry football team advances to state championship" (Nov 2026); NHIAA playoff pairings (Nov 21)
+
+## Uplifting Story | sting=feel
+// Story 12: Shelter pets get Thanksgiving
+[ava] And finally, story twelve. Shelter pets are getting their own Thanksgiving. In Tacoma, volunteers made a bunny a lettuce wrap with blueberries and carrots, and dogs got plates topped with whipped cream. At Best Friends Animal Sanctuary in Kanab Utah, a restaurant crew spent nearly a full day turning about seven hundred pounds of dog-safe food into holiday plates, paid for by a donor in memory of her three-legged rescue dog, Jack.
+[ava] And at a Kansas sanctuary for senior dogs, a ten-year-old boxer mix named Waverly kept jumping on the table to steal the turkey, then dove into the trash. As the sanctuary put it, just because they're homeless doesn't mean they're waiting to live.
+> source: Good Good Good, "Animal shelters give adoptable pets a Thanksgiving to remember" (Nov 25)
+
+## Close | sting=close
+[ava] That's your four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Enjoy the long weekend.
+[ava] Happy Thanksgiving, and thanks for listening to Gumshoe News Radio.
