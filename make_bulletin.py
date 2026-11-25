@@ -53,6 +53,7 @@ PRONUNCIATIONS += [(re.compile(r"\bAbu Nahl\b"), "Ah-boo Nahl"), (re.compile(r"\
 PRONUNCIATIONS += [(re.compile(r"\bHuawei\b"), "Wah-way"), (re.compile(r"\bMeng Wanzhou\b"), "Mung Wahn-joe"), (re.compile(r"\bOresund\b"), "Ur-eh-sund"), (re.compile(r"\bAnmer\b"), "An-mer"), (re.compile(r"\bShinyHunters\b"), "Shiny Hunters"), (re.compile(r"\bOkta\b"), "Ock-tah"), (re.compile(r"\bCigna\b"), "Sig-nah"), (re.compile(r"\bTallinn\b"), "Tah-lin"), (re.compile(r"\bShepperton\b"), "Shep-er-tun"), (re.compile(r"\bVNP\b"), "V N P")]
 PRONUNCIATIONS += [(re.compile(r"\bSavasleyka\b"), "Sa-vas-lay-ka"), (re.compile(r"\bRosneft\b"), "Ross-neft"), (re.compile(r"\bHouthi\b"), "Hoo-thee"), (re.compile(r"\bAmran\b"), "Am-rahn"), (re.compile(r"\bMatuszak\b"), "Muh-too-zak"), (re.compile(r"\bBarreto\b"), "Bah-reh-toe"), (re.compile(r"\bKenzlee\b"), "Kenz-lee"), (re.compile(r"\bGallien's\b"), "Gal-ee-ens"), (re.compile(r"\bRaiden\b"), "Ray-den"), (re.compile(r"\bGameSir\b"), "Game Sir"), (re.compile(r"\bFail2Install\b"), "Fail to Install"), (re.compile(r"\bPascagoula\b"), "Pass-kuh-goo-luh")]
 PRONUNCIATIONS = [(p, re.sub(r"[A-Z]{2,}", lambda m: m.group(0).lower(), r)) for p, r in PRONUNCIATIONS]
+PRONUNCIATIONS += [(re.compile(r"\bPuigdemont\b"), "Pooj-deh-mon"), (re.compile(r"\bRas Tanura\b"), "Rahs Tah-noo-rah"), (re.compile(r"\bCogentic\b"), "Co-jen-tic"), (re.compile(r"\bMediazona\b"), "Media-zona"), (re.compile(r"\bSchaefer\b"), "Shay-fer"), (re.compile(r"\bXREAL\b"), "X Real")]
 
 # US states and DC, for City, ST expansion in spoken text.
 _STATE_ABBR = {

@@ -1,0 +1,91 @@
+// Gumshoe script format: see README.md
+# title: Wednesday 10 AM Update, Nov 25
+# description: The Wednesday ten o'clock update from Gumshoe News Radio for November 25, 2026: Londonderry, New Hampshire weather for the next 24 hours; the Army's Iowa lead azide detonation, Thomas Markle indicted, and the Fort Hood shooter's bid to delay his execution; Houthis claim a strike on Saudi Arabia's Ras Tanura refinery, leaked Russian records point to nearly half a million war dead, and Carles Puigdemont says he'll return to Spain; stocks tumble at the open on hotter core inflation, new tariff proposals on fourteen trading partners and another chip rout; Amazon weighs letting Meta's Muse agent shop its store; Google posts six AI-written math papers; Microsoft's November patches break some logins and GeoServer flaws come under attack; your X feed; a Hudson house fire and the best time to hit the road; and Yale families who open their Thanksgiving tables to students from abroad. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Wednesday, November twenty-fifth, and this is the ten o'clock update from Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. It's a rough open on Wall Street. Inflation ran a little hot, new tariffs were proposed, and chip stocks are getting hit hard again.
+[ava] First, the weather in Londonderry New Hampshire for the next twenty-four hours.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 25 at airtime
+
+## US News | sting=us
+// Story 1: Iowa detonation (update)
+[ava] Story one, an update from Iowa. The Army's controlled detonation of about ninety-seven hundred pounds of degraded lead azide at the Iowa Army Ammunition Plant in Middletown was set for ten o'clock our time. As we put this update together, there was no official word yet on how it went.
+[ava] An hour before, FEMA's final phone alert said it was no longer safe to evacuate, and told everyone within twenty miles, including Middletown, Augusta and Burlington, to shelter in place with windows closed. NASA research planes are helping track the dust. The EPA says it has taken more than a thousand air, soil and water samples beforehand and will keep testing along the plume. The Army says any home with lead above two hundred parts per million will be cleaned up at government expense. Independent scientists at the University of Iowa are running their own monitors.
+> source: AP, "The Latest: Army plans to detonate US stockpile of lead azide in Iowa" (Nov 25); NBC News (Nov 25); US EPA public update (Nov 24); Iowa Homeland Security and Emergency Management (Nov 24); Illinois EPA (Nov 25); The Guardian live updates, FEMA alert and NASA statement (Nov 25)
+
+// Story 2: Thomas Markle indicted
+[ava] Story two. A federal grand jury in Los Angeles has indicted Thomas Markle, the eighty-two-year-old estranged father of Meghan, the Duchess of Sussex, on two counts of possessing child sexual abuse material. Prosecutors say FBI agents found the material on film negatives in two storage units he'd rented since two thousand eight.
+[ava] Markle has called the allegations sick lies. He's been jailed in Florida since prosecutors say he cut off his ankle monitor earlier this month, and he's expected to be sent to Los Angeles for arraignment. Each count carries up to twenty years.
+> source: CBS News, "Meghan Markle's father indicted by federal grand jury on child pornography charges" (Nov 24); AP (Nov 24-25); BBC (Nov 25); indictment via Courthouse News
+
+// Story 3: Nidal Hasan stay hearing
+[ava] Story three. Nidal Hasan, the former Army psychiatrist who killed thirteen people at Fort Hood in two thousand nine, has asked a federal court in Kansas to halt his firing-squad execution, now set for December third, so he can pursue new appeals. A judge has a hearing on that request this afternoon. Survivors and victims' families have waited seventeen years for the sentence to be carried out.
+> source: AP, "Fort Hood shooter Nidal Hasan asks court to delay firing-squad execution so he can fight sentence" (Nov 24-25); ABC News (Nov 24); CBS News (Nov 24); Hasan v. Sergent, US District Court for Kansas docket
+
+## International | sting=world
+// Story 4: Houthis claim Ras Tanura strike (update)
+[ava] Story four, the world, and the Saudi-Houthi fight keeps escalating. The Houthis now say they hit Saudi Arabia's Ras Tanura oil refinery today and set it on fire. The Saudi-led coalition says air defenses shot down four drones over Ras Tanura and that falling debris caused no casualties. It did not say whether the refinery was hit, though video and satellite images show heavy smoke there. Ras Tanura is the kingdom's oldest refinery and handles about a sixth of its refining capacity.
+> source: The National, "Saudi defences destroy drones in Ras Tanura as footage shows smoke from refinery" (Nov 25); Reuters via Business Recorder (Nov 25); Al Jazeera (Nov 25); Anadolu Agency (Nov 25)
+
+// Story 5: Leaked Russian death records
+[ava] Story five. A BBC Russian analysis with the independent outlet Mediazona finds at least four hundred ninety thousand Russian soldiers have died in the war in Ukraine. It's based on more than eleven million leaked records from Russia's state statistics agency, taken in a hack claimed by Belarusian and Ukrainian groups. The BBC says names on its own casualty list matched those records about ninety percent of the time, which supports their authenticity. The Kremlin doesn't publish its losses.
+> source: BBC News, "Russia's own figures show it has lost nearly 500,000 people in Ukraine war" (Nov 24-25); CBS News (Nov 25); Mediazona (Nov 23)
+
+// Story 6: Puigdemont to return; Karachi collapse
+[ava] Story six, two quick ones. Former Catalan leader Carles Puigdemont says he'll end nearly a decade of self-imposed exile in Belgium and return to Spain on December twelfth, after Spain's Supreme Court applied an amnesty law to drop his case. Spain votes in a national election this Sunday. Critics in Spain call the amnesty a political deal, while supporters call it reconciliation.
+[ava] And in Karachi, Pakistan, a six-story building under construction collapsed today. At least three people were killed and fourteen hurt, and rescuers are searching for workers feared trapped. Karachi's mayor says a court order had blocked an earlier demolition.
+> source: Reuters World News Summary (Nov 25); Dawn, "At least 3 killed, 14 injured after under-construction building collapses near Karachi's Baloch Colony" (Nov 25); Samaa TV (Nov 25); ARY News (Nov 25)
+
+## Markets | sting=markets
+// Story 7: Market open
+[andrew] Story seven, markets. Stocks opened sharply lower. About fifteen minutes into trading, the Dow was down around eight hundred thirty points, or one point seven percent. The S&P five hundred was down about two and a half percent, and the Nasdaq nearly four percent. That's a normal full session today, with markets closed tomorrow and an early one o'clock close on Friday.
+[andrew] Three drivers. First, inflation. October's PCE index was up three point eight percent from a year ago, as expected, but core PCE came in at three point three, a tenth higher than forecast and the highest since late twenty twenty-three. Third-quarter growth was revised up to a strong four point three percent, and jobless claims were just a hundred eighty-nine thousand. Traders now see about a ninety-eight percent chance of a quarter-point Fed hike in December.
+[andrew] Second, tariffs. The trade representative's office proposed new tariffs on fourteen economies it says flood the world with subsidized factory output, including China, the European Union, Japan, South Korea, Taiwan and India. Rates run from fifteen to twenty-five percent, with China facing up to twenty percent on top of existing duties. They're proposals for now, with comments and hearings first, so January at the earliest. The administration says it's fighting unfair overcapacity; critics warn it will add to prices.
+[andrew] Third, the chip rout. Nvidia was down about eight percent early, and Micron and Dell around nine to ten. Anthropic shares are near seventy-six dollars, well under their IPO price. The VIX, Wall Street's fear gauge, is above thirty.
+[andrew] Elsewhere, the ten-year Treasury yield fell to about four point eight four percent as bonds rallied. US crude is near eighty-two and a half dollars. Gold is lower, and Bitcoin is near fifty-eight thousand four hundred.
+> source: AP, "AI stocks drag Wall Street lower, S&P 500 slumps 2.6%" (Nov 25); Yahoo Finance live (Nov 25, 9:47 a.m. ET); MarketWatch live (Nov 25, 9:43 a.m. ET); BEA, Personal Income and Outlays, October 2026 (Nov 25); CNBC, "Fed's preferred inflation gauge accelerated to 3.8% in October" (Nov 25); Reuters via Investing.com (Nov 25, 8:43 a.m. ET); USTR Section 301 determinations (Nov 25); Reuters, "US proposes new tariffs on 14 trading partners" (Nov 25); Investopedia (Nov 25)
+
+## Technology | sting=tech
+// Story 8: Amazon in talks over Meta Muse
+[andrew] Story eight, tech. Fortune reports Amazon has held talks about letting Meta's Muse AI agent shop on its marketplace, which it currently blocks. The sticking points, according to the report: Amazon makes a lot of money from ads that humans see, it worries about the quality of what Muse recommends, and it doesn't want an agent standing between it and its customers. Walmart, Best Buy and others already let shopping agents in. Amazon has also blocked Perplexity's agent while pushing its own Alexa shopping assistant. Neither company commented.
+> source: The Verge, "Amazon is reportedly in talks to end Muse AI shopping block" (Nov 25); Fortune (Nov 25)
+
+## Artificial Intelligence | sting=ai
+// Story 9: Google Cogentic math papers
+[andrew] Story nine, AI. The race to have AI do original math now has three big players. A day after OpenAI's nine papers, Google Research quietly posted six papers produced by Cogentic, a team of AI agents running on Gemini four. Google says each paper and a computer-checked proof were produced with no human help beyond the first prompt.
+[andrew] The headline claim is a proven method for factoring any whole number that matches the speed class of the best practical method, which until now rested on unproven assumptions. Others claim progress on game theory and a decade-old barrier in computer science.
+[andrew] The caveats: none of it is peer reviewed yet, and the computer-checked proofs haven't been released. And no, this doesn't break real-world encryption. It's a theory result, and the new method is far slower in practice.
+> source: OfficeChai, "Google's Cogentic AI Releases Six Math Papers In One Day" (Nov 25); FourWeekMBA (Nov 25); Agentic Feed (Nov 25); Google Research GitHub repository (Nov 25)
+
+## Cybersecurity | sting=cyber
+// Story 10: Microsoft NTLM auth issues; GeoServer exploited
+[ava] Story ten, the cyber desk. Microsoft confirms that this month's Windows security updates, which fix a serious remote code flaw, are breaking logins for some third-party products that use the older NTLM sign-in method, including some single sign-on tools and proxy servers. There's no fix yet, just a temporary registry workaround. The same updates are also causing Windows activation failures and SQL Server slowdowns. If you manage Windows machines, check before you roll back a security patch.
+[ava] And attackers are exploiting two flaws in GeoServer, an open-source server for map data used by governments and utilities. Chained with older bugs, they can let an outsider take over a server with no login. Updates are out now.
+> source: BleepingComputer, "Microsoft confirms authentication issues after November updates" (Nov 25); The Hacker News, "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains" (Nov 25); GeoServer security advisory GHSA-rv5g-g2r9-58rj
+
+## From Your X Feed | sting=x
+// Story 11: X feed
+[ava] Story eleven, from your X feed. Autoblog shared that you can now buy cars from thirty-five brands on Amazon. Motor1 adds the fine print: only fourteen of them, like Hyundai, Chevy, Jeep and Subaru, sell new cars there, and dealers still close the deal. Amazon also says it's bringing the service to the UK next year.
+[ava] Robert Scoble pointed to artist Zach Lieberman, who has made a sketch in code every single day since twenty sixteen. His piece for XREAL's AURA glasses needed no new software. It's basically a website.
+[ava] And levelsio says replies to his posts are now traps for AI spam accounts. An AI model reviews each suspicious account's other replies, and if it's a bot, it gets blocked and added to a shared blocklist.
+> source: Harry's X feed, Nov 25 (@therealautoblog, @Scobleizer, @levelsio); Motor1, "Amazon Has Quietly Expanded Its Car-Buying Business To 35 Brands" (Nov 24); The Guardian (Nov 25)
+
+## Local News & Events | sting=local
+// Story 12: Hudson fire; travel window; MHT
+[ava] Story twelve, local news. In Hudson, a three-alarm fire destroyed a home on Schaefer Circle early this morning. Crews arrived around three thirty to heavy flames, and the roof collapsed. The family was out of town, and no one was hurt. The cause is under investigation.
+[ava] If you're driving today, AAA says leave before noon. The worst traffic is expected from noon to seven tonight, and Sunday will be the busiest day of the weekend for both roads and airports. Gas in New Hampshire averages about three sixty-one a gallon. At Manchester-Boston Regional, most flights are at or near capacity, with twenty-one arrivals and twenty-one departures today.
+[ava] And in Nashua, the chorus New England Voices in Harmony took the gold medal in the chorus division at Harmony Incorporated's international convention.
+> source: WMUR, "Family out of town when fire destroys their home in Hudson, officials say" (Nov 25); Nashua Ink Link (Nov 25); WMUR, "Thanksgiving travel ramps up as MHT prepares for busy holiday week" (Nov 24); Nashua Telegraph via Daily Nashua (Nov 25)
+
+## Uplifting Story | sting=feel
+// Story 13: Yale Thanksgiving at Home
+[ava] And finally, story thirteen. Since two thousand one, a Yale program called Thanksgiving at Home has matched international students and scholars with local families who invite them to Thanksgiving dinner. Yale has more than eight thousand international students and scholars from over a hundred forty-five countries.
+[ava] One host, an anthropology professor, says her son became friends with a guest's son, and they went skiing together. Another host, once an international student herself, says people reaching out makes a big difference. And a first-time guest from China says she's curious whether there will really be a turkey on the table, just like in the books.
+> source: Yale News, "'Home' for the holiday: A campus tradition offers Yalies far from home a seat at the Thanksgiving table" (Nov 24)
+
+## Close | sting=close
+[ava] That's your ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. I'll have the midday market moves at one.
+[ava] Thanks for listening to Gumshoe News Radio.
