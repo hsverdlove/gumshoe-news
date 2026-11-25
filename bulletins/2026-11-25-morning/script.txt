@@ -1,0 +1,100 @@
+// Gumshoe script format: see README.md
+# title: Wednesday Morning, Nov 25
+# description: The Wednesday morning bulletin from Gumshoe News Radio for November 25, 2026: Londonderry, New Hampshire weather with the full seven-day forecast; the Thanksgiving storm and holiday travel, the Army's Iowa detonation this morning, Kilmar Abrego Garcia leaves for Spain, and a deadly plane crash off Mississippi; Saudi strikes on a Yemeni port after the Riyadh tower attack, Ukraine hits Russian refineries and an airbase, and Pakistan's first astronaut reaches China's space station; futures slide again ahead of PCE inflation, with Dell, Workday and pending tariffs in focus; Jensen Huang apologizes to Nvidia staff as Trump talks pardons; OpenAI claims an exact limit for matrix multiplication and Claude turns artifacts into desktop apps; breaches at FinCEN and the Hex package registry plus a Drupal deadline; your X feed; the storm's timing in New Hampshire, holiday impaired-driving patrols and turkey trots; and an eleven-year-old who delivered two hundred Thanksgiving meals. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Wednesday, November twenty-fifth, the day before Thanksgiving, and this is the morning bulletin from Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. It's a short holiday week on Wall Street, and futures are pointing lower again. I'll have the numbers.
+[ava] First, the weather in Londonderry New Hampshire, with the full seven-day forecast.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 25 at airtime
+
+## US News | sting=us
+// Story 1: Thanksgiving storm and travel (update)
+[ava] Story one, an update on the Thanksgiving storm. Today is the better travel day across the Northeast, mostly dry along Interstate ninety-five. The storm strengthens off the Southeast coast this afternoon, with flash flooding possible from Charleston to the Outer Banks. On Thanksgiving it spreads heavy rain from Washington to New York by midday and into New England later in the day.
+[ava] Forecasters expect gusts of forty to sixty miles an hour inland and up to seventy at the coast, with power outages possible. Fox Weather says South Jersey and Delaware Bay could see their highest water since Superstorm Sandy at Thursday morning's king tide. Expect delays at Logan and the big New York and Washington airports.
+[ava] Fewer people are flying anyway. Reuters reports holiday airfares are at ten-year highs, and after this month's FAA outage the TSA expects about three percent fewer travelers than last year.
+> source: Fox Weather, "Timeline: See when the major East Coast Thanksgiving week storm will impact your area" (updated Nov 25); CBS Philadelphia (Nov 25); ABC7 New York live updates (Nov 25); AccuWeather (Nov 25); Reuters, "'I'm going to drive': FAA outage and high fares reshape Thanksgiving travel plans" (Nov 25)
+
+// Story 2: Iowa detonation this morning (update)
+[ava] Story two. The Army plans to detonate about ninety-seven hundred pounds of degraded lead azide at the Iowa Army Ammunition Plant at about ten o'clock our time this morning. People in a five-mile zone were urged to leave, and Army projections say the dust could drift a hundred miles into Missouri. The Army says teams will sample soil and water afterward. A Purdue engineer says there's no clear plan to confirm homes and schools are safe.
+> source: NBC News, "Army to detonate lead explosives Wednesday, sending toxic plume across Iowa" (Nov 24-25); US Army, controlled detonation announcement and public safety advisory (Nov 24); AP (Nov 24-25)
+
+// Story 3: Abrego Garcia leaves for Spain
+[ava] Story three. Kilmar Abrego Garcia, the Maryland man the government admitted it wrongly deported to El Salvador last year, has left the US for Spain with his wife. He says he leaves happy and free. Homeland Security calls it a self-deportation under a removal order, says he paid his own way and will never be allowed back, and repeats its claim that he's an MS-13 member, which his lawyers deny. The terms are under a sealed court order.
+> source: CBS News, "Kilmar Abrego Garcia leaves U.S., heads to Spain" (Nov 24-25); AP (Nov 24); NPR (Nov 25); Department of Homeland Security statement (Nov 24)
+
+// Story 4: Mississippi plane crash
+[ava] Story four. A small plane crashed into the Gulf off the Mississippi coast Tuesday, killing all six people aboard, including two boys aged eight and ten. The Cessna was flying from New Orleans to Fort Myers. The NTSB is investigating.
+> source: AP, "Plane crash off the coast of Mississippi kills 6, including 2 children" (Nov 24); ABC News (Nov 25); CBS News (Nov 25)
+
+## International | sting=world
+// Story 5: Saudi strikes Hodeidah; Iran mine claims
+[ava] Story five, the world. After Tuesday's Houthi drone strike on Riyadh's tallest tower wounded eleven people, the Saudi-led coalition hit the Yemeni port of Hodeidah and targets in the Houthi strongholds of Saada and Amran. The Houthis now threaten Saudi Red Sea ports including Jeddah and told port workers and shipping companies to leave.
+[ava] In the Strait of Hormuz, Iran's Revolutionary Guard now says two more oil tankers struck mines and caught fire. Again, that hasn't been independently confirmed.
+> source: The National, "Saudi-led coalition strikes Hodeidah port after Riyadh attack" (Nov 25); Al Jazeera (Nov 25); Al-Monitor (Nov 25); Arab News and Iran International on IRGC mine claims (Nov 25)
+
+// Story 6: Ukraine strikes Samara refineries, Savasleyka
+[ava] Story six. Ukrainian drones set fire to two Rosneft refineries in Russia's Samara region overnight. Ukraine also says it struck Savasleyka air base east of Moscow, though reports that five warplanes were hit are unconfirmed. Russia launched more than a hundred drones at Ukraine, with deaths reported in Zaporizhzhia and Odesa.
+> source: Shelter (Ukraine), "Defense forces struck two Rosneft oil refineries and a military airfield in Russia" (Nov 25); UA.News (Nov 25); Nightwatch situation report (Nov 25)
+
+// Story 7: Shenzhou-24 docks with Pakistani astronaut (update)
+[ava] Story seven. China's Shenzhou twenty-four launched last night our time and docked with the Tiangong space station about three and a half hours later. Aboard is Pakistan Air Force pilot Muhammad Zeeshan Ali, now Pakistan's first astronaut and the first foreigner to board China's station.
+> source: Xinhua, "China's Shenzhou-24 spaceship docks with Tiangong space station" (Nov 25); Reuters (Nov 25); AP (Nov 25); Aviation Week (Nov 25)
+
+## Markets | sting=markets
+// Story 8: Pre-market
+[andrew] Story eight, markets. Stock futures are falling again this morning. Around six o'clock, Dow futures were down about three-quarters of a percent, S&P five hundred futures about one and a half, and Nasdaq one hundred futures nearly two and a half. Chipmakers lead the decline, with Nvidia down about five percent and AMD and Micron about six. Reuters says the S&P and Nasdaq are on track for their worst November since two thousand eight.
+[andrew] Yesterday the Dow rose almost one percent to just above fifty thousand, while the S&P slipped half a percent and the Nasdaq fell one and a half, as chip stocks dropped almost eight percent.
+[andrew] Earnings: Dell posted record revenue of nearly fifty-five billion dollars and raised its full-year forecast to two hundred two billion, with a record one hundred thirty-two billion dollar AI backlog. But the stock is down six to eight percent premarket on worries about server margins. Workday is down about nine percent on a softer outlook.
+[andrew] At eight thirty we get October's PCE inflation report, the Fed's preferred gauge, plus third-quarter GDP and durable goods orders. Core PCE is expected around three point two percent from a year ago. Traders see about a ninety-seven percent chance of a quarter-point Fed hike on December ninth. Fed officials are split over whether inflation reflects strong demand or tariff and oil shocks that should fade.
+[andrew] Also hanging over the market: the administration still hasn't released its expected new tariffs on sixteen trading partners, including China, the European Union, Japan and India.
+[andrew] Overnight, South Korea's Kospi fell about six percent. The ten-year Treasury yield is about four point eight six percent. Brent crude is near eighty-eight dollars and US crude about eighty-one. Gold is around thirty-five fifty an ounce, and Bitcoin is near fifty-nine thousand. Markets are closed tomorrow for Thanksgiving, and Friday is a shortened session.
+> source: Reuters via Investing.com, "Nasdaq futures slide over 2% as AI losses deepen; inflation data in focus" (Nov 25, 6:24 a.m. ET); Yahoo Finance live (Nov 25); NBC News market close (Nov 24); Dell Technologies Q3 FY27 results (Nov 24); HP Inc. Q4 results (Nov 24); Benzinga premarket (Nov 25); Investing.com on Workday and Autodesk (Nov 24-25); Reuters, "Fed policymakers at odds over causes of high inflation" (Nov 25); Reuters and AP on pending tariffs (Nov 24-25); AP Asia markets (Nov 25)
+
+## Technology | sting=tech
+// Story 9: Huang apology, Trump pardon comment (update)
+[andrew] Story nine, tech. New developments at Nvidia. At a companywide meeting, Jensen Huang apologized for what he called terrible mistakes, acknowledged violating the company's code of conduct, and said he's in therapy. He told staff it's not true that President Trump got him rehired.
+[andrew] Trump told the New York Post a pardon is always an option for Huang, though he doesn't think one will be needed. Huang hasn't been charged with any crime. Trump said Huang should just tell the truth when he faces three House committees next week, and he testifies publicly before the Senate Banking Committee on December third.
+[andrew] Republican senators Pete Ricketts and Kevin Cramer have criticized the reinstatement. The White House and Nvidia's board say government officials found no security risk.
+> source: NBC News, "Trump says pardon is always an option for Jensen Huang, and that invoking the Fifth isn't necessary" (Nov 24); New York Post (Nov 24); The Verge, "Jensen Huang reportedly tells Nvidia staff it's 'not true' Trump got him rehired" (Nov 24); Outlook India (Nov 25)
+
+## Artificial Intelligence | sting=ai
+// Story 10: OpenAI matrix multiplication claim; Claude desktop apps
+[andrew] Story ten, AI. OpenAI has posted nine more math papers written with an unreleased internal model. The headline claim: the exponent for multiplying large matrices is exactly nine-fourths, two point two five. Faster methods approaching that number were already known. What's new is a claimed proof that nothing can do better under the paper's math model.
+[andrew] Caveats: the computer-checked proofs don't cover that key lower bound, no outside mathematicians have confirmed it, and it won't make today's chips any faster.
+[andrew] And Anthropic now lets Claude users turn an artifact into an installable app for Mac or Windows. It's a beta on all plans. On a Mac these apps can ask for permissions all the way up to full computer access, so read those prompts carefully.
+> source: openai/math GitHub repository, "The matrix multiplication exponent is nine fourths" and history (Nov 24); Magica, "OpenAI claims exact matrix multiplication exponent in nine-paper release" (Nov 24); Claude Help Center, "Install an artifact as an app"; 9to5Mac (Nov 24); MacRumors (Nov 25)
+
+## Cybersecurity | sting=cyber
+// Story 11: FinCEN incident; hex.pm breach; Drupal Fail2Install KEV
+[ava] Story eleven, the cyber desk. The Treasury's Financial Crimes Enforcement Network, FinCEN, says someone gained unauthorized access to a limited set of its systems, and it has taken some offline. FinCEN holds the suspicious activity reports banks file. It hasn't said who did it or what data was touched, or whether it's related to Tuesday's CIA breach.
+[ava] Hex, the package registry for the Elixir and Erlang programming languages, says an attacker exploited a maximum-severity flaw to run commands on six of its servers. No packages were tampered with, but users should change passwords and reset two-factor.
+[ava] And if you run a Drupal website, a critical flaw nicknamed Fail2Install is under active attack, no login needed. Federal agencies must patch by Friday. Update now.
+> source: The Verge, "US financial crimes bureau discloses 'cybersecurity incident'" (Nov 24-25); ABC News (Nov 25); The Record (Nov 25); Hex, "Security incident on hex.pm" (Nov 2026); The Hacker News (Nov 25); Drupal, SA-CORE-2026-017; CISA, "CISA Adds Three Known Exploited Vulnerabilities to Catalog" (Nov 24)
+
+## From Your X Feed | sting=x
+// Story 12: X feed
+[ava] Story twelve, from your X feed. Pictures Folder shared that Miss Puerto Rico, Jennifer Barreto, has been crowned Miss Universe twenty twenty-six. USA Today reports she's Puerto Rico's sixth winner and the first mother to win the title.
+[ava] Robert Scoble got a sticker camera as a Thanksgiving gift. He says it's like a Polaroid but prints a QR code you can scan, and he'll say more after the holiday.
+[ava] DHH declared Raiden DX the greatest vertical shoot 'em up of all time, and says playing it on a Galaxy Fold eight with a GameSir controller is total overkill and totally awesome.
+[ava] And Interesting All passed along a bit of movie trivia: it took five hours of makeup every day to turn the former NFL player John Matuszak into Sloth for The Goonies.
+> source: Harry's X feed, Nov 25 (@PicturesFoIder, @Scobleizer, @dhh, @interesting_aIl); USA Today, "Miss Universe 2026 winner is Jennifer Barreto of Puerto Rico" (Nov 24)
+
+## Local News & Events | sting=local
+// Story 13: NH storm timing; DWI patrols; turkey trots; El Nino winter
+[ava] Story thirteen, local news. Here, WMUR says the storm's gusts of twenty-five to thirty-five miles an hour build Thursday afternoon, and the rain holds off until Thursday night, steadiest early Friday. Hampton warns of minor to moderate flooding around the late-morning high tides today and Thursday.
+[ava] Starting tonight, State Police and local departments are adding impaired-driving patrols through the holiday weekend. Six people died on New Hampshire roads over the Thanksgiving holiday periods from twenty twenty-one through last year.
+[ava] Running tomorrow morning? Nashua's Great Gobbler five-K starts at eight at Nashua High School South. The Greater Derry Track Club Turkey Trot starts at nine at Gallien's Town Beach. And the Fisher Cats Thanksgiving five-K starts at nine at Delta Dental Stadium in Manchester.
+> source: WMUR, "Impact weather: Tracking possible storm for Thanksgiving night, Black Friday" (updated Nov 25, 5:42 a.m.); Hampton Police flood alerts (Nov 25-27); Nashua Independent, "Governor announces increased impaired driving patrols ahead of Thanksgiving" (Nov 24); Greater Derry Track Club; Great Gobbler 5K; New Hampshire Fisher Cats
+
+## Uplifting Story | sting=feel
+// Story 14: 11-year-old delivers 200 Thanksgiving meals
+[ava] And finally, story fourteen. In Jackson County, Florida, eleven-year-old Kenzlee Bryant met someone at the grocery store who said they'd be spending the holidays alone. So she and her family started a project called Full Plates, Full Hearts. This week they cooked and delivered two hundred Thanksgiving meals, turkey and all the trimmings, to nursing homes and people who can't get out.
+[ava] Kenzlee says she just wants people to know they're cared for. Her family's advice for tomorrow: leave an extra chair at the table, because you never know who might need it.
+> source: WJHG, "11-year-old in Jackson County delivers 200 Thanksgiving meals" (Nov 24-25)
+
+## Close | sting=close
+[ava] That's your Wednesday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. The inflation numbers land at eight thirty, and I'll have the market reaction at ten.
+[ava] Safe travels, and thanks for listening to Gumshoe News Radio.
