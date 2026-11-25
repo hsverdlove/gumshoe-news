@@ -1,0 +1,93 @@
+// Gumshoe script format: see README.md
+# title: Wednesday 1 PM Update, Nov 25
+# description: The Wednesday one o'clock update from Gumshoe News Radio for November 25, 2026: Londonderry, New Hampshire weather for the next 24 hours; the Army calls its Iowa detonation a success with no lead detected so far, a jury convicts Huawei of fraud and trade-secret theft, and Macy's 100th parade balloons may be grounded by wind; Russia hits Ukraine's power and gas sites as a Ukrainian laser downs a jet drone for the first time, an Israeli strike kills a Hamas security chief and his family, and Colombian forces end a supermarket hostage siege; stocks claw back half their losses by midday as chips stay under pressure; the FCC clears SpaceX for a million orbiting data centers and a new briefing on Jensen Huang's affair partner; Anthropic founders sell shares below the IPO price and OpenAI tests private inference; the COLDCARD bitcoin wallet postmortem and Project Gutenberg's outage; your X feed; ski areas open and Thanksgiving fire safety; and a Minnesota town that pays back the couple who fed it for thirty years. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon. It's Wednesday, November twenty-fifth, and this is the one o'clock update from Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. Stocks have clawed back about half of this morning's losses, but chip stocks are still getting hammered.
+[ava] First, the weather in Londonderry New Hampshire for the next twenty-four hours.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 25 at airtime
+
+## US News | sting=us
+// Story 1: Iowa detonation result
+[ava] Story one. The Army's controlled detonation of about five tons of degraded lead azide at the Iowa Army Ammunition Plant went off just after ten our time, and officials are calling it a success. Major General Eric Shirley of Army Sustainment Command says every barrel was destroyed, with no secondary explosion and no damage to infrastructure, and that the risk to Middletown was reduced as close to zero as humanly possible.
+[ava] More than two hours later, the EPA's air monitors were still showing no detectable lead at any station. FEMA says more soil and water testing will continue for days to weeks. Iowa's incoming governor Rob Sand says early results look good, but he wants a full accounting of why the lead-up was so chaotic and unclear.
+> source: AP, "Army calls detonation of bomb chemicals in Iowa a success after earlier fears of a toxic plume" (Nov 25); BBC News live, "US Army says controlled blast of explosives in Iowa was 'huge success'" (Nov 25, 17:38 GMT); CBS2 Iowa, "Iowa leaders react to lead detonation" (Nov 25); US EPA (Nov 25)
+
+// Story 2: Huawei convicted
+[ava] Story two. A federal jury in Brooklyn has convicted Huawei and three of its subsidiaries on ten of twelve counts, including bank and wire fraud, violating US sanctions on Iran, money laundering and conspiracy to steal trade secrets. Prosecutors say Huawei misled banks about its business in Iran and copied source code from Cisco routers. The jury acquitted the company of racketeering conspiracy and obstruction.
+[ava] Huawei says the remaining charges are without legal or factual merit, says the trade-secret disputes were resolved long ago as civil matters, and it's weighing its legal options. The penalties would be financial. Sentencing is set for September of next year.
+> source: CNBC, "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets" (Nov 24-25); US Department of Justice (Nov 24); AP (Nov 24); BBC (Nov 25)
+
+// Story 3: Storm threatens Macy's parade balloons
+[ava] Story three, one storm update. The Macy's Thanksgiving Day Parade turns one hundred tomorrow, and its giant balloons may not fly. New York is under a high wind warning starting at ten tomorrow morning, with gusts up to sixty. The balloons can't fly in sustained winds over twenty-three miles an hour or gusts over thirty-four. Officials make the call tomorrow morning. If they're grounded, it would be the first time since nineteen seventy-one.
+> source: NBC News, "Weather live updates: Storms, wind may impact Thanksgiving travel, Macy's parade" (Nov 25, 12:27 p.m. ET); CBS New York (Nov 25); NBC Boston (Nov 25)
+
+## International | sting=world
+// Story 4: Russia strikes Ukraine energy; Ukrainian laser downs jet drone
+[ava] Story four, the world. Russia hit Ukraine's energy system again overnight. A thermal power plant run by DTEK stopped generating after heavy damage, its third major attack this month, and a Naftogaz gas production site in the Poltava region caught fire and shut down. Power went out in five regions. Ukrainian officials say Russian attacks killed nine people and injured fifty-nine over the past day.
+[ava] There was also a first on the defense side. A presidential adviser says a Ukrainian laser called Blysk, guarding an infrastructure site, shot down one of Russia's newer jet-powered Geran drones. That's being called a world first, though he gave no time or place and says it's too early for mass production.
+> source: Reuters via StreetInsider, "Russian attack damages Ukraine's energy and gas sites, cuts power in five regions" (Nov 25); Kyiv Independent (Nov 25); Ukrainska Pravda (Nov 25); Euromaidan Press (Nov 25); Militarnyi (Nov 25)
+
+// Story 5: Israeli strike kills Hamas security official and family
+[ava] Story five. An Israeli airstrike on an apartment in Gaza early today killed Mohammad Abuelouf, a Hamas colonel who heads the group's interior security service, along with his wife and two children, according to Gaza's Hamas-run interior ministry and medics. It's the second senior Hamas security official killed by Israel in twenty-four hours. The reports we've seen carry no Israeli comment on this specific strike.
+> source: Reuters World News Summary (Nov 25)
+
+// Story 6: Colombia supermarket siege ends; Sudan drone strikes
+[ava] Story six, two quick ones. In Cartagena, Colombia, police and soldiers stormed an Exito supermarket before dawn and freed all the remaining hostages, ending a siege that began with a failed armored truck robbery. Authorities say four gunmen were arrested and one was killed.
+[ava] And in Sudan, a rights group says drone strikes by the paramilitary Rapid Support Forces killed nineteen civilians in two cities in Blue Nile state yesterday. Residents confirmed the attacks to Reuters.
+> source: AP, "Colombian authorities rescue all hostages held at Cartagena supermarket" (Nov 25); The Guardian (Nov 25); El Tiempo (Nov 25); Reuters World News Summary (Nov 25)
+
+## Markets | sting=markets
+// Story 7: Midday markets
+[andrew] Story seven, markets at midday. It's been a wild morning. At the lows, the Nasdaq was down more than four percent, the S&P five hundred nearly three and the Dow about two. Then buyers stepped in. As of about twelve forty-five, the Dow was down around half a percent, the S&P about one point six percent and the Nasdaq about two point six. The VIX, Wall Street's fear gauge, is still above thirty.
+[andrew] The drivers haven't changed since ten. Core inflation ran a tenth hot, traders see a December rate hike as nearly certain, and the administration proposed new tariffs on fourteen trading partners. Reuters adds a detail: headline rates of twenty to forty percent, capped at lower levels for countries with trade deals, plus a proposed ten percent tariff on Brazilian Embraer jets. The White House's Kevin Hassett calls the economy Goldilocks, citing strong growth and low unemployment.
+[andrew] By sector, energy is the best performer and consumer discretionary the worst, with chips leading the losses. Nvidia is down about eight percent, giving back most of Monday's thirty-one percent surge on Jensen Huang's return. AMD is off around nine, Micron and Lam Research about ten, and Sandisk about eleven after TrendForce warned flash memory prices will weaken next year. Ambarella is down about eighteen percent after weak guidance, Nutanix about seventeen after its CEO's surprise exit, and Urban Outfitters about twelve on slowing sales. HP is the standout, up about eleven percent on a better outlook. Goldman Sachs says it's still too early to buy the AI dip.
+[andrew] Bonds are the safe place today. The ten-year yield is around four point nine percent, near a two-week low, and the two-year is around four point six. US crude is near eighty-two dollars and Brent near ninety. Gold is down about three percent to around thirty-four fifty an ounce, and silver about six. Bitcoin bounced off a low near fifty-seven thousand two hundred to around fifty-nine thousand. Markets are closed tomorrow, with an early one o'clock close on Friday.
+> source: Yahoo Finance live (Nov 25, 12:48 p.m. ET); MarketWatch live (Nov 25, 12:45 p.m. ET); TradingNews (Nov 25, 12:00 p.m. ET); The Motley Fool, "Stock Market Midday, Nov. 25" (Nov 25); The Trade Signal midday movers (Nov 25, 12:30 p.m. ET); BestStocks (Nov 25, 12:31 p.m. ET); Reuters, "Trump unveils new tariffs to fight excess factory capacity" (Nov 25); CoinDesk live (Nov 25); Bitcoin.com News (Nov 25); FXStreet (Nov 25); X News summaries of Goldman Sachs and Kevin Hassett comments (Nov 25)
+
+## Technology | sting=tech
+// Story 8: FCC authorizes SpaceX Starmind; Alice Huang briefing
+[andrew] Story eight, tech. The FCC has authorized SpaceX to launch up to one million satellites that work as orbiting data centers, a constellation called Starmind built to meet demand for AI computing. The FCC calls it the first authorization ever for data centers in space and says the plan meets its orbital debris rules. Space-safety advocates have long warned about crowding in low orbit.
+[andrew] And on Nvidia, the Wall Street Journal reports US intelligence officials told congressional staff there's no evidence Chinese intelligence directed Alice Huang to start her affair with Jensen Huang. But the New York Times reports the briefers didn't dispute that she passed information to China's spy agency after it began, and they called the man introduced as her husband the more significant intelligence figure. Nvidia and China deny wrongdoing. Huang faces a congressional hearing next week.
+> source: Reuters via Investing.com, "US authorizes SpaceX to deploy 1 million satellites for data centers in space" (Nov 25); FCC news release via Light Reading (Nov 25); Reuters via Investing.com, "US finds no evidence China directed executive to spy on Nvidia CEO, WSJ reports" (Nov 25); Quartz, citing The New York Times (Nov 25)
+
+## Artificial Intelligence | sting=ai
+// Story 9: Anthropic founder sales; OpenAI Private Inference
+[andrew] Story nine, AI. Anthropic's stock is still trading below its eighty-three dollar IPO price, and SEC filings show all seven cofounders filed to sell shares at that price, about one point nine six billion dollars in total, including roughly two hundred eighty million each for Dario and Daniela Amodei. Critics say the optics are bad for retail buyers who bought in since. Their motives aren't known, and the sales were disclosed as required.
+[andrew] And Sam Altman says OpenAI is now testing Private Inference with a small group of business customers. It uses locked-down hardware so prompts and answers stay private even while the model is processing them, aimed at companies nervous about feeding source code or legal files into AI. It's early, and the open question is how much customers can actually verify.
+> source: Futurism, "Anthropic Founders Are Cashing Out While the Stock Tanks" (Nov 25); TipRanks (Nov 25); Newsquawk, Sam Altman post (Nov 25); VentureBeat, "OpenAI's new 'Private Intelligence' targets a growing enterprise concern" (Sep 29)
+
+## Cybersecurity | sting=cyber
+// Story 10: COLDCARD postmortem; Project Gutenberg
+[ava] Story ten, the cyber desk, and one for bitcoin holders. Coinkite has published its full postmortem on the COLDCARD hardware wallet thefts. From March twenty twenty-one until July of this year, a firmware setting quietly switched off the chip's hardware random number generator, so new seeds were far weaker than they should have been. No device was hacked. Thieves rebuilt keys offline and took about seventeen hundred eighty bitcoin, worth over a hundred million dollars, from more than eighty-six hundred addresses. At least fifteen outside reviews missed the bug.
+[ava] The key point: updating the firmware doesn't fix an old seed. If you made a COLDCARD seed in that window without your own dice rolls, Coinkite says to update, create a new seed and move your coins.
+[ava] And Project Gutenberg, the free library of classic books, has been offline after attackers got root access and planted spam. Volunteers say the books are safe, and they expected the site back later today.
+> source: Bitcoin Magazine, "Coldcard Postmortem Says Weak Seeds, Not Hacked Devices, Drove Bitcoin Thefts" (Nov 24); Coinkite, "COLDCARD Seed-Generation Incident: Postmortem" (Nov 23); File 770 (Nov 25); Project Gutenberg on Mastodon (Nov 25)
+
+## From Your X Feed | sting=x
+// Story 11: X feed
+[ava] Story eleven, from your X feed. Variety reports Gordon Ramsay is the new host of the BBC's Top Gear. He's a lifelong car fan with a racing license. The show returns in twenty twenty-eight, and the Stig is coming back too.
+[ava] World of Engineering marked BepiColombo's arrival at Mercury after an eight-year trip. The European and Japanese mission delivers two orbiters at once. ESA says a software glitch cut the main burn short, but it's safely in orbit.
+[ava] patio11 noted that real-money prediction markets now give better than even odds that P versus NP gets resolved before twenty twenty-eight, up from about five percent last week. That's after a public swarm of AI agents started attacking the famous problem with computer-checked proofs. Most experts still expect P not to equal NP, and nothing is proven yet.
+[ava] And for your Tesla, Mike P ran a box test on FSD version fifteen. The car hit the box, though it showed up on the screen first. It's one driver's test, not a formal one.
+> source: Harry's X feed, Nov 25 (@Variety, @engineers_feed, @patio11, @mikepat711); Variety, "Gordon Ramsay to Host 'Top Gear'" (Nov 25); ESA, "BepiColombo safely in Mercury orbit despite unexpected challenge" (Nov 2026); X News summary, "P versus NP Debate Revives with AI Proof Efforts" (Nov 25)
+
+## Local News & Events | sting=local
+// Story 12: Ski openings; TSO; fire safety
+[ava] Story twelve, local news. Ski season is here. Black Mountain in Jackson opened this morning, Bretton Woods opens tomorrow and Waterville Valley on Saturday. McIntyre in Manchester started making snow yesterday, and Sunday River in Maine opened at noon.
+[ava] If you're looking for a night out after the turkey, Trans-Siberian Orchestra plays SNHU Arena Friday and Saturday at seven thirty.
+[ava] And one safety reminder from Manchester Fire. Thanksgiving is the top day of the year for home cooking fires. The National Fire Protection Association counted more than eleven hundred on Thanksgiving in twenty twenty-four. If you're frying a turkey, do it outside, away from the house, with a fully thawed bird.
+> source: WMUR, "Ski season underway at one New Hampshire resort as others announce opening plans" (Nov 25, 12:35 p.m.); 5AM Manchester (Nov 25); WMUR, Manchester Fire Department deep-fried turkey demonstration (Nov 23)
+
+## Uplifting Story | sting=feel
+// Story 13: Crookston Thanksgiving tradition
+[ava] And finally, story thirteen. For about thirty years, Lester and Sue Wilkens ran the free community Thanksgiving dinner at the cathedral in Crookston, Minnesota. Twenty-plus turkeys and mountains of mashed potatoes, and Lester out in the parking lot radioing in to-go orders.
+[ava] This year Lester is recovering from a stroke and has to sit it out. So the town returned the favor. About six hundred people came to a benefit to help cover his medical bills. His best friend says he's alive only because Lester once pushed his wife to get him to the Mayo Clinic, where doctors found an aneurysm. As one neighbor put it, if a neighbor needs help, you help them out.
+> source: MPR News, "In Crookston, volunteers keep 50-year community Thanksgiving tradition strong" (Nov 25)
+
+## Close | sting=close
+[ava] That's your one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. I'll have the closing numbers at four.
+[ava] Safe travels, and thanks for listening to Gumshoe News Radio.
