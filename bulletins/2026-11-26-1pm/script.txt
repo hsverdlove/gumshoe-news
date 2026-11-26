@@ -1,0 +1,81 @@
+// Gumshoe script format: see README.md
+# title: Thursday 1 PM Update, Nov 26
+# description: The Thanksgiving one o'clock update from Gumshoe News Radio for November 26, 2026: Londonderry, New Hampshire weather for the next 24 hours; storm outages climb past six hundred thousand as the Jersey Shore sees record tides, and about three hundred thousand legal immigrants get Medicare warning letters; two Italian technicians killed in a drone attack in Kuwait as Israel signals readiness to strike Iran, and Ukraine says North Korea has paused arms deliveries to Russia; a quick crypto check with Wall Street closed; a CBS investigation into Chinese-owned Nvidia partners and new benchmarks for Google and Amazon AI chips; Reuters on delays at two Chinese AI labs; a fake paid-interview phishing campaign and a Gmail-stealing fake Chrome extension; your X feed; Londonderry housing news and the Lancers' title game; and a Texas town that bought a new car for the woman who feeds it every Thanksgiving. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Happy Thanksgiving, and welcome to the one o'clock update from Gumshoe News Radio. It's Thursday, November twenty-sixth. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. The storm's toll is growing to our south, and there's a deadly drone attack in the Gulf.
+[ava] First, the weather in Londonderry New Hampshire for the next twenty-four hours.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 26 at airtime
+
+## US News | sting=us
+// Story 1: Storm outages, record tides
+[ava] Story one, the holiday storm keeps getting worse to our south. Fox Weather, citing PowerOutage.us, says more than six hundred thousand homes and businesses had lost power by late morning, up from about four hundred thousand a few hours earlier. Virginia has the most, around two hundred seventeen thousand, followed by Missouri, where heavy wet snow hit the St. Louis area. Axios notes that likely means well over a million people in the dark on Thanksgiving.
+[ava] On the Jersey Shore, this morning's high tide set preliminary records. The gauge at the Cape May ferry terminal hit nine point two feet, and major flooding in Ocean City closed both sides of the Ninth Street Bridge. FlightAware counted more than thirteen hundred flights delayed or canceled, with Washington and New York airports hit hardest. Another high tide around eight or nine tonight should bring moderate flooding again. The strongest winds around New York City are still expected this evening.
+> source: Fox Weather live updates, "Power outages nationwide top 600,000" (Nov 26, 11:38 a.m. ET); Axios, "Millions without power as Thanksgiving storms wreak havoc" (Nov 26); Cape May Scanner, NOAA tide gauge data (Nov 26, 12:29 p.m.); CBS News Philadelphia live updates (Nov 26)
+
+// Story 2: Medicare notices to legal immigrants
+[ava] Story two. About three hundred thousand legal immigrants are getting letters from Social Security warning that their Medicare coverage may end on February first. The Washington Post reports that many of them paid into the system for years. The change comes from last year's big tax and spending law, which limits Medicare to citizens, green card holders and a few other groups. Refugees, people granted asylum and trafficking survivors who don't have green cards are among those affected.
+[ava] The letters are preliminary. People can keep coverage by proving citizenship or an eligible status by the deadline, and anyone cut off can ask for reconsideration. The Center for Medicare Advocacy points out that the government's estimate is three times what the Congressional Budget Office projected last year. Backers of the law have argued that federal benefits like Medicare should be reserved for citizens and permanent residents.
+> source: The Washington Post, "300,000 legal immigrants told they're losing Medicare coverage" (Nov 24); Center for Medicare Advocacy, "CMS Releases Final Rule: Some Immigrants will Lose Medicare in 2027" (Nov 12); Medicare Rights Center (Nov 12)
+
+## International | sting=world
+// Story 3: Italians killed in Kuwait; Israel on Iran
+[ava] Story three, the world. Two Italian civilians were killed today in a drone attack on what Kuwait's army called a vital site. Italy's foreign ministry says Antonio Saccoccio, sixty-five, and Emanuele Lo Russo, thirty-six, worked for Rheinmetall Italia and were maintaining radar antennas for Kuwait's Skyguard air-defense system. A Kuwaiti and a Pakistani were also hurt. Italian officials say the drones were of Iranian origin, and Bloomberg notes it's the second Iranian drone attack on Kuwait this month. Iran's armed forces flatly deny it, saying they carried out no operation in the region and suggesting the accusation is a pretext.
+[ava] Tensions are high elsewhere too. Israel's military spokesman Effie Defrin told public broadcaster Kan that Israel is ready to strike Iran at any moment, even without the Americans. Prime Minister Benjamin Netanyahu then canceled tonight's full security cabinet meeting in favor of a smaller consultation, Ynet reported, without giving a reason. Not everyone sees urgency. Gadi Eisenkot, who is trying to form Israel's next government, said this week he sees no immediate threat from Iran that requires action before then.
+> source: Italian Ministry of Foreign Affairs, "Drone attack in Kuwait: two Italian citizens lost their lives" (Nov 26); ANSA (Nov 26); Bloomberg, "Iran Attack on Kuwait Kills Two Italian Rheinmetall Workers" (Nov 26); DW (Nov 26); Iran International, "Israel ready to strike Iran without US support, IDF spokesman says" (Nov 26); Israel.com Newsroom, citing Ynet, N12 (Nov 26)
+
+// Story 4: North Korea pauses arms to Russia (Ukrainian claim)
+[ava] Story four. Ukraine's military intelligence says North Korea has temporarily stopped sending ballistic missiles and artillery shells to Russia, closed its airspace to Russian military planes and paused plans to send more troops. Ukraine says the trigger was a diplomatic spat over a senior Russian diplomat's remarks about South Korea. Treat this one with caution. Reuters could not independently verify it, and neither Moscow nor Pyongyang has commented. Ukraine says North Korean troops and missile units already in Russia remain there.
+> source: Reuters via Investing.com, "Ukraine says North Korea temporarily halted missile shipments to ally Russia" (Nov 26); Kyiv Independent (Nov 26); Hromadske (Nov 26)
+
+## Markets | sting=markets
+// Story 5: Brief holiday note
+[andrew] Story five, a quick markets note. US stock markets are closed for Thanksgiving and reopen tomorrow for a shortened session that ends at one o'clock. In crypto, bitcoin is trading around sixty-one thousand dollars, roughly four percent above Wednesday's low. CoinDesk says the bounce came mostly from short sellers covering their bets rather than fresh buying. And there's a caution flag: US spot bitcoin ETFs are on track for their biggest monthly outflow on record, about five point four billion dollars in November. Holiday trading is thin, so moves can reverse quickly.
+> source: CoinDesk, "Crypto Markets Today" (Nov 26); CoinDesk, "Spot bitcoin ETFs are on track for their biggest monthly outflow on record" (Nov 26); Bitcoin.com News (Nov 26)
+
+## Technology | sting=tech
+// Story 6: CBS Nvidia partners probe; SemiAnalysis chip benchmarks
+[andrew] Story six, tech. A CBS News investigation found that Nvidia is selling its most advanced chips to at least two California companies that are actually controlled by Chinese parents. One, RiCloud AI in San Jose, is an Nvidia preferred partner owned by a Shenzhen-based firm whose CEO studied at a Chinese military university. Another, Aivres, was renamed after its Chinese parent was blacklisted by Washington. CBS says some of those chips were then leased or sold to companies in Southeast Asia. Neither company has been accused of wrongdoing, and the deals alone don't show any export rules were broken. Nvidia didn't answer CBS's questions about how it vetted its partners.
+[andrew] And in the chip race, the research firm SemiAnalysis added Google's and Amazon's custom AI chips to its independent benchmarks. In a preview result, Amazon's Trainium3 delivered about two point three times the performance per dollar of Nvidia's GB300 system on an AI-agent workload. Google's Ironwood TPU beat it by about one point eight times in one test. The caveats are big. Most of the edge comes from estimated rental costs rather than raw speed, and Nvidia still came out ahead in other setups.
+> source: CBS News, "2 California companies are buying Nvidia's most advanced chips. Those companies are actually Chinese-owned" (Nov 25); The Statesman (Nov 26); SemiAnalysis InferenceX, "TPU v7 (Ironwood) vs GB300 NVL72: AgentX Results" (Nov 2026); Supercomputing News, "Amazon's First Trainium3 Results Reach SemiAnalysis's AgentX Benchmark as an Official Preview" (Nov 2026)
+
+## Artificial Intelligence | sting=ai
+// Story 7: Reuters on Chinese AI lab delays
+[andrew] Story seven, AI. Reuters reports that two of China's leading AI labs are slipping behind schedule. Zhipu AI had planned to release its giant next model, GLM five point five, this month. Sources say it's been held up partly by tougher defenses at OpenAI and Anthropic against distillation, where a developer trains its model on answers from a stronger rival's model. A new US rule requiring licenses for large blocks of overseas computing power took effect last week, and it could push the launch into next year.
+[andrew] Moonshot AI, maker of the Kimi chatbot, rents much of its computing power abroad. One source says the gap between its major releases could double to a year or more, and that it has turned to distilling from Google and Meta models instead. Moonshot has previously denied relying on distillation, saying its gains came from its own design changes. Supporters of the export rules see this as proof they're working. Critics argue the pressure will only push China to build up its own chips faster.
+> source: Reuters via Investing.com, "Exclusive: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say" (Nov 26); The Next Web (Nov 26)
+
+## Cybersecurity | sting=cyber
+// Story 8: GoodGuys phishing; Remus fake Chrome extension
+[ava] Story eight, the cyber desk. Push Security is tracking a phishing campaign it calls GoodGuys that offers up to six hundred dollars for a short paid expert interview or webinar. It impersonates brands like Google Cloud, Nvidia, SpaceX, Accenture and Spotify, and the emails arrive through legitimate services like HireVue and SendGrid. The pages ask you to sign in with your work Google or Okta account, and the attackers relay your multi-factor prompts in real time. Researchers think the kit was built with help from an AI coding assistant, based on hidden labels calling it a sign-in simulation.
+[ava] And researchers at Gen Digital say the Remus infostealer's advertised Gmail zero-day isn't a Gmail flaw at all. The malware quietly installs a fake Chrome extension called Google Sheets that grabs unread emails every minute. It survives password changes because it lives in the browser. The fix is to check your Chrome extensions page for anything you don't recognize, and make sure Developer Mode hasn't been switched on.
+> source: BleepingComputer, "Fake paid expert interviews impersonate brands to steal Google logins" (Nov 26); Push Security (Nov 2026); BleepingComputer, "Remus malware steals Gmail messages via fake Google Sheets extension" (Nov 26); Gen Digital (Nov 25)
+
+## From Your X Feed | sting=x
+// Story 9: X feed
+[ava] Story nine, from your X feed. Visegrad twenty-four shared what might be the catch of the year. At a cricket match in Mingora Pakistan, a passenger on a passing motorcycle reached out one hand and caught a six without the bike slowing down. The BBC tracked him down. He's Mehran Khan, a twenty-seven-year-old government worker, who told his friend to duck so he could make the grab. Organizers gave him ten thousand rupees, and he says he did give the ball back.
+[ava] Variety reports the Hunger Games prequel Sunrise on the Reaping took in about fifteen million dollars on Thanksgiving Eve. It's on pace for more than eighty-five million over the five-day holiday.
+[ava] Jeremy Kauffman says his nine-year-old had AI write him a novel, then printed it out, hole-punched and bound it, and read it cover to cover. Kauffman admits he's not sure how he feels about that.
+[ava] Sheel Mohnot shared sad news. Duane Flatmo, the Eureka California artist behind El Pulpo Mecanico, the giant fire-breathing octopus art car, has died at sixty-nine after a terminal illness. Mohnot remembered him as unfailingly kind, the kind of guy who'd let anyone work the flames.
+[ava] And Kangmin Lee made it official. It is now acceptable to listen to Christmas music.
+> source: Harry's X feed, Nov 26 (@visegrad24, @Variety, @jeremykauffman, @pitdesi, @kangminlee); BBC Sport, "Motorcycle passenger who took stunning cricket catch found" (Nov 25); Variety, "Sunrise on the Reaping Box Office: $15 Million on Thanksgiving Eve" (Nov 26); Lost Coast Outpost, "Duane Flatmo, Beloved Local Muralist, Painter, Kinetic Sculptor and Funnyman, Has Died" (Nov 25)
+
+## Local News & Events | sting=local
+// Story 10: NH storm timing; Woodmont Commons; Lancers
+[ava] Story ten, local news. Here in New Hampshire, the storm is still on track for tonight. WMUR expects rain to move in from south to north this evening and wind down around daybreak in southern areas, with pockets of freezing rain possible up north. There's a coastal flood advisory for the Seacoast from ten to two tomorrow. The weekend looks drier, with milder air by Sunday.
+[ava] In town news, Londonderry's Town Council has approved a roadwork agreement that clears the way for two more housing projects in Woodmont Commons. Massachusetts builder Procopio Companies plans sixty units at 44 Pillsbury Road and a two hundred fifty unit cottage court next door, with small single-family homes grouped around shared lawns and a clubhouse with a pool. If they're financed and built, the projects would use up much of the remaining old orchard land there.
+[ava] And a reminder for Saturday. The Lancers play Bishop Guertin for the Division One state football championship at one o'clock at Stellos Stadium in Nashua.
+> source: WMUR, "Dry Thanksgiving Day ahead of evening rain" (Nov 26, updated 12:29 p.m.); The Registry Review, "Londonderry OKs 310 Units in Woodmont Commons" (Nov 23); WMUR, "Londonderry football advances to state championship game" (Nov 21)
+
+## Uplifting Story | sting=feel
+// Story 11: Gloria Kennard
+[ava] And finally, story eleven. For thirty-seven years, Gloria Kennard has cooked Thanksgiving dinner for her Texas community. It started in nineteen eighty-eight, when she was working at Texas A and M and felt called to help someone. Now she feeds more than two thousand people every year, plus a New Year's Day meal and weekly shifts at a food pantry.
+[ava] This summer another driver totaled her truck, and the insurance money wasn't enough to replace it. So the pantry, The Bridge Ministries, started a fundraiser with a fifteen thousand dollar goal. A hundred seventy-four donors and a local cabinet maker pushed it past twenty-seven thousand. Friends surprised Miss Gloria with a brand-new SUV in her driveway, just in time for this year's feast. As one organizer put it, every dollar represents a life she has touched.
+> source: Good News Network, "Town Rewards a Woman Whose Thanksgiving Meal Feeds Thousands with a New Car" (Nov 26)
+
+## Close | sting=close
+[ava] That's your Thanksgiving one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Stay warm and dry, and save me some pie.
+[ava] Happy Thanksgiving from all of us at Gumshoe News Radio.
