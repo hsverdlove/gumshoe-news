@@ -1,0 +1,86 @@
+// Gumshoe script format: see README.md
+# title: Thursday 10 AM Update, Nov 26
+# description: The Thanksgiving ten o'clock update from Gumshoe News Radio for November 26, 2026: Londonderry, New Hampshire weather for the next 24 hours; New York declares a storm emergency as hundreds of flights are canceled, and a judge declines a longer ban on taxpayer-funded administration ads; Iran claims two more tankers hit mines near Hormuz, Ukraine strikes a Russian bomber base again, and EU leaders stay far apart on the budget; China warns of countermeasures over new tariffs as Black Friday forecasts point to records online; a report that the Pentagon weighed a wartime law over Nvidia's CEO, X adds parental controls and Neuralink wins approval for a pivotal trial; Claude rewrites Claude's own API in Rust, OpenAI tightens usage limits and New York bans AI chatbot toys; malware that hijacks your browser's management settings and European warnings about AI-agent hacking; your X feed; a deadly shooting at a Massachusetts Thanksgiving game and free holiday meals around New Hampshire; and a Maine father who fills an empty chair with a hundred guests. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Happy Thanksgiving, and welcome to the ten o'clock update from Gumshoe News Radio. It's Thursday, November twenty-sixth. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. The storm is building along the coast, and there's fresh news overseas and in tech.
+[ava] First, the weather in Londonderry New Hampshire for the next twenty-four hours.
+@weather
+> source: National Weather Service forecast for Londonderry, NH (api.weather.gov), retrieved Nov 26 at airtime
+
+## US News | sting=us
+// Story 1: Storm update: NY emergency, flights, flooding
+[ava] Story one, the holiday storm. New York Governor Kathy Hochul has declared a state of emergency for New York City, Long Island, Westchester and nearby counties. Forecasters say the strongest winds should arrive from late this afternoon into this evening, with tonight's high tide expected to bring the worst coastal flooding. Tidal flooding has already been reported in Howard Beach in Queens.
+[ava] Travel is taking a hit on one of the busiest days of the year. FlightAware counted more than three hundred sixty US flights canceled and over four hundred sixty delayed by mid-morning, with Baltimore-Washington and JFK hit hardest. The big four airlines are letting travelers on affected routes rebook for free. Separately, a FedEx cargo jet ran off a runway at Miami International last night. No one was hurt, but it closed all but one runway for a time and left hours of delays.
+> source: NBC News live updates, "Storms disrupt Thanksgiving travel across East Coast and Southeast" (Nov 26, updated 9:30 a.m. ET); National Weather Service New York, area forecast discussion (Nov 26, 7:13 a.m.); ABC7 New York, "Tidal flooding reported in Howard Beach, Queens" (Nov 26)
+
+// Story 2: Judge declines long-term ban on administration ads
+[ava] Story two. A federal judge in Washington has declined to extend a block on taxpayer-funded ads that the Democratic National Committee calls illegal pro-Trump propaganda. Judge Loren AliKhan had temporarily barred some of the spots just before the midterms. Now she says that with the election over, the party hasn't shown it faces imminent harm, whether from December runoffs or the early twenty twenty-eight cycle.
+[ava] The ads were paid for at least in part by a twenty million dollar Homeland Security contract. The White House calls them public service announcements, and the Justice Department noted the government has stopped paying to air them. The DNC says the spots don't help people use any actual government program, and it vows to keep fighting. A New York judge reached a similar conclusion in a parallel case last week, and both lawsuits continue on the merits.
+> source: AP, "Judge declines to issue a long-term ban on taxpayer-funded, pro-Trump ads critics called propaganda" (Nov 25); Quartz, "Judge declines to extend ban on Trump administration ads in DNC lawsuit" (Nov 26)
+
+## International | sting=world
+// Story 3: Hormuz tanker claims
+[ava] Story three, the world. Iran's Revolutionary Guards say two more oil tankers exploded and caught fire after hitting sea mines north of Oman's Khasab port, at the mouth of the Strait of Hormuz. They say one was a supertanker carrying more than two million barrels of crude, and that the ships had switched off their tracking and were relying on US fighter jets for cover.
+[ava] Those claims haven't been independently confirmed. Maritime security agencies often describe incidents in the area as strikes by unknown projectiles, and their counts don't always line up with Iran's. Separately, the British agency UKMTO reported an explosion near a tanker about fifty nautical miles west of Dubai today. A Guards spokesman said Iran is using heavy firepower to keep the strait closed to pressure the US economy.
+> source: Reuters via The Straits Times, "Iran's Revolutionary Guards say two oil tankers hit sea mines near Oman's Khasab" (Nov 26); Iran International (Nov 26); Joint Maritime Information Center reporting via Northgate News (Nov 22)
+
+// Story 4: Ukraine hits Marinovka; EU budget standoff
+[ava] Story four. Ukraine's General Staff says Neptune cruise missiles struck Russia's Marinovka air base near Volgograd overnight, the second hit there in about a month. The base is home to Su-34 bombers that drop glide bombs on Ukrainian cities. Damage is still being assessed. Ukraine also says it set a storage tank on fire at a Transneft oil pumping station in Bashkortostan, more than a thousand kilometers from the border.
+[ava] In Brussels, EU leaders are meeting on a budget of about one point seven five trillion dollars for twenty twenty-eight through twenty thirty-four, along with a new forty-nine billion dollar loan for Ukraine. Italy's Giorgia Meloni says they're light-years from a deal. The Netherlands' Rob Jetten says the plan must be downsized, while others defend current spending, and some countries oppose more military aid.
+> source: Hromadske, "Ukraine strikes Russia's Marinovka airbase again with Neptune missiles, hits oil pumping station" (Nov 26); Kyiv Post (Nov 26); Reuters, "EU's Costa aims to bring leaders closer to budget deal, as objections remain" (Nov 26); AP News Summary (Nov 26, 7:27 a.m. ET)
+
+## Markets | sting=markets
+// Story 5: Tariff reaction, Black Friday outlook
+[andrew] Story five, markets. Wall Street is closed today, but there's news. China's commerce ministry says it firmly opposes the new US tariffs and reserves the right to take necessary measures. Washington proposed a twenty percent rate on Chinese goods that could rise to forty. Trade Representative Jamieson Greer says it fits within the understanding with Beijing, and Dow Jones reports the new levies would replace earlier ones rather than stack on top. Their truce runs until January tenth.
+[andrew] Holiday-thin futures point higher, but treat that as a mood reading, not a forecast. Oil is mixed ahead of Sunday's OPEC plus meeting, with US crude near eighty-four and a half.
+[andrew] And for retailers, Adobe expects record online sales of six point nine billion dollars today and twelve point nine billion on Black Friday, up about nine percent each. The National Retail Federation expects about a hundred eighty-three million people to shop this weekend, slightly fewer than last year. Stocks trade until one o'clock tomorrow.
+> source: AFP via France 24, "China warns of 'necessary measures' after new US tariffs" (Nov 26); Dow Jones via Morningstar, Top Markets Headlines at 5 AM ET (Nov 26); The Company Chronicle, "Before the bell" (Nov 26, 7:45 a.m. ET); Digital Commerce 360, Adobe Analytics data (Nov 25); NRF, "183 Million Consumers Expected to Shop During Thanksgiving Weekend" (Nov 19)
+
+## Technology | sting=tech
+// Story 6: Pentagon DPA report on Nvidia; X parental controls; Neuralink
+[andrew] Story six, tech. The Washington Post reports that Defense Secretary Pete Hegseth and his deputy Steve Feinberg discussed using the Defense Production Act to pressure Nvidia's board into bringing back Jensen Huang, before the board voted on Monday to reinstate him. The Pentagon flatly denies it, saying those conversations never happened. As written, the law lets the government prioritize defense production, but it doesn't explicitly give it power to pick a company's CEO.
+[andrew] X has launched its first parental controls for teens thirteen to seventeen. Linked parents can set daily time limits, approve new followers, filter words and limit direct messages. They can see who a teen chats with, but not the messages themselves.
+[andrew] And Neuralink has FDA approval for its first pivotal trial, testing whether people with severe paralysis from ALS can control devices by thought. It's the first such trial for an implanted brain-computer interface in the US. Approval allows the study, not sales.
+> source: The Washington Post, "Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO" (Nov 25); Benzinga, Pentagon statement (Nov 25); The Verge, "X is finally getting its first parental controls" (Nov 26); Neuralink, "Neuralink Receives FDA Approval to Launch LINK Pivotal Study" (Nov 25)
+
+## Artificial Intelligence | sting=ai
+// Story 7: Claude rewrites API in Rust; OpenAI limits; NY AI toy ban
+[andrew] Story seven, AI. Anthropic says it used Claude agents to rewrite the Messages API, the service that delivers Claude to customers, moving it from Python to Rust. The agents compared old and new versions against live traffic and fixed mismatches, with humans reviewing the changes. Anthropic reports about seventy percent less processor use per request, a twenty percent faster first response and no downtime. As The Next Web points out, verifying the rewrite was harder than writing it.
+[andrew] OpenAI says it had been undercounting usage of its new GPT-6.2 models. After the fix, paying subscribers will hit limits forty percent sooner on Astra and twenty-five percent sooner on Sol. Subscribers get one banked reset to make up for it.
+[andrew] And New York has banned the manufacture and sale of toys with AI chatbots for five years, starting in February twenty twenty-seven. Supporters cite risks to kids, and social psychologist Jonathan Haidt urged parents this morning not to buy such toys. The Toy Association opposed a moratorium and favors studying the risks first, alongside its own safety guidelines.
+> source: Anthropic, "Migrating our Messages API to Rust" (Nov 2026); InfoWorld (Nov 2026); The Next Web, "Claude rewrote the API that serves Claude. Checking its work was harder" (Nov 2026); The Next Web, "OpenAI fixes a GPT-6.2 billing mistake" (Nov 26); NY Governor's Office, "Governor Hochul Signs Five-Year Ban on AI Chatbot Toys" (Nov 2026); The Toy Association, "New York Governor Signs AI Chatbot Toy Bill into Law" (Nov 24); Jonathan Haidt on X (Nov 26)
+
+## Cybersecurity | sting=cyber
+// Story 8: SYS010 malware; Italy and Switzerland AI-agent attacks
+[ava] Story eight, the cyber desk. Bitdefender is warning about malware it calls SYS010, spread through Facebook ads for free animated wallpapers. The wallpaper works, but the installer quietly enrolls your browser in an attacker's management console, forcing in an extension that steals session cookies, reads recent Gmail and Outlook messages and can delete security alerts. The red flag is a browser that suddenly says it's managed by your organization on a personal computer.
+[ava] And cyber agencies in Italy and Switzerland warn that attackers are now using autonomous AI agents to break into critical infrastructure. Italy saw multiple agents working in parallel to compromise many systems within hours. Switzerland says every AI-assisted attack it knows of succeeded, mostly through weak passwords and unpatched systems. Their advice is to patch critical flaws within a day, use multi-factor authentication or passkeys, and cut what's exposed to the internet.
+> source: BleepingComputer, "SYS010 malware abuses browser management to spy on Gmail, Outlook" (Nov 26); Bitdefender Labs (Nov 26); BleepingComputer, "Italy and Switzerland warn of autonomous AI-driven cyberattacks" (Nov 25)
+
+## From Your X Feed | sting=x
+// Story 9: X feed
+[ava] Story nine, from your X feed. Visegrad twenty-four noted the death of Andy Taylor, Duran Duran's original guitarist, at sixty-five after a long fight with prostate cancer. He co-wrote Hungry Like the Wolf, Rio and Girls on Film. His former bandmates said he brought fire and swagger to their music.
+[ava] Visegrad twenty-four also shared Europe's first close-up look at the asteroid NASA hit in twenty twenty-two. The Hera probe found that the DART impact flattened one whole face of Dimorphos into a stadium-sized crater and left it tumbling, with hundreds of small boulders circling the pair.
+[ava] Variety reports Richard Hammond was asked about returning to the rebooted Top Gear and said no, he's too old. He says that was their show, and the BBC should make one about where cars are headed now.
+[ava] Pieter Levels, who posts as levelsio, says Chrome on his MacBook asks for paired Bluetooth devices twenty-seven times a second, freezing the machine every few seconds. He's flagged it to Google's Chrome team.
+[ava] And Trung Phan points out that someone is making money selling inflatable turkeys to appliance makers, so their ads can show the oven fits the bird.
+> source: Harry's X feed, Nov 26 (@visegrad24, @Variety, @levelsio, @TrungTPhan); Duran Duran, "Andy Taylor 1961-2026" (Nov 25); AP (Nov 25); ESA, "Hera reveals stadium-sized asteroid crater from spacecraft impact" (Nov 25); Deadline, "Richard Hammond Says He Was Approached By BBC About 'Top Gear' Return" (Nov 26)
+
+## Local News & Events | sting=local
+// Story 10: Chelsea shooting; Windmill meals; Dover meals
+[ava] Story ten, local news. Just over the border, a man in his twenties was shot and killed during a fight between fans on the sidelines after last night's Thanksgiving football game between Chelsea and East Boston high schools. Police say he wasn't a student. No arrests have been made, and Chelsea schools are offering counseling.
+[ava] If you or someone you know could use a holiday meal, the Windmill Restaurant on Loudon Road in Concord is serving free Thanksgiving dinners from eleven to two today, to eat in or take out. The family-run tradition dates to the nineteen nineties. They served about eleven hundred meals last year and have a hundred turkeys ready this time.
+[ava] And in Dover, firefighter Sierra Rodenhuis is handing out more than two hundred Thanksgiving dinners in memory of her friend Drew Ceppetelli, who was killed in a crash on Thanksgiving in twenty twenty-two. She started with seven meals, Drew's favorite number. Each one comes with a card carrying Drew's saying: you are what you think you are.
+> source: CBS Boston, "Man shot and killed on sidelines after Thanksgiving high school football game in Chelsea, Massachusetts" (Nov 26, 9:26 a.m.); WMUR, "The Windmill Restaurant serving meals to community on Thanksgiving" (Nov 26); WMUR, "Woman honors late friend by giving Thanksgiving meals to those in need" (Nov 25)
+
+## Uplifting Story | sting=feel
+// Story 11: Donald Oakes, Arundel Maine
+[ava] And finally, story eleven. In Arundel Maine, Donald Oakes is opening his home to anyone who wants a warm meal or some company this Thanksgiving, for the third year in a row. He does it for his son Jameson, who died a few years ago and believed nobody should spend the holiday alone.
+[ava] When you're expecting someone and that chair is empty, Oakes says, it's heartbreaking, so he decided to fill a new one. Last year more than a hundred people came by. This year he's cooking seven turkeys. He says his community did so much for him after he lost his boy that he can never repay it. And he says Jameson would be beaming.
+> source: WGME, "Arundel man welcomes strangers and neighbors to his home for Thanksgiving to honor son" (Nov 21, updated Nov 23)
+
+## Close | sting=close
+[ava] That's your Thanksgiving ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Stay safe if you're on the road tonight.
+[ava] Happy Thanksgiving from all of us at Gumshoe News Radio.
