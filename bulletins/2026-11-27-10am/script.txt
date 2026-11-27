@@ -1,0 +1,83 @@
+// Gumshoe script format: see README.md
+# title: Friday 10 AM Update, Nov 27
+# description: The Black Friday ten o'clock update from Gumshoe News Radio for November 27, 2026: Branchburg, New Jersey weather for the next 24 hours; storm outages ease as the Macy's parade gets a green light for Saturday, and senators near a final deal to ban Chinese-connected cars; Iran claims it retook two US-seized tankers and fired warning shots at an American jet, while Zelensky tells the BBC that calling Putin a friend is like befriending Hitler; an in-depth markets look at Wall Street's half-day open, yields, oil, gold, a bitcoin slip and a Reuters report on a quiet US push against OPEC; a possible EU vote on Tesla's driver assistance and Poland's AI deal with Palantir; Canada's billion-dollar AI compute fund and Google's new rules for AI assistants in Gmail; hackers inside the Air Force's flagship cloud and a Microsoft Store app caught delivering malware; your X feed; New Jersey's power restoration and Somerset County weekend markets; and a soldier's rescued puppy who made it home for the holidays. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning, and welcome to the ten o'clock update from Gumshoe News Radio. It's Friday, November twenty-seventh. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Stocks are open for their half day, and there's a big new cyber story out of the Pentagon.
+[ava] First, the weather in Branchburg New Jersey for the next twenty-four hours.
+@weather
+> source: National Weather Service forecast for Branchburg, NJ (api.weather.gov), retrieved Nov 27 at airtime
+
+## US News | sting=us
+// Story 1: Storm recovery update; Macy's parade Saturday
+[ava] Story one, the storm recovery. Outages are slowly coming down. Newsweek, citing PowerOutage dot US, put the national total near six hundred seventy thousand customers this morning, down from more than nine hundred thousand at Thursday's peak. Pennsylvania has the most at nearly a hundred fifty thousand, followed by New Jersey at about a hundred thirty thousand.
+[ava] There is good news for New York. The hundredth Macy's Thanksgiving Day Parade, postponed for the first time ever because of weather, steps off Saturday at eight thirty in the morning,. Forecasters expect gusts of twenty to twenty-five miles an hour, well under the thirty-four mile an hour limit that would ground the giant balloons.
+> source: Newsweek, "Map Shows States Worst Hit by Power Outages" (Nov 27); weather.com, "Macy's Thanksgiving Day Parade postponed to Saturday" (Nov 27, 7:53 a.m. ET); CBS New York (Nov 26); ABC News (Nov 27)
+
+// Story 2: Chinese connected-car ban near final vote
+[ava] Story two. Congress is close to permanently banning cars tied to China from American roads. Senators Bernie Moreno, a Republican from Ohio, and Elissa Slotkin, a Michigan Democrat, have reached a revised deal on the Connected Vehicle Security Act. It would bar sales of connected vehicles, and the software and hardware inside them, linked to China, Russia, Iran or North Korea. Politico says a vote could come in December, before Democrats take control of Congress.
+[ava] The latest changes exempt passive Chinese shareholders, so brands like Volvo and Mercedes-Benz can keep selling here. Backers cite the risk of car data flowing to foreign governments. Critics call it protectionism that keeps cheaper EVs out.
+> source: Politico, "China car ban at the 'one yard line' in Congress" (Nov 26); Chosun Biz, "US lawmakers seek to pass bipartisan bill restricting Chinese auto parts" (Nov 27); Economy Media (Nov 2026)
+
+## International | sting=world
+// Story 3: Hormuz claims: tankers retaken, F-16 warning shots
+[ava] Story three, the world. Iran is making two new claims around the Strait of Hormuz, neither independently verified. Navy commander Shahram Irani says Iranian commandos boarded and took back two oil tankers that US forces had seized, saying the American personnel aboard were asleep. He named no ships, dates or locations. Separately, the Revolutionary Guards say their air defenses fired warning shots at a US F-16 near Hengam Island, and that the jet fired flares and turned away. US officials have not commented on either claim.
+> source: Anadolu Agency, "Iran claims it recovered 2 oil tankers seized by US military" (Nov 27); TASS and Mehr (Nov 27); Anadolu Agency, "Iran claims air defenses forced US F-16 jet to withdraw near Hengam Island" (Nov 27); Tasnim (Nov 27)
+
+// Story 4: Zelensky BBC interview; children returned; New Zealand
+[ava] Story four. In a BBC interview in Kyiv, Ukraine's President Zelensky called it strange that President Trump refers to Vladimir Putin as his friend. He said Putin is an aggressor and a killer who cannot be a friend, comparing it to calling Hitler a friend during World War Two. He also said the US is too focused on the Middle East and slow to deliver Patriot missiles. Trump, asked about the remark, said he wants to stop the killing and make a deal, and that the biggest obstacle is two leaders who really hate each other. He also says Putin is welcome at next month's G20 summit in Miami. The Kremlin says Putin hasn't decided.
+[ava] Ukraine also says nine children taken to Russia or occupied areas came home today, with help from First Lady Melania Trump.
+> source: BBC, "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview" (Nov 27); AP (Nov 27); New York Post (Nov 27); Interfax (Nov 2026); Kyiv Independent, "9 Ukrainian children returned... through Melania Trump's mediation" (Nov 27)
+
+## Markets | sting=markets
+// Story 5: In-depth markets
+[andrew] Story five, markets in depth. Wall Street's holiday half day is underway, with stocks closing at one and bonds at two. At the opening bell, Reuters had the Dow up about a half percent at fifty thousand four hundred fifty-nine, the S&P five hundred up one point one percent at seven thousand two hundred sixty-three, and the Nasdaq up one point six percent near twenty-three thousand nine hundred fifty-eight.
+[andrew] The first half hour cooled things off. Shortly before ten, the S&P was up about seven tenths of a percent and the Nasdaq nearly one percent, as premarket enthusiasm for chips faded and Nvidia turned lower, down more than one percent. The Dow was up about six tenths and small caps did better, with the Russell two thousand up about one percent. Energy was the strongest sector. Altria slipped after confirming it may bid for Britain's Imperial Brands, and Vertex fell about seven percent after the FDA extended a drug review.
+[andrew] In bonds, the ten-year Treasury yield is near four point nine percent and the two-year near four point six eight, both up several basis points as traders keep betting on a December Fed rate hike ahead of next Friday's jobs report. US crude is around eighty-four dollars a barrel ahead of Sunday's OPEC plus meeting. Gold is up about three and a half percent near thirty-six sixty, silver jumped about nine percent, and bitcoin has given back its overnight gain, slipping about two percent to around fifty-nine thousand dollars.
+[andrew] One more energy story. Reuters reports, citing ten sources, that the Trump administration quietly encouraged Venezuela and Iraq this year to consider leaving OPEC, and blocked Venezuela's dues payment, until Saudi Crown Prince Mohammed bin Salman stepped in. The State Department acknowledged lower-level talks but denied high-level discussions on membership.
+[andrew] The big picture. The S&P came into today up almost four percent for the week, its best since April, after an eight and a half percent slide the week before. Capital Economics' Jonas Goltermann cautions that in past cases of a ten percent drop within two months of a record, most turned into bear markets or near misses. Bulls point to oversold conditions and a strong economy, and thin holiday volume can exaggerate moves either way.
+> source: Reuters via Investing.com, "US stocks open higher as battered AI shares claw back losses" (Nov 27, 9:35 a.m. ET); Yahoo Finance quotes (Nov 27, about 9:50 a.m. ET); CNBC, "Stocks making the biggest moves Friday" (Nov 27); CNBC, "Treasury yields rise, investors look ahead to payroll data" (Nov 27); CoinGecko and Coinbase spot (Nov 27, about 9:55 a.m. ET); Reuters, "Exclusive: US pushed Venezuela, Iraq to consider leaving OPEC, sources say" (Nov 27); CNBC, "This week's bounce following a rapid correction may not hold, history shows" (Nov 27)
+
+## Technology | sting=tech
+// Story 6: Tesla EU vote; Poland-Palantir
+[andrew] Story six, tech. Tesla's driver assistance could get a Europe-wide decision next month. A draft agenda for the EU's Technical Committee on Motor Vehicles lists a possible vote on December fifteenth on letting the Netherlands grant EU-wide approval for what's called Tesla Assisted Driving, the European version of Full Self-Driving Supervised. A vote isn't guaranteed, and approval needs a qualified majority of member states.
+[andrew] And Poland has signed a five-year contract worth about three hundred million dollars for Palantir's Maven Smart System, an AI tool that pulls battlefield data together to help commanders spot threats and weigh options. Palantir's Alex Karp attended the signing in Warsaw. Poland's Defense Ministry says data, servers and encryption keys stay under Polish military control. Critics in Poland flag Palantir's surveillance record. Supporters say the front line state needs the best tools available.
+> source: EU TCMV draft agenda, Dec 15, 2026 (circabc.europa.eu); CNA, "EU may vote on authorising Tesla assisted-driving system at Dec 15 meeting" (Nov 27); Bloomberg, "Poland Signs $300 Million Palantir Deal to Use AI for Defense" (Nov 27); Polish Ministry of National Defense (Nov 27); TVP World (Nov 27)
+
+## Artificial Intelligence | sting=ai
+// Story 7: Canada compute fund; Google Workspace agent rules
+[andrew] Story seven, AI. Canada is adding seven hundred million Canadian dollars to its AI Compute Access Fund, bringing it to one billion. Small and mid-sized Canadian companies can get up to eighty percent of their computing costs covered if they buy from sovereign Canadian providers, or up to half from other Canadian-based providers.
+[andrew] And if you use AI assistants with Gmail, Google is changing the rules. Starting February first, AI agents that work with Gmail, Drive and Calendar will have to connect through Google's official Workspace connectors or command-line tool, rather than calling the older interfaces directly. Google says it gives organizations more control. Developers will have some rewiring to do.
+> source: Government of Canada, "$700 million expansion of the AI Compute Access Fund" (Nov 2026); BetaKit (Nov 2026); Google Workspace Updates blog, "Simplifying agent access while keeping organizations in control" (Nov 2026); The Neuron, AI digest (Nov 27)
+
+## Cybersecurity | sting=cyber
+// Story 8: Air Force Cloud One breach; Microsoft Store Vinci RAT
+[ava] Story eight, the cyber desk, and it's a big one. Reuters reports that hackers breached Cloud One, the Air Force's flagship cloud computing platform, according to three people familiar with the matter. Cloud One combines services from Microsoft, Amazon, Oracle and Google and runs scores of applications, from personnel and pay to a system that tracks bombs and missiles at more than two hundred Air Force locations.
+[ava] The intrusion was found within the past month during upgrade work. One source says the attackers used a software flaw to reach the control plane, which he compared to a universal remote. Reuters couldn't determine who did it, or whether any data was stolen. Migrations to the platform have been paused, updates blocked and some administrator rights revoked, and Cyber Command has been called in. The Air Force says it doesn't comment on specific networks.
+[ava] Closer to home, the security firm eSentire found that a free Microsoft Store app called Setup Assistant was actually a backdoor that installed remote control malware called Vinci RAT on Windows PCs. The store page has since disappeared. If you installed it, remove it and run a full scan.
+> source: Reuters via HuffPost and CNBC, "Hackers breach U.S. Air Force flagship Cloud One computing platform" (Nov 27, 6:35 a.m. ET); Bloomberg (Nov 27); eSentire, "Vinci RAT Delivered Through a Malicious Microsoft Store App" (Nov 2026); The Hacker News (Nov 2026); IT Pro (Nov 2026)
+
+## From Your X Feed | sting=x
+// Story 9: X feed
+[ava] Story nine, from your X feed. Eric Raymond posted about a twelve-day marathon with an AI coding assistant on reposurgeon, his forty-four thousand line tool for converting version control histories. He asked the AI to audit for bugs, then fix them, a hundred thirty-one times. The result was one thousand thirteen defects resolved without him writing a single line of code by hand. Only two or three were bugs a normal user would ever hit.
+[ava] Jonathan Turley is among those still without power, at home in McLean Virginia. He says his family played their annual Turkey Bowl in the rain, cooked the whole Thanksgiving dinner on the grill, heated the house with the fireplace and ate by candlelight. Pilgrim style, he called it.
+[ava] pitdesi tried to look up a TV price on Walmart's website, a Black Friday ritual of his, and got stopped by the site's robot detector. As he put it, I, a human, cannot get past it. And IterIntellectus marveled that his AI assistant had just sent a fax for him, adding he isn't sure whether he's living in the future or the past.
+> source: Harry's X feed, Nov 27 (@esrtweet, @JonathanTurley, @pitdesi, @IterIntellectus)
+
+## Local News & Events | sting=local
+// Story 10: JCP&L restoration; Somerset County weekend
+[ava] Story ten, local news. JCP&L says it has restored power to nearly two hundred thousand customers since the storm, with about a hundred thousand still out as of eight this morning. The utility expects to post restoration estimates later today and warns the hardest-hit areas could take several days. If you're still dark, JCP&L is giving out free water and ice at the service desk of participating stores, including the ShopRite on Route twenty-two in Somerville and the one on Route two-oh-two in Bernardsville.
+[ava] For the weekend, beyond Small Business Saturday in Somerville, Abma's Farm in Hillsborough runs its Weihnachtsmarkt Christmas market today and Saturday from ten to four, free to enter. And on Sunday, Somerville Arts holds its holiday art show at Verve on East Main Street from eleven to five.
+> source: WRNJ Radio, "JCP&L restores power to nearly 200,000 customers... 100,000 remain without service" (Nov 27); WRNJ Radio, "JCP&L offering free water and ice" (Nov 27); County Brief, "Somerset County Weekend Events, Nov. 27-29" (Nov 26)
+
+## Uplifting Story | sting=feel
+// Story 11: Rakia the puppy
+[ava] And finally, story eleven. Rakia was just a few months old when a soldier named Camron Shepard found her under an abandoned truck while on patrol in southeastern Europe. He fed her, and the two bonded.
+[ava] As his deployment wound down, he reached out to Paws of War, a Long Island nonprofit that helps service members bring home animals they rescue overseas, at no cost to them. The group handled her vet care and travel, and last week Rakia flew from Long Island to Fort Lauderdale, arriving with her tail wagging. Camron's mother, who is deaf, was there to welcome her, and Paws of War plans to train Rakia to alert her when someone rings the doorbell. A rescue under a truck, and now a job and a family for the holidays.
+> source: Greater Long Island, "Puppy rescued by soldier flies out of MacArthur for holiday reunion" (Nov 26); Cape Coral Breeze, "Paws of War reunites a soldier and his rescued puppy" (Nov 23)
+
+## Close | sting=close
+[ava] That's your ten o'clock update. I'm Ava.
+[andrew] And I'm Andrew. The closing bell rings early at one.
+[ava] We'll talk again at one. Enjoy your Black Friday.
