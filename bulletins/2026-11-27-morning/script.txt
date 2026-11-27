@@ -1,0 +1,83 @@
+// Gumshoe script format: see README.md
+# title: Friday Morning, Nov 27
+# description: The Black Friday morning bulletin from Gumshoe News Radio for November 27, 2026: Branchburg, New Jersey weather with the full seven-day forecast; hundreds of thousands still without power after the Thanksgiving storm, and President Trump tells troops victory over Iran is at hand as new files suggest the CIA waterboarded more detainees than it admitted; a Houthi strike kills a worker at a Saudi refinery as Pakistan hosts Saudi and Turkish defense talks, and Zelensky warns of another mass Russian attack; an in-depth markets look at a big tech rebound in futures ahead of a half-day session, oil, gold, yields and Black Friday spending; Musk expands his SpaceX share giveaway and a former Palo Alto Networks manager alleges inflated sales; AI shopping agents fall for fake deals and ElevenLabs eyes a thirty-three billion dollar valuation; an unpatched Cacti flaw and poisoned Windows utility downloads; your X feed; storm cleanup and holiday weekend events in Somerset County; and a Baltimore Thanksgiving tradition saved. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good morning. It's Friday, November twenty-seventh, Black Friday, and this is the morning bulletin from Gumshoe News Radio. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Morning, Ava. Wall Street is back for a half day, and futures say investors came back hungry for tech.
+[ava] First, the weather in Branchburg New Jersey, with the full seven-day forecast.
+@weather
+> source: National Weather Service forecast for Branchburg, NJ (api.weather.gov), retrieved Nov 27 at airtime
+
+## US News | sting=us
+// Story 1: Storm aftermath
+[ava] Story one. The Thanksgiving storm is pulling away, but the cleanup is just starting. The Washington Post reports more than seven hundred thousand customers were still without power early this morning, mostly in the East, down from a peak above nine hundred thousand Thursday evening. Wet snow and freezing rain are still falling in some interior areas, so if you're traveling home this weekend, check ahead.
+> source: The Washington Post, "Power outages, heavy rain continue on East Coast after Thanksgiving Day storm" (Nov 27, 6:05 a.m. ET); AP News in Brief (Nov 27, 6:04 a.m. ET)
+
+// Story 2: Trump troop calls on Iran; CIA waterboarding files
+[ava] Story two. In his Thanksgiving calls to service members from Mar-a-Lago, President Trump told Army troops that victory over Iran is at hand, adding that the timing will be, in his words, whatever I want it to be. He said the US will give Tehran every chance to make a deal and save lives, but he doubts Iran will take it. He also called the naval blockade of Iran the most successful in naval history. He didn't say what would count as victory. Supporters see the remarks as pressure on Tehran to deal. Critics say the public still hasn't heard a clear end goal.
+[ava] Also new, declassified FBI records released after a New York Times lawsuit suggest the CIA waterboarded more detainees than the three it has acknowledged. A former contract translator told the FBI in twenty twelve that he saw a detainee strapped to a board and lowered into water at a black site near Kabul. It's a single witness account, and the CIA did not comment.
+> source: IBTimes UK, "Trump Claims Victory Over Iran Is 'At Hand'" (Nov 27); The Times of Israel liveblog (Nov 26); The Washington Times (Nov 26); The New York Times via The Straits Times, "CIA waterboarded more than it admitted, FBI interview suggests" (Nov 26); Al Jazeera (Nov 26)
+
+## International | sting=world
+// Story 3: Saudi-Houthi escalation; Islamabad talks
+[ava] Story three, the world. The fight between Saudi Arabia and Yemen's Houthis keeps widening. Saudi Arabia's Energy Ministry says an aerial projectile hit Aramco's Jazan refinery on Thursday, killing a Nepali worker, injuring several others and halting some operations. That came a day after the Houthis claimed an attack on Ras Tanura, the kingdom's largest refinery. The Saudi-led coalition says it has struck fifty Houthi military targets in Yemen, and the Houthis say an airstrike in the southwest killed at least eleven people, including children. Each side calls its strikes retaliation for the other's.
+[ava] Today Pakistan hosts talks with Saudi Arabia and Turkey under a new three-way defense pact that treats an attack on one as an attack on all. Turkey formally ratified the pact this morning, though opposition parties there warn it could drag Turkish troops into regional wars.
+> source: Saudi Press Agency, Energy Ministry statement (Nov 26); Reuters via Investing.com (Nov 27); AP, "Houthis report 11 killed, including children, in an airstrike" (Nov 27); AP News in Brief (Nov 27); Middle East Eye (Nov 25)
+
+// Story 4: Zelensky warning; Trump-Putin
+[ava] Story four. Ukraine's President Zelensky warns that Russia is preparing another mass strike in the coming days, his second such warning this week. Overnight, Russia launched a hundred fifty-five drones, and officials report six people killed and twenty-five hurt across the country over the past day, with power cut in six regions. Ukraine says its own drones hit a refinery in southern Russia.
+[ava] President Trump posted that he spent a lot of time with Vladimir Putin, during their meeting in China, pressing him to pull back military aggression across Europe. He called the war a complete bloodbath and said a deal is a strong possibility. The Kremlin hasn't confirmed that account.
+> source: Al Jazeera and Reuters, "Zelenskyy warns of major Russian attack as Trump urges Putin to 'pull back'" (Nov 27); Kyiv Independent, "Russian attacks kill 6, injure 25 across Ukraine over past day" (Nov 27); AP (Nov 27)
+
+## Markets | sting=markets
+// Story 5: In-depth markets
+[andrew] Story five, markets in depth. US stocks close early today at one, and bonds at two. On Wednesday, the Dow rose a third of a percent to fifty thousand one hundred eighty-three after erasing an eleven hundred point drop, while the S&P five hundred slipped a quarter of a percent to seven thousand one hundred eighty-three and the Nasdaq fell six tenths to twenty-three thousand five hundred eighty-six. Thursday, with New York closed, Europe rallied and US futures edged up in thin trade.
+[andrew] This morning the bounce is much bigger. Before dawn, Reuters had Nasdaq one hundred futures up nearly three percent and S&P futures up two. By six forty-five, Yahoo Finance showed them trimmed to about two percent for the Nasdaq one hundred, one point seven for the S&P and one for the Dow. Chips lead, with Nvidia up four to five percent premarket, AMD about seven and CoreWeave nearly eight. Overnight, South Korea's Kospi jumped four point three percent, the Nikkei rose two, and Shanghai gained almost four after China's cabinet pledged to support its market.
+[andrew] Brent crude is near ninety-seven thirty a barrel and US crude about eighty-five eighty-five, on track to snap a three-week losing streak, as the Saudi refinery attacks and tanker strikes near Hormuz stoke supply worries. Reuters sources say OPEC plus has agreed in principle to hold output steady through the first quarter when it meets Sunday. Gold is up about three percent to roughly thirty-six seventy an ounce, silver about seven, and bitcoin is near sixty-one thousand five hundred.
+[andrew] The ten-year Treasury yield is around four point nine percent, up several basis points, and the dollar is little changed. Futures price a December Fed rate hike as nearly certain after this week's strong growth revision and hotter inflation.
+[andrew] For Black Friday, Adobe forecasts twelve point nine billion dollars in online spending today, up about nine percent, and says November online sales through the twenty-second were also up nine. The National Retail Federation expects about a hundred eighty-three million shoppers over the five days through Cyber Monday.
+[andrew] The big picture. The S&P and Nasdaq are headed for their best week since August, but their worst November since two thousand eight. XTB's Kathleen Brooks calls the rebound technical, with the questions behind the selloff unanswered. Bulls say the AI selloff went too far, bears point to a Fed that's still hiking, and thin holiday volume can exaggerate either way.
+> source: Reuters via Investing.com, "Nasdaq futures surge as investors pile back into battered AI stocks" (Nov 27, updated 4:48 a.m.); Yahoo Finance live (Nov 27, 6:43 a.m. ET); Barron's live coverage (Nov 27); AP, global markets (Nov 27); CNBC and AP Wednesday closes (Nov 25); Reuters via Investing.com, "Oil on track to snap three-week losing streak" (Nov 27); Benzinga premarket (Nov 27, 5:43 a.m. ET); CoinDesk (Nov 27); MarketWatch and Trading Economics, Treasury yields (Nov 27); Adobe Analytics (Sep 28 forecast; Nov 25 update via Digital Commerce 360); NRF Thanksgiving weekend forecast (Nov 2026)
+
+## Technology | sting=tech
+// Story 6: Musk SpaceX pledge; Palo Alto lawsuit
+[andrew] Story six, tech. Elon Musk is expanding his SpaceX giveaway. After SpaceX pledged a share to every active Trump Account, with Musk matching it, he posted last night that he'll donate another share to every American kid every year. SpaceX stock jumped more than seven percent in overnight trading and was up about four percent premarket, helped by the broader tech rally. About seventy million Trump Accounts had been opened as of October. Fans call it a way to give kids a real stake in the economy. Skeptics note the details of the annual gift haven't been published.
+[andrew] In cybersecurity business news, Bloomberg reports a former Palo Alto Networks regional vice president, Dan McGill, is suing the company. He alleges managers had resellers book orders before customers approved them, inflating revenue, and that he was fired for objecting. Palo Alto hasn't publicly responded, and the claims haven't been tested in court.
+> source: CNBC, "SpaceX shares jump 4%; Musk to expand on Trump Account giving" (Nov 27); SpaceX investor relations (Nov 25); Axios (Nov 26); Bloomberg Law, "Palo Alto Networks Accused by Ex-Manager of Accounting Fraud" (Nov 26)
+
+## Artificial Intelligence | sting=ai
+// Story 7: AI shoppers fall for fake deals; ElevenLabs
+[andrew] Story seven, AI, with a Black Friday twist. The web research firm No Hacks asked nine AI models to do simulated Christmas shopping, three thousand two hundred forty times. Each run hid one obviously fake bargain among near-identical listings, and the AI shoppers bought it thirty-seven percent of the time, or sixty-five percent when it was listed first. Anthropic's top model, Claude Opus five point five, never fell for it, while its smaller sibling Haiku did more than two hundred times. The takeaway if you let an AI assistant shop for you: check what it picks.
+[andrew] In funding, Bloomberg reports voice AI company ElevenLabs is in early talks to raise money at a thirty-three billion dollar valuation, up from twenty-two billion in its last round.
+> source: No Hacks, "AI Shoppers Bought an Obviously Fake Deal 37% of the Time" (Nov 2026); Search Engine Journal (Nov 2026); Bloomberg, "ElevenLabs in Early Talks for 2027 Funding at $33 Billion Valuation" (Nov 25)
+
+## Cybersecurity | sting=cyber
+// Story 8: Cacti zero-day; Q-Dir and DesktopOK supply chain attack
+[ava] Story eight, the cyber desk. There's an unpatched flaw in Cacti, the popular open source network monitoring tool. A researcher published a working exploit that goes from no login at all to running commands on the server in just four web requests. It affects the latest version when the guest account is turned on, which isn't the default. There's no CVE or patch yet. Because Cacti often stores network credentials, the advice is to disable guest access and keep it off the open internet.
+[ava] And if you use the free Windows utilities Q-Dir or DesktopOK, the South Korean security firm AhnLab says official downloads and updates from the developer's website were poisoned. They quietly installed remote access malware, and uninstalling won't remove it, so run a full security scan if you updated recently.
+> source: The Hacker News, "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access" (Nov 27); watchTowr advisory (Nov 2026); The Hacker News, "Hackers Trojanize Official Q-Dir and DesktopOK Downloads" (Nov 27); AhnLab ASEC (Nov 2026)
+
+## From Your X Feed | sting=x
+// Story 9: X feed
+[ava] Story nine, from your X feed. Farzad called it probably one of the best days in football history, and the scores back him up. The Eagles rallied from twenty-one down to beat the Cowboys thirty-nine to thirty-eight on a fifty-nine yard field goal with two seconds left, and the Bills beat the Chiefs thirteen to ten on a fifty-seven yarder at the gun.
+[ava] Engineers feed marked a milestone for Voyager one, now one light-day from Earth, about sixteen point one billion miles. NASA confirmed the distance on November eighteenth, but the probe stopped sending science and engineering data on November fourteenth. Its carrier signal still comes through, and with a day each way for every message, the fix could take weeks.
+[ava] And from SandyofCthulhu, a public service announcement. You've heard we each swallow seven spiders a year in our sleep. What they don't tell you, he says, is that it isn't an average. It's a fixed number. So if you skipped a few years, they're coming.
+> source: Harry's X feed, Nov 26-27 (@farzyness, @engineers_feed, @SandyofCthulhu); ESPN and AP, Eagles 39, Cowboys 38 and Bills 13, Chiefs 10 (Nov 26); NASA, "NASA's Voyager 1 Makes History Reaching One Light-Day From Earth" and Voyager blog (Nov 18)
+
+## Local News & Events | sting=local
+// Story 10: NJ outages; Somerset County weekend
+[ava] Story ten, local news from where you're spending the holiday. New Jersey is still under a state of emergency, and power is the big issue. As of five thirty this morning, News Twelve New Jersey reports more than a hundred thousand JCP&L customers were still out, along with about six thousand PSE&G customers. JCP&L, which serves much of Somerset County, says tree damage is extensive.
+[ava] If you're out and about this weekend, the Jacobus Vanderveer House in Bedminster lights its tree tonight at five, free, with Colonial Christmas open houses Saturday and Sunday. Downtown Somerville hosts Small Business Saturday from eleven to five with more than fifty shops, live music and free gift wrapping. And Santa is at Bridgewater Commons. Back in Branchburg, Carols by Candlelight is Tuesday at six thirty at the White Oak Park pavilion.
+> source: News 12 New Jersey, "Thousands remain without power after Thanksgiving storm in New Jersey" (Nov 27, 5:39 a.m.); NJ.com (Nov 26, 9:02 p.m.); County Brief, "Somerset County Weekend Events, Nov. 27-29" (Nov 26); Branchburg Township alerts
+
+## Uplifting Story | sting=feel
+// Story 11: Bea Gaddy dinner saved
+[ava] And finally, story eleven. In nineteen eighty-one, Bea Gaddy used her lottery winnings to cook Thanksgiving dinner for forty-nine of her Baltimore neighbors. It grew into a city tradition. But this year, a week before Thanksgiving, donations had dried up. Her daughter Cynthia Brooks put it bluntly: there was no dinner, period.
+[ava] Then the story aired on WBAL TV, and Chef José Andrés called. His World Central Kitchen brought a food truck, and volunteers from Morgan State's women's basketball team to the mayor pitched in. Hundreds came out in Thursday's storm for the forty-fifth Bea Gaddy dinner, and volunteers delivered meals to people who couldn't make it. As one guest put it, when you don't have a big family, the people here become your family.
+> source: WBAL-TV, "Baltimore tradition saved: 45th annual Bea Gaddy Thanksgiving dinner unites community" (Nov 26)
+
+## Close | sting=close
+[ava] That's your Black Friday morning bulletin. I'm Ava.
+[andrew] And I'm Andrew. Markets close at one, so if you're trading, don't linger at the mall.
+[ava] Safe travels, and we'll talk again at ten.
