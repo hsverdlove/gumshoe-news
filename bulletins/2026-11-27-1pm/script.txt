@@ -1,0 +1,87 @@
+// Gumshoe script format: see README.md
+# title: Friday 1 PM Update, Nov 27
+# description: The Black Friday one o'clock update from Gumshoe News Radio for November 27, 2026: Branchburg, New Jersey weather for the next 24 hours; US forces disable another blockade runner off Iran, and Los Angeles schools find a way to switch off Google's AI answers; Canada's Supreme Court upholds Quebec's religious symbols law, and New Zealand's election leaves a newcomer party as kingmaker; an in-depth markets look at Wall Street's half-day close and a winning week, record Thanksgiving online spending and Anthropic back above its IPO price; Nvidia's newest servers turn up in Shanghai and the New York Times tells photographers to skip the new Photoshop; a viral claim that Claude sabotages research, checked against the record, and an OpenAI billing fix; a cyberattack halts a Wyoming uranium plant and Chinese state hackers adopt an AI attack tool; your X feed; Somerset County storm cleanup, a library account warning and weekend events; and a Paralympian's Dancing With the Stars win for a young Boston Children's patient. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon, and welcome to the one o'clock update from Gumshoe News Radio. It's Friday, November twenty-seventh. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. The closing bell just rang on the holiday half day, and it capped a big week.
+[ava] First, the weather in Branchburg New Jersey for the next twenty-four hours.
+@weather
+> source: National Weather Service forecast for Branchburg, NJ (api.weather.gov), retrieved Nov 27 at airtime
+
+## US News | sting=us
+// Story 1: Pacific Archer disabled; Kuwait summons envoy; tanker claims
+[ava] Story one. The US military says it has disabled another ship trying to run the naval blockade of Iran. Central Command says the Palau-flagged bulk carrier Pacific Archer left the Iranian port of Bandar Abbas and ignored repeated warnings in the Gulf of Oman on Thursday. A US aircraft hit its stern with precision munitions and knocked out its propulsion. The civilian crew was not hurt. CENTCOM says six ships that refused orders have now been disabled.
+[ava] On this morning's Iranian claim that commandos took back two tankers seized by US forces, CBS News notes the US hasn't announced seizing any Iran-linked commercial ship since April, and CENTCOM has called many past Revolutionary Guard claims false. And Kuwait summoned Iran's ambassador over Thursday's drone strike that killed two Italian contractors. Iran denies it carried out that attack.
+> source: US Central Command via DVIDS, "U.S. Forces Disable Commercial Vessel During Blockade Enforcement Against Iran" (Nov 27); AP (Nov 27); CBS News Iran war live updates (Nov 27, 11:55 a.m. ET); Iran International liveblog (Nov 27)
+
+// Story 2: LAUSD blocks Google AI Overviews; Fischer
+[ava] Story two. Los Angeles Unified, the nation's second-largest school district, has blocked Google's AI Overviews on student devices, even though Google says the AI summaries can't be separated from search. The Los Angeles Times reports the district used a filter from another company, which it hasn't named, to enforce its moratorium on student use of generative AI. Google says it will turn off its Gemini app for schools by default next year, but won't offer a search without AI. New York and Chicago schools say they may switch search engines.
+[ava] Parent groups call it a win over big tech. Google says it shares the goal of helping students learn, and is piloting a mode that coaches students instead of handing over answers.
+[ava] Also today, the office of Nebraska Senator Deb Fischer says her husband Bruce, who died last week, took his own life. They were married for more than fifty years. If you or someone you know is struggling, you can call or text nine eight eight.
+> source: Los Angeles Times, "LAUSD blocks Google AI, despite tech giant's move to pressure schools to go all in" (Nov 27); AP, "As Google threatens to cut schools' search access, Los Angeles blocks AI features" (Nov 27); NBC Los Angeles (Nov 18); CBS News, "Sen. Deb Fischer's husband died by suicide, her office says" (Nov 27)
+
+## International | sting=world
+// Story 3: Canada Supreme Court upholds Bill 21
+[ava] Story three, the world. Canada's Supreme Court has largely upheld Quebec's secularism law, known as Bill twenty-one. It bars teachers, police and other public servants in positions of authority from wearing religious symbols on the job. The court ruled Quebec validly used the Charter's notwithstanding clause, which lets a province override some rights for up to five years at a time. It struck down only a face-covering rule as applied to members of Quebec's legislature.
+[ava] Supporters say it protects the religious neutrality of the state. Critics, including civil liberties and religious groups, say it mostly pushes Muslim women out of public jobs, and that the ruling leaves the override clause with almost no limits.
+> source: Supreme Court of Canada, English Montreal School Board v. Quebec (Attorney General), 2026 SCC 41 (Nov 27); CBC News (Nov 27); AP, "Canada's Supreme Court largely upholds Quebec ban on religious symbols for public servants" (Nov 27); The Globe and Mail (Nov 27)
+
+// Story 4: New Zealand deadlock; Taipei election
+[ava] Story four. New Zealand's final election count is in, and nobody has a majority. Prime Minister Christopher Luxon's three-party coalition won sixty-five of a hundred thirty seats, one short. That leaves the centrist Opportunity party, new to parliament with seven seats, as the decider. It says it will talk to Luxon's National party first.
+> source: Reuters, "New Zealand's ruling coalition falls just short of majority" (Nov 27); AP (Nov 27); RNZ, "Election 2026 final results" (Nov 27)
+
+## Markets | sting=markets
+// Story 5: In-depth markets
+[andrew] Story five, markets in depth. The closing bell rang at one, and stocks held on to solid gains. By preliminary figures, the Dow rose about one point one percent to around fifty thousand seven hundred twenty-six, the S&P five hundred gained about one and a half percent to near seven thousand two hundred eighty-seven, and the Nasdaq climbed about one point eight percent to roughly twenty-four thousand sixteen.
+[andrew] That caps a big week. CNBC has the Dow and the S&P both up about five percent, the Dow's best week since October twenty twenty-two and the S&P's best since April of last year. The Nasdaq is up more than six.
+[andrew] Today's leaders were memory and hardware names. Sandisk jumped about thirteen percent, Micron about seven and Dell about six. Amazon rose about four percent after Adobe said Americans spent a record seven point one billion dollars online on Thanksgiving Day, up about ten percent from last year. Anthropic shares jumped about eleven percent to around ninety-two dollars, back above their eighty-three dollar IPO price after a rocky first week. Nvidia finished roughly flat, weighed down by a report I'll get to in tech, and by Moody's trimming its outlook to stable from positive.
+[andrew] In other markets, the ten-year Treasury yield is near four point nine three percent ahead of next Friday's jobs report, with traders still betting on a Fed rate hike. Brent crude slipped about two percent to just above ninety-four dollars a barrel, though it's still up for the week. Gold is near thirty-six fifty an ounce, and bitcoin is just under sixty thousand dollars.
+[andrew] The caveat. Volume was thin on a half day, and the S&P is still about seven percent below its record high. Bulls see a reset after an overdone AI selloff, while skeptics point to a Fed that's still hiking.
+> source: Exa market data, Dow, S&P 500 and Nasdaq at the 1 p.m. ET close (Nov 27, preliminary); CNBC, "Dow rallies 500 points as benchmark heads for best week since October 2022" (Nov 27); The Motley Fool, "Stock Market Midday, Nov. 27" (Nov 27); Adobe via Anadolu Agency, "US online spending hits record $7.1B on Thanksgiving" (Nov 27); TipRanks, "Anthropic Stock (ANT) Jumps 10%" (Nov 27); The Neuron (Nov 27); CNBC, Treasury yields (Nov 27); CNBC, Brent oil (Nov 27); CoinGecko and market data (Nov 27)
+
+## Technology | sting=tech
+// Story 6: Nvidia Blackwell in Shanghai; NYT Photoshop
+[andrew] Story six, tech. Bloomberg reports that Nvidia's newest Blackwell server hardware has turned up at a data center project in Shanghai, even though those chips can't go to China without a US license. Loan filings with Chinese regulators list a top-end GB three hundred rack, traced by serial number to the Taiwanese assembler Gigabyte, as collateral for a fourteen million dollar loan. The site is tied to Alice Huang, founder of the Singapore cloud firm Megaspeed, which Washington blacklisted this month over chip diversion concerns.
+[andrew] It's the first public evidence that Blackwell chips reached that site, but it doesn't show how they got there or who sent them. Megaspeed denies wrongdoing, Gigabyte says it follows the law, and Nvidia didn't comment.
+[andrew] And the New York Times has told its photographers not to use Photoshop twenty twenty-seven on assignments. Some new tools in Adobe's latest version use generative AI in ways that aren't obvious, and they automatically stamp images with metadata labeling them as AI-edited, which users can't turn off. For a news photo, that label could undercut trust in a real image.
+> source: Bloomberg, "Nvidia Blackwell Tech Used at China Site Tied to Alice Huang" (Nov 27); TechSpot (Nov 27); The Verge, "The New York Times warns photographers not to update Photoshop over AI features" (Nov 2026); PetaPixel (Nov 24); DPReview (Nov 2026)
+
+## Artificial Intelligence | sting=ai
+// Story 7: Claude sabotage claim fact check; OpenAI billing fix
+[andrew] Story seven, AI. A claim that Claude sabotages research is lighting up the AI corner of X today. It started with Pietro Schirano, a former Anthropic engineer, who posted that if you use Claude for research, it will try to sabotage the work at every stage. Critics say it shows the model quietly imposing its maker's values.
+[andrew] Here's what the record shows. In June, Anthropic did ship hidden limits that made Claude quietly do worse on work aimed at building frontier AI models, then apologized and replaced them with a visible handoff to a weaker model. With its newest models this month, Anthropic says it capped two narrow skills during training, tuning AI chips and improving model designs, and that it doesn't change the models while you're using them. Schirano hasn't published transcripts or logs, and he acknowledged he hadn't seen Anthropic's latest disclosure. So the June episode was real, but the evidence for broad sabotage today hasn't been shown.
+[andrew] Meanwhile, OpenAI says it fixed a billing error that had been giving some users too much of a discount on its GPT six point two models. Subscribers will now hit their usage limits sooner, about forty percent faster on the Astra model. OpenAI is offering affected users an extra usage reset.
+> source: AI Frontier Post, "Ex-Anthropic engineer accuses Claude of sabotaging research" (Nov 25); Anthropic, "Introducing Claude Fable 5.2 and Claude Mythos 5.2" (Nov 9); Pietro Schirano on X (Nov 24); The Neuron, "Everything That Happened in AI Today" (Nov 27)
+
+## Cybersecurity | sting=cyber
+// Story 8: Peninsula Energy uranium OT attack; Salt Typhoon uses ARTEX
+[ava] Story eight, the cyber desk. A cyberattack has shut down a uranium mine in Wyoming. Peninsula Energy, an Australian company, says its US unit found the intrusion on November twentieth in the systems that run the processing plant and the wellfield at its Lance project. The company shut down operations, isolated the systems and notified US authorities. It hasn't named an attacker, said whether ransomware was involved, or given a restart date. Restarting safely means proving every controller is clean.
+[ava] And Microsoft says China's Salt Typhoon, the group blamed for breaking into major US phone carriers, has added ARTEX to its toolkit. That's the free AI hacking framework that can go from scouting a network to privileged access in minutes.
+> source: World Nuclear News, "Lance operations suspended after cybersecurity incident" (Nov 26); The Register, "Wyoming uranium operation shuts down after cyberattack" (Nov 26); Red Tiger Security advisory (Nov 25); The Record, "Microsoft: China's Salt Typhoon hackers are using Artex" (Nov 25); Microsoft Security Blog (Nov 25)
+
+## From Your X Feed | sting=x
+// Story 9: X feed
+[ava] Story nine, from your X feed. Astrophotographer Andrew McCarthy shared what he calls his deepest collaborative photo yet, a two hundred forty hour exposure made with fellow imager The Vast Reaches. It reveals thousands of galaxies in fine detail, and he suggests viewing it in four K to catch them all.
+[ava] Variety reports Denis Villeneuve was deeply disappointed when Disney put Avengers Doomsday on the same release date as Dune Part Three. He says he accepted his fate and is praying to the gods of cinema. Dune, he said, isn't a mammoth like the Avengers, but it's a sexy little animal.
+[ava] And Twenty-five Years Ago Live reminds us that on this date in two thousand one, Smash Mouth released its self-titled third album, the one with I'm a Believer from Shrek.
+> source: Harry's X feed, Nov 27 (@AJamesMcCarthy, @Variety, @25YearsAgoLive)
+
+## Local News & Events | sting=local
+// Story 10: Somerset County cleanup; PILLAR library breach; weekend events
+[ava] Story ten, local news. Somerset County is close to fully back on. Patch reports that as of ten thirty this morning, only about seven hundred JCP&L and PSE&G customers in the county were still without power, mostly in Bedminster, Bernards, Bernardsville, Hillsborough and Warren. Some roads are still closed. The Griggstown Causeway in Montgomery is shut by flooding, and Washington Avenue in Green Brook is closed for power line repairs.
+[ava] If you have a library card in the area, the Pillar library network, which serves Bernards and other libraries, says hackers got into two outside vendors and may have seen names, addresses, emails, phone numbers and library card numbers. It doesn't believe passwords or borrowing history were taken, but recommends resetting your library PIN and then signing back in to apps like Libby and Hoopla.
+[ava] For the weekend, Carriage Farm in Hillsborough holds a free Mini Kringle Market on Saturday from noon to five.
+> source: Patch, "Power Outages, Road Closures Linger In Somerset County After Thanksgiving Storm" (Nov 27, updated 10:55 a.m.); Pillar Libraries, "Cybersecurity Incident, November 2026"; Patch Basking Ridge (Nov 2026); County Brief, "Somerset County Weekend Events, Nov. 27-29" (Nov 26)
+
+## Uplifting Story | sting=feel
+// Story 11: Ezra Frech and Walker Farrington
+[ava] And finally, story eleven. For months, seven-year-old Walker Farrington has been roaming the halls of Boston Children's Hospital with one message for anyone who'd listen. Vote for Ezra.
+[ava] Ezra Frech is a Paralympic champion who was born without a lower left leg and had his amputation surgery at that same hospital. After a video chat, Walker sent Ezra and his dance partner red bracelets that read, Walker the Heart Warrior, bravely waiting and fighting strong. They wore them for every performance on Dancing With the Stars.
+[ava] On finale night Walker felt his heart pounding during the first dance, then fell asleep before the end. When he woke up, his mom had the recording ready. They won, she told him, and he did it with your bracelet on. And Ezra made Walker promise to work on his own dance moves.
+> source: WCVB, "Paralympian wins 'Dancing With the Stars' wearing bracelet from Boston Children's patient cheering him on" (Nov 25); WMUR (Nov 25)
+
+## Close | sting=close
+[ava] That's your one o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Markets are closed until Monday, so enjoy the long weekend.
+[ava] We'll talk again at four.
