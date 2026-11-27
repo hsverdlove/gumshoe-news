@@ -1,0 +1,87 @@
+// Gumshoe script format: see README.md
+# title: Friday 4 PM Update, Nov 27
+# description: The Black Friday four o'clock update from Gumshoe News Radio for November 27, 2026: Branchburg, New Jersey weather for the next 24 hours; New York State Senate Majority Leader Andrea Stewart-Cousins dies at 76, and a fight over the administration's release of USAID files; Italy says the drone that killed two Italians in Kuwait was Iranian-made as Iran offers a joint probe and claims a tanker hit a mine in Hormuz, while France slips into a technical recession and two men are pulled alive from a Karachi collapse; an in-depth markets look at the final half-day close and Wall Street's best week in more than a year; OpenAI countersues Apple over trade secrets and suppliers; the Talkie companion chatbot goes dark in the UK and Australia; unverified ransomware claims against Eversource and McDonald's; your X feed; New Jersey's power restoration, Bridgewater road closures and weekend events; and an 87-year-old neighbor's first holiday photos. Anchor Ava, with Andrew at the business and tech desk.
+
+## Open & Weather | sting=open
+[ava] Good afternoon, and welcome to the four o'clock update from Gumshoe News Radio. It's Friday, November twenty-seventh. I'm Ava, with Andrew at the business and tech desk.
+[andrew] Afternoon, Ava. We have the final numbers on Wall Street's best week in more than a year, and a new legal shot in the fight between OpenAI and Apple.
+[ava] First, the weather in Branchburg New Jersey for the next twenty-four hours.
+@weather
+> source: National Weather Service forecast for Branchburg, NJ (api.weather.gov), retrieved Nov 27 at airtime
+
+## US News | sting=us
+// Story 1: Andrea Stewart-Cousins dies
+[ava] Story one. Andrea Stewart-Cousins, the majority leader of the New York State Senate, has died at seventy-six. Governor Kathy Hochul confirmed the news this afternoon. Politico reports she died Thursday evening, and the New York Post, citing police sources, says she was found at her home in Yonkers after her daughter couldn't reach her and asked for a wellness check. No cause of death has been released.
+[ava] Stewart-Cousins became the first woman to lead the State Senate in twenty nineteen, and the first Black woman in that role. She had just been chosen again as leader this month and was set to preside over her party's largest majority in modern history. Governor Hochul said her heart is broken, calling her a leader with a rare combination of quiet grace and extraordinary strength.
+> source: Politico, "Trailblazing NY Senate majority leader dies at 76" (Nov 27, 2:18 p.m. ET); NBC New York (Nov 27, 2:47 p.m. ET); USA Today Network New York (Nov 27); Office of Governor Kathy Hochul, statement (Nov 27); New York Post via Times Now (Nov 27)
+
+// Story 2: USAID files fight
+[ava] Story two. A fight is building over the Trump administration's relaunch of the USAID website. The site now hosts two hundred forty-eight internal files, mostly webinars, staff chat logs and meetings with tech companies about countering disinformation overseas, along with the administration's claim that the agency was weaponized to push a radical agenda.
+[ava] New Hampshire Senator Jeanne Shaheen and New York Congressman Gregory Meeks, the top Democrats on the foreign affairs committees, wrote to Secretary of State Marco Rubio saying some files contain people's personal information, possibly in violation of the Privacy Act, and should come down. Former administrator Samantha Power calls the release cherry-picked and says nothing in it backs up claims of fraud. Republicans including Senators Eric Schmitt and Mike Lee counter that Democrats want to hide how taxpayer money was spent, and say the files should stay public.
+> source: Senate Foreign Relations Committee Democrats, "Shaheen, Meeks Demand Answers on Administration's Selective Release of USAID Files" (Nov 26); Devex, "Ex-Administrator Samantha Power responds to USAID file release" (Nov 25); USAID.gov; posts by Sen. Eric Schmitt and Sen. Mike Lee on X (Nov 27)
+
+## International | sting=world
+// Story 3: Kuwait drone origin; Hormuz mine claim
+[ava] Story three, the world. Italy's Foreign Minister Antonio Tajani told parliament that the drones that killed two Italian defense technicians in Kuwait on Thursday were of Iranian origin. The two men worked for Rheinmetall Italia, maintaining an air defense radar, and are the first European civilians killed in the war. Iran denies any role and has offered a joint investigation with Italy and Kuwait. Analysts note that Iranian-made doesn't necessarily mean Iranian-launched, since Iraqi militias use the same drones.
+[ava] Separately, Iran's Revolutionary Guards say a tanker trying to sneak through the Strait of Hormuz on what they called an unauthorized route hit a mine and exploded, and a second tanker turned back. Iran named no ships and reported no casualties, and the claim hasn't been independently confirmed.
+> source: Al Jazeera, "Italians killed in Kuwait: Why is Iran denying responsibility?" (Nov 27); ANSA (Nov 26); Iran International (Nov 27); Al Jazeera Iran war liveblog (Nov 27); Anadolu Agency, "Iran says oil tanker explodes after hitting naval mine in Strait of Hormuz" (Nov 27); Tasnim (Nov 27)
+
+// Story 4: France technical recession; Karachi rescue
+[ava] Story four. France is officially in a technical recession. The statistics agency INSEE says the economy shrank two tenths of a percent in the third quarter, worse than first thought, and it revised the second quarter slightly negative too. The minority government is still struggling to pass next year's budget, five months before a presidential election, and Finance Minister Roland Lescure says a deficit target of five percent is non-negotiable.
+[ava] And in Karachi Pakistan, rescuers pulled two men alive from the rubble of a collapsed six-story building, about fifty-five hours after it came down. Eight people are confirmed dead, and nine are still missing as the search goes on.
+> source: Reuters via Investing.com, "France in technical recession after quarterly revisions" (Nov 27); INSEE, Informations rapides no. 292 (Nov 27); Dunya News, "Two men rescued alive from Karachi building rubble after 55 hours" (Nov 27); Dawn (Nov 27)
+
+## Markets | sting=markets
+// Story 5: In-depth markets, final close
+[andrew] Story five, markets in depth, with the final numbers from the holiday half day, which came in a bit stronger than our first read at one. The Dow gained five hundred ninety-two points, or one point two percent, to fifty thousand seven hundred seventy-five. The S&P five hundred rose one point six percent to seven thousand two hundred ninety-seven, and the Nasdaq jumped two point three percent to twenty-four thousand one hundred thirty.
+[andrew] For the week, the S&P gained five point six percent, its best week since April of last year. The Nasdaq rose nearly six point seven, and the Dow about five and a half, its best week since October twenty twenty-two.
+[andrew] Chips drove the day. The Philadelphia semiconductor index climbed nearly five percent, with Micron and Marvell each up more than seven and Sandisk up almost sixteen. Nvidia spent most of the session in the red but finished up eight tenths of a percent. Tesla jumped about five percent.
+[andrew] In other markets, Treasuries slipped. The ten-year yield ended near four point nine three percent and the thirty-year near five point three two, with the two-year rising the most this week. US crude settled down about one percent at eighty-two eighty-five a barrel. Gold jumped nearly four percent to about thirty-six sixty-eight an ounce. Bitcoin is just under sixty thousand dollars, down about two percent on the week.
+[andrew] Next week's big event is Friday's jobs report, with economists looking for about eighty-eight thousand new jobs.
+[andrew] The big picture. Reuters notes this rally barely dents November's losses, and the S&P and Nasdaq are still headed for their worst November since two thousand eight. Bulls say an oversold market was due for a bounce. Skeptics point to rising yields and a Fed expected to keep hiking, and warn that thin holiday trading can exaggerate moves.
+> source: CNBC, "Dow rallies nearly 600 points to close out best week since 2022" (Nov 27); Reuters via Investing.com, "Wall Street ends higher as battered AI stocks gain in volatile week" (Nov 27, updated 1:42 p.m. ET); AP, "How major US stock indexes fared Friday 11/27/2026" (Nov 27); Kiplinger, "Dow Adds 592 Points on Black Friday" (Nov 27); TreasuryBonds.com, "Bond Market Wrap-Up" (Nov 27); CNBC, Treasury yields (Nov 27); Yahoo Finance, "Weekly Wrap: Bitcoin Struggles" (Nov 27)
+
+## Technology | sting=tech
+// Story 6: OpenAI countersues Apple
+[andrew] Story six, tech. OpenAI is hitting back at Apple in court. In counterclaims filed today in federal court in San Jose, first reported by the Financial Times, OpenAI and its hardware unit io accuse Apple of getting hold of confidential details on OpenAI's unreleased AI devices. OpenAI says a former Apple employee spent about six months at OpenAI, sent device designs, test data and supplier information to personal accounts, then went back to Apple and briefed senior operations staff there.
+[andrew] OpenAI also claims Apple pressured suppliers that work for both companies. It says one moved OpenAI's metal-finishing work to an overnight shift, and another dropped planned work entirely after threats from Apple.
+[andrew] The other side. Apple sued first, in July, accusing former employees who joined OpenAI of taking its hardware secrets. Apple has said its search found no confidential OpenAI material, and none of these claims have been tested in court.
+> source: Financial Times via Reuters, "OpenAI countersues Apple for stealing trade secrets" (Nov 27); Anadolu Agency, "OpenAI countersues Apple over alleged trade secret theft, supplier pressure" (Nov 27); Engadget (Nov 27, 2:44 p.m. ET); Gizmodo (Nov 27)
+
+## Artificial Intelligence | sting=ai
+// Story 7: Talkie pulled
+[andrew] Story seven, AI. One of the world's biggest AI companion apps is going dark in more places. Talkie, owned by the Chinese AI company MiniMax, was already pulled from Apple's App Store worldwide after a joint investigation by the Bureau of Investigative Journalism and ABC Australia found its chatbots sent degrading and sexualized messages to children as young as ten. Now its website has been offline for more than a day in the UK and Australia, and Australia's eSafety Commissioner is investigating.
+[andrew] Talkie is still on Google Play, where it's been downloaded more than fifty million times. Google says the app has carried an eighteen-plus rating since early twenty twenty-four, but reporters were able to use it without verifying their age. MiniMax didn't respond to questions.
+> source: The Bureau of Investigative Journalism, "Talkie pulled from App Store and web after Bureau investigation" (Nov 27); ABC News Australia, "AI companion app Talkie blocked on web in Australia and UK" (Nov 27); 9to5Mac (Nov 25)
+
+## Cybersecurity | sting=cyber
+// Story 8: Eversource and McDonald's ransomware claims
+[ava] Story eight, the cyber desk, with two claims that are not confirmed. A newer ransomware gang called WhiteArmor has listed Eversource on its leak site, saying it stole records on about fifty-five thousand customers and landowners in Connecticut, Massachusetts and New Hampshire, plus millions of grid infrastructure records and mapping files. It's demanding ten million dollars in bitcoin, with a December sixteenth deadline. Eversource hasn't commented, and no data has been verified. The company did confirm a separate phishing breach this spring.
+[ava] And a gang called Inception claims it took nearly three hundred gigabytes from McDonald's cloud storage, including customer loyalty records with partial card details. McDonald's hasn't confirmed it either. For now, the practical advice is the same. Be wary of emails or calls about your utility bill or rewards account, and call the number on your bill instead.
+> source: BreachNews, "WhiteArmor Ransomware Gang Claims Eversource Customer and Grid Data, Demands $10 Million" (Nov 27); Skylance Security briefing (Nov 26); Cybernews, "McDonald's Amazon servers attacked, hackers say they stole customer data" (Nov 27)
+
+## From Your X Feed | sting=x
+// Story 9: X feed
+[ava] Story nine, from your X feed. Variety reports that the Killers' founding guitarist survived a major stroke two weeks ago. He wrote that a clot cut off blood to the whole right side of his brain, and doctors gave him a forty percent chance of survival. His wife acted fast and got him into surgery. The first thing he checked when he woke up? Whether he could still play guitar. He can, just as well as before.
+[ava] DHH says he spent the day getting his Omarchy Linux setup to run in just four gigabytes of memory, with plenty of apps and YouTube. His verdict: the limit isn't the computer, it's that the web has become such a memory-hungry beast.
+[ava] Tesla owner Mike Pat reports that Full Self-Driving version fifteen is much better at grabbing the first open parking spot it sees, instead of driving twenty feet past it to the destination pin.
+[ava] And from engineers feed: Grand Coulee Dam holds nearly twelve million cubic yards of concrete. That's enough, says the Bureau of Reclamation, to pour a four-foot-wide sidewalk twice around the equator.
+> source: Harry's X feed, Nov 27 (@Variety, @dhh, @mikepat711, @engineers_feed); Variety, "The Killers Guitarist Dave Keuning Survived 'Major Stroke'" (Nov 27)
+
+## Local News & Events | sting=local
+// Story 10: JCP&L update; Bridgewater; weekend
+[ava] Story ten, local news. Power restoration keeps moving. As of three this afternoon, JCP&L had just under fifty thousand customers out statewide, down from about a hundred eight thousand this morning, with more than twenty thousand of the remaining outages at the Jersey Shore. The utility says it will post estimated restoration times tonight.
+[ava] In Bridgewater, police say Mountain Top Road between Totten and Severin Drives and Donahue Road were still closed this morning, while Route two-oh-two at Milltown Road and several other roads have reopened. Don't drive around the barricades.
+[ava] For the weekend, Iron Peak in Hillsborough hosts a comedy night tonight at eight, for ages twenty-one and up. Saturday, the Franklin Township Community Center has a holiday craft market from ten to four, and Rockingham State Historic Site gives a talk at one thirty on George Washington's last wartime headquarters. And the Somerset Regional Animal Shelter in Bridgewater is hoping someone takes home Ace, who has waited five hundred thirty-four days for a family.
+> source: Shore News Network, "Black Friday Power Outages as Nearly 50,000 Still in the Dark at the Jersey Shore" (Nov 27, 3:19 p.m.); Shore News Network, "Bridgewater Roads Still Closed Friday" (Nov 27); County Brief, "Somerset County Weekend Events, Nov. 27-29" (Nov 26)
+
+## Uplifting Story | sting=feel
+// Story 11: Delmar Harter
+[ava] And finally, story eleven. Delmar Harter is eighty-seven, and his family doesn't live nearby. So his neighbors in Southern California, Julissa and Anthony Gomez, simply adopted him into theirs. Julissa met Delmar when she was eighteen, when he introduced himself with a newspaper clipping of a joke.
+[ava] Not long ago, looking through his photo albums, they noticed there weren't any pictures of Delmar from when he was younger. When they asked why, he said, no one ever took any pictures of me. So they booked a private Thanksgiving photo shoot with him. When they pulled up fifteen minutes early to pick him up, Delmar was already outside, waiting. The video has been viewed more than forty million times, and Delmar is now on the family's holiday cards.
+> source: TODAY.com, "Couple 'Adopts' 87-Year-Old Neighbor and Includes Him in Their Holiday Photos" (Nov 27)
+
+## Close | sting=close
+[ava] That's your four o'clock update. I'm Ava.
+[andrew] And I'm Andrew. Markets are closed until Monday, and next week ends with the jobs report.
+[ava] Enjoy your Black Friday evening, and we'll talk again in the morning.
